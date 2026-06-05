@@ -4,10 +4,10 @@
       "league": "MLB",
       "away": "San Francisco Giants",
       "home": "Chicago Cubs",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 9,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 5局",
       "time": "今天 02:20",
       "winner": null
     },
@@ -291,5 +291,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-05T17:28:55.339Z"
+  "updatedAt": "2026-06-05T21:01:05.447Z"
 }
