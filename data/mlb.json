@@ -8,7 +8,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 02:20",
+      "time": "今天 02:20",
       "winner": null
     },
     {
@@ -19,7 +19,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 06:40",
+      "time": "今天 06:40",
       "winner": null
     },
     {
@@ -30,7 +30,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 06:40",
+      "time": "今天 06:40",
       "winner": null
     },
     {
@@ -41,7 +41,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 07:05",
+      "time": "今天 07:05",
       "winner": null
     },
     {
@@ -52,7 +52,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 07:07",
+      "time": "今天 07:07",
       "winner": null
     },
     {
@@ -63,7 +63,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 07:10",
+      "time": "今天 07:10",
       "winner": null
     },
     {
@@ -74,7 +74,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 07:15",
+      "time": "今天 07:15",
       "winner": null
     },
     {
@@ -85,7 +85,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 08:10",
+      "time": "今天 08:10",
       "winner": null
     },
     {
@@ -96,7 +96,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 08:15",
+      "time": "今天 08:15",
       "winner": null
     },
     {
@@ -107,7 +107,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 08:15",
+      "time": "今天 08:15",
       "winner": null
     },
     {
@@ -118,7 +118,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 08:15",
+      "time": "今天 08:15",
       "winner": null
     },
     {
@@ -129,7 +129,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 08:40",
+      "time": "今天 08:40",
       "winner": null
     },
     {
@@ -140,7 +140,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 09:40",
+      "time": "今天 09:40",
       "winner": null
     },
     {
@@ -151,7 +151,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 09:40",
+      "time": "今天 09:40",
       "winner": null
     },
     {
@@ -162,7 +162,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 10:10",
+      "time": "今天 10:10",
       "winner": null
     }
   ],
@@ -196,9 +196,9 @@
         ],
         [
           "Blue Jays",
-          "29",
+          "30",
           "33",
-          ".468"
+          ".476"
         ],
         [
           "Red Sox",
@@ -232,8 +232,8 @@
         [
           "Twins",
           "29",
-          "34",
-          ".460"
+          "35",
+          ".453"
         ],
         [
           "Tigers",
@@ -243,9 +243,9 @@
         ],
         [
           "Royals",
-          "24",
+          "25",
           "38",
-          ".387"
+          ".397"
         ]
       ]
     },
@@ -267,8 +267,8 @@
         [
           "Athletics",
           "30",
-          "31",
-          ".492"
+          "32",
+          ".484"
         ],
         [
           "Rangers",
@@ -279,8 +279,8 @@
         [
           "Astros",
           "28",
-          "35",
-          ".444"
+          "36",
+          ".438"
         ],
         [
           "Angels",
@@ -291,5 +291,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-05T01:19:07.140Z"
+  "updatedAt": "2026-06-05T17:28:55.339Z"
 }
