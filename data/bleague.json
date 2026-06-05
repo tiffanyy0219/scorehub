@@ -1,0 +1,13 @@
+{
+  "schedule": [
+    {
+      "league": "BLeague",
+      "away": "宇都宮Brex",
+      "home": "千葉Jets",
+      "status": "scheduled",
+      "time": "今天 18:05"
+    }
+  ],
+  "error": "無賽事",
+  "updatedAt": "2026-06-05T01:19:09.780Z"
+}

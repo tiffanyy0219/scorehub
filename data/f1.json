@@ -1,0 +1,188 @@
+{
+  "schedule": [
+    {
+      "league": "F1",
+      "singleEvent": true,
+      "title": "Australian Grand Prix",
+      "subtitle": "第1站 · Albert Park Grand Prix Circuit",
+      "time": "2026-03-08",
+      "status": "final"
+    },
+    {
+      "league": "F1",
+      "singleEvent": true,
+      "title": "Chinese Grand Prix",
+      "subtitle": "第2站 · Shanghai International Circuit",
+      "time": "2026-03-15",
+      "status": "final"
+    },
+    {
+      "league": "F1",
+      "singleEvent": true,
+      "title": "Japanese Grand Prix",
+      "subtitle": "第3站 · Suzuka Circuit",
+      "time": "2026-03-29",
+      "status": "final"
+    },
+    {
+      "league": "F1",
+      "singleEvent": true,
+      "title": "Miami Grand Prix",
+      "subtitle": "第4站 · Miami International Autodrome",
+      "time": "2026-05-03",
+      "status": "final"
+    },
+    {
+      "league": "F1",
+      "singleEvent": true,
+      "title": "Canadian Grand Prix",
+      "subtitle": "第5站 · Circuit Gilles Villeneuve",
+      "time": "2026-05-24",
+      "status": "final"
+    },
+    {
+      "league": "F1",
+      "singleEvent": true,
+      "title": "Monaco Grand Prix",
+      "subtitle": "第6站 · Circuit de Monaco",
+      "time": "2026-06-07",
+      "status": "scheduled"
+    },
+    {
+      "league": "F1",
+      "singleEvent": true,
+      "title": "Barcelona Grand Prix",
+      "subtitle": "第7站 · Circuit de Barcelona-Catalunya",
+      "time": "2026-06-14",
+      "status": "scheduled"
+    },
+    {
+      "league": "F1",
+      "singleEvent": true,
+      "title": "Austrian Grand Prix",
+      "subtitle": "第8站 · Red Bull Ring",
+      "time": "2026-06-28",
+      "status": "scheduled"
+    },
+    {
+      "league": "F1",
+      "singleEvent": true,
+      "title": "British Grand Prix",
+      "subtitle": "第9站 · Silverstone Circuit",
+      "time": "2026-07-05",
+      "status": "scheduled"
+    },
+    {
+      "league": "F1",
+      "singleEvent": true,
+      "title": "Belgian Grand Prix",
+      "subtitle": "第10站 · Circuit de Spa-Francorchamps",
+      "time": "2026-07-19",
+      "status": "scheduled"
+    }
+  ],
+  "standings": [
+    {
+      "label": "F1 2026 車手積分榜",
+      "headers": [
+        "車手",
+        "積分",
+        "車隊"
+      ],
+      "rows": [
+        [
+          "Andrea Kimi Antonelli",
+          "131",
+          "Mercedes"
+        ],
+        [
+          "George Russell",
+          "88",
+          "Mercedes"
+        ],
+        [
+          "Charles Leclerc",
+          "75",
+          "Ferrari"
+        ],
+        [
+          "Lewis Hamilton",
+          "72",
+          "Ferrari"
+        ],
+        [
+          "Lando Norris",
+          "58",
+          "McLaren"
+        ],
+        [
+          "Oscar Piastri",
+          "48",
+          "McLaren"
+        ],
+        [
+          "Max Verstappen",
+          "43",
+          "Red Bull"
+        ],
+        [
+          "Pierre Gasly",
+          "20",
+          "Alpine F1 Team"
+        ],
+        [
+          "Oliver Bearman",
+          "18",
+          "Haas F1 Team"
+        ],
+        [
+          "Liam Lawson",
+          "16",
+          "RB F1 Team"
+        ]
+      ]
+    },
+    {
+      "label": "F1 2026 車隊積分榜",
+      "headers": [
+        "車隊",
+        "積分"
+      ],
+      "rows": [
+        [
+          "Mercedes",
+          "219"
+        ],
+        [
+          "Ferrari",
+          "147"
+        ],
+        [
+          "McLaren",
+          "106"
+        ],
+        [
+          "Red Bull",
+          "57"
+        ],
+        [
+          "Alpine F1 Team",
+          "35"
+        ],
+        [
+          "RB F1 Team",
+          "21"
+        ],
+        [
+          "Haas F1 Team",
+          "19"
+        ],
+        [
+          "Williams",
+          "7"
+        ]
+      ]
+    }
+  ],
+  "updatedAt": "2026-06-05T01:19:07.439Z"
+}

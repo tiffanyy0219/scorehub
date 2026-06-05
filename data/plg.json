@@ -1,0 +1,20 @@
+{
+  "schedule": [
+    {
+      "league": "PLG",
+      "away": "台北富邦勇士",
+      "home": "桃園璞園領航猿",
+      "status": "scheduled",
+      "time": "今天 19:30"
+    },
+    {
+      "league": "PLG",
+      "away": "台鋼獵鷹",
+      "home": "洋基工程",
+      "status": "scheduled",
+      "time": "今天 19:30"
+    }
+  ],
+  "note": "PLG 暫無免費API",
+  "updatedAt": "2026-06-05T01:19:09.695Z"
+}

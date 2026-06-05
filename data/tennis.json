@@ -1,0 +1,15 @@
+{
+  "schedule": [
+    {
+      "league": "ATP",
+      "away": "",
+      "home": "",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "time": "5/18 12:00",
+      "winner": null
+    }
+  ],
+  "updatedAt": "2026-06-05T01:19:12.419Z"
+}

@@ -1,0 +1,20 @@
+{
+  "schedule": [
+    {
+      "league": "TPBL",
+      "away": "桃園台啤豹",
+      "home": "新北國王",
+      "status": "scheduled",
+      "time": "今天 19:00"
+    },
+    {
+      "league": "TPBL",
+      "away": "高雄全家海神",
+      "home": "福爾摩沙夢想家",
+      "status": "scheduled",
+      "time": "今天 19:00"
+    }
+  ],
+  "note": "TPBL 賽季已結束（2026/5/19），顯示靜態資料",
+  "updatedAt": "2026-06-05T01:19:09.695Z"
+}
