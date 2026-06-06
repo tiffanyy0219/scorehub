@@ -2,37 +2,48 @@
   "schedule": [
     {
       "league": "WNBA",
-      "home": "Chicago Sky",
-      "away": "Connecticut Sun",
+      "home": "Minnesota Lynx",
+      "away": "Seattle Storm",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "今天 07:30",
+      "time": "明天 01:00",
       "liveInfo": null,
       "winner": null
     },
     {
       "league": "WNBA",
-      "home": "Los Angeles Sparks",
-      "away": "Dallas Wings",
+      "home": "Las Vegas Aces",
+      "away": "Golden State Valkyries",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "今天 10:00",
+      "time": "明天 03:00",
       "liveInfo": null,
       "winner": null
     },
     {
       "league": "WNBA",
-      "home": "Portland Fire",
-      "away": "Phoenix Mercury",
+      "home": "Atlanta Dream",
+      "away": "Washington Mystics",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "今天 10:00",
+      "time": "明天 06:00",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "WNBA",
+      "home": "New York Liberty",
+      "away": "Indiana Fever",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "明天 08:00",
       "liveInfo": null,
       "winner": null
     }
   ],
-  "updatedAt": "2026-06-05T21:01:06.165Z"
+  "updatedAt": "2026-06-06T09:14:17.256Z"
 }
