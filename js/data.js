@@ -6,26 +6,26 @@ const LC = {
   F1:'#ff4747', ATP:'#47b8ff', WTA:'#c084fc',
 };
 
-// ── 轉播平台 ──
+// ── 轉播平台（2026年最新，台灣） ──
 const BROADCAST = {
-  MLB:      { p:['緯來體育','HamiVideo','ELTA.tv'], free:['HamiVideo(部分)'] },
-  '中職':   { p:['CPBL TV','HamiVideo','DAZN','緯來體育','愛爾達'], free:[] },
+  MLB:      { p:['愛爾達體育','緯來體育','HamiVideo','ELTA.tv'], free:[], note:'依各台節目表為準' },
+  '中職':   { p:['CPBL TV','緯來體育','HamiVideo','ELTA.tv','DAZN','MyVideo'], free:['YouTube(部分)','Twitch(部分)'] },
   '日職':   { p:['DAZN'], free:[] },
-  NBA:      { p:['愛爾達','ELTA.tv','緯來體育'], free:[] },
+  NBA:      { p:['緯來體育','愛爾達體育','HamiVideo'], free:[] },
   WNBA:     { p:['ESPN+','NBA League Pass'], free:[] },
   TPBL:     { p:['YouTube','DAZN'], free:['YouTube'] },
   PLG:      { p:['YouTube','DAZN'], free:['YouTube'] },
   CBA:      { p:['愛奇藝體育'], free:[] },
   BLeague:  { p:['DAZN','B.LEAGUE TV'], free:[] },
-  EPL:      { p:['DAZN','愛爾達'], free:[] },
-  'La Liga':{ p:['DAZN','愛爾達'], free:[] },
-  Bundesliga:{ p:['DAZN'], free:[] },
+  EPL:      { p:['愛爾達體育','HamiVideo'], free:[] },
+  'La Liga':{ p:['愛爾達體育','DAZN'], free:[] },
+  Bundesliga:{ p:['愛爾達體育','DAZN'], free:[] },
   'Serie A':{ p:['DAZN'], free:[] },
   'Ligue 1':{ p:['DAZN'], free:[] },
-  'Champions League':{ p:['DAZN','愛爾達'], free:[] },
-  F1:       { p:['DAZN','緯來體育'], free:[] },
-  ATP:      { p:['DAZN'], free:[] },
-  WTA:      { p:['DAZN'], free:[] },
+  'Champions League':{ p:['愛爾達體育','HamiVideo'], free:[] },
+  F1:       { p:['愛爾達體育','HamiVideo'], free:[] },
+  ATP:      { p:['愛爾達體育','DAZN'], free:[] },
+  WTA:      { p:['愛爾達體育','DAZN'], free:[] },
 };
 
 // ── 聯賽導覽列 ──

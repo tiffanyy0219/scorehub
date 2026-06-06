@@ -6,7 +6,8 @@ function bcHTML(league) {
   const info = BROADCAST[league];
   if (!info || !info.p.length) return '';
   const tags = info.p.map(p => `<span class="bc-tag${info.free.includes(p)?' bc-free':''}">${p}</span>`).join('');
-  return `<div class="bc-row">${tags}</div>`;
+  const note = info.note ? `<span class="bc-note">${info.note}</span>` : '';
+  return `<div class="bc-row">${tags}${note}</div>`;
 }
 
 function tagStyle(lid) {
