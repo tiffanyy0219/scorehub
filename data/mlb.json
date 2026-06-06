@@ -4,55 +4,55 @@
       "league": "MLB",
       "away": "Seattle Mariners",
       "home": "Detroit Tigers",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "明天 01:10",
+      "awayScore": 4,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 6局",
+      "time": "今天 01:10",
       "winner": null
     },
     {
       "league": "MLB",
       "away": "Kansas City Royals",
       "home": "Minnesota Twins",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "明天 02:10",
+      "awayScore": 1,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 3局",
+      "time": "今天 02:10",
       "winner": null
     },
     {
       "league": "MLB",
       "away": "Cincinnati Reds",
       "home": "St. Louis Cardinals",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "明天 02:15",
+      "awayScore": 3,
+      "homeScore": 3,
+      "status": "live",
+      "liveInfo": " 3局",
+      "time": "今天 02:15",
       "winner": null
     },
     {
       "league": "MLB",
       "away": "San Francisco Giants",
       "home": "Chicago Cubs",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "明天 02:20",
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 3局",
+      "time": "今天 02:20",
       "winner": null
     },
     {
       "league": "MLB",
       "away": "Baltimore Orioles",
       "home": "Toronto Blue Jays",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "明天 03:07",
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
+      "time": "今天 03:07",
       "winner": null
     },
     {
@@ -63,7 +63,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 04:05",
+      "time": "今天 04:05",
       "winner": null
     },
     {
@@ -74,7 +74,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 04:10",
+      "time": "今天 04:10",
       "winner": null
     },
     {
@@ -85,7 +85,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 04:10",
+      "time": "今天 04:10",
       "winner": null
     },
     {
@@ -96,7 +96,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 04:10",
+      "time": "今天 04:10",
       "winner": null
     },
     {
@@ -107,7 +107,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 04:10",
+      "time": "今天 04:10",
       "winner": null
     },
     {
@@ -118,7 +118,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 07:35",
+      "time": "今天 07:35",
       "winner": null
     },
     {
@@ -129,7 +129,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 07:35",
+      "time": "今天 07:35",
       "winner": null
     },
     {
@@ -140,7 +140,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 09:10",
+      "time": "今天 09:10",
       "winner": null
     },
     {
@@ -151,7 +151,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 10:10",
+      "time": "今天 10:10",
       "winner": null
     },
     {
@@ -162,7 +162,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 10:10",
+      "time": "今天 10:10",
       "winner": null
     }
   ],
@@ -291,5 +291,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-06T15:00:50.357Z"
+  "updatedAt": "2026-06-06T18:59:39.895Z"
 }

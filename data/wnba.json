@@ -4,11 +4,11 @@
       "league": "WNBA",
       "home": "Minnesota Lynx",
       "away": "Seattle Storm",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "明天 01:00",
-      "liveInfo": null,
+      "homeScore": 88,
+      "awayScore": 68,
+      "status": "live",
+      "time": "今天 01:00",
+      "liveInfo": "11.0",
       "winner": null
     },
     {
@@ -18,7 +18,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "明天 03:00",
+      "time": "今天 03:00",
       "liveInfo": null,
       "winner": null
     },
@@ -29,7 +29,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "明天 06:00",
+      "time": "今天 06:00",
       "liveInfo": null,
       "winner": null
     },
@@ -40,10 +40,10 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "明天 08:00",
+      "time": "今天 08:00",
       "liveInfo": null,
       "winner": null
     }
   ],
-  "updatedAt": "2026-06-06T15:00:50.856Z"
+  "updatedAt": "2026-06-06T18:59:40.333Z"
 }

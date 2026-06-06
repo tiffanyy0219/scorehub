@@ -17,7 +17,7 @@
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
-      "time": "今天 12:00",
+      "time": "6/6 12:00",
       "winner": null
     },
     {
@@ -27,9 +27,9 @@
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
-      "time": "今天 12:00",
+      "time": "6/6 12:00",
       "winner": null
     }
   ],
-  "updatedAt": "2026-06-06T15:00:55.854Z"
+  "updatedAt": "2026-06-06T18:59:45.321Z"
 }
