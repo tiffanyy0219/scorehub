@@ -82,7 +82,7 @@ const TEAMS_BY_SPORT = {
                  '仙台89ers','橫濱B-Corsairs','Sunrockers Shibuya','越谷Alphas','琉球Golden Kings',
                  '名古屋Diamond Dolphins','大阪Evessa','三遠NeoPhoenix','京都Hannaryz','秋田Northern Happinets',
                  '廣島Dragonflies','富山Grouses','茨城Robots','長崎Velca','西宮Storks',
-                 '信州Brave Warriors','佐賀Ballooners','島根智慧鸛','湘南United','熊本Volters','福岡'),
+                 '信州Brave Warriors','佐賀Ballooners','島根智慧鸛','湘南United','熊本Volters','福岡'],
   },
   足球: {
     'EPL 英超': ['Arsenal','Aston Villa','Bournemouth','Brentford','Brighton','Chelsea','Crystal Palace',
