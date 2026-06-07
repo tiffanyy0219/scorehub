@@ -46,7 +46,7 @@
       "title": "Monaco Grand Prix",
       "subtitle": "第6站 · Circuit de Monaco",
       "time": "2026-06-07",
-      "status": "scheduled"
+      "status": "final"
     },
     {
       "league": "F1",
@@ -184,5 +184,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-07T10:14:49.777Z"
+  "updatedAt": "2026-06-07T15:14:58.994Z"
 }
