@@ -92,8 +92,13 @@
       "rows": [
         [
           "Andrea Kimi Antonelli",
-          "131",
+          "156",
           "Mercedes"
+        ],
+        [
+          "Lewis Hamilton",
+          "90",
+          "Ferrari"
         ],
         [
           "George Russell",
@@ -106,18 +111,13 @@
           "Ferrari"
         ],
         [
-          "Lewis Hamilton",
-          "72",
-          "Ferrari"
+          "Oscar Piastri",
+          "60",
+          "McLaren"
         ],
         [
           "Lando Norris",
           "58",
-          "McLaren"
-        ],
-        [
-          "Oscar Piastri",
-          "48",
           "McLaren"
         ],
         [
@@ -126,19 +126,19 @@
           "Red Bull"
         ],
         [
-          "Pierre Gasly",
-          "20",
-          "Alpine F1 Team"
-        ],
-        [
-          "Oliver Bearman",
-          "18",
-          "Haas F1 Team"
+          "Isack Hadjar",
+          "29",
+          "Red Bull"
         ],
         [
           "Liam Lawson",
-          "16",
+          "26",
           "RB F1 Team"
+        ],
+        [
+          "Pierre Gasly",
+          "26",
+          "Alpine F1 Team"
         ]
       ]
     },
@@ -151,38 +151,38 @@
       "rows": [
         [
           "Mercedes",
-          "219"
+          "244"
         ],
         [
           "Ferrari",
-          "147"
+          "165"
         ],
         [
           "McLaren",
-          "106"
+          "118"
         ],
         [
           "Red Bull",
-          "57"
+          "72"
         ],
         [
           "Alpine F1 Team",
-          "35"
+          "41"
         ],
         [
           "RB F1 Team",
-          "21"
+          "39"
         ],
         [
           "Haas F1 Team",
-          "19"
+          "21"
         ],
         [
           "Williams",
-          "7"
+          "11"
         ]
       ]
     }
   ],
-  "updatedAt": "2026-06-07T15:14:58.994Z"
+  "updatedAt": "2026-06-07T19:57:38.042Z"
 }
