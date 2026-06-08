@@ -1,4 +1,16 @@
 {
-  "schedule": [],
-  "updatedAt": "2026-06-07T19:57:38.124Z"
+  "schedule": [
+    {
+      "league": "NBA",
+      "home": "New York Knicks",
+      "away": "San Antonio Spurs",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "明天 08:30",
+      "liveInfo": null,
+      "winner": null
+    }
+  ],
+  "updatedAt": "2026-06-08T14:41:11.458Z"
 }

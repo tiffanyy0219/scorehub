@@ -2,167 +2,90 @@
   "schedule": [
     {
       "league": "MLB",
-      "away": "Pittsburgh Pirates",
-      "home": "Atlanta Braves",
-      "awayScore": 2,
-      "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 8局",
-      "time": "今天 01:35",
-      "winner": null
-    },
-    {
-      "league": "MLB",
-      "away": "Chicago White Sox",
-      "home": "Philadelphia Phillies",
-      "awayScore": 5,
-      "homeScore": 7,
-      "status": "live",
-      "liveInfo": " 6局",
-      "time": "今天 01:35",
+      "away": "Seattle Mariners",
+      "home": "Baltimore Orioles",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "明天 06:35",
       "winner": null
     },
     {
       "league": "MLB",
       "away": "Boston Red Sox",
-      "home": "New York Yankees",
-      "awayScore": 1,
-      "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 7局",
-      "time": "今天 01:35",
+      "home": "Tampa Bay Rays",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "明天 06:40",
       "winner": null
     },
     {
       "league": "MLB",
-      "away": "Baltimore Orioles",
+      "away": "New York Yankees",
+      "home": "Cleveland Guardians",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "明天 06:40",
+      "winner": null
+    },
+    {
+      "league": "MLB",
+      "away": "Philadelphia Phillies",
       "home": "Toronto Blue Jays",
-      "awayScore": 4,
-      "homeScore": 5,
-      "status": "live",
-      "liveInfo": " 7局",
-      "time": "今天 01:37",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "明天 07:07",
       "winner": null
     },
     {
       "league": "MLB",
-      "away": "Seattle Mariners",
-      "home": "Detroit Tigers",
-      "awayScore": 4,
-      "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 7局",
-      "time": "今天 01:40",
-      "winner": null
-    },
-    {
-      "league": "MLB",
-      "away": "Tampa Bay Rays",
-      "home": "Miami Marlins",
-      "awayScore": 1,
-      "homeScore": 4,
-      "status": "live",
-      "liveInfo": " 8局",
-      "time": "今天 01:40",
-      "winner": null
-    },
-    {
-      "league": "MLB",
-      "away": "Athletics",
-      "home": "Houston Astros",
-      "awayScore": 5,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 6局",
-      "time": "今天 02:10",
-      "winner": null
-    },
-    {
-      "league": "MLB",
-      "away": "Kansas City Royals",
-      "home": "Minnesota Twins",
-      "awayScore": 5,
-      "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 6局",
-      "time": "今天 02:10",
+      "away": "Houston Astros",
+      "home": "Los Angeles Angels",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "明天 09:38",
       "winner": null
     },
     {
       "league": "MLB",
       "away": "Cincinnati Reds",
-      "home": "St. Louis Cardinals",
-      "awayScore": 2,
-      "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 6局",
-      "time": "今天 02:15",
-      "winner": null
-    },
-    {
-      "league": "MLB",
-      "away": "Cleveland Guardians",
-      "home": "Texas Rangers",
-      "awayScore": 0,
-      "homeScore": 7,
-      "status": "live",
-      "liveInfo": " 5局",
-      "time": "今天 02:35",
-      "winner": null
-    },
-    {
-      "league": "MLB",
-      "away": "Milwaukee Brewers",
-      "home": "Colorado Rockies",
-      "awayScore": 1,
-      "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 3局",
-      "time": "今天 03:10",
+      "home": "San Diego Padres",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "明天 09:40",
       "winner": null
     },
     {
       "league": "MLB",
       "away": "Washington Nationals",
-      "home": "Arizona Diamondbacks",
-      "awayScore": 1,
-      "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 3局",
-      "time": "今天 03:15",
-      "winner": null
-    },
-    {
-      "league": "MLB",
-      "away": "Los Angeles Angels",
-      "home": "Los Angeles Dodgers",
-      "awayScore": 0,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 1局",
-      "time": "今天 04:10",
-      "winner": null
-    },
-    {
-      "league": "MLB",
-      "away": "New York Mets",
-      "home": "San Diego Padres",
-      "awayScore": 0,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 1局",
-      "time": "今天 04:10",
-      "winner": null
-    },
-    {
-      "league": "MLB",
-      "away": "San Francisco Giants",
-      "home": "Chicago Cubs",
+      "home": "San Francisco Giants",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "今天 08:30",
+      "time": "明天 09:45",
+      "winner": null
+    },
+    {
+      "league": "MLB",
+      "away": "Milwaukee Brewers",
+      "home": "Athletics",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "明天 10:05",
       "winner": null
     }
   ],
@@ -179,32 +102,32 @@
         [
           "Rays",
           "37",
-          "24",
-          ".607"
+          "25",
+          ".597"
         ],
         [
           "Yankees",
-          "37",
+          "38",
           "26",
-          ".587"
+          ".594"
+        ],
+        [
+          "Blue Jays",
+          "32",
+          "34",
+          ".485"
         ],
         [
           "Orioles",
           "31",
-          "34",
-          ".477"
-        ],
-        [
-          "Blue Jays",
-          "31",
-          "34",
-          ".477"
+          "35",
+          ".470"
         ],
         [
           "Red Sox",
           "27",
-          "35",
-          ".435"
+          "36",
+          ".429"
         ]
       ]
     },
@@ -220,32 +143,32 @@
         [
           "Guardians",
           "37",
-          "29",
-          ".561"
+          "30",
+          ".552"
         ],
         [
           "White Sox",
           "34",
-          "30",
-          ".531"
+          "31",
+          ".523"
         ],
         [
           "Twins",
           "30",
-          "36",
-          ".455"
+          "37",
+          ".448"
         ],
         [
           "Tigers",
-          "26",
+          "27",
           "39",
-          ".400"
+          ".409"
         ],
         [
           "Royals",
-          "26",
+          "27",
           "39",
-          ".400"
+          ".409"
         ]
       ]
     },
@@ -261,35 +184,35 @@
         [
           "Mariners",
           "34",
-          "31",
-          ".523"
+          "32",
+          ".515"
         ],
         [
           "Rangers",
-          "31",
+          "32",
           "33",
-          ".484"
+          ".492"
         ],
         [
           "Athletics",
-          "30",
+          "31",
           "34",
-          ".469"
+          ".477"
         ],
         [
           "Astros",
           "30",
-          "36",
-          ".455"
+          "37",
+          ".448"
         ],
         [
           "Angels",
-          "24",
+          "25",
           "41",
-          ".369"
+          ".379"
         ]
       ]
     }
   ],
-  "updatedAt": "2026-06-07T19:57:37.664Z"
+  "updatedAt": "2026-06-08T14:41:11.019Z"
 }
