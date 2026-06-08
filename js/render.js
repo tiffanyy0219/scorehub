@@ -15,6 +15,11 @@ function tagStyle(lid) {
   return `background:${c}22;color:${c}`;
 }
 
+// ── 統一 status 判斷（相容各 API 回傳格式）──
+function isLiveStatus(s)  { return ['live','inprogress','in_progress','in progress'].includes((s||'').toLowerCase()); }
+function isFinalStatus(s) { return ['final','closed','ft','finished','complete'].includes((s||'').toLowerCase()); }
+function isSchedStatus(s) { return ['scheduled','pre_game','pregame','upcoming'].includes((s||'').toLowerCase()); }
+
 function cardHTML(g) {
   const bc = bcHTML(g.league);
   if (g.singleEvent) {
@@ -28,9 +33,12 @@ function cardHTML(g) {
       ${bc}
     </div>`;
   }
-  const isl=g.status==='live', isf=g.status==='final', show=isl||isf;
-  const aw=isf&&g.winner==='away', hw=isf&&g.winner==='home';
-  const isFav = Settings.favTeams.includes(g.away)||Settings.favTeams.includes(g.home);
+  const isl = isLiveStatus(g.status);
+  const isf = isFinalStatus(g.status);
+  const show = isl || isf;
+  const aw = isf && g.winner === 'away';
+  const hw = isf && g.winner === 'home';
+  const isFav = Settings.favTeams.includes(g.away) || Settings.favTeams.includes(g.home);
   return `<div class="game-card${isl?' is-live':''}">
     <div class="game-meta">
       <div style="display:flex;align-items:center;gap:5px">
@@ -81,16 +89,16 @@ function scheduleHTML(games, view, league) {
   let list = games.filter(g => Settings.enabledLeagues.has(g.league));
   if (league && league !== 'all') list = list.filter(g => g.league === league);
   if (view === 'live') {
-    const live = list.filter(g=>g.status==='live');
-    const fin  = list.filter(g=>g.status==='final');
+    const live = list.filter(g => isLiveStatus(g.status));
+    const fin  = list.filter(g => isFinalStatus(g.status));
     let h = '';
     if (live.length) h += `<div class="sec-label">🔴 直播中</div>` + live.map(cardHTML).join('');
     if (fin.length)  h += `<div class="sec-label">今日結果</div>` + fin.map(cardHTML).join('');
     return h || `<div class="empty"><div class="empty-icon">📡</div>目前無直播賽事</div>`;
   }
-  const live  = list.filter(g=>g.status==='live');
-  const sched = list.filter(g=>g.status==='scheduled');
-  const fin   = list.filter(g=>g.status==='final');
+  const live  = list.filter(g => isLiveStatus(g.status));
+  const sched = list.filter(g => isSchedStatus(g.status));
+  const fin   = list.filter(g => isFinalStatus(g.status));
   let h = '';
   if (live.length)  h += `<div class="sec-label">🔴 直播中</div>` + live.map(cardHTML).join('');
   if (sched.length) h += `<div class="sec-label">即將開賽</div>` + sched.map(cardHTML).join('');

@@ -49,12 +49,18 @@ const ALL_LEAGUES_CFG = [
 const TEAMS_BY_SPORT = {
   棒球: {
     'MLB': [
-      'Arizona Diamondbacks','Atlanta Braves','Baltimore Orioles','Boston Red Sox','Chicago Cubs',
-      'Chicago White Sox','Cincinnati Reds','Cleveland Guardians','Colorado Rockies','Detroit Tigers',
-      'Houston Astros','Kansas City Royals','Los Angeles Angels','Los Angeles Dodgers','Miami Marlins',
-      'Milwaukee Brewers','Minnesota Twins','New York Mets','New York Yankees','Oakland Athletics',
-      'Philadelphia Phillies','Pittsburgh Pirates','San Diego Padres','San Francisco Giants','Seattle Mariners',
-      'St. Louis Cardinals','Tampa Bay Rays','Texas Rangers','Toronto Blue Jays','Washington Nationals',
+      // 美聯東區
+      'New York Yankees','Boston Red Sox','Toronto Blue Jays','Baltimore Orioles','Tampa Bay Rays',
+      // 美聯中區
+      'Cleveland Guardians','Minnesota Twins','Detroit Tigers','Chicago White Sox','Kansas City Royals',
+      // 美聯西區
+      'Houston Astros','Seattle Mariners','Texas Rangers','Los Angeles Angels','Athletics',
+      // 國聯東區
+      'Atlanta Braves','New York Mets','Philadelphia Phillies','Miami Marlins','Washington Nationals',
+      // 國聯中區
+      'Chicago Cubs','Milwaukee Brewers','St. Louis Cardinals','Pittsburgh Pirates','Cincinnati Reds',
+      // 國聯西區
+      'Los Angeles Dodgers','San Diego Padres','San Francisco Giants','Arizona Diamondbacks','Colorado Rockies',
     ],
     '中職 CPBL': ['中信兄弟','統一7-ELEVEn獅','樂天桃猿','富邦悍將','味全龍','台鋼雄鷹'],
     '日職 NPB': ['讀賣巨人','阪神虎','廣島東洋鯉魚','中日龍','橫濱DeNA海灣之星','東京養樂多燕子',
