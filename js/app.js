@@ -160,21 +160,38 @@ const App = {
       return;
     }
     el.innerHTML = skeletonHTML();
-    // 抓所有運動的資料
-    const sports = ['baseball','basketball','soccer','f1','tennis'];
+    // 抓所有運動資料
+    const jsonFiles = ['mlb','cpbl','npb','nba','wnba','tpbl','plg','cba','bleague','soccer','f1','tennis'];
     let allGames = [];
-    for (const s of sports) {
-      const orig = this.sport; this.sport = s;
-      try { const {games} = await this.fetchData(); allGames = [...allGames, ...games]; } catch {}
-      this.sport = orig;
+    for (const f of jsonFiles) {
+      const d = await this.loadJSON(`${f}.json`);
+      if (d?.schedule) allGames = [...allGames, ...d.schedule];
     }
-    const favGames = allGames.filter(g => Settings.favTeams.includes(g.away)||Settings.favTeams.includes(g.home));
-    el.innerHTML = `<div class="content-inner">${this.favCalHTML(favGames)}</div>`;
+    // 篩選追蹤球隊的賽事
+    const favGames = allGames.filter(g =>
+      Settings.favTeams.some(t => (g.away||'').includes(t)||(g.home||'').includes(t)||t.includes(g.away||'')||t.includes(g.home||''))
+    );
+    // 把每場比賽的日期轉成台灣時間的 dateKey
+    const gamesWithKey = favGames.map(g => {
+      let dateKey = null;
+      try {
+        const raw = g.gameDate || g.start_time || g.time || '';
+        if (raw) {
+          const d = new Date(raw);
+          if (!isNaN(d)) {
+            const tw = new Date(d.toLocaleString('en-US', { timeZone: 'Asia/Taipei' }));
+            dateKey = `${tw.getFullYear()}-${tw.getMonth()}-${tw.getDate()}`;
+          }
+        }
+      } catch {}
+      return { ...g, _dateKey: dateKey };
+    });
+    this._favGames = gamesWithKey;
+    el.innerHTML = `<div class="content-inner">${this.favCalHTML(gamesWithKey)}</div>`;
   },
 
   favCalHTML(games) {
     const T = Settings.t();
-    const now = this.favCalDate;
     const viewToggle = `<div class="fav-cal-toolbar">
       <button class="fav-cal-nav" onclick="App.favCalPrev()">‹</button>
       <div class="fav-cal-btns">
@@ -183,24 +200,22 @@ const App = {
       </div>
       <button class="fav-cal-nav" onclick="App.favCalNext()">›</button>
     </div>`;
-
-    if (this.favCalView === 'week') return viewToggle + this.weekCalHTML(games, now);
-    return viewToggle + this.monthCalHTML(games, now);
+    if (this.favCalView === 'week') return viewToggle + this.weekCalHTML(games, this.favCalDate);
+    return viewToggle + this.monthCalHTML(games, this.favCalDate);
   },
 
   weekCalHTML(games, date) {
     const today = new Date(); today.setHours(0,0,0,0);
     const start = new Date(date); start.setDate(date.getDate() - date.getDay());
     const days = ['日','一','二','三','四','五','六'];
-    const dateLabel = `${start.getMonth()+1}/${start.getDate()} – ${new Date(start.getTime()+6*86400000).getMonth()+1}/${new Date(start.getTime()+6*86400000).getDate()}`;
-    let html = `<div class="fav-week-label">${dateLabel}</div>`;
+    const endDate = new Date(start.getTime()+6*86400000);
+    const label = `${start.getMonth()+1}/${start.getDate()} – ${endDate.getMonth()+1}/${endDate.getDate()}`;
+    let html = `<div class="fav-week-label">${label}</div>`;
     for (let i = 0; i < 7; i++) {
       const d = new Date(start); d.setDate(start.getDate()+i);
       const isToday = d.toDateString() === today.toDateString();
-      const ds = d.toDateString();
-      const dayGames = games.filter(g => {
-        try { return new Date(g.gameDate||g.time||'').toDateString()===ds; } catch { return false; }
-      });
+      const key = `${d.getFullYear()}-${d.getMonth()}-${d.getDate()}`;
+      const dayGames = games.filter(g => g._dateKey === key);
       html += `<div class="fav-week-day${isToday?' today':''}">
         <div class="fav-week-day-label">${days[d.getDay()]} ${d.getMonth()+1}/${d.getDate()}${isToday?' ◀':''}</div>
         ${dayGames.length ? dayGames.map(cardHTML).join('') : `<div class="fav-week-empty">—</div>`}
@@ -214,45 +229,53 @@ const App = {
     const y = date.getFullYear(), m = date.getMonth();
     const first = new Date(y,m,1).getDay(), daysInMonth = new Date(y,m+1,0).getDate();
     const monthName = new Date(y,m,1).toLocaleDateString('zh-TW',{year:'numeric',month:'long'});
-    // 建立每天有哪些追蹤賽事的map
+
+    // 建立 dateKey → games 的 map
     const gameMap = {};
     games.forEach(g => {
-      try {
-        const gd = new Date(g.gameDate||g.time||'');
-        if (isNaN(gd)) return;
-        const key = `${gd.getFullYear()}-${gd.getMonth()}-${gd.getDate()}`;
-        if (!gameMap[key]) gameMap[key] = [];
-        gameMap[key].push(g);
-      } catch {}
+      if (!g._dateKey) return;
+      if (!gameMap[g._dateKey]) gameMap[g._dateKey] = [];
+      gameMap[g._dateKey].push(g);
     });
+
     const days = ['日','一','二','三','四','五','六'];
     let html = `<div class="fav-month-label">${monthName}</div>
     <div class="fav-month-grid">
       ${days.map(d=>`<div class="fav-month-dow">${d}</div>`).join('')}`;
     for (let i=0;i<first;i++) html += `<div class="fav-month-cell empty"></div>`;
+
+    // 選中的日期（預設今天）
+    const selKey = this._selDayKey || `${today.getFullYear()}-${today.getMonth()}-${today.getDate()}`;
+
     for (let d=1;d<=daysInMonth;d++) {
       const key = `${y}-${m}-${d}`;
       const isToday = y===today.getFullYear()&&m===today.getMonth()&&d===today.getDate();
+      const isSel = key === selKey;
       const dayGames = gameMap[key]||[];
       const dots = dayGames.slice(0,3).map(g=>`<div class="fav-dot" style="background:${LC[g.league]||'#888'}"></div>`).join('');
-      html += `<div class="fav-month-cell${isToday?' today':''}" onclick="App.showDayGames(${y},${m},${d})">
+      html += `<div class="fav-month-cell${isToday?' today':''}${isSel?' sel':''}" onclick="App.showDayGames(${y},${m},${d})">
         <div class="fav-cell-num">${d}</div>
         ${dots?`<div class="fav-dots">${dots}</div>`:''}
       </div>`;
     }
     html += `</div>`;
-    // 選中日期的賽事列表
-    const selKey = `${y}-${m}-${today.getDate()}`;
+
+    // 選中日期的賽事
     const selGames = gameMap[selKey]||[];
-    if (selGames.length) html += `<div class="fav-day-games">${selGames.map(cardHTML).join('')}</div>`;
+    if (selGames.length) {
+      html += `<div class="fav-day-label">${parseInt(selKey.split('-')[2])}日賽事</div>`;
+      html += `<div class="fav-day-games">${selGames.map(cardHTML).join('')}</div>`;
+    } else {
+      html += `<div class="fav-week-empty" style="padding:12px 0;text-align:center">今日無追蹤球隊賽事</div>`;
+    }
     return html;
   },
 
-  showDayGames(y,m,d) {
-    const key = `${y}-${m}-${d}`;
-    // 重新渲染，傳入選中日期
-    this.favCalDate = new Date(y,m,d);
-    this.renderFavorites();
+  showDayGames(y, m, d) {
+    this._selDayKey = `${y}-${m}-${d}`;
+    const games = this._favGames || [];
+    const el = document.getElementById('content');
+    el.innerHTML = `<div class="content-inner">${this.favCalHTML(games)}</div>`;
   },
 
   favCalPrev() {
@@ -327,33 +350,38 @@ function renderFavPicker() {
   const el = document.getElementById('fav-picker');
   if (!el) return;
   const T = Settings.t();
-  if (!selSport) {
-    // 第一層：選運動
-    el.innerHTML = `<div class="picker-label">${T.select_sport}</div>
-      <div class="picker-grid">
-        ${Object.keys(TEAMS_BY_SPORT).map(s=>`<button class="picker-btn" onclick="pickSport('${s}')">${s}</button>`).join('')}
-      </div>`;
-  } else if (!selLeague) {
-    // 第二層：選聯盟
-    el.innerHTML = `<button class="picker-back" onclick="pickSport(null)">← ${T.back}</button>
-      <div class="picker-label">${selSport} › ${T.select_league}</div>
-      <div class="picker-grid">
-        ${Object.keys(TEAMS_BY_SPORT[selSport]).map(l=>`<button class="picker-btn" onclick="pickLeague('${l}')">${l}</button>`).join('')}
-      </div>`;
-  } else {
-    // 第三層：選球隊
-    const teams = TEAMS_BY_SPORT[selSport][selLeague]||[];
-    el.innerHTML = `<button class="picker-back" onclick="pickLeague(null)">← ${T.back}</button>
-      <div class="picker-label">${selLeague} › ${T.select_team}</div>
-      <div class="picker-teams">
-        ${teams.filter(t=>!Settings.favTeams.includes(t)).map(t=>`<button class="picker-team-btn" onclick="addFav('${t.replace(/'/g,"\\'")}')">+ ${t}</button>`).join('')}
-      </div>`;
-  }
+  const sports = Object.keys(TEAMS_BY_SPORT);
+  const curSport = selSport || sports[0];
+  const leagues = Object.keys(TEAMS_BY_SPORT[curSport] || {});
+  const curLeague = selLeague && leagues.includes(selLeague) ? selLeague : leagues[0];
+  const teams = (TEAMS_BY_SPORT[curSport]?.[curLeague] || []).filter(t => !Settings.favTeams.includes(t));
+
+  el.innerHTML = `
+    <div class="fav-dropdowns">
+      <select class="fav-sel" onchange="pickSport(this.value)">
+        ${sports.map(s=>`<option value="${s}"${s===curSport?' selected':''}>${s}</option>`).join('')}
+      </select>
+      <select class="fav-sel" onchange="pickLeague(this.value)">
+        ${leagues.map(l=>`<option value="${l}"${l===curLeague?' selected':''}>${l}</option>`).join('')}
+      </select>
+      <select class="fav-sel" id="fav-team-sel">
+        ${teams.length
+          ? teams.map(t=>`<option value="${t}">${t}</option>`).join('')
+          : `<option disabled>（全部已追蹤）</option>`}
+      </select>
+    </div>
+    <button class="fadd-btn" style="width:100%;margin-top:8px" onclick="addFavFromSel()">＋ 新增到追蹤</button>
+  `;
 }
 
 function pickSport(s) { selSport=s; selLeague=null; renderFavPicker(); }
 function pickLeague(l) { selLeague=l; renderFavPicker(); }
-function addFav(t) { if(!Settings.favTeams.includes(t)){Settings.favTeams.push(t);Settings.save();renderFavList();renderFavPicker();} }
+function addFavFromSel() {
+  const sel = document.getElementById('fav-team-sel');
+  if (!sel || !sel.value) return;
+  addFav(sel.value);
+}
+function addFav(t) { if(t&&!Settings.favTeams.includes(t)){Settings.favTeams.push(t);Settings.save();renderFavList();renderFavPicker();} }
 function rmFav(t) { Settings.favTeams=Settings.favTeams.filter(x=>x!==t); Settings.save(); renderFavList(); }
 function chColor(id,c) { LC[id]=c; document.querySelectorAll('.lcheck').forEach(el=>{ if(el.querySelector('.lname')?.textContent===id) el.querySelector('.cswatch').style.background=c; }); }
 function togLeague(id,el) { if(Settings.enabledLeagues.has(id))Settings.enabledLeagues.delete(id);else Settings.enabledLeagues.add(id); el.classList.toggle('on'); Settings.save(); }
