@@ -7,7 +7,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/11 08:30",
+      "time": "明天 08:30",
       "gameDate": "2026-06-11T00:30Z",
       "liveInfo": null,
       "winner": null
@@ -49,5 +49,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-06-09T11:44:22.609Z"
+  "updatedAt": "2026-06-09T17:35:30.273Z"
 }
