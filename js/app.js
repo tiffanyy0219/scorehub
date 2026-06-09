@@ -167,10 +167,16 @@ const App = {
       const d = await this.loadJSON(`${f}.json`);
       if (d?.schedule) allGames = [...allGames, ...d.schedule];
     }
-    // 篩選追蹤球隊的賽事
-    const favGames = allGames.filter(g =>
-      Settings.favTeams.some(t => (g.away||'').includes(t)||(g.home||'').includes(t)||t.includes(g.away||'')||t.includes(g.home||''))
-    );
+    // 篩選追蹤球隊的賽事（用包含比對，更寬鬆）
+    const favGames = allGames.filter(g => {
+      const awayName = (g.away || '').toLowerCase();
+      const homeName = (g.home || '').toLowerCase();
+      return Settings.favTeams.some(t => {
+        const tl = t.toLowerCase();
+        return awayName.includes(tl) || homeName.includes(tl) ||
+               tl.includes(awayName) || tl.includes(homeName);
+      });
+    });
     // 把每場比賽的日期轉成台灣時間的 dateKey
     const gamesWithKey = favGames.map(g => {
       let dateKey = null;
