@@ -8,6 +8,7 @@
       "homeScore": null,
       "status": "scheduled",
       "time": "6/6 12:00",
+      "gameDate": "2026-06-06T04:00Z",
       "winner": null
     },
     {
@@ -18,8 +19,9 @@
       "homeScore": null,
       "status": "scheduled",
       "time": "6/6 12:00",
+      "gameDate": "2026-06-06T04:00Z",
       "winner": null
     }
   ],
-  "updatedAt": "2026-06-09T05:07:32.288Z"
+  "updatedAt": "2026-06-09T11:28:32.402Z"
 }
