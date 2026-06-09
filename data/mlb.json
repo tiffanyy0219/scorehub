@@ -8,7 +8,18 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "今天 06:35",
+      "time": "明天 06:35",
+      "winner": null
+    },
+    {
+      "league": "MLB",
+      "away": "Los Angeles Dodgers",
+      "home": "Pittsburgh Pirates",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "明天 06:40",
       "winner": null
     },
     {
@@ -19,7 +30,29 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "今天 06:40",
+      "time": "明天 06:40",
+      "winner": null
+    },
+    {
+      "league": "MLB",
+      "away": "Minnesota Twins",
+      "home": "Detroit Tigers",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "明天 06:40",
+      "winner": null
+    },
+    {
+      "league": "MLB",
+      "away": "Arizona Diamondbacks",
+      "home": "Miami Marlins",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "明天 06:40",
       "winner": null
     },
     {
@@ -30,7 +63,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "今天 06:40",
+      "time": "明天 06:40",
       "winner": null
     },
     {
@@ -41,7 +74,51 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "今天 07:07",
+      "time": "明天 07:07",
+      "winner": null
+    },
+    {
+      "league": "MLB",
+      "away": "St. Louis Cardinals",
+      "home": "New York Mets",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "明天 07:10",
+      "winner": null
+    },
+    {
+      "league": "MLB",
+      "away": "Texas Rangers",
+      "home": "Kansas City Royals",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "明天 07:40",
+      "winner": null
+    },
+    {
+      "league": "MLB",
+      "away": "Atlanta Braves",
+      "home": "Chicago White Sox",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "明天 07:40",
+      "winner": null
+    },
+    {
+      "league": "MLB",
+      "away": "Chicago Cubs",
+      "home": "Colorado Rockies",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "明天 08:40",
       "winner": null
     },
     {
@@ -52,7 +129,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "今天 09:38",
+      "time": "明天 09:38",
       "winner": null
     },
     {
@@ -63,7 +140,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "今天 09:40",
+      "time": "明天 09:40",
       "winner": null
     },
     {
@@ -74,7 +151,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "今天 09:45",
+      "time": "明天 09:45",
       "winner": null
     },
     {
@@ -85,7 +162,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "今天 10:05",
+      "time": "明天 10:05",
       "winner": null
     }
   ],
@@ -101,33 +178,33 @@
       "rows": [
         [
           "Rays",
-          "37",
+          "38",
           "25",
-          ".597"
+          ".603"
         ],
         [
           "Yankees",
-          "38",
+          "39",
           "26",
-          ".594"
+          ".600"
         ],
         [
           "Blue Jays",
           "32",
-          "34",
-          ".485"
+          "35",
+          ".478"
         ],
         [
           "Orioles",
           "31",
-          "35",
-          ".470"
+          "36",
+          ".463"
         ],
         [
           "Red Sox",
           "27",
-          "36",
-          ".429"
+          "37",
+          ".422"
         ]
       ]
     },
@@ -143,8 +220,8 @@
         [
           "Guardians",
           "37",
-          "30",
-          ".552"
+          "31",
+          ".544"
         ],
         [
           "White Sox",
@@ -183,9 +260,9 @@
       "rows": [
         [
           "Mariners",
-          "34",
+          "35",
           "32",
-          ".515"
+          ".522"
         ],
         [
           "Rangers",
@@ -201,18 +278,18 @@
         ],
         [
           "Astros",
-          "30",
+          "31",
           "37",
-          ".448"
+          ".456"
         ],
         [
           "Angels",
           "25",
-          "41",
-          ".379"
+          "42",
+          ".373"
         ]
       ]
     }
   ],
-  "updatedAt": "2026-06-08T21:28:41.275Z"
+  "updatedAt": "2026-06-09T05:07:27.150Z"
 }
