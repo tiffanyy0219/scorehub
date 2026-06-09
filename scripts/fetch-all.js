@@ -42,8 +42,17 @@ async function fetchMLB() {
     const json = await res.json();
     const schedule = [], standings = [];
 
+    // 台灣時間今天的範圍
+    const nowTW = new Date(new Date().toLocaleString('en-US', { timeZone: 'Asia/Taipei' }));
+    const startTW = new Date(nowTW); startTW.setHours(0,0,0,0);
+    const endTW   = new Date(nowTW); endTW.setHours(23,59,59,999);
+
     for (const date of json.dates || []) {
       for (const g of date.games) {
+        // 只取台灣時間今天的比賽
+        const gameTW = new Date(new Date(g.gameDate).toLocaleString('en-US', { timeZone: 'Asia/Taipei' }));
+        if (gameTW < startTW || gameTW > endTW) continue;
+
         const away = g.teams.away, home = g.teams.home;
         const st = g.status.abstractGameState;
         const isLive = st === 'Live', isFinal = st === 'Final';
@@ -58,18 +67,19 @@ async function fetchMLB() {
           liveInfo: isLive ? `${ls.currentInningHalf || ''} ${ls.currentInning || ''}局` : null,
           time: toTaipeiTime(g.gameDate),
           winner: isFinal ? (away.score > home.score ? 'away' : 'home') : null,
+          gameDate: g.gameDate,
         });
       }
     }
 
-    // 排行榜
+    // 排行榜 - 全部 6 個分區
     const sRes = await fetch('https://statsapi.mlb.com/api/v1/standings?leagueId=103,104&season=2026&standingsTypes=regularSeason');
     const sJson = await sRes.json();
-    for (const rec of (sJson.records || []).slice(0, 3)) {
+    for (const rec of (sJson.records || [])) {
       standings.push({
-        label: `MLB ${rec.division.nameShort}`,
+        label: `MLB ${rec.division.nameShort || rec.division.name}`,
         headers: ['球隊', '勝', '敗', '勝率'],
-        rows: rec.teamRecords.slice(0, 5).map(t => [t.team.name, String(t.wins), String(t.losses), t.winningPercentage]),
+        rows: rec.teamRecords.map(t => [t.team.name, String(t.wins), String(t.losses), t.winningPercentage]),
       });
     }
 
@@ -99,6 +109,7 @@ async function fetchF1() {
         title: r.raceName,
         subtitle: `第${r.round}站 · ${r.Circuit.circuitName}`,
         time: r.date,
+        gameDate: r.date + 'T' + (r.time || '14:00:00Z'),
         status: raceDate < now ? 'final' : 'scheduled',
       };
     });
@@ -149,6 +160,7 @@ async function fetchNBA() {
         awayScore: (isFinal || isLive) ? Number(away?.score) : null,
         status: isFinal ? 'final' : isLive ? 'live' : 'scheduled',
         time: toTaipeiTime(e.date),
+        gameDate: e.date,
         liveInfo: isLive ? comp?.status?.displayClock : null,
         winner: isFinal ? (Number(home?.score) > Number(away?.score) ? 'home' : 'away') : null,
       };
@@ -180,6 +192,7 @@ async function fetchWNBA() {
         awayScore: (isFinal || isLive) ? Number(away?.score) : null,
         status: isFinal ? 'final' : isLive ? 'live' : 'scheduled',
         time: toTaipeiTime(e.date),
+        gameDate: e.date,
         liveInfo: isLive ? comp?.status?.displayClock : null,
         winner: isFinal ? (Number(home?.score) > Number(away?.score) ? 'home' : 'away') : null,
       };
@@ -229,9 +242,9 @@ async function fetchCPBL() {
     // 備用靜態資料
     save('cpbl.json', {
       schedule: [
-        { league:'中職', away:'中信兄弟', home:'統一7-ELEVEn獅', status:'scheduled', time:'今天 18:35' },
-        { league:'中職', away:'樂天桃猿', home:'富邦悍將', status:'scheduled', time:'今天 18:35' },
-        { league:'中職', away:'味全龍', home:'台鋼雄鷹', status:'scheduled', time:'今天 18:35' },
+        { league:'中職', away:'中信兄弟', home:'統一7-ELEVEn獅', status:'scheduled', time:'今天 18:35', gameDate: new Date().toISOString() },
+        { league:'中職', away:'樂天桃猿', home:'富邦悍將', status:'scheduled', time:'今天 18:35', gameDate: new Date().toISOString() },
+        { league:'中職', away:'味全龍', home:'台鋼雄鷹', status:'scheduled', time:'今天 18:35', gameDate: new Date().toISOString() },
       ],
       error: e.message
     });
@@ -253,9 +266,9 @@ async function fetchNPB() {
   } catch {
     save('npb.json', {
       schedule: [
-        { league:'日職', away:'讀賣巨人', home:'阪神虎', status:'scheduled', time:'今天 18:00' },
-        { league:'日職', away:'福岡軟銀鷹', home:'埼玉西武獅', status:'scheduled', time:'今天 18:00' },
-        { league:'日職', away:'東北樂天金鷹', home:'千葉羅德海洋', status:'scheduled', time:'今天 18:00' },
+        { league:'日職', away:'讀賣巨人', home:'阪神虎', status:'scheduled', time:'今天 18:00', gameDate: new Date().toISOString() },
+        { league:'日職', away:'福岡軟銀鷹', home:'埼玉西武獅', status:'scheduled', time:'今天 18:00', gameDate: new Date().toISOString() },
+        { league:'日職', away:'東北樂天金鷹', home:'千葉羅德海洋', status:'scheduled', time:'今天 18:00', gameDate: new Date().toISOString() },
       ],
       note: '日職暫無免費API，顯示靜態賽程',
       updatedAt: new Date().toISOString()
@@ -340,6 +353,7 @@ async function fetchCBA() {
         awayScore: (isFinal || isLive) ? Number(away?.score) : null,
         status: isFinal ? 'final' : isLive ? 'live' : 'scheduled',
         time: toTaipeiTime(e.date),
+        gameDate: e.date,
         winner: isFinal ? (Number(home?.score) > Number(away?.score) ? 'home' : 'away') : null,
       };
     });
@@ -382,6 +396,7 @@ async function fetchBLeague() {
         awayScore: (isFinal || isLive) ? Number(away?.score) : null,
         status: isFinal ? 'final' : isLive ? 'live' : 'scheduled',
         time: toTaipeiTime(e.date),
+        gameDate: e.date,
         winner: isFinal ? (Number(home?.score) > Number(away?.score) ? 'home' : 'away') : null,
       };
     });
@@ -432,6 +447,7 @@ async function fetchSoccer() {
             awayScore: (isFinal || isLive) ? Number(away?.score) : null,
             status: isFinal ? 'final' : isLive ? 'live' : 'scheduled',
             time: toTaipeiTime(e.date),
+            gameDate: e.date,
             winner: isFinal ? (Number(home?.score) > Number(away?.score) ? 'home' : Number(away?.score) > Number(home?.score) ? 'away' : 'draw') : null,
           });
         }
@@ -471,6 +487,7 @@ async function fetchTennis() {
         homeScore: (isFinal || isLive) ? p2?.score : null,
         status: isFinal ? 'final' : isLive ? 'live' : 'scheduled',
         time: toTaipeiTime(e.date),
+        gameDate: e.date,
         winner: isFinal ? (p1?.winner ? 'away' : 'home') : null,
       };
     });
