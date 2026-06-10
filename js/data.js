@@ -24,8 +24,8 @@ const BROADCAST = {
   'Ligue 1':   { p:['DAZN'], free:[] },
   'Champions League': { p:['愛爾達體育','HamiVideo'], free:[] },
   F1:          { p:['愛爾達體育','HamiVideo'], free:[] },
-  ATP:         { p:['愛爾達體育','DAZN'], free:[] },
-  WTA:         { p:['愛爾達體育','DAZN'], free:[] },
+  ATP:         { p:['愛爾達體育','ELTA.tv','HamiVideo'], free:[], note:'大滿貫依各台節目表為準' },
+  WTA:         { p:['愛爾達體育','ELTA.tv','HamiVideo'], free:[], note:'大滿貫依各台節目表為準' },
 };
 
 // ── 聯賽導覽列 ──

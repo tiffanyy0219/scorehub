@@ -8,7 +8,6 @@ const App = {
   async init() {
     this.applyLang();
     this.bindSportNav();
-    this.bindViewBar();
     this.bindBottomNav();
     this.bindSettings();
     this.renderLeagueBar();
@@ -19,7 +18,6 @@ const App = {
 
   applyLang() {
     const T = Settings.t();
-    document.querySelectorAll('.view-btn').forEach(b => { if(b.dataset.view) b.textContent = T[b.dataset.view] || b.textContent; });
     document.querySelectorAll('.nav-btn span').forEach(s => {
       const v = s.closest('.nav-btn')?.dataset.view;
       if (v && T[v]) s.textContent = T[v];
@@ -38,23 +36,11 @@ const App = {
     });
   },
 
-  bindViewBar() {
-    document.querySelectorAll('.view-btn').forEach(btn => {
-      btn.addEventListener('click', async () => {
-        this.view = btn.dataset.view;
-        document.querySelectorAll('.view-btn').forEach(b => b.classList.toggle('active', b === btn));
-        document.querySelectorAll('.nav-btn').forEach(b => b.classList.toggle('active', b.dataset.view === this.view));
-        await this.loadAndRender();
-      });
-    });
-  },
-
   bindBottomNav() {
     document.querySelectorAll('.nav-btn[data-view]').forEach(btn => {
       btn.addEventListener('click', async () => {
         this.view = btn.dataset.view;
         document.querySelectorAll('.nav-btn').forEach(b => b.classList.toggle('active', b === btn));
-        document.querySelectorAll('.view-btn').forEach(b => b.classList.toggle('active', b.dataset.view === this.view));
         await this.loadAndRender();
       });
     });
