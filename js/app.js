@@ -114,7 +114,10 @@ const App = {
         this.loadJSON('plg.json'),this.loadJSON('cba.json'),this.loadJSON('bleague.json'),
       ]);
       games = [...(nba?.schedule||[]),...(wnba?.schedule||[]),...(tpbl?.schedule||[]),...(plg?.schedule||[]),...(cba?.schedule||[]),...(bl?.schedule||[])];
-      standings = STATIC_STANDINGS.basketball;
+      // 優先用API抓到的NBA排行，沒有才用靜態
+      const nbaStandings = nba?.standings?.length ? nba.standings : STATIC_STANDINGS.basketball.filter(s=>s.lid==='NBA');
+      const otherStandings = STATIC_STANDINGS.basketball.filter(s=>s.lid!=='NBA');
+      standings = [...nbaStandings, ...otherStandings];
     } else if (this.sport === 'soccer') {
       const soccer = await this.loadJSON('soccer.json');
       games = soccer?.schedule || [];

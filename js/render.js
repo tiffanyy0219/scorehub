@@ -86,7 +86,12 @@ function standingsHTML(blocks, filterLid) {
 }
 
 function scheduleHTML(games, view, league) {
-  let list = games.filter(g => Settings.enabledLeagues.has(g.league));
+  let list = games.filter(g => {
+    if (!Settings.enabledLeagues.has(g.league)) return false;
+    // 過濾掉球隊/球員名稱為空的賽事
+    if (!g.singleEvent && !g.title && (!g.away || !g.home)) return false;
+    return true;
+  });
   if (league && league !== 'all') list = list.filter(g => g.league === league);
   if (view === 'live') {
     const live = list.filter(g => isLiveStatus(g.status));
