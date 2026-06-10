@@ -86,29 +86,22 @@ function standingsHTML(blocks, filterLid) {
 }
 
 function scheduleHTML(games, view, league) {
+  const T = Settings.t();
   let list = games.filter(g => {
     if (!Settings.enabledLeagues.has(g.league)) return false;
-    // 過濾掉球隊/球員名稱為空的賽事
     if (!g.singleEvent && !g.title && (!g.away || !g.home)) return false;
     return true;
   });
   if (league && league !== 'all') list = list.filter(g => g.league === league);
-  if (view === 'live') {
-    const live = list.filter(g => isLiveStatus(g.status));
-    const fin  = list.filter(g => isFinalStatus(g.status));
-    let h = '';
-    if (live.length) h += `<div class="sec-label">🔴 直播中</div>` + live.map(cardHTML).join('');
-    if (fin.length)  h += `<div class="sec-label">今日結果</div>` + fin.map(cardHTML).join('');
-    return h || `<div class="empty"><div class="empty-icon">📡</div>目前無直播賽事</div>`;
-  }
+
   const live  = list.filter(g => isLiveStatus(g.status));
   const sched = list.filter(g => isSchedStatus(g.status));
   const fin   = list.filter(g => isFinalStatus(g.status));
   let h = '';
-  if (live.length)  h += `<div class="sec-label">🔴 直播中</div>` + live.map(cardHTML).join('');
-  if (sched.length) h += `<div class="sec-label">即將開賽</div>` + sched.map(cardHTML).join('');
-  if (fin.length)   h += `<div class="sec-label">已結束</div>` + fin.map(cardHTML).join('');
-  return h || `<div class="empty"><div class="empty-icon">📭</div>今日暫無賽事</div>`;
+  if (live.length)  h += `<div class="sec-label">${T.live_now}</div>` + live.map(cardHTML).join('');
+  if (sched.length) h += `<div class="sec-label">${T.upcoming}</div>` + sched.map(cardHTML).join('');
+  if (fin.length)   h += `<div class="sec-label">${T.finished}</div>` + fin.map(cardHTML).join('');
+  return h || `<div class="empty"><div class="empty-icon">📭</div>${T.no_games}</div>`;
 }
 
 function skeletonHTML() {

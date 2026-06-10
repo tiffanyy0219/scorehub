@@ -380,7 +380,29 @@ function addFav(t) { if(t&&!Settings.favTeams.includes(t)){Settings.favTeams.pus
 function rmFav(t) { Settings.favTeams=Settings.favTeams.filter(x=>x!==t); Settings.save(); renderFavList(); }
 function chColor(id,c) { LC[id]=c; document.querySelectorAll('.lcheck').forEach(el=>{ if(el.querySelector('.lname')?.textContent===id) el.querySelector('.cswatch').style.background=c; }); }
 function togLeague(id,el) { if(Settings.enabledLeagues.has(id))Settings.enabledLeagues.delete(id);else Settings.enabledLeagues.add(id); el.classList.toggle('on'); Settings.save(); }
-function setLang(l) { Settings.lang=l; Settings.save(); renderSettingsPanel(); }
+function setLang(l) {
+  Settings.lang = l;
+  Settings.save();
+  renderSettingsPanel();
+  // 重新渲染底部導覽列文字
+  const T = Settings.t();
+  document.querySelectorAll('.nav-btn span').forEach(s => {
+    const v = s.closest('.nav-btn')?.dataset.view;
+    if (v && T[v]) s.textContent = T[v];
+  });
+  // 重新渲染運動導覽列
+  const sportLabels = {
+    baseball: { zh:'⚾ 棒球', en:'⚾ Baseball', ja:'⚾ 野球', ko:'⚾ 야구', fr:'⚾ Baseball' },
+    basketball: { zh:'🏀 籃球', en:'🏀 Basketball', ja:'🏀 バスケ', ko:'🏀 농구', fr:'🏀 Basketball' },
+    soccer: { zh:'⚽ 足球', en:'⚽ Soccer', ja:'⚽ サッカー', ko:'⚽ 축구', fr:'⚽ Football' },
+    f1: { zh:'🏎 F1', en:'🏎 F1', ja:'🏎 F1', ko:'🏎 F1', fr:'🏎 F1' },
+    tennis: { zh:'🎾 網球', en:'🎾 Tennis', ja:'🎾 テニス', ko:'🎾 테니스', fr:'🎾 Tennis' },
+  };
+  document.querySelectorAll('.sport-btn').forEach(btn => {
+    const s = btn.dataset.sport;
+    if (sportLabels[s]?.[l]) btn.textContent = sportLabels[s][l];
+  });
+}
 function setTZ(v) { Settings.tz=v; Settings.save(); }
 
 document.addEventListener('DOMContentLoaded', ()=>App.init());
