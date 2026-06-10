@@ -6,32 +6,32 @@
       "home": "Tampa Bay Rays",
       "awayScore": 5,
       "homeScore": 7,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "今天 01:10",
       "gameDate": "2026-06-10T17:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "New York Yankees",
       "home": "Cleveland Guardians",
       "awayScore": 8,
-      "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 8局",
+      "homeScore": 4,
+      "status": "final",
+      "liveInfo": null,
       "time": "今天 01:10",
       "gameDate": "2026-06-10T17:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Washington Nationals",
       "home": "San Francisco Giants",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 9,
+      "homeScore": 6,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 8局",
       "time": "今天 03:45",
       "gameDate": "2026-06-10T19:45:00Z",
       "winner": null
@@ -40,10 +40,10 @@
       "league": "MLB",
       "away": "Cincinnati Reds",
       "home": "San Diego Padres",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 4,
+      "homeScore": 3,
+      "status": "live",
+      "liveInfo": " 8局",
       "time": "今天 04:10",
       "gameDate": "2026-06-10T20:10:00Z",
       "winner": null
@@ -52,10 +52,10 @@
       "league": "MLB",
       "away": "Seattle Mariners",
       "home": "Baltimore Orioles",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "今天 06:35",
       "gameDate": "2026-06-10T22:35:00Z",
       "winner": null
@@ -64,10 +64,10 @@
       "league": "MLB",
       "away": "Los Angeles Dodgers",
       "home": "Pittsburgh Pirates",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "今天 06:40",
       "gameDate": "2026-06-10T22:40:00Z",
       "winner": null
@@ -76,10 +76,10 @@
       "league": "MLB",
       "away": "Minnesota Twins",
       "home": "Detroit Tigers",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "今天 06:40",
       "gameDate": "2026-06-10T22:40:00Z",
       "winner": null
@@ -88,10 +88,10 @@
       "league": "MLB",
       "away": "Arizona Diamondbacks",
       "home": "Miami Marlins",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "今天 06:40",
       "gameDate": "2026-06-10T22:40:00Z",
       "winner": null
@@ -5017,15 +5017,15 @@
       "rows": [
         [
           "Rays",
-          "39",
+          "40",
           "25",
-          ".609"
+          ".615"
         ],
         [
           "Yankees",
-          "40",
+          "41",
           "26",
-          ".606"
+          ".612"
         ],
         [
           "Blue Jays",
@@ -5042,8 +5042,8 @@
         [
           "Red Sox",
           "27",
-          "38",
-          ".415"
+          "39",
+          ".409"
         ]
       ]
     },
@@ -5057,16 +5057,16 @@
       ],
       "rows": [
         [
-          "Guardians",
-          "37",
-          "32",
-          ".536"
-        ],
-        [
           "White Sox",
           "35",
           "31",
           ".530"
+        ],
+        [
+          "Guardians",
+          "37",
+          "33",
+          ".529"
         ],
         [
           "Twins",
@@ -5253,5 +5253,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-10T19:44:24.419Z"
+  "updatedAt": "2026-06-10T22:27:33.703Z"
 }
