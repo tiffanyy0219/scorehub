@@ -2,12 +2,14 @@
   "schedule": [
     {
       "league": "BLeague",
-      "away": "宇都宮Brex",
-      "home": "千葉Jets",
+      "singleEvent": true,
+      "title": "B.League 2026-27 新賽季",
+      "subtitle": "Alvark Tokyo vs 琉球Golden Kings",
+      "time": "9/22 開幕",
       "status": "scheduled",
-      "time": "今天 18:05"
+      "gameDate": "2026-09-22T10:00:00Z"
     }
   ],
   "error": "無賽事",
-  "updatedAt": "2026-06-09T21:24:25.129Z"
+  "updatedAt": "2026-06-10T02:41:48.172Z"
 }

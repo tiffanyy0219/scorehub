@@ -2,42 +2,6 @@
   "schedule": [
     {
       "league": "WNBA",
-      "home": "Chicago Sky",
-      "away": "Atlanta Dream",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "今天 07:00",
-      "gameDate": "2026-06-09T23:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "WNBA",
-      "home": "Minnesota Lynx",
-      "away": "Dallas Wings",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "今天 08:00",
-      "gameDate": "2026-06-10T00:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "WNBA",
-      "home": "Golden State Valkyries",
-      "away": "Phoenix Mercury",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "今天 10:00",
-      "gameDate": "2026-06-10T02:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "WNBA",
       "home": "Toronto Tempo",
       "away": "Connecticut Sun",
       "homeScore": null,
@@ -923,7 +887,43 @@
       "gameDate": "2026-07-09T02:00Z",
       "liveInfo": null,
       "winner": null
+    },
+    {
+      "league": "WNBA",
+      "home": "Atlanta Dream",
+      "away": "Seattle Storm",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "7/10 08:00",
+      "gameDate": "2026-07-10T00:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "WNBA",
+      "home": "Phoenix Mercury",
+      "away": "Indiana Fever",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "7/10 10:00",
+      "gameDate": "2026-07-10T02:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "WNBA",
+      "home": "Portland Fire",
+      "away": "Las Vegas Aces",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "7/10 10:00",
+      "gameDate": "2026-07-10T02:00Z",
+      "liveInfo": null,
+      "winner": null
     }
   ],
-  "updatedAt": "2026-06-09T21:24:22.021Z"
+  "updatedAt": "2026-06-10T02:41:29.958Z"
 }

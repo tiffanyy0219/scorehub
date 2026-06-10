@@ -2,19 +2,23 @@
   "schedule": [
     {
       "league": "TPBL",
-      "away": "桃園台啤豹",
-      "home": "新北國王",
-      "status": "scheduled",
-      "time": "今天 19:00"
+      "singleEvent": true,
+      "title": "TPBL 2025-26 總冠軍賽",
+      "subtitle": "目前進行中，請至官網查詢最新賽程",
+      "time": "5/24 起",
+      "status": "live",
+      "gameDate": "2026-05-24T11:00:00Z"
     },
     {
       "league": "TPBL",
-      "away": "高雄全家海神",
-      "home": "福爾摩沙夢想家",
+      "singleEvent": true,
+      "title": "TPBL 2026-27 新賽季",
+      "subtitle": "預計 2026 年 10 月開打",
+      "time": "2026/10",
       "status": "scheduled",
-      "time": "今天 19:00"
+      "gameDate": "2026-10-01T11:00:00Z"
     }
   ],
-  "note": "TPBL 賽季已結束（2026/5/19），顯示靜態資料",
-  "updatedAt": "2026-06-09T21:24:25.060Z"
+  "note": "TPBL 暫無免費 API",
+  "updatedAt": "2026-06-10T02:41:32.375Z"
 }

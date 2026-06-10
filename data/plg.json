@@ -2,19 +2,14 @@
   "schedule": [
     {
       "league": "PLG",
-      "away": "台北富邦勇士",
-      "home": "桃園璞園領航猿",
+      "singleEvent": true,
+      "title": "P.League+ 2025-26 賽季",
+      "subtitle": "預計 2026 年秋季繼續，請至官網查詢",
+      "time": "休賽中",
       "status": "scheduled",
-      "time": "今天 19:30"
-    },
-    {
-      "league": "PLG",
-      "away": "台鋼獵鷹",
-      "home": "洋基工程",
-      "status": "scheduled",
-      "time": "今天 19:30"
+      "gameDate": "2026-10-01T11:00:00Z"
     }
   ],
   "note": "PLG 暫無免費API",
-  "updatedAt": "2026-06-09T21:24:25.060Z"
+  "updatedAt": "2026-06-10T02:41:32.375Z"
 }
