@@ -169,8 +169,34 @@ async function fetchNBA() {
         }
       } catch {}
     }
-    save('nba.json', { schedule: allGames, updatedAt: new Date().toISOString() });
-  } catch (e) { console.error('❌ NBA 失敗:', e.message); save('nba.json', { schedule: [], error: e.message }); }
+
+    // 抓 NBA 排行榜
+    const standings = { east: [], west: [] };
+    try {
+      const sRes = await fetch('https://site.api.espn.com/apis/v2/sports/basketball/nba/standings', { headers: { 'User-Agent': 'Mozilla/5.0' } });
+      const sJson = await sRes.json();
+      for (const group of (sJson.children || [])) {
+        const conf = group.name || '';
+        for (const team of (group.standings?.entries || [])) {
+          const name = team.team?.displayName || '';
+          const stats = {};
+          for (const s of (team.stats || [])) stats[s.name] = s.value;
+          const row = [name, String(stats.wins||0), String(stats.losses||0), (stats.winPercent||0).toFixed(3)];
+          if (conf.includes('East')) standings.east.push(row);
+          else standings.west.push(row);
+        }
+      }
+    } catch {}
+
+    save('nba.json', {
+      schedule: allGames,
+      standings: [
+        standings.east.length ? { label:'NBA 東區 2025-26', headers:['球隊','勝','敗','勝率'], rows: standings.east } : null,
+        standings.west.length ? { label:'NBA 西區 2025-26', headers:['球隊','勝','敗','勝率'], rows: standings.west } : null,
+      ].filter(Boolean),
+      updatedAt: new Date().toISOString()
+    });
+  } catch (e) { console.error('❌ NBA 失敗:', e.message); save('nba.json', { schedule: [], standings:[], error: e.message }); }
 }
 
 async function fetchWNBA() {
@@ -542,10 +568,13 @@ async function fetchTennis() {
           const status = comp?.status?.type?.name;
           const isFinal = status === 'STATUS_FINAL';
           const isLive = status === 'STATUS_IN_PROGRESS';
+          const p1Name = p1?.athlete?.displayName || '';
+          const p2Name = p2?.athlete?.displayName || '';
+          if (!p1Name || !p2Name) continue; // 跳過沒有球員名字的資料
           staticSchedule.push({
             league: 'ATP',
-            away: p1?.athlete?.displayName || '',
-            home: p2?.athlete?.displayName || '',
+            away: p1Name,
+            home: p2Name,
             awayScore: (isFinal || isLive) ? p1?.score : null,
             homeScore: (isFinal || isLive) ? p2?.score : null,
             status: isFinal ? 'final' : isLive ? 'live' : 'scheduled',
