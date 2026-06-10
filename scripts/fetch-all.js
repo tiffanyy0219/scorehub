@@ -318,10 +318,10 @@ async function fetchTPBL() {
     console.error('❌ TPBL 失敗:', e.message);
     save('tpbl.json', {
       schedule: [
-        { league:'TPBL', away:'桃園台啤豹', home:'新北國王', status:'scheduled', time:'今天 19:00' },
-        { league:'TPBL', away:'高雄全家海神', home:'福爾摩沙夢想家', status:'scheduled', time:'今天 19:00' },
+        { league:'TPBL', singleEvent:true, title:'TPBL 2025-26 總冠軍賽', subtitle:'目前進行中，請至官網查詢最新賽程', time:'5/24 起', status:'live', gameDate: '2026-05-24T11:00:00Z' },
+        { league:'TPBL', singleEvent:true, title:'TPBL 2026-27 新賽季', subtitle:'預計 2026 年 10 月開打', time:'2026/10', status:'scheduled', gameDate: '2026-10-01T11:00:00Z' },
       ],
-      note: 'TPBL 賽季已結束（2026/5/19），顯示靜態資料',
+      note: 'TPBL 暫無免費 API',
       updatedAt: new Date().toISOString()
     });
   }
@@ -331,8 +331,7 @@ async function fetchPLG() {
   console.log('📡 抓取 P.League+...');
   save('plg.json', {
     schedule: [
-      { league:'PLG', away:'台北富邦勇士', home:'桃園璞園領航猿', status:'scheduled', time:'今天 19:30' },
-      { league:'PLG', away:'台鋼獵鷹', home:'洋基工程', status:'scheduled', time:'今天 19:30' },
+      { league:'PLG', singleEvent:true, title:'P.League+ 2025-26 賽季', subtitle:'預計 2026 年秋季繼續，請至官網查詢', time:'休賽中', status:'scheduled', gameDate: '2026-10-01T11:00:00Z' },
     ],
     note: 'PLG 暫無免費API',
     updatedAt: new Date().toISOString()
@@ -345,32 +344,41 @@ async function fetchPLG() {
 async function fetchCBA() {
   console.log('📡 抓取 CBA...');
   try {
-    const res = await fetch(
-      `https://site.api.espn.com/apis/site/v2/sports/basketball/cba/scoreboard?dates=${today.replace(/-/g,'')}`,
-      { headers: { 'User-Agent': 'Mozilla/5.0' } }
-    );
-    const json = await res.json();
-    const schedule = (json.events || []).map(e => {
-      const comp = e.competitions?.[0];
-      const home = comp?.competitors?.find(t => t.homeAway === 'home');
-      const away = comp?.competitors?.find(t => t.homeAway === 'away');
-      const status = comp?.status?.type?.name;
-      const isFinal = status === 'STATUS_FINAL';
-      const isLive = status === 'STATUS_IN_PROGRESS';
-      return {
-        league: 'CBA',
-        home: home?.team?.displayName || '',
-        away: away?.team?.displayName || '',
-        homeScore: (isFinal || isLive) ? Number(home?.score) : null,
-        awayScore: (isFinal || isLive) ? Number(away?.score) : null,
-        status: isFinal ? 'final' : isLive ? 'live' : 'scheduled',
-        time: toTaipeiTime(e.date),
-        gameDate: e.date,
-        winner: isFinal ? (Number(home?.score) > Number(away?.score) ? 'home' : 'away') : null,
-      };
-    });
-    if (!schedule.length) throw new Error('無賽事');
-    save('cba.json', { schedule, updatedAt: new Date().toISOString() });
+    const now = new Date();
+    const allGames = [];
+    for (let i = 0; i < 30; i++) {
+      const d = new Date(now.getTime() + i * 86400000);
+      const dateStr = d.toISOString().slice(0,10).replace(/-/g,'');
+      try {
+        const res = await fetch(
+          `https://site.api.espn.com/apis/site/v2/sports/basketball/cba/scoreboard?dates=${dateStr}`,
+          { headers: { 'User-Agent': 'Mozilla/5.0' } }
+        );
+        const json = await res.json();
+        for (const e of (json.events || [])) {
+          const comp = e.competitions?.[0];
+          const home = comp?.competitors?.find(t => t.homeAway === 'home');
+          const away = comp?.competitors?.find(t => t.homeAway === 'away');
+          const status = comp?.status?.type?.name;
+          const isFinal = status === 'STATUS_FINAL';
+          const isLive = status === 'STATUS_IN_PROGRESS';
+          allGames.push({
+            league: 'CBA',
+            home: home?.team?.displayName || '',
+            away: away?.team?.displayName || '',
+            homeScore: (isFinal || isLive) ? Number(home?.score) : null,
+            awayScore: (isFinal || isLive) ? Number(away?.score) : null,
+            status: isFinal ? 'final' : isLive ? 'live' : 'scheduled',
+            time: toTaipeiTime(e.date),
+            gameDate: e.date,
+            winner: isFinal ? (Number(home?.score) > Number(away?.score) ? 'home' : 'away') : null,
+          });
+        }
+      } catch {}
+      await new Promise(r => setTimeout(r, 200));
+    }
+    if (!allGames.length) throw new Error('無賽事');
+    save('cba.json', { schedule: allGames, updatedAt: new Date().toISOString() });
   } catch (e) {
     console.error('❌ CBA 失敗:', e.message);
     save('cba.json', {
@@ -388,35 +396,47 @@ async function fetchCBA() {
 async function fetchBLeague() {
   console.log('📡 抓取 B.League...');
   try {
-    const res = await fetch(
-      `https://site.api.espn.com/apis/site/v2/sports/basketball/bleague/scoreboard?dates=${today.replace(/-/g,'')}`,
-      { headers: { 'User-Agent': 'Mozilla/5.0' } }
-    );
-    const json = await res.json();
-    const schedule = (json.events || []).map(e => {
-      const comp = e.competitions?.[0];
-      const home = comp?.competitors?.find(t => t.homeAway === 'home');
-      const away = comp?.competitors?.find(t => t.homeAway === 'away');
-      const status = comp?.status?.type?.name;
-      const isFinal = status === 'STATUS_FINAL';
-      const isLive = status === 'STATUS_IN_PROGRESS';
-      return {
-        league: 'BLeague',
-        home: home?.team?.displayName || '',
-        away: away?.team?.displayName || '',
-        homeScore: (isFinal || isLive) ? Number(home?.score) : null,
-        awayScore: (isFinal || isLive) ? Number(away?.score) : null,
-        status: isFinal ? 'final' : isLive ? 'live' : 'scheduled',
-        time: toTaipeiTime(e.date),
-        gameDate: e.date,
-        winner: isFinal ? (Number(home?.score) > Number(away?.score) ? 'home' : 'away') : null,
-      };
-    });
-    if (!schedule.length) throw new Error('無賽事');
-    save('bleague.json', { schedule, updatedAt: new Date().toISOString() });
+    const now = new Date();
+    const allGames = [];
+    for (let i = 0; i < 30; i++) {
+      const d = new Date(now.getTime() + i * 86400000);
+      const dateStr = d.toISOString().slice(0,10).replace(/-/g,'');
+      try {
+        const res = await fetch(
+          `https://site.api.espn.com/apis/site/v2/sports/basketball/bleague/scoreboard?dates=${dateStr}`,
+          { headers: { 'User-Agent': 'Mozilla/5.0' } }
+        );
+        const json = await res.json();
+        for (const e of (json.events || [])) {
+          const comp = e.competitions?.[0];
+          const home = comp?.competitors?.find(t => t.homeAway === 'home');
+          const away = comp?.competitors?.find(t => t.homeAway === 'away');
+          const status = comp?.status?.type?.name;
+          const isFinal = status === 'STATUS_FINAL';
+          const isLive = status === 'STATUS_IN_PROGRESS';
+          allGames.push({
+            league: 'BLeague',
+            home: home?.team?.displayName || '',
+            away: away?.team?.displayName || '',
+            homeScore: (isFinal || isLive) ? Number(home?.score) : null,
+            awayScore: (isFinal || isLive) ? Number(away?.score) : null,
+            status: isFinal ? 'final' : isLive ? 'live' : 'scheduled',
+            time: toTaipeiTime(e.date),
+            gameDate: e.date,
+            winner: isFinal ? (Number(home?.score) > Number(away?.score) ? 'home' : 'away') : null,
+          });
+        }
+      } catch {}
+      await new Promise(r => setTimeout(r, 200));
+    }
+    if (!allGames.length) throw new Error('無賽事');
+    save('bleague.json', { schedule: allGames, updatedAt: new Date().toISOString() });
   } catch (e) {
+    // B.League 2026-27 新賽季 9/22 開打
     save('bleague.json', {
-      schedule: [{ league:'BLeague', away:'宇都宮Brex', home:'千葉Jets', status:'scheduled', time:'今天 18:05' }],
+      schedule: [
+        { league:'BLeague', singleEvent:true, title:'B.League 2026-27 新賽季', subtitle:'Alvark Tokyo vs 琉球Golden Kings', time:'9/22 開幕', status:'scheduled', gameDate: '2026-09-22T10:00:00Z' },
+      ],
       error: e.message, updatedAt: new Date().toISOString()
     });
   }
@@ -427,7 +447,6 @@ async function fetchBLeague() {
 // ═══════════════════════════════════════
 async function fetchSoccer() {
   console.log('📡 抓取 足球...');
-  // football-data.org 需要 API key，這裡用 ESPN 替代
   try {
     const competitions = [
       { id: 'eng.1', label: 'EPL' },
@@ -437,34 +456,39 @@ async function fetchSoccer() {
       { id: 'fra.1', label: 'Ligue 1' },
     ];
     const schedule = [];
+    const now = new Date();
     for (const comp of competitions) {
-      try {
-        const res = await fetch(
-          `https://site.api.espn.com/apis/site/v2/sports/soccer/${comp.id}/scoreboard?dates=${today.replace(/-/g,'')}`,
-          { headers: { 'User-Agent': 'Mozilla/5.0' } }
-        );
-        const json = await res.json();
-        for (const e of (json.events || [])) {
-          const c = e.competitions?.[0];
-          const home = c?.competitors?.find(t => t.homeAway === 'home');
-          const away = c?.competitors?.find(t => t.homeAway === 'away');
-          const status = c?.status?.type?.name;
-          const isFinal = status === 'STATUS_FINAL';
-          const isLive = status === 'STATUS_IN_PROGRESS';
-          schedule.push({
-            league: comp.label,
-            home: home?.team?.displayName || '',
-            away: away?.team?.displayName || '',
-            homeScore: (isFinal || isLive) ? Number(home?.score) : null,
-            awayScore: (isFinal || isLive) ? Number(away?.score) : null,
-            status: isFinal ? 'final' : isLive ? 'live' : 'scheduled',
-            time: toTaipeiTime(e.date),
-            gameDate: e.date,
-            winner: isFinal ? (Number(home?.score) > Number(away?.score) ? 'home' : Number(away?.score) > Number(home?.score) ? 'away' : 'draw') : null,
-          });
-        }
-      } catch {}
-      await new Promise(r => setTimeout(r, 500)); // 避免太快
+      for (let i = 0; i < 30; i++) {
+        const d = new Date(now.getTime() + i * 86400000);
+        const dateStr = d.toISOString().slice(0,10).replace(/-/g,'');
+        try {
+          const res = await fetch(
+            `https://site.api.espn.com/apis/site/v2/sports/soccer/${comp.id}/scoreboard?dates=${dateStr}`,
+            { headers: { 'User-Agent': 'Mozilla/5.0' } }
+          );
+          const json = await res.json();
+          for (const e of (json.events || [])) {
+            const c = e.competitions?.[0];
+            const home = c?.competitors?.find(t => t.homeAway === 'home');
+            const away = c?.competitors?.find(t => t.homeAway === 'away');
+            const status = c?.status?.type?.name;
+            const isFinal = status === 'STATUS_FINAL';
+            const isLive = status === 'STATUS_IN_PROGRESS';
+            schedule.push({
+              league: comp.label,
+              home: home?.team?.displayName || '',
+              away: away?.team?.displayName || '',
+              homeScore: (isFinal || isLive) ? Number(home?.score) : null,
+              awayScore: (isFinal || isLive) ? Number(away?.score) : null,
+              status: isFinal ? 'final' : isLive ? 'live' : 'scheduled',
+              time: toTaipeiTime(e.date),
+              gameDate: e.date,
+              winner: isFinal ? (Number(home?.score) > Number(away?.score) ? 'home' : Number(away?.score) > Number(home?.score) ? 'away' : 'draw') : null,
+            });
+          }
+        } catch {}
+        await new Promise(r => setTimeout(r, 200));
+      }
     }
     save('soccer.json', { schedule, updatedAt: new Date().toISOString() });
   } catch (e) {
@@ -473,37 +497,43 @@ async function fetchSoccer() {
   }
 }
 
-// ═══════════════════════════════════════
-// ── 網球（ATP/WTA）──
-// ═══════════════════════════════════════
 async function fetchTennis() {
   console.log('📡 抓取 網球...');
   try {
-    const res = await fetch(
-      `https://site.api.espn.com/apis/site/v2/sports/tennis/atp/scoreboard?dates=${today.replace(/-/g,'')}`,
-      { headers: { 'User-Agent': 'Mozilla/5.0' } }
-    );
-    const json = await res.json();
-    const schedule = (json.events || []).map(e => {
-      const comp = e.competitions?.[0];
-      const p1 = comp?.competitors?.[0];
-      const p2 = comp?.competitors?.[1];
-      const status = comp?.status?.type?.name;
-      const isFinal = status === 'STATUS_FINAL';
-      const isLive = status === 'STATUS_IN_PROGRESS';
-      return {
-        league: 'ATP',
-        away: p1?.athlete?.displayName || '',
-        home: p2?.athlete?.displayName || '',
-        awayScore: (isFinal || isLive) ? p1?.score : null,
-        homeScore: (isFinal || isLive) ? p2?.score : null,
-        status: isFinal ? 'final' : isLive ? 'live' : 'scheduled',
-        time: toTaipeiTime(e.date),
-        gameDate: e.date,
-        winner: isFinal ? (p1?.winner ? 'away' : 'home') : null,
-      };
-    });
-    save('tennis.json', { schedule, updatedAt: new Date().toISOString() });
+    const now = new Date();
+    const allGames = [];
+    for (let i = 0; i < 30; i++) {
+      const d = new Date(now.getTime() + i * 86400000);
+      const dateStr = d.toISOString().slice(0,10).replace(/-/g,'');
+      try {
+        const res = await fetch(
+          `https://site.api.espn.com/apis/site/v2/sports/tennis/atp/scoreboard?dates=${dateStr}`,
+          { headers: { 'User-Agent': 'Mozilla/5.0' } }
+        );
+        const json = await res.json();
+        for (const e of (json.events || [])) {
+          const comp = e.competitions?.[0];
+          const p1 = comp?.competitors?.[0];
+          const p2 = comp?.competitors?.[1];
+          const status = comp?.status?.type?.name;
+          const isFinal = status === 'STATUS_FINAL';
+          const isLive = status === 'STATUS_IN_PROGRESS';
+          allGames.push({
+            league: 'ATP',
+            away: p1?.athlete?.displayName || '',
+            home: p2?.athlete?.displayName || '',
+            awayScore: (isFinal || isLive) ? p1?.score : null,
+            homeScore: (isFinal || isLive) ? p2?.score : null,
+            status: isFinal ? 'final' : isLive ? 'live' : 'scheduled',
+            time: toTaipeiTime(e.date),
+            gameDate: e.date,
+            winner: isFinal ? (p1?.winner ? 'away' : 'home') : null,
+          });
+        }
+      } catch {}
+      await new Promise(r => setTimeout(r, 200));
+    }
+    save('tennis.json', { schedule: allGames, updatedAt: new Date().toISOString() });
   } catch (e) {
     console.error('❌ 網球 失敗:', e.message);
     save('tennis.json', { schedule: [], error: e.message });
