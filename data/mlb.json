@@ -4,11 +4,11 @@
       "league": "MLB",
       "away": "Boston Red Sox",
       "home": "Tampa Bay Rays",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "明天 01:10",
+      "awayScore": 5,
+      "homeScore": 7,
+      "status": "live",
+      "liveInfo": " 9局",
+      "time": "今天 01:10",
       "gameDate": "2026-06-10T17:10:00Z",
       "winner": null
     },
@@ -16,11 +16,11 @@
       "league": "MLB",
       "away": "New York Yankees",
       "home": "Cleveland Guardians",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "明天 01:10",
+      "awayScore": 8,
+      "homeScore": 3,
+      "status": "live",
+      "liveInfo": " 8局",
+      "time": "今天 01:10",
       "gameDate": "2026-06-10T17:10:00Z",
       "winner": null
     },
@@ -28,11 +28,11 @@
       "league": "MLB",
       "away": "Washington Nationals",
       "home": "San Francisco Giants",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "明天 03:45",
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
+      "time": "今天 03:45",
       "gameDate": "2026-06-10T19:45:00Z",
       "winner": null
     },
@@ -44,7 +44,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 04:10",
+      "time": "今天 04:10",
       "gameDate": "2026-06-10T20:10:00Z",
       "winner": null
     },
@@ -56,7 +56,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 06:35",
+      "time": "今天 06:35",
       "gameDate": "2026-06-10T22:35:00Z",
       "winner": null
     },
@@ -68,7 +68,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 06:40",
+      "time": "今天 06:40",
       "gameDate": "2026-06-10T22:40:00Z",
       "winner": null
     },
@@ -80,7 +80,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 06:40",
+      "time": "今天 06:40",
       "gameDate": "2026-06-10T22:40:00Z",
       "winner": null
     },
@@ -92,7 +92,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 06:40",
+      "time": "今天 06:40",
       "gameDate": "2026-06-10T22:40:00Z",
       "winner": null
     },
@@ -104,7 +104,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 07:07",
+      "time": "今天 07:07",
       "gameDate": "2026-06-10T23:07:00Z",
       "winner": null
     },
@@ -116,7 +116,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 07:10",
+      "time": "今天 07:10",
       "gameDate": "2026-06-10T23:10:00Z",
       "winner": null
     },
@@ -128,7 +128,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 07:40",
+      "time": "今天 07:40",
       "gameDate": "2026-06-10T23:40:00Z",
       "winner": null
     },
@@ -140,7 +140,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 07:40",
+      "time": "今天 07:40",
       "gameDate": "2026-06-10T23:40:00Z",
       "winner": null
     },
@@ -152,7 +152,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 08:40",
+      "time": "今天 08:40",
       "gameDate": "2026-06-11T00:40:00Z",
       "winner": null
     },
@@ -164,7 +164,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 09:05",
+      "time": "今天 09:05",
       "gameDate": "2026-06-11T01:05:00Z",
       "winner": null
     },
@@ -176,7 +176,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "明天 09:38",
+      "time": "今天 09:38",
       "gameDate": "2026-06-11T01:38:00Z",
       "winner": null
     },
@@ -188,7 +188,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "6/12 01:10",
+      "time": "明天 01:10",
       "gameDate": "2026-06-11T17:10:00Z",
       "winner": null
     },
@@ -200,7 +200,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "6/12 01:10",
+      "time": "明天 01:10",
       "gameDate": "2026-06-11T17:10:00Z",
       "winner": null
     },
@@ -212,7 +212,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "6/12 01:10",
+      "time": "明天 01:10",
       "gameDate": "2026-06-11T17:10:00Z",
       "winner": null
     },
@@ -224,7 +224,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "6/12 02:10",
+      "time": "明天 02:10",
       "gameDate": "2026-06-11T18:10:00Z",
       "winner": null
     },
@@ -236,7 +236,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "6/12 03:10",
+      "time": "明天 03:10",
       "gameDate": "2026-06-11T19:10:00Z",
       "winner": null
     },
@@ -248,7 +248,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "6/12 06:40",
+      "time": "明天 06:40",
       "gameDate": "2026-06-11T22:40:00Z",
       "winner": null
     },
@@ -260,7 +260,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "6/12 07:05",
+      "time": "明天 07:05",
       "gameDate": "2026-06-11T23:05:00Z",
       "winner": null
     },
@@ -272,7 +272,7 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "6/12 07:40",
+      "time": "明天 07:40",
       "gameDate": "2026-06-11T23:40:00Z",
       "winner": null
     },
@@ -5253,5 +5253,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-10T12:40:58.796Z"
+  "updatedAt": "2026-06-10T19:44:24.419Z"
 }
