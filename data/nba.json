@@ -49,5 +49,209 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-06-10T06:10:29.901Z"
+  "standings": [
+    {
+      "label": "NBA 東區 2025-26",
+      "headers": [
+        "球隊",
+        "勝",
+        "敗",
+        "勝率"
+      ],
+      "rows": [
+        [
+          "Detroit Pistons",
+          "60",
+          "22",
+          "0.732"
+        ],
+        [
+          "Atlanta Hawks",
+          "46",
+          "36",
+          "0.561"
+        ],
+        [
+          "Boston Celtics",
+          "56",
+          "26",
+          "0.683"
+        ],
+        [
+          "Philadelphia 76ers",
+          "45",
+          "37",
+          "0.549"
+        ],
+        [
+          "Orlando Magic",
+          "45",
+          "37",
+          "0.549"
+        ],
+        [
+          "Toronto Raptors",
+          "46",
+          "36",
+          "0.561"
+        ],
+        [
+          "Cleveland Cavaliers",
+          "52",
+          "30",
+          "0.634"
+        ],
+        [
+          "New York Knicks",
+          "53",
+          "29",
+          "0.646"
+        ],
+        [
+          "Miami Heat",
+          "43",
+          "39",
+          "0.524"
+        ],
+        [
+          "Charlotte Hornets",
+          "44",
+          "38",
+          "0.537"
+        ],
+        [
+          "Washington Wizards",
+          "17",
+          "65",
+          "0.207"
+        ],
+        [
+          "Indiana Pacers",
+          "19",
+          "63",
+          "0.232"
+        ],
+        [
+          "Brooklyn Nets",
+          "20",
+          "62",
+          "0.244"
+        ],
+        [
+          "Chicago Bulls",
+          "31",
+          "51",
+          "0.378"
+        ],
+        [
+          "Milwaukee Bucks",
+          "32",
+          "50",
+          "0.390"
+        ]
+      ]
+    },
+    {
+      "label": "NBA 西區 2025-26",
+      "headers": [
+        "球隊",
+        "勝",
+        "敗",
+        "勝率"
+      ],
+      "rows": [
+        [
+          "Los Angeles Lakers",
+          "53",
+          "29",
+          "0.646"
+        ],
+        [
+          "San Antonio Spurs",
+          "62",
+          "20",
+          "0.756"
+        ],
+        [
+          "Portland Trail Blazers",
+          "42",
+          "40",
+          "0.512"
+        ],
+        [
+          "Phoenix Suns",
+          "45",
+          "37",
+          "0.549"
+        ],
+        [
+          "Minnesota Timberwolves",
+          "49",
+          "33",
+          "0.598"
+        ],
+        [
+          "Houston Rockets",
+          "52",
+          "30",
+          "0.634"
+        ],
+        [
+          "Denver Nuggets",
+          "54",
+          "28",
+          "0.659"
+        ],
+        [
+          "Golden State Warriors",
+          "37",
+          "45",
+          "0.451"
+        ],
+        [
+          "LA Clippers",
+          "42",
+          "40",
+          "0.512"
+        ],
+        [
+          "Sacramento Kings",
+          "22",
+          "60",
+          "0.268"
+        ],
+        [
+          "Utah Jazz",
+          "22",
+          "60",
+          "0.268"
+        ],
+        [
+          "Memphis Grizzlies",
+          "25",
+          "57",
+          "0.305"
+        ],
+        [
+          "New Orleans Pelicans",
+          "26",
+          "56",
+          "0.317"
+        ],
+        [
+          "Dallas Mavericks",
+          "26",
+          "56",
+          "0.317"
+        ],
+        [
+          "Oklahoma City Thunder",
+          "64",
+          "18",
+          "0.780"
+        ]
+      ]
+    }
+  ],
+  "updatedAt": "2026-06-10T11:17:03.745Z"
 }
