@@ -499,10 +499,34 @@ async function fetchSoccer() {
 
 async function fetchTennis() {
   console.log('📡 抓取 網球...');
+  // ESPN ATP/WTA API 只有當天比賽，改用靜態巡迴賽日曆 + ESPN 當天對戰資料合併
+  const staticSchedule = [
+    // ── 6月 草地賽季 ──
+    { league:'ATP', singleEvent:true, title:"Queen's Club Championships (ATP 500)", subtitle:'倫敦，草地', time:'6/15–6/21', status:'scheduled', gameDate:'2026-06-15T09:00:00Z' },
+    { league:'WTA', singleEvent:true, title:"Queen's Club Championships (WTA 500)", subtitle:'倫敦，草地', time:'6/8–6/14', status:'scheduled', gameDate:'2026-06-08T09:00:00Z' },
+    { league:'ATP', singleEvent:true, title:'Rosmalen Grass Court (ATP 250)', subtitle:'荷蘭 Rosmalen，草地', time:'6/8–6/14', status:'scheduled', gameDate:'2026-06-08T09:00:00Z' },
+    { league:'WTA', singleEvent:true, title:'Nottingham Open (WTA 250)', subtitle:'英國諾丁漢，草地', time:'6/15–6/21', status:'scheduled', gameDate:'2026-06-15T09:00:00Z' },
+    // ── 溫網 ──
+    { league:'ATP', singleEvent:true, title:'🏆 溫布頓 Wimbledon (Grand Slam)', subtitle:'倫敦，草地', time:'6/29–7/12', status:'scheduled', gameDate:'2026-06-29T10:00:00Z' },
+    { league:'WTA', singleEvent:true, title:'🏆 溫布頓 Wimbledon (Grand Slam)', subtitle:'倫敦，草地', time:'6/29–7/12', status:'scheduled', gameDate:'2026-06-29T10:00:00Z' },
+    // ── 7月 ──
+    { league:'ATP', singleEvent:true, title:'Hamburg Open (ATP 500)', subtitle:'漢堡，紅土', time:'7/13–7/19', status:'scheduled', gameDate:'2026-07-13T09:00:00Z' },
+    { league:'WTA', singleEvent:true, title:'Hamburg Open (WTA 250)', subtitle:'漢堡，紅土', time:'7/20–7/26', status:'scheduled', gameDate:'2026-07-20T09:00:00Z' },
+    { league:'ATP', singleEvent:true, title:'Swiss Open Gstaad (ATP 250)', subtitle:'瑞士，紅土', time:'7/13–7/19', status:'scheduled', gameDate:'2026-07-13T09:00:00Z' },
+    { league:'ATP', singleEvent:true, title:'Nordea Open (ATP 250)', subtitle:'瑞典巴斯塔，草地', time:'7/13–7/19', status:'scheduled', gameDate:'2026-07-13T09:00:00Z' },
+    // ── 美網系列 ──
+    { league:'ATP', singleEvent:true, title:'Canadian Open (ATP 1000)', subtitle:'加拿大，硬地', time:'8/3–8/9', status:'scheduled', gameDate:'2026-08-03T09:00:00Z' },
+    { league:'WTA', singleEvent:true, title:'Canadian Open (WTA 1000)', subtitle:'加拿大，硬地', time:'8/3–8/9', status:'scheduled', gameDate:'2026-08-03T09:00:00Z' },
+    { league:'ATP', singleEvent:true, title:'Cincinnati Open (ATP 1000)', subtitle:'辛辛那提，硬地', time:'8/10–8/16', status:'scheduled', gameDate:'2026-08-10T09:00:00Z' },
+    { league:'WTA', singleEvent:true, title:'Cincinnati Open (WTA 1000)', subtitle:'辛辛那提，硬地', time:'8/10–8/16', status:'scheduled', gameDate:'2026-08-10T09:00:00Z' },
+    { league:'ATP', singleEvent:true, title:'🏆 US Open (Grand Slam)', subtitle:'紐約，硬地', time:'8/31–9/13', status:'scheduled', gameDate:'2026-08-31T16:00:00Z' },
+    { league:'WTA', singleEvent:true, title:'🏆 US Open (Grand Slam)', subtitle:'紐約，硬地', time:'8/31–9/13', status:'scheduled', gameDate:'2026-08-31T16:00:00Z' },
+  ];
+
+  // 同時也抓 ESPN 當天的實際對戰
   try {
     const now = new Date();
-    const allGames = [];
-    for (let i = 0; i < 30; i++) {
+    for (let i = 0; i < 7; i++) {
       const d = new Date(now.getTime() + i * 86400000);
       const dateStr = d.toISOString().slice(0,10).replace(/-/g,'');
       try {
@@ -518,7 +542,7 @@ async function fetchTennis() {
           const status = comp?.status?.type?.name;
           const isFinal = status === 'STATUS_FINAL';
           const isLive = status === 'STATUS_IN_PROGRESS';
-          allGames.push({
+          staticSchedule.push({
             league: 'ATP',
             away: p1?.athlete?.displayName || '',
             home: p2?.athlete?.displayName || '',
@@ -531,13 +555,10 @@ async function fetchTennis() {
           });
         }
       } catch {}
-      await new Promise(r => setTimeout(r, 200));
     }
-    save('tennis.json', { schedule: allGames, updatedAt: new Date().toISOString() });
-  } catch (e) {
-    console.error('❌ 網球 失敗:', e.message);
-    save('tennis.json', { schedule: [], error: e.message });
-  }
+  } catch {}
+
+  save('tennis.json', { schedule: staticSchedule, updatedAt: new Date().toISOString() });
 }
 
 // ═══════════════════════════════════════
