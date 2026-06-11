@@ -15,7 +15,28 @@ function tagStyle(lid) {
   return `background:${c}22;color:${c}`;
 }
 
-// ── 統一 status 判斷（相容各 API 回傳格式）──
+// ── 時間格式化（根據使用者時區）──
+function formatTime(isoStr) {
+  if (!isoStr) return '';
+  // 如果已經是中文格式（舊資料），直接回傳
+  if (!/^\d{4}-\d{2}-\d{2}/.test(isoStr) && !isoStr.includes('T')) return isoStr;
+  try {
+    const d = new Date(isoStr);
+    if (isNaN(d)) return isoStr;
+    const tz = Settings.tz || 'Asia/Taipei';
+    const now = new Date();
+    const userNow = new Date(now.toLocaleString('en-US', { timeZone: tz }));
+    const userD   = new Date(d.toLocaleString('en-US', { timeZone: tz }));
+    const tmr = new Date(userNow); tmr.setDate(userNow.getDate() + 1);
+    const isToday = userD.toDateString() === userNow.toDateString();
+    const isTmr   = userD.toDateString() === tmr.toDateString();
+    const timeStr = userD.toLocaleTimeString('zh-TW', { hour:'2-digit', minute:'2-digit', hour12:false });
+    const T = Settings.t();
+    if (isToday) return `${T.today||'今天'} ${timeStr}`;
+    if (isTmr)   return `${T.tomorrow||'明天'} ${timeStr}`;
+    return `${userD.getMonth()+1}/${userD.getDate()} ${timeStr}`;
+  } catch { return isoStr; }
+}
 function isLiveStatus(s)  { return ['live','inprogress','in_progress','in progress'].includes((s||'').toLowerCase()); }
 function isFinalStatus(s) { return ['final','closed','ft','finished','complete'].includes((s||'').toLowerCase()); }
 function isSchedStatus(s) { return ['scheduled','pre_game','pregame','upcoming'].includes((s||'').toLowerCase()); }
@@ -26,7 +47,7 @@ function cardHTML(g) {
     return `<div class="game-card">
       <div class="game-meta">
         <span class="league-tag" style="${tagStyle(g.league)}">${g.league}</span>
-        <span class="status-time">${g.time||''}</span>
+        <span class="status-time">${formatTime(g.gameDate||g.time||'')}</span>
       </div>
       <div class="single-title">${g.title||''}</div>
       ${g.subtitle?`<div class="single-sub">${g.subtitle}</div>`:''}
@@ -45,7 +66,7 @@ function cardHTML(g) {
         <span class="league-tag" style="${tagStyle(g.league)}">${g.league}</span>
         ${isFav?'<span style="font-size:11px">⭐</span>':''}
       </div>
-      ${isl?`<span class="status-live">● ${g.liveInfo||'LIVE'}</span>`:isf?`<span class="status-final">FINAL</span>`:`<span class="status-time">${g.time||''}</span>`}
+      ${isl?`<span class="status-live">● ${g.liveInfo||'LIVE'}</span>`:isf?`<span class="status-final">FINAL</span>`:`<span class="status-time">${formatTime(g.gameDate||g.time||'')}</span>`}
     </div>
     <div class="teams">
       <div class="team-row">
