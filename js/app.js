@@ -285,7 +285,7 @@ const App = {
   },
   setFavCalView(v) { this.favCalView=v; this.renderFavorites(); },
 
-  startAutoRefresh() { setInterval(()=>{this.cache={};this.loadAndRender();},60000); },
+  startAutoRefresh() { setInterval(()=>{this.cache={};this.loadAndRender();}, 10 * 60 * 1000); },
 
   async loadMeta() {
     const meta = await this.loadJSON('meta.json');
