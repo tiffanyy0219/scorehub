@@ -2,36 +2,12 @@
   "schedule": [
     {
       "league": "WNBA",
-      "home": "Toronto Tempo",
-      "away": "Connecticut Sun",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "今天 07:00",
-      "gameDate": "2026-06-10T23:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "WNBA",
-      "home": "Seattle Storm",
-      "away": "Los Angeles Sparks",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "今天 10:00",
-      "gameDate": "2026-06-11T02:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "WNBA",
       "home": "Indiana Fever",
       "away": "Chicago Sky",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "明天 07:00",
+      "time": "2026-06-11T23:00Z",
       "gameDate": "2026-06-11T23:00Z",
       "liveInfo": null,
       "winner": null
@@ -43,7 +19,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "明天 07:30",
+      "time": "2026-06-11T23:30Z",
       "gameDate": "2026-06-11T23:30Z",
       "liveInfo": null,
       "winner": null
@@ -55,7 +31,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "明天 09:00",
+      "time": "2026-06-12T01:00Z",
       "gameDate": "2026-06-12T01:00Z",
       "liveInfo": null,
       "winner": null
@@ -67,7 +43,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "明天 10:00",
+      "time": "2026-06-12T02:00Z",
       "gameDate": "2026-06-12T02:00Z",
       "liveInfo": null,
       "winner": null
@@ -79,7 +55,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/13 07:30",
+      "time": "2026-06-12T23:30Z",
       "gameDate": "2026-06-12T23:30Z",
       "liveInfo": null,
       "winner": null
@@ -91,7 +67,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/13 10:00",
+      "time": "2026-06-13T02:00Z",
       "gameDate": "2026-06-13T02:00Z",
       "liveInfo": null,
       "winner": null
@@ -103,7 +79,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/14 06:00",
+      "time": "2026-06-13T22:00Z",
       "gameDate": "2026-06-13T22:00Z",
       "liveInfo": null,
       "winner": null
@@ -115,7 +91,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/14 08:00",
+      "time": "2026-06-14T00:00Z",
       "gameDate": "2026-06-14T00:00Z",
       "liveInfo": null,
       "winner": null
@@ -127,7 +103,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/14 08:30",
+      "time": "2026-06-14T00:30Z",
       "gameDate": "2026-06-14T00:30Z",
       "liveInfo": null,
       "winner": null
@@ -139,7 +115,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/14 10:00",
+      "time": "2026-06-14T02:00Z",
       "gameDate": "2026-06-14T02:00Z",
       "liveInfo": null,
       "winner": null
@@ -151,7 +127,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/15 03:00",
+      "time": "2026-06-14T19:00Z",
       "gameDate": "2026-06-14T19:00Z",
       "liveInfo": null,
       "winner": null
@@ -163,7 +139,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/15 03:00",
+      "time": "2026-06-14T19:00Z",
       "gameDate": "2026-06-14T19:00Z",
       "liveInfo": null,
       "winner": null
@@ -175,7 +151,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/16 08:00",
+      "time": "2026-06-16T00:00Z",
       "gameDate": "2026-06-16T00:00Z",
       "liveInfo": null,
       "winner": null
@@ -187,7 +163,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/16 08:00",
+      "time": "2026-06-16T00:00Z",
       "gameDate": "2026-06-16T00:00Z",
       "liveInfo": null,
       "winner": null
@@ -199,7 +175,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/16 10:00",
+      "time": "2026-06-16T02:00Z",
       "gameDate": "2026-06-16T02:00Z",
       "liveInfo": null,
       "winner": null
@@ -211,7 +187,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/17 07:00",
+      "time": "2026-06-16T23:00Z",
       "gameDate": "2026-06-16T23:00Z",
       "liveInfo": null,
       "winner": null
@@ -223,7 +199,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/18 07:00",
+      "time": "2026-06-17T23:00Z",
       "gameDate": "2026-06-17T23:00Z",
       "liveInfo": null,
       "winner": null
@@ -235,7 +211,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/18 08:00",
+      "time": "2026-06-18T00:00Z",
       "gameDate": "2026-06-18T00:00Z",
       "liveInfo": null,
       "winner": null
@@ -247,7 +223,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/18 10:00",
+      "time": "2026-06-18T02:00Z",
       "gameDate": "2026-06-18T02:00Z",
       "liveInfo": null,
       "winner": null
@@ -259,7 +235,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/18 10:00",
+      "time": "2026-06-18T02:00Z",
       "gameDate": "2026-06-18T02:00Z",
       "liveInfo": null,
       "winner": null
@@ -271,7 +247,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/18 10:00",
+      "time": "2026-06-18T02:00Z",
       "gameDate": "2026-06-18T02:00Z",
       "liveInfo": null,
       "winner": null
@@ -283,7 +259,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/18 10:00",
+      "time": "2026-06-18T02:00Z",
       "gameDate": "2026-06-18T02:00Z",
       "liveInfo": null,
       "winner": null
@@ -295,7 +271,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/19 07:30",
+      "time": "2026-06-18T23:30Z",
       "gameDate": "2026-06-18T23:30Z",
       "liveInfo": null,
       "winner": null
@@ -307,7 +283,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/20 07:30",
+      "time": "2026-06-19T23:30Z",
       "gameDate": "2026-06-19T23:30Z",
       "liveInfo": null,
       "winner": null
@@ -319,7 +295,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/20 07:30",
+      "time": "2026-06-19T23:30Z",
       "gameDate": "2026-06-19T23:30Z",
       "liveInfo": null,
       "winner": null
@@ -331,7 +307,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/20 10:00",
+      "time": "2026-06-20T02:00Z",
       "gameDate": "2026-06-20T02:00Z",
       "liveInfo": null,
       "winner": null
@@ -343,7 +319,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/21 01:00",
+      "time": "2026-06-20T17:00Z",
       "gameDate": "2026-06-20T17:00Z",
       "liveInfo": null,
       "winner": null
@@ -355,7 +331,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/21 03:00",
+      "time": "2026-06-20T19:00Z",
       "gameDate": "2026-06-20T19:00Z",
       "liveInfo": null,
       "winner": null
@@ -367,7 +343,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/21 08:00",
+      "time": "2026-06-21T00:00Z",
       "gameDate": "2026-06-21T00:00Z",
       "liveInfo": null,
       "winner": null
@@ -379,7 +355,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/22 04:00",
+      "time": "2026-06-21T20:00Z",
       "gameDate": "2026-06-21T20:00Z",
       "liveInfo": null,
       "winner": null
@@ -391,7 +367,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/22 06:00",
+      "time": "2026-06-21T22:00Z",
       "gameDate": "2026-06-21T22:00Z",
       "liveInfo": null,
       "winner": null
@@ -403,7 +379,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/22 08:00",
+      "time": "2026-06-22T00:00Z",
       "gameDate": "2026-06-22T00:00Z",
       "liveInfo": null,
       "winner": null
@@ -415,7 +391,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/23 07:00",
+      "time": "2026-06-22T23:00Z",
       "gameDate": "2026-06-22T23:00Z",
       "liveInfo": null,
       "winner": null
@@ -427,7 +403,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/23 07:30",
+      "time": "2026-06-22T23:30Z",
       "gameDate": "2026-06-22T23:30Z",
       "liveInfo": null,
       "winner": null
@@ -439,7 +415,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/23 08:00",
+      "time": "2026-06-23T00:00Z",
       "gameDate": "2026-06-23T00:00Z",
       "liveInfo": null,
       "winner": null
@@ -451,7 +427,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/23 10:00",
+      "time": "2026-06-23T02:00Z",
       "gameDate": "2026-06-23T02:00Z",
       "liveInfo": null,
       "winner": null
@@ -463,7 +439,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/24 10:00",
+      "time": "2026-06-24T02:00Z",
       "gameDate": "2026-06-24T02:00Z",
       "liveInfo": null,
       "winner": null
@@ -475,7 +451,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/25 07:30",
+      "time": "2026-06-24T23:30Z",
       "gameDate": "2026-06-24T23:30Z",
       "liveInfo": null,
       "winner": null
@@ -487,7 +463,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/25 07:30",
+      "time": "2026-06-24T23:30Z",
       "gameDate": "2026-06-24T23:30Z",
       "liveInfo": null,
       "winner": null
@@ -499,7 +475,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/25 08:00",
+      "time": "2026-06-25T00:00Z",
       "gameDate": "2026-06-25T00:00Z",
       "liveInfo": null,
       "winner": null
@@ -511,7 +487,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/25 10:00",
+      "time": "2026-06-25T02:00Z",
       "gameDate": "2026-06-25T02:00Z",
       "liveInfo": null,
       "winner": null
@@ -523,7 +499,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/26 07:00",
+      "time": "2026-06-25T23:00Z",
       "gameDate": "2026-06-25T23:00Z",
       "liveInfo": null,
       "winner": null
@@ -535,7 +511,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/26 10:00",
+      "time": "2026-06-26T02:00Z",
       "gameDate": "2026-06-26T02:00Z",
       "liveInfo": null,
       "winner": null
@@ -547,7 +523,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/26 10:00",
+      "time": "2026-06-26T02:00Z",
       "gameDate": "2026-06-26T02:00Z",
       "liveInfo": null,
       "winner": null
@@ -559,7 +535,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/27 07:30",
+      "time": "2026-06-26T23:30Z",
       "gameDate": "2026-06-26T23:30Z",
       "liveInfo": null,
       "winner": null
@@ -571,7 +547,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/27 07:30",
+      "time": "2026-06-26T23:30Z",
       "gameDate": "2026-06-26T23:30Z",
       "liveInfo": null,
       "winner": null
@@ -583,7 +559,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/27 10:00",
+      "time": "2026-06-27T02:00Z",
       "gameDate": "2026-06-27T02:00Z",
       "liveInfo": null,
       "winner": null
@@ -595,7 +571,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/28 02:00",
+      "time": "2026-06-27T18:00Z",
       "gameDate": "2026-06-27T18:00Z",
       "liveInfo": null,
       "winner": null
@@ -607,7 +583,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/28 08:00",
+      "time": "2026-06-28T00:00Z",
       "gameDate": "2026-06-28T00:00Z",
       "liveInfo": null,
       "winner": null
@@ -619,7 +595,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/28 09:00",
+      "time": "2026-06-28T01:00Z",
       "gameDate": "2026-06-28T01:00Z",
       "liveInfo": null,
       "winner": null
@@ -631,7 +607,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/29 02:00",
+      "time": "2026-06-28T18:00Z",
       "gameDate": "2026-06-28T18:00Z",
       "liveInfo": null,
       "winner": null
@@ -643,7 +619,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/29 03:00",
+      "time": "2026-06-28T19:00Z",
       "gameDate": "2026-06-28T19:00Z",
       "liveInfo": null,
       "winner": null
@@ -655,7 +631,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/29 04:00",
+      "time": "2026-06-28T20:00Z",
       "gameDate": "2026-06-28T20:00Z",
       "liveInfo": null,
       "winner": null
@@ -667,7 +643,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/29 07:00",
+      "time": "2026-06-28T23:00Z",
       "gameDate": "2026-06-28T23:00Z",
       "liveInfo": null,
       "winner": null
@@ -679,7 +655,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/30 12:00",
+      "time": "2026-06-30T04:00Z",
       "gameDate": "2026-06-30T04:00Z",
       "liveInfo": null,
       "winner": null
@@ -691,7 +667,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "7/3 07:30",
+      "time": "2026-07-02T23:30Z",
       "gameDate": "2026-07-02T23:30Z",
       "liveInfo": null,
       "winner": null
@@ -703,7 +679,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "7/3 08:00",
+      "time": "2026-07-03T00:00Z",
       "gameDate": "2026-07-03T00:00Z",
       "liveInfo": null,
       "winner": null
@@ -715,7 +691,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "7/3 10:00",
+      "time": "2026-07-03T02:00Z",
       "gameDate": "2026-07-03T02:00Z",
       "liveInfo": null,
       "winner": null
@@ -727,7 +703,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "7/4 07:30",
+      "time": "2026-07-03T23:30Z",
       "gameDate": "2026-07-03T23:30Z",
       "liveInfo": null,
       "winner": null
@@ -739,7 +715,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "7/4 10:00",
+      "time": "2026-07-04T02:00Z",
       "gameDate": "2026-07-04T02:00Z",
       "liveInfo": null,
       "winner": null
@@ -751,7 +727,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "7/5 01:00",
+      "time": "2026-07-04T17:00Z",
       "gameDate": "2026-07-04T17:00Z",
       "liveInfo": null,
       "winner": null
@@ -763,7 +739,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "7/5 09:00",
+      "time": "2026-07-05T01:00Z",
       "gameDate": "2026-07-05T01:00Z",
       "liveInfo": null,
       "winner": null
@@ -775,7 +751,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "7/6 03:00",
+      "time": "2026-07-05T19:00Z",
       "gameDate": "2026-07-05T19:00Z",
       "liveInfo": null,
       "winner": null
@@ -787,7 +763,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "7/6 07:00",
+      "time": "2026-07-05T23:00Z",
       "gameDate": "2026-07-05T23:00Z",
       "liveInfo": null,
       "winner": null
@@ -799,7 +775,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "7/7 07:30",
+      "time": "2026-07-06T23:30Z",
       "gameDate": "2026-07-06T23:30Z",
       "liveInfo": null,
       "winner": null
@@ -811,7 +787,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "7/7 08:00",
+      "time": "2026-07-07T00:00Z",
       "gameDate": "2026-07-07T00:00Z",
       "liveInfo": null,
       "winner": null
@@ -823,7 +799,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "7/7 10:00",
+      "time": "2026-07-07T02:00Z",
       "gameDate": "2026-07-07T02:00Z",
       "liveInfo": null,
       "winner": null
@@ -835,7 +811,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "7/8 08:00",
+      "time": "2026-07-08T00:00Z",
       "gameDate": "2026-07-08T00:00Z",
       "liveInfo": null,
       "winner": null
@@ -847,7 +823,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "7/8 10:00",
+      "time": "2026-07-08T02:00Z",
       "gameDate": "2026-07-08T02:00Z",
       "liveInfo": null,
       "winner": null
@@ -859,7 +835,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "7/9 07:00",
+      "time": "2026-07-08T23:00Z",
       "gameDate": "2026-07-08T23:00Z",
       "liveInfo": null,
       "winner": null
@@ -871,7 +847,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "7/9 07:30",
+      "time": "2026-07-08T23:30Z",
       "gameDate": "2026-07-08T23:30Z",
       "liveInfo": null,
       "winner": null
@@ -883,7 +859,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "7/9 10:00",
+      "time": "2026-07-09T02:00Z",
       "gameDate": "2026-07-09T02:00Z",
       "liveInfo": null,
       "winner": null
@@ -895,7 +871,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "7/10 08:00",
+      "time": "2026-07-10T00:00Z",
       "gameDate": "2026-07-10T00:00Z",
       "liveInfo": null,
       "winner": null
@@ -907,7 +883,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "7/10 10:00",
+      "time": "2026-07-10T02:00Z",
       "gameDate": "2026-07-10T02:00Z",
       "liveInfo": null,
       "winner": null
@@ -919,11 +895,47 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "7/10 10:00",
+      "time": "2026-07-10T02:00Z",
       "gameDate": "2026-07-10T02:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "WNBA",
+      "home": "Connecticut Sun",
+      "away": "Golden State Valkyries",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-07-10T23:30Z",
+      "gameDate": "2026-07-10T23:30Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "WNBA",
+      "home": "Toronto Tempo",
+      "away": "Dallas Wings",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-07-10T23:30Z",
+      "gameDate": "2026-07-10T23:30Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "WNBA",
+      "home": "Los Angeles Sparks",
+      "away": "Chicago Sky",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-07-11T02:00Z",
+      "gameDate": "2026-07-11T02:00Z",
       "liveInfo": null,
       "winner": null
     }
   ],
-  "updatedAt": "2026-06-10T22:27:36.733Z"
+  "updatedAt": "2026-06-11T00:14:05.513Z"
 }

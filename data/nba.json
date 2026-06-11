@@ -2,24 +2,12 @@
   "schedule": [
     {
       "league": "NBA",
-      "home": "New York Knicks",
-      "away": "San Antonio Spurs",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "今天 08:30",
-      "gameDate": "2026-06-11T00:30Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
       "home": "San Antonio Spurs",
       "away": "New York Knicks",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/14 08:30",
+      "time": "2026-06-14T00:30Z",
       "gameDate": "2026-06-14T00:30Z",
       "liveInfo": null,
       "winner": null
@@ -31,7 +19,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/17 08:30",
+      "time": "2026-06-17T00:30Z",
       "gameDate": "2026-06-17T00:30Z",
       "liveInfo": null,
       "winner": null
@@ -43,7 +31,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "6/20 08:30",
+      "time": "2026-06-20T00:30Z",
       "gameDate": "2026-06-20T00:30Z",
       "liveInfo": null,
       "winner": null
@@ -253,5 +241,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-10T22:27:35.432Z"
+  "updatedAt": "2026-06-11T00:14:04.734Z"
 }
