@@ -17,19 +17,8 @@ function save(filename, data) {
 }
 
 function toTaipeiTime(isoStr) {
-  try {
-    const d = new Date(isoStr);
-    const now = new Date();
-    const taipeiNow = new Date(now.toLocaleString('en-US', { timeZone: 'Asia/Taipei' }));
-    const taipeiD = new Date(d.toLocaleString('en-US', { timeZone: 'Asia/Taipei' }));
-    const isToday = taipeiD.toDateString() === taipeiNow.toDateString();
-    const tmr = new Date(taipeiNow); tmr.setDate(taipeiNow.getDate() + 1);
-    const isTmr = taipeiD.toDateString() === tmr.toDateString();
-    const timeStr = taipeiD.toLocaleTimeString('zh-TW', { hour: '2-digit', minute: '2-digit', hour12: false });
-    if (isToday) return `今天 ${timeStr}`;
-    if (isTmr) return `明天 ${timeStr}`;
-    return `${taipeiD.getMonth()+1}/${taipeiD.getDate()} ${timeStr}`;
-  } catch { return '--'; }
+  // 直接回傳原始 ISO 時間，讓 app 端根據使用者時區轉換
+  return isoStr || '';
 }
 
 // ═══════════════════════════════════════
