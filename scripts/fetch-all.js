@@ -27,13 +27,13 @@ function toTaipeiTime(isoStr) {
 async function fetchMLB() {
   console.log('📡 抓取 MLB...');
   try {
-    // 抓今天起未來 30 天的賽程（月曆用）
+    // 抓今天起未來 30 天的賽程
     const now = new Date();
     const startDate = now.toISOString().slice(0, 10);
     const endDate = new Date(now.getTime() + 30 * 24 * 60 * 60 * 1000).toISOString().slice(0, 10);
     const res = await fetch(`https://statsapi.mlb.com/api/v1/schedule?sportId=1&startDate=${startDate}&endDate=${endDate}&hydrate=team,linescore`);
     const json = await res.json();
-    const schedule = [], standings = [];
+    const schedule = [];
 
     for (const date of json.dates || []) {
       for (const g of date.games) {
@@ -49,16 +49,17 @@ async function fetchMLB() {
           homeScore: (isLive || isFinal) ? home.score : null,
           status: isFinal ? 'final' : isLive ? 'live' : 'scheduled',
           liveInfo: isLive ? `${ls.currentInningHalf || ''} ${ls.currentInning || ''}局` : null,
-          time: toTaipeiTime(g.gameDate),
+          time: g.gameDate,
           gameDate: g.gameDate,
           winner: isFinal ? (away.score > home.score ? 'away' : 'home') : null,
         });
       }
     }
 
-    // 排行榜 - 全部 6 個分區
+    // 排行榜
     const sRes = await fetch('https://statsapi.mlb.com/api/v1/standings?leagueId=103,104&season=2026&standingsTypes=regularSeason');
     const sJson = await sRes.json();
+    const standings = [];
     for (const rec of (sJson.records || [])) {
       standings.push({
         label: `MLB ${rec.division.nameShort || rec.division.name}`,
