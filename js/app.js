@@ -158,18 +158,36 @@ const App = {
     }
     // 篩選追蹤球隊的賽事
     const favGames = allGames.filter(g => {
-      // F1 和網球：只有 singleEvent 且追蹤名單有匹配才顯示，否則完全不顯示
-      if (g.league === 'F1' || g.league === 'ATP' || g.league === 'WTA') {
-        if (!g.away && !g.home) return false; // 純賽事公告，不是對戰，不顯示
+      // F1：singleEvent 類型，比對 title/subtitle 裡有沒有追蹤的車手名字
+      if (g.league === 'F1') {
+        if (g.singleEvent || (!g.away && !g.home)) {
+          // 如果有追蹤任何 F1 車手，就顯示所有 F1 賽事
+          return Settings.favTeams.some(t =>
+            TEAMS_BY_SPORT?.F1?.['F1 車手']?.includes(t)
+          );
+        }
         return Settings.favTeams.some(t => {
           const tl = t.toLowerCase();
-          return (g.away||'').toLowerCase().includes(tl) ||
-                 (g.home||'').toLowerCase().includes(tl) ||
-                 (g.title||'').toLowerCase().includes(tl);
+          return (g.away||'').toLowerCase().includes(tl) || (g.home||'').toLowerCase().includes(tl);
+        });
+      }
+      // 網球：singleEvent 類型，比對 title 裡有沒有追蹤的球員
+      if (g.league === 'ATP' || g.league === 'WTA') {
+        if (g.singleEvent || (!g.away && !g.home)) {
+          // 如果有追蹤任何網球球員，就顯示所有網球巡迴賽
+          const allTennisPlayers = [
+            ...(TEAMS_BY_SPORT?.網球?.['ATP 男子'] || []),
+            ...(TEAMS_BY_SPORT?.網球?.['WTA 女子'] || []),
+          ];
+          return Settings.favTeams.some(t => allTennisPlayers.includes(t));
+        }
+        return Settings.favTeams.some(t => {
+          const tl = t.toLowerCase();
+          return (g.away||'').toLowerCase().includes(tl) || (g.home||'').toLowerCase().includes(tl);
         });
       }
       // 其他運動：比對 away/home
-      if (!g.away && !g.home && !g.title) return false; // 空資料不顯示
+      if (!g.away && !g.home && !g.title) return false;
       const awayName = (g.away || '').toLowerCase();
       const homeName = (g.home || '').toLowerCase();
       return Settings.favTeams.some(t => {
