@@ -235,6 +235,103 @@ async function fetchWNBA() {
 async function fetchCPBL() {
   console.log('📡 抓取 中職...');
   try {
+    // 用 CPBL 官方英文 API
+    const now = new Date();
+    const year = now.getFullYear();
+    const res = await fetch(`https://en.cpbl.com.tw/schedule/index?year=${year}&kindCode=A`, {
+      headers: { 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' }
+    });
+    const html = await res.text();
+    const $ = cheerio.load(html);
+    const schedule = [];
+
+    $('.ScheduleTableList').find('tr').each((i, row) => {
+      const tds = $(row).find('td');
+      if (tds.length < 3) return;
+      const dateText = $(tds[0]).text().trim();
+      const awayText = $(tds[1]).text().trim();
+      const scoreText = $(tds[2]).text().trim();
+      const homeText  = $(tds[3])?.text().trim() || '';
+      if (!awayText || !homeText) return;
+
+      const scores = scoreText.match(/(\d+)\s*[:\-]\s*(\d+)/);
+      const isFinal = !!scores;
+
+      // 把日期轉成 ISO
+      let gameDate = null;
+      try {
+        const [m, d] = dateText.replace(/\//g,'-').split('-');
+        gameDate = new Date(`${year}-${m.padStart(2,'0')}-${d.padStart(2,'0')}T10:00:00+08:00`).toISOString();
+      } catch {}
+
+      schedule.push({
+        league: '中職',
+        away: awayText, home: homeText,
+        awayScore: isFinal ? Number(scores[1]) : null,
+        homeScore: isFinal ? Number(scores[2]) : null,
+        status: isFinal ? 'final' : 'scheduled',
+        time: gameDate || new Date().toISOString(),
+        gameDate: gameDate || new Date().toISOString(),
+        winner: isFinal ? (Number(scores[1]) > Number(scores[2]) ? 'away' : 'home') : null,
+      });
+    });
+
+    if (schedule.length) {
+      save('cpbl.json', { schedule, updatedAt: new Date().toISOString() });
+      return;
+    }
+    throw new Error('抓不到資料');
+  } catch (e) {
+    console.error('❌ 中職 失敗:', e.message);
+    // 備用：直接從 CPBL 官方 JSON API
+    try {
+      const now = new Date();
+      const year = now.getFullYear();
+      const month = String(now.getMonth() + 1).padStart(2, '0');
+      const res2 = await fetch(`https://cpbl.com.tw/schedule/index?year=${year}&month=${month}&kindCode=A`, {
+        headers: { 'User-Agent': 'Mozilla/5.0', 'Accept': 'application/json' }
+      });
+      const text = await res2.text();
+      const $ = cheerio.load(text);
+      const schedule = [];
+      // 今天日期
+      const today = now.toISOString().slice(0,10);
+      $('tr').each((i, row) => {
+        const tds = $(row).find('td');
+        if (tds.length < 4) return;
+        const away = $(tds[0]).text().trim();
+        const score = $(tds[1]).text().trim();
+        const home = $(tds[2]).text().trim();
+        if (!away || !home) return;
+        schedule.push({
+          league: '中職', away, home,
+          status: 'scheduled',
+          time: `${today}T10:00:00+08:00`,
+          gameDate: `${today}T10:00:00+08:00`,
+        });
+      });
+      if (schedule.length) { save('cpbl.json', { schedule }); return; }
+    } catch {}
+
+    // 最後備用靜態
+    const d = new Date().toISOString();
+    save('cpbl.json', {
+      schedule: [
+        { league:'中職', away:'中信兄弟', home:'統一7-ELEVEn獅', status:'scheduled', time:d, gameDate:d },
+        { league:'中職', away:'樂天桃猿', home:'富邦悍將', status:'scheduled', time:d, gameDate:d },
+        { league:'中職', away:'味全龍', home:'台鋼雄鷹', status:'scheduled', time:d, gameDate:d },
+      ],
+      error: e.message
+    });
+  }
+}
+
+// ═══════════════════════════════════════
+// ── 日職 NPB（直接抓官方日程）──
+// ═══════════════════════════════════════
+async function fetchNPB() {
+  console.log('📡 抓取 日職...');
+  try {
     const now = new Date();
     const allGames = [];
     for (let i = -1; i < 30; i++) {
@@ -242,7 +339,7 @@ async function fetchCPBL() {
       const dateStr = d.toISOString().slice(0,10).replace(/-/g,'');
       try {
         const res = await fetch(
-          `https://site.api.espn.com/apis/site/v2/sports/baseball/cpbl/scoreboard?dates=${dateStr}`,
+          `https://site.api.espn.com/apis/site/v2/sports/baseball/npb/scoreboard?dates=${dateStr}`,
           { headers: { 'User-Agent': 'Mozilla/5.0' } }
         );
         const json = await res.json();
@@ -253,15 +350,13 @@ async function fetchCPBL() {
           const status = comp?.status?.type?.name;
           const isFinal = status === 'STATUS_FINAL';
           const isLive = status === 'STATUS_IN_PROGRESS';
-          const ls = comp?.situation;
           allGames.push({
-            league: '中職',
+            league: '日職',
             home: home?.team?.displayName || '',
             away: away?.team?.displayName || '',
             homeScore: (isFinal || isLive) ? Number(home?.score) : null,
             awayScore: (isFinal || isLive) ? Number(away?.score) : null,
             status: isFinal ? 'final' : isLive ? 'live' : 'scheduled',
-            liveInfo: isLive ? `${comp?.status?.displayClock || ''}` : null,
             time: e.date,
             gameDate: e.date,
             winner: isFinal ? (Number(home?.score) > Number(away?.score) ? 'home' : 'away') : null,
@@ -271,27 +366,21 @@ async function fetchCPBL() {
       await new Promise(r => setTimeout(r, 200));
     }
     if (allGames.length) {
-      save('cpbl.json', { schedule: allGames, updatedAt: new Date().toISOString() });
+      save('npb.json', { schedule: allGames, updatedAt: new Date().toISOString() });
     } else {
-      throw new Error('ESPN 無中職資料');
+      throw new Error('無資料');
     }
   } catch (e) {
-    console.error('❌ 中職 失敗:', e.message);
-    // 備用靜態資料
-    const now = new Date();
-    const dates = [0,1,2].map(i => {
-      const d = new Date(now.getTime() + i * 86400000);
-      return d.toISOString();
-    });
-    save('cpbl.json', {
+    console.error('❌ 日職 失敗:', e.message);
+    const d = new Date().toISOString();
+    save('npb.json', {
       schedule: [
-        { league:'中職', away:'中信兄弟', home:'統一7-ELEVEn獅', status:'scheduled', time: dates[0], gameDate: dates[0] },
-        { league:'中職', away:'樂天桃猿', home:'富邦悍將', status:'scheduled', time: dates[0], gameDate: dates[0] },
-        { league:'中職', away:'味全龍', home:'台鋼雄鷹', status:'scheduled', time: dates[0], gameDate: dates[0] },
-        { league:'中職', away:'中信兄弟', home:'富邦悍將', status:'scheduled', time: dates[1], gameDate: dates[1] },
-        { league:'中職', away:'統一7-ELEVEn獅', home:'樂天桃猿', status:'scheduled', time: dates[1], gameDate: dates[1] },
+        { league:'日職', away:'讀賣巨人', home:'阪神虎', status:'scheduled', time:d, gameDate:d },
+        { league:'日職', away:'福岡軟銀鷹', home:'埼玉西武獅', status:'scheduled', time:d, gameDate:d },
+        { league:'日職', away:'東北樂天金鷹', home:'千葉羅德海洋', status:'scheduled', time:d, gameDate:d },
       ],
-      error: e.message
+      note: '日職暫無免費API',
+      updatedAt: new Date().toISOString()
     });
   }
 }
