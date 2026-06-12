@@ -27,11 +27,8 @@ function toTaipeiTime(isoStr) {
 async function fetchMLB() {
   console.log('📡 抓取 MLB...');
   try {
-    // 抓今天起未來 30 天的賽程
-    const now = new Date();
-    const startDate = now.toISOString().slice(0, 10);
-    const endDate = new Date(now.getTime() + 30 * 24 * 60 * 60 * 1000).toISOString().slice(0, 10);
-    const res = await fetch(`https://statsapi.mlb.com/api/v1/schedule?sportId=1&startDate=${startDate}&endDate=${endDate}&hydrate=team,linescore`);
+    // 抓 2026 整個賽季（3月到11月）
+    const res = await fetch(`https://statsapi.mlb.com/api/v1/schedule?sportId=1&startDate=2026-03-01&endDate=2026-11-30&hydrate=team,linescore`);
     const json = await res.json();
     const schedule = [];
 
@@ -127,8 +124,8 @@ async function fetchNBA() {
   try {
     const now = new Date();
     const allGames = [];
-    // 抓今天起未來 30 天
-    for (let i = 0; i < 30; i++) {
+    // 抓今天起未來 90 天（涵蓋整個季後賽）
+    for (let i = 0; i < 90; i++) {
       const d = new Date(now.getTime() + i * 86400000);
       const dateStr = d.toISOString().slice(0,10).replace(/-/g,'');
       try {
@@ -194,7 +191,7 @@ async function fetchWNBA() {
   try {
     const now = new Date();
     const allGames = [];
-    for (let i = 0; i < 30; i++) {
+    for (let i = 0; i < 90; i++) {
       const d = new Date(now.getTime() + i * 86400000);
       const dateStr = d.toISOString().slice(0,10).replace(/-/g,'');
       try {
@@ -334,7 +331,7 @@ async function fetchNPB() {
   try {
     const now = new Date();
     const allGames = [];
-    for (let i = -1; i < 30; i++) {
+    for (let i = -1; i < 90; i++) {
       const d = new Date(now.getTime() + i * 86400000);
       const dateStr = d.toISOString().slice(0,10).replace(/-/g,'');
       try {
@@ -468,7 +465,7 @@ async function fetchCBA() {
   try {
     const now = new Date();
     const allGames = [];
-    for (let i = 0; i < 30; i++) {
+    for (let i = 0; i < 90; i++) {
       const d = new Date(now.getTime() + i * 86400000);
       const dateStr = d.toISOString().slice(0,10).replace(/-/g,'');
       try {
@@ -520,7 +517,7 @@ async function fetchBLeague() {
   try {
     const now = new Date();
     const allGames = [];
-    for (let i = 0; i < 30; i++) {
+    for (let i = 0; i < 90; i++) {
       const d = new Date(now.getTime() + i * 86400000);
       const dateStr = d.toISOString().slice(0,10).replace(/-/g,'');
       try {
@@ -580,7 +577,7 @@ async function fetchSoccer() {
     const schedule = [];
     const now = new Date();
     for (const comp of competitions) {
-      for (let i = 0; i < 30; i++) {
+      for (let i = 0; i < 90; i++) {
         const d = new Date(now.getTime() + i * 86400000);
         const dateStr = d.toISOString().slice(0,10).replace(/-/g,'');
         try {
