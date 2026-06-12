@@ -2,12 +2,14 @@
   "schedule": [
     {
       "league": "CBA",
-      "away": "廣東宏遠",
-      "home": "北京首鋼",
+      "singleEvent": true,
+      "title": "CBA 2025-26 新賽季",
+      "subtitle": "預計 2026 年 10 月開打，敬請期待",
+      "time": "休賽中",
       "status": "scheduled",
-      "time": "今天 19:35"
+      "gameDate": "2026-10-01T11:00:00Z"
     }
   ],
   "error": "無賽事",
-  "updatedAt": "2026-06-12T05:06:30.008Z"
+  "updatedAt": "2026-06-12T05:20:49.838Z"
 }

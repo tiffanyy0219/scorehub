@@ -3,22 +3,21 @@
     {
       "league": "TPBL",
       "singleEvent": true,
-      "title": "TPBL 2025-26 總冠軍賽",
-      "subtitle": "目前進行中，請至官網查詢最新賽程",
-      "time": "5/24 起",
-      "status": "live",
-      "gameDate": "2026-05-24T11:00:00Z"
+      "title": "TPBL 2025-26 賽季已結束",
+      "subtitle": "新賽季預計 2026 年 10 月開打",
+      "time": "休賽中",
+      "status": "final",
+      "gameDate": "2026-06-06T11:00:00Z"
     },
     {
       "league": "TPBL",
       "singleEvent": true,
       "title": "TPBL 2026-27 新賽季",
-      "subtitle": "預計 2026 年 10 月開打",
+      "subtitle": "預計 2026 年 10 月開打，敬請期待",
       "time": "2026/10",
       "status": "scheduled",
-      "gameDate": "2026-10-01T11:00:00Z"
+      "gameDate": "2026-10-11T11:00:00Z"
     }
   ],
-  "note": "TPBL 暫無免費 API",
-  "updatedAt": "2026-06-12T05:06:02.213Z"
+  "updatedAt": "2026-06-12T05:20:27.092Z"
 }

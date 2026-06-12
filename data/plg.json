@@ -3,13 +3,21 @@
     {
       "league": "PLG",
       "singleEvent": true,
-      "title": "P.League+ 2025-26 賽季",
-      "subtitle": "預計 2026 年秋季繼續，請至官網查詢",
+      "title": "P.League+ 2025-26 賽季已結束",
+      "subtitle": "新賽季預計 2026 年秋季開打",
       "time": "休賽中",
+      "status": "final",
+      "gameDate": "2026-06-01T11:00:00Z"
+    },
+    {
+      "league": "PLG",
+      "singleEvent": true,
+      "title": "PLG 2026-27 新賽季",
+      "subtitle": "預計 2026 年 10 月開打",
+      "time": "2026/10",
       "status": "scheduled",
       "gameDate": "2026-10-01T11:00:00Z"
     }
   ],
-  "note": "PLG 暫無免費API",
-  "updatedAt": "2026-06-12T05:06:02.213Z"
+  "updatedAt": "2026-06-12T05:20:27.092Z"
 }
