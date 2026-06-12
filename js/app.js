@@ -156,17 +156,20 @@ const App = {
       const d = await this.loadJSON(`${f}.json`);
       if (d?.schedule) allGames = [...allGames, ...d.schedule];
     }
-    // 篩選追蹤球隊的賽事（用包含比對，更寬鬆）
-    // singleEvent（F1/網球巡迴賽）只有在追蹤名單有相關球員/車手才顯示
+    // 篩選追蹤球隊的賽事
     const favGames = allGames.filter(g => {
-      if (g.singleEvent || g.title) {
-        // F1、網球巡迴賽：只有追蹤了相關車手/球員才顯示
+      // F1 和網球：只有 singleEvent 且追蹤名單有匹配才顯示，否則完全不顯示
+      if (g.league === 'F1' || g.league === 'ATP' || g.league === 'WTA') {
+        if (!g.away && !g.home) return false; // 純賽事公告，不是對戰，不顯示
         return Settings.favTeams.some(t => {
           const tl = t.toLowerCase();
-          return (g.title||'').toLowerCase().includes(tl) ||
-                 (g.subtitle||'').toLowerCase().includes(tl);
+          return (g.away||'').toLowerCase().includes(tl) ||
+                 (g.home||'').toLowerCase().includes(tl) ||
+                 (g.title||'').toLowerCase().includes(tl);
         });
       }
+      // 其他運動：比對 away/home
+      if (!g.away && !g.home && !g.title) return false; // 空資料不顯示
       const awayName = (g.away || '').toLowerCase();
       const homeName = (g.home || '').toLowerCase();
       return Settings.favTeams.some(t => {
