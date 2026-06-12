@@ -387,47 +387,23 @@ async function fetchNPB() {
 // ═══════════════════════════════════════
 async function fetchTPBL() {
   console.log('📡 抓取 TPBL...');
-  try {
-    const res = await fetch('https://www.tpbl.basketball/schedule', {
-      headers: { 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36' }
-    });
-    const html = await res.text();
-    const $ = cheerio.load(html);
-    const schedule = [];
-
-    // 抓今日賽程
-    $('table tr, .game-row, .schedule-row').each((i, row) => {
-      const text = $(row).text().trim();
-      if (!text) return;
-      const teams = ['新北國王','桃園台啤豹','新北中信特攻','高雄全家海神','臺北台新戰神','福爾摩沙夢想家','新竹御嵿攻城獅'];
-      const found = teams.filter(t => text.includes(t));
-      if (found.length >= 2) {
-        schedule.push({ league:'TPBL', away:found[0], home:found[1], status:'scheduled', time:'今天 19:00' });
-      }
-    });
-
-    if (!schedule.length) throw new Error('找不到賽程資料');
-    save('tpbl.json', { schedule, updatedAt: new Date().toISOString() });
-  } catch (e) {
-    console.error('❌ TPBL 失敗:', e.message);
-    save('tpbl.json', {
-      schedule: [
-        { league:'TPBL', singleEvent:true, title:'TPBL 2025-26 總冠軍賽', subtitle:'目前進行中，請至官網查詢最新賽程', time:'5/24 起', status:'live', gameDate: '2026-05-24T11:00:00Z' },
-        { league:'TPBL', singleEvent:true, title:'TPBL 2026-27 新賽季', subtitle:'預計 2026 年 10 月開打', time:'2026/10', status:'scheduled', gameDate: '2026-10-01T11:00:00Z' },
-      ],
-      note: 'TPBL 暫無免費 API',
-      updatedAt: new Date().toISOString()
-    });
-  }
+  // TPBL 2025-26 賽季已於 2026/6/6 結束，新賽季預計 2026/10 開打
+  save('tpbl.json', {
+    schedule: [
+      { league:'TPBL', singleEvent:true, title:'TPBL 2025-26 賽季已結束', subtitle:'新賽季預計 2026 年 10 月開打', time:'休賽中', status:'final', gameDate: '2026-06-06T11:00:00Z' },
+      { league:'TPBL', singleEvent:true, title:'TPBL 2026-27 新賽季', subtitle:'預計 2026 年 10 月開打，敬請期待', time:'2026/10', status:'scheduled', gameDate: '2026-10-11T11:00:00Z' },
+    ],
+    updatedAt: new Date().toISOString()
+  });
 }
 
 async function fetchPLG() {
   console.log('📡 抓取 P.League+...');
   save('plg.json', {
     schedule: [
-      { league:'PLG', singleEvent:true, title:'P.League+ 2025-26 賽季', subtitle:'預計 2026 年秋季繼續，請至官網查詢', time:'休賽中', status:'scheduled', gameDate: '2026-10-01T11:00:00Z' },
+      { league:'PLG', singleEvent:true, title:'P.League+ 2025-26 賽季已結束', subtitle:'新賽季預計 2026 年秋季開打', time:'休賽中', status:'final', gameDate: '2026-06-01T11:00:00Z' },
+      { league:'PLG', singleEvent:true, title:'PLG 2026-27 新賽季', subtitle:'預計 2026 年 10 月開打', time:'2026/10', status:'scheduled', gameDate: '2026-10-01T11:00:00Z' },
     ],
-    note: 'PLG 暫無免費API',
     updatedAt: new Date().toISOString()
   });
 }
@@ -475,9 +451,10 @@ async function fetchCBA() {
     save('cba.json', { schedule: allGames, updatedAt: new Date().toISOString() });
   } catch (e) {
     console.error('❌ CBA 失敗:', e.message);
+    // CBA 2025-26 新賽季預計 2025 年 10 月開打
     save('cba.json', {
       schedule: [
-        { league:'CBA', away:'廣東宏遠', home:'北京首鋼', status:'scheduled', time:'今天 19:35' },
+        { league:'CBA', singleEvent:true, title:'CBA 2025-26 新賽季', subtitle:'預計 2026 年 10 月開打，敬請期待', time:'休賽中', status:'scheduled', gameDate: '2026-10-01T11:00:00Z' },
       ],
       error: e.message, updatedAt: new Date().toISOString()
     });
