@@ -383,31 +383,6 @@ async function fetchNPB() {
 }
 
 // ═══════════════════════════════════════
-// ── 日職 NPB（ESPN API）──
-// ═══════════════════════════════════════
-async function fetchNPB() {
-  console.log('📡 抓取 日職...');
-  try {
-    const res = await fetch(
-      `https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=${today.replace(/-/g,'')}`,
-      { headers: { 'User-Agent': 'Mozilla/5.0' } }
-    );
-    // NPB 備用靜態（ESPN 不含日職，直接用靜態）
-    throw new Error('ESPN 不含日職，使用靜態資料');
-  } catch {
-    save('npb.json', {
-      schedule: [
-        { league:'日職', away:'讀賣巨人', home:'阪神虎', status:'scheduled', time:'今天 18:00', gameDate: new Date().toISOString() },
-        { league:'日職', away:'福岡軟銀鷹', home:'埼玉西武獅', status:'scheduled', time:'今天 18:00', gameDate: new Date().toISOString() },
-        { league:'日職', away:'東北樂天金鷹', home:'千葉羅德海洋', status:'scheduled', time:'今天 18:00', gameDate: new Date().toISOString() },
-      ],
-      note: '日職暫無免費API，顯示靜態賽程',
-      updatedAt: new Date().toISOString()
-    });
-  }
-}
-
-// ═══════════════════════════════════════
 // ── TPBL / PLG（ESPN 爬蟲）──
 // ═══════════════════════════════════════
 async function fetchTPBL() {
