@@ -157,7 +157,16 @@ const App = {
       if (d?.schedule) allGames = [...allGames, ...d.schedule];
     }
     // 篩選追蹤球隊的賽事（用包含比對，更寬鬆）
+    // singleEvent（F1/網球巡迴賽）只有在追蹤名單有相關球員/車手才顯示
     const favGames = allGames.filter(g => {
+      if (g.singleEvent || g.title) {
+        // F1、網球巡迴賽：只有追蹤了相關車手/球員才顯示
+        return Settings.favTeams.some(t => {
+          const tl = t.toLowerCase();
+          return (g.title||'').toLowerCase().includes(tl) ||
+                 (g.subtitle||'').toLowerCase().includes(tl);
+        });
+      }
       const awayName = (g.away || '').toLowerCase();
       const homeName = (g.home || '').toLowerCase();
       return Settings.favTeams.some(t => {
