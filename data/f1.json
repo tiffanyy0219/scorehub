@@ -122,7 +122,7 @@
         ],
         [
           "Oscar Piastri",
-          "60",
+          "58",
           "McLaren"
         ],
         [
@@ -136,19 +136,19 @@
           "Red Bull"
         ],
         [
+          "Pierre Gasly",
+          "35",
+          "Alpine F1 Team"
+        ],
+        [
           "Isack Hadjar",
-          "29",
+          "26",
           "Red Bull"
         ],
         [
           "Liam Lawson",
-          "26",
+          "24",
           "RB F1 Team"
-        ],
-        [
-          "Pierre Gasly",
-          "26",
-          "Alpine F1 Team"
         ]
       ]
     },
@@ -169,19 +169,19 @@
         ],
         [
           "McLaren",
-          "118"
+          "116"
         ],
         [
           "Red Bull",
-          "72"
+          "69"
         ],
         [
           "Alpine F1 Team",
-          "41"
+          "50"
         ],
         [
           "RB F1 Team",
-          "39"
+          "35"
         ],
         [
           "Haas F1 Team",
@@ -194,5 +194,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-12T11:59:44.764Z"
+  "updatedAt": "2026-06-12T19:33:12.271Z"
 }
