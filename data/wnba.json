@@ -2,30 +2,6 @@
   "schedule": [
     {
       "league": "WNBA",
-      "home": "Washington Mystics",
-      "away": "Toronto Tempo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-06-12T23:30Z",
-      "gameDate": "2026-06-12T23:30Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "WNBA",
-      "home": "Seattle Storm",
-      "away": "Golden State Valkyries",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-06-13T02:00Z",
-      "gameDate": "2026-06-13T02:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "WNBA",
       "home": "Connecticut Sun",
       "away": "Indiana Fever",
       "homeScore": null,
@@ -2497,5 +2473,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-06-12T19:33:21.634Z"
+  "updatedAt": "2026-06-13T06:35:10.834Z"
 }
