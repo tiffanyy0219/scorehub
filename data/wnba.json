@@ -4,12 +4,12 @@
       "league": "WNBA",
       "home": "Connecticut Sun",
       "away": "Indiana Fever",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 65,
+      "awayScore": 64,
+      "status": "live",
       "time": "2026-06-13T22:00Z",
       "gameDate": "2026-06-13T22:00Z",
-      "liveInfo": null,
+      "liveInfo": "8:20",
       "winner": null
     },
     {
@@ -2473,5 +2473,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-06-13T20:09:19.284Z"
+  "updatedAt": "2026-06-13T23:54:02.776Z"
 }
