@@ -17080,10 +17080,10 @@
       "league": "MLB",
       "away": "Miami Marlins",
       "home": "Pittsburgh Pirates",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-06-14T16:15:00Z",
       "gameDate": "2026-06-14T16:15:00Z",
       "winner": null
@@ -33849,5 +33849,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-14T10:54:42.957Z"
+  "updatedAt": "2026-06-14T16:14:05.817Z"
 }
