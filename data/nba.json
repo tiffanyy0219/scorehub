@@ -1,42 +1,5 @@
 {
-  "schedule": [
-    {
-      "league": "NBA",
-      "home": "San Antonio Spurs",
-      "away": "New York Knicks",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-06-14T00:30Z",
-      "gameDate": "2026-06-14T00:30Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "New York Knicks",
-      "away": "San Antonio Spurs",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-06-17T00:30Z",
-      "gameDate": "2026-06-17T00:30Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "San Antonio Spurs",
-      "away": "New York Knicks",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-06-20T00:30Z",
-      "gameDate": "2026-06-20T00:30Z",
-      "liveInfo": null,
-      "winner": null
-    }
-  ],
+  "schedule": [],
   "standings": [
     {
       "label": "NBA 東區 2025-26",
@@ -241,5 +204,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-13T23:53:58.344Z"
+  "updatedAt": "2026-06-14T10:54:47.280Z"
 }

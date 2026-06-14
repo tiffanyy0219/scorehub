@@ -2,15 +2,11 @@
   "schedule": [
     {
       "league": "中職",
-      "away": "{{ (['C', 'E'].indexOf(game.KindCode) >= 0 ? 'Game' : '') }} {{ game.GameSno }}",
-      "home": "{{ game.FieldAbbe }}\n                                {{ convertStringToTime(game.GameDuringTime) }}\n                                \n                                {{ dateFormat(new Date(game.PreExeDate), 'HH:mm') }}",
-      "awayScore": null,
-      "homeScore": null,
+      "away": "{{ dateFormat(new Date(game.GameDate), 'M/D') }}({{ getChineseDay(new Date(game.GameDate)) }})",
+      "home": "{{ game.VisitingTeamName }}\n                                \n                                \n                                    {{ game.VisitingScore }}\n                                    :\n                                    {{ game.HomeScore }}\n                                \n                                \n                                    \n                                    VS.\n                                    \n                                \n                                {{ game.HomeTeamName }}",
       "status": "scheduled",
-      "time": "2026-06-13T23:54:03.790Z",
-      "gameDate": "2026-06-13T23:54:03.790Z",
-      "winner": null
+      "time": "2026-06-14T10:00:00+08:00",
+      "gameDate": "2026-06-14T10:00:00+08:00"
     }
-  ],
-  "updatedAt": "2026-06-13T23:54:03.790Z"
+  ]
 }
