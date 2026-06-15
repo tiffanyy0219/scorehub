@@ -17258,10 +17258,10 @@
       "league": "MLB",
       "away": "Miami Marlins",
       "home": "Philadelphia Phillies",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 1,
+      "status": "live",
+      "liveInfo": " 3局",
       "time": "2026-06-15T22:40:00Z",
       "gameDate": "2026-06-15T22:40:00Z",
       "winner": null
@@ -17270,10 +17270,10 @@
       "league": "MLB",
       "away": "Kansas City Royals",
       "home": "Washington Nationals",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 3局",
       "time": "2026-06-15T22:45:00Z",
       "gameDate": "2026-06-15T22:45:00Z",
       "winner": null
@@ -17282,10 +17282,10 @@
       "league": "MLB",
       "away": "New York Mets",
       "home": "Cincinnati Reds",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-06-15T23:10:00Z",
       "gameDate": "2026-06-15T23:10:00Z",
       "winner": null
@@ -17294,10 +17294,10 @@
       "league": "MLB",
       "away": "San Diego Padres",
       "home": "St. Louis Cardinals",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-06-15T23:45:00Z",
       "gameDate": "2026-06-15T23:45:00Z",
       "winner": null
@@ -25500,18 +25500,6 @@
     },
     {
       "league": "MLB",
-      "away": "Cleveland Guardians",
-      "home": "Chicago White Sox",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "2026-08-08T23:10:00Z",
-      "gameDate": "2026-08-08T23:10:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
       "away": "Minnesota Twins",
       "home": "Milwaukee Brewers",
       "awayScore": null,
@@ -25562,6 +25550,18 @@
       "league": "MLB",
       "away": "Baltimore Orioles",
       "home": "Texas Rangers",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "2026-08-08T23:15:00Z",
+      "gameDate": "2026-08-08T23:15:00Z",
+      "winner": null
+    },
+    {
+      "league": "MLB",
+      "away": "Cleveland Guardians",
+      "home": "Chicago White Sox",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -26604,18 +26604,6 @@
     },
     {
       "league": "MLB",
-      "away": "Boston Red Sox",
-      "home": "Pittsburgh Pirates",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "2026-08-15T22:40:00Z",
-      "gameDate": "2026-08-15T22:40:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
       "away": "Miami Marlins",
       "home": "Cincinnati Reds",
       "awayScore": null,
@@ -26660,6 +26648,18 @@
       "liveInfo": null,
       "time": "2026-08-15T23:10:00Z",
       "gameDate": "2026-08-15T23:10:00Z",
+      "winner": null
+    },
+    {
+      "league": "MLB",
+      "away": "Boston Red Sox",
+      "home": "Pittsburgh Pirates",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "2026-08-15T23:15:00Z",
+      "gameDate": "2026-08-15T23:15:00Z",
       "winner": null
     },
     {
@@ -30072,6 +30072,18 @@
     },
     {
       "league": "MLB",
+      "away": "New York Yankees",
+      "home": "San Diego Padres",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "2026-09-05T23:15:00Z",
+      "gameDate": "2026-09-05T23:15:00Z",
+      "winner": null
+    },
+    {
+      "league": "MLB",
       "away": "St. Louis Cardinals",
       "home": "Colorado Rockies",
       "awayScore": null,
@@ -30080,18 +30092,6 @@
       "liveInfo": null,
       "time": "2026-09-06T00:10:00Z",
       "gameDate": "2026-09-06T00:10:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
-      "away": "New York Yankees",
-      "home": "San Diego Padres",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "2026-09-06T00:40:00Z",
-      "gameDate": "2026-09-06T00:40:00Z",
       "winner": null
     },
     {
@@ -33859,5 +33859,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-15T16:28:41.745Z"
+  "updatedAt": "2026-06-15T23:21:38.480Z"
 }
