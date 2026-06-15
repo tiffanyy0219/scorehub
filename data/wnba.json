@@ -2,30 +2,6 @@
   "schedule": [
     {
       "league": "WNBA",
-      "home": "New York Liberty",
-      "away": "Washington Mystics",
-      "homeScore": 70,
-      "awayScore": 50,
-      "status": "live",
-      "time": "2026-06-14T19:00Z",
-      "gameDate": "2026-06-14T19:00Z",
-      "liveInfo": "7:08",
-      "winner": null
-    },
-    {
-      "league": "WNBA",
-      "home": "Toronto Tempo",
-      "away": "Atlanta Dream",
-      "homeScore": 67,
-      "awayScore": 80,
-      "status": "live",
-      "time": "2026-06-14T19:00Z",
-      "gameDate": "2026-06-14T19:00Z",
-      "liveInfo": "6:40",
-      "winner": null
-    },
-    {
-      "league": "WNBA",
       "home": "Dallas Wings",
       "away": "Las Vegas Aces",
       "homeScore": null,
@@ -2425,5 +2401,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-06-14T20:51:32.529Z"
+  "updatedAt": "2026-06-15T16:28:52.094Z"
 }
