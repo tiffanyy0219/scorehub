@@ -2,28 +2,15 @@
   "schedule": [
     {
       "league": "中職",
-      "away": "中信兄弟",
-      "home": "統一7-ELEVEn獅",
+      "away": "{{ (['C', 'E'].indexOf(game.KindCode) >= 0 ? 'Game' : '') }} {{ game.GameSno }}",
+      "home": "{{ game.FieldAbbe }}\n                                {{ convertStringToTime(game.GameDuringTime) }}\n                                \n                                {{ dateFormat(new Date(game.PreExeDate), 'HH:mm') }}",
+      "awayScore": null,
+      "homeScore": null,
       "status": "scheduled",
-      "time": "2026-06-16T23:53:38.447Z",
-      "gameDate": "2026-06-16T23:53:38.447Z"
-    },
-    {
-      "league": "中職",
-      "away": "樂天桃猿",
-      "home": "富邦悍將",
-      "status": "scheduled",
-      "time": "2026-06-16T23:53:38.447Z",
-      "gameDate": "2026-06-16T23:53:38.447Z"
-    },
-    {
-      "league": "中職",
-      "away": "味全龍",
-      "home": "台鋼雄鷹",
-      "status": "scheduled",
-      "time": "2026-06-16T23:53:38.447Z",
-      "gameDate": "2026-06-16T23:53:38.447Z"
+      "time": "2026-06-17T13:04:08.333Z",
+      "gameDate": "2026-06-17T13:04:08.333Z",
+      "winner": null
     }
   ],
-  "error": "抓不到資料"
+  "updatedAt": "2026-06-17T13:04:08.333Z"
 }

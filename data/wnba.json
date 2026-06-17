@@ -2,18 +2,6 @@
   "schedule": [
     {
       "league": "WNBA",
-      "home": "Indiana Fever",
-      "away": "Toronto Tempo",
-      "homeScore": 42,
-      "awayScore": 40,
-      "status": "live",
-      "time": "2026-06-16T23:00Z",
-      "gameDate": "2026-06-16T23:00Z",
-      "liveInfo": "2:55",
-      "winner": null
-    },
-    {
-      "league": "WNBA",
       "home": "Connecticut Sun",
       "away": "Washington Mystics",
       "homeScore": null,
@@ -2365,5 +2353,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-06-16T23:53:35.699Z"
+  "updatedAt": "2026-06-17T13:04:06.392Z"
 }
