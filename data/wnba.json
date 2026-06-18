@@ -2,78 +2,6 @@
   "schedule": [
     {
       "league": "WNBA",
-      "home": "Connecticut Sun",
-      "away": "Washington Mystics",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-06-17T23:00Z",
-      "gameDate": "2026-06-17T23:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "WNBA",
-      "home": "Chicago Sky",
-      "away": "New York Liberty",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-06-18T00:00Z",
-      "gameDate": "2026-06-18T00:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "WNBA",
-      "home": "Golden State Valkyries",
-      "away": "Dallas Wings",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-06-18T02:00Z",
-      "gameDate": "2026-06-18T02:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "WNBA",
-      "home": "Los Angeles Sparks",
-      "away": "Minnesota Lynx",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-06-18T02:00Z",
-      "gameDate": "2026-06-18T02:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "WNBA",
-      "home": "Phoenix Mercury",
-      "away": "Las Vegas Aces",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-06-18T02:00Z",
-      "gameDate": "2026-06-18T02:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "WNBA",
-      "home": "Portland Fire",
-      "away": "Seattle Storm",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-06-18T02:00Z",
-      "gameDate": "2026-06-18T02:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "WNBA",
       "home": "Indiana Fever",
       "away": "Atlanta Dream",
       "homeScore": null,
@@ -458,13 +386,13 @@
     },
     {
       "league": "WNBA",
-      "home": "TBD",
-      "away": "TBD",
+      "home": "New York Liberty",
+      "away": "Las Vegas Aces",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-06-30T04:00Z",
-      "gameDate": "2026-06-30T04:00Z",
+      "time": "2026-06-30T23:00Z",
+      "gameDate": "2026-06-30T23:00Z",
       "liveInfo": null,
       "winner": null
     },
@@ -2353,5 +2281,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-06-17T21:21:35.221Z"
+  "updatedAt": "2026-06-18T11:58:42.503Z"
 }
