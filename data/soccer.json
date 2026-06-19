@@ -1,6 +1,446 @@
 {
   "schedule": [
     {
+      "league": "EPL",
+      "home": "Arsenal",
+      "away": "Coventry City",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-21T19:00Z",
+      "gameDate": "2026-08-21T19:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Hull City",
+      "away": "Manchester United",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-22T11:30Z",
+      "gameDate": "2026-08-22T11:30Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Everton",
+      "away": "Crystal Palace",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-22T14:00Z",
+      "gameDate": "2026-08-22T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Ipswich Town",
+      "away": "Sunderland",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-22T14:00Z",
+      "gameDate": "2026-08-22T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Nottingham Forest",
+      "away": "Leeds United",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-22T14:00Z",
+      "gameDate": "2026-08-22T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Brentford",
+      "away": "Tottenham Hotspur",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-22T16:30Z",
+      "gameDate": "2026-08-22T16:30Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Brighton & Hove Albion",
+      "away": "Aston Villa",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-23T13:00Z",
+      "gameDate": "2026-08-23T13:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Manchester City",
+      "away": "AFC Bournemouth",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-23T13:00Z",
+      "gameDate": "2026-08-23T13:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Newcastle United",
+      "away": "Liverpool",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-23T15:30Z",
+      "gameDate": "2026-08-23T15:30Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Fulham",
+      "away": "Chelsea",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-24T19:00Z",
+      "gameDate": "2026-08-24T19:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "AFC Bournemouth",
+      "away": "Everton",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-29T14:00Z",
+      "gameDate": "2026-08-29T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Aston Villa",
+      "away": "Arsenal",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-29T14:00Z",
+      "gameDate": "2026-08-29T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Chelsea",
+      "away": "Brighton & Hove Albion",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-29T14:00Z",
+      "gameDate": "2026-08-29T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Coventry City",
+      "away": "Hull City",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-29T14:00Z",
+      "gameDate": "2026-08-29T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Crystal Palace",
+      "away": "Manchester City",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-29T14:00Z",
+      "gameDate": "2026-08-29T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Leeds United",
+      "away": "Brentford",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-29T14:00Z",
+      "gameDate": "2026-08-29T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Liverpool",
+      "away": "Nottingham Forest",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-29T14:00Z",
+      "gameDate": "2026-08-29T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Manchester United",
+      "away": "Ipswich Town",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-29T14:00Z",
+      "gameDate": "2026-08-29T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Sunderland",
+      "away": "Fulham",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-29T14:00Z",
+      "gameDate": "2026-08-29T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Tottenham Hotspur",
+      "away": "Newcastle United",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-29T14:00Z",
+      "gameDate": "2026-08-29T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Arsenal",
+      "away": "Chelsea",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-05T14:00Z",
+      "gameDate": "2026-09-05T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Brentford",
+      "away": "Sunderland",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-05T14:00Z",
+      "gameDate": "2026-09-05T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Brighton & Hove Albion",
+      "away": "Leeds United",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-05T14:00Z",
+      "gameDate": "2026-09-05T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Everton",
+      "away": "Manchester United",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-05T14:00Z",
+      "gameDate": "2026-09-05T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Fulham",
+      "away": "Crystal Palace",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-05T14:00Z",
+      "gameDate": "2026-09-05T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Hull City",
+      "away": "Aston Villa",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-05T14:00Z",
+      "gameDate": "2026-09-05T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Ipswich Town",
+      "away": "Liverpool",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-05T14:00Z",
+      "gameDate": "2026-09-05T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Manchester City",
+      "away": "Coventry City",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-05T14:00Z",
+      "gameDate": "2026-09-05T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Newcastle United",
+      "away": "AFC Bournemouth",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-05T14:00Z",
+      "gameDate": "2026-09-05T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Nottingham Forest",
+      "away": "Tottenham Hotspur",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-05T14:00Z",
+      "gameDate": "2026-09-05T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "AFC Bournemouth",
+      "away": "Brentford",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-12T14:00Z",
+      "gameDate": "2026-09-12T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Aston Villa",
+      "away": "Nottingham Forest",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-12T14:00Z",
+      "gameDate": "2026-09-12T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Chelsea",
+      "away": "Hull City",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-12T14:00Z",
+      "gameDate": "2026-09-12T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Coventry City",
+      "away": "Brighton & Hove Albion",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-12T14:00Z",
+      "gameDate": "2026-09-12T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Crystal Palace",
+      "away": "Ipswich Town",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-12T14:00Z",
+      "gameDate": "2026-09-12T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Leeds United",
+      "away": "Newcastle United",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-12T14:00Z",
+      "gameDate": "2026-09-12T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Liverpool",
+      "away": "Fulham",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-12T14:00Z",
+      "gameDate": "2026-09-12T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Manchester United",
+      "away": "Manchester City",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-12T14:00Z",
+      "gameDate": "2026-09-12T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Sunderland",
+      "away": "Arsenal",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-12T14:00Z",
+      "gameDate": "2026-09-12T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Tottenham Hotspur",
+      "away": "Everton",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-12T14:00Z",
+      "gameDate": "2026-09-12T14:00Z",
+      "winner": null
+    },
+    {
       "league": "Serie A",
       "home": "AS Roma",
       "away": "Fiorentina",
@@ -837,5 +1277,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-06-18T21:18:38.745Z"
+  "updatedAt": "2026-06-19T12:38:57.643Z"
 }
