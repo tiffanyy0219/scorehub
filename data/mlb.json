@@ -17844,10 +17844,10 @@
       "league": "MLB",
       "away": "Toronto Blue Jays",
       "home": "Chicago Cubs",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 1,
+      "homeScore": 7,
+      "status": "live",
+      "liveInfo": " 3局",
       "time": "2026-06-19T18:20:00Z",
       "gameDate": "2026-06-19T18:20:00Z",
       "winner": null
@@ -33881,5 +33881,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-19T12:35:43.228Z"
+  "updatedAt": "2026-06-19T19:15:41.261Z"
 }
