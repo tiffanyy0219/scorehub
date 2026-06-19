@@ -17844,22 +17844,22 @@
       "league": "MLB",
       "away": "Toronto Blue Jays",
       "home": "Chicago Cubs",
-      "awayScore": 1,
-      "homeScore": 7,
-      "status": "live",
-      "liveInfo": " 3局",
+      "awayScore": 2,
+      "homeScore": 16,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-06-19T18:20:00Z",
       "gameDate": "2026-06-19T18:20:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Chicago White Sox",
       "home": "Detroit Tigers",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-06-19T22:40:00Z",
       "gameDate": "2026-06-19T22:40:00Z",
       "winner": null
@@ -33658,8 +33658,8 @@
         [
           "Blue Jays",
           "37",
-          "38",
-          ".493"
+          "39",
+          ".487"
         ],
         [
           "Orioles",
@@ -33821,9 +33821,9 @@
         ],
         [
           "Cubs",
-          "39",
+          "40",
           "36",
-          ".520"
+          ".526"
         ],
         [
           "Pirates",
@@ -33881,5 +33881,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-19T19:15:41.261Z"
+  "updatedAt": "2026-06-19T22:37:58.574Z"
 }
