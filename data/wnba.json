@@ -4,24 +4,24 @@
       "league": "WNBA",
       "home": "Atlanta Dream",
       "away": "Indiana Fever",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 113,
+      "awayScore": 96,
+      "status": "final",
       "time": "2026-06-20T17:00Z",
       "gameDate": "2026-06-20T17:00Z",
       "liveInfo": null,
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "WNBA",
       "home": "Phoenix Mercury",
       "away": "Seattle Storm",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-06-20T19:00Z",
-      "gameDate": "2026-06-20T19:00Z",
-      "liveInfo": null,
+      "homeScore": 87,
+      "awayScore": 62,
+      "status": "live",
+      "time": "2026-06-20T19:07Z",
+      "gameDate": "2026-06-20T19:07Z",
+      "liveInfo": "8:09",
       "winner": null
     },
     {
@@ -2293,5 +2293,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-06-20T15:58:11.350Z"
+  "updatedAt": "2026-06-20T20:52:03.973Z"
 }
