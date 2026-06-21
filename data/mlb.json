@@ -18262,18 +18262,6 @@
     },
     {
       "league": "MLB",
-      "away": "Toronto Blue Jays",
-      "home": "Chicago Cubs",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "2026-06-21T18:20:00Z",
-      "gameDate": "2026-06-21T18:20:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
       "away": "San Diego Padres",
       "home": "Texas Rangers",
       "awayScore": null,
@@ -18355,6 +18343,16 @@
       "time": "2026-06-21T23:20:00Z",
       "gameDate": "2026-06-21T23:20:00Z",
       "winner": null
+    },
+    {
+      "league": "MLB",
+      "away": "Toronto Blue Jays",
+      "home": "Chicago Cubs",
+      "status": "final",
+      "liveInfo": null,
+      "time": "2026-06-21T18:20:00Z",
+      "gameDate": "2026-06-21T18:20:00Z",
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -25170,6 +25168,18 @@
       "liveInfo": null,
       "time": "2026-08-06T18:10:00Z",
       "gameDate": "2026-08-06T18:10:00Z",
+      "winner": null
+    },
+    {
+      "league": "MLB",
+      "away": "Toronto Blue Jays",
+      "home": "Chicago Cubs",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "2026-08-06T18:20:00Z",
+      "gameDate": "2026-08-06T18:20:00Z",
       "winner": null
     },
     {
@@ -33881,5 +33891,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-21T10:48:38.145Z"
+  "updatedAt": "2026-06-21T16:56:37.487Z"
 }
