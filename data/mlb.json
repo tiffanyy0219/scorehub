@@ -18358,10 +18358,10 @@
       "league": "MLB",
       "away": "New York Yankees",
       "home": "Detroit Tigers",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-06-22T22:10:00Z",
       "gameDate": "2026-06-22T22:10:00Z",
       "winner": null
@@ -18370,10 +18370,10 @@
       "league": "MLB",
       "away": "Kansas City Royals",
       "home": "Tampa Bay Rays",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-06-22T22:40:00Z",
       "gameDate": "2026-06-22T22:40:00Z",
       "winner": null
@@ -18382,10 +18382,10 @@
       "league": "MLB",
       "away": "Texas Rangers",
       "home": "Miami Marlins",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-06-22T22:40:00Z",
       "gameDate": "2026-06-22T22:40:00Z",
       "winner": null
@@ -33891,5 +33891,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-22T16:16:05.464Z"
+  "updatedAt": "2026-06-22T22:27:49.510Z"
 }
