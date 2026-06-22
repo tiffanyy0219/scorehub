@@ -2,42 +2,6 @@
   "schedule": [
     {
       "league": "WNBA",
-      "home": "Las Vegas Aces",
-      "away": "Golden State Valkyries",
-      "homeScore": 89,
-      "awayScore": 66,
-      "status": "live",
-      "time": "2026-06-21T20:00Z",
-      "gameDate": "2026-06-21T20:00Z",
-      "liveInfo": "1:54",
-      "winner": null
-    },
-    {
-      "league": "WNBA",
-      "home": "Minnesota Lynx",
-      "away": "Washington Mystics",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-06-21T22:00Z",
-      "gameDate": "2026-06-21T22:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "WNBA",
-      "home": "Los Angeles Sparks",
-      "away": "New York Liberty",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-06-22T00:00Z",
-      "gameDate": "2026-06-22T00:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "WNBA",
       "home": "Connecticut Sun",
       "away": "Chicago Sky",
       "homeScore": null,
@@ -2291,7 +2255,43 @@
       "gameDate": "2026-09-19T02:00Z",
       "liveInfo": null,
       "winner": null
+    },
+    {
+      "league": "WNBA",
+      "home": "Dallas Wings",
+      "away": "Phoenix Mercury",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-19T17:00Z",
+      "gameDate": "2026-09-19T17:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "WNBA",
+      "home": "Atlanta Dream",
+      "away": "Chicago Sky",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-19T23:00Z",
+      "gameDate": "2026-09-19T23:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "WNBA",
+      "home": "Golden State Valkyries",
+      "away": "Seattle Storm",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-20T01:00Z",
+      "gameDate": "2026-09-20T01:00Z",
+      "liveInfo": null,
+      "winner": null
     }
   ],
-  "updatedAt": "2026-06-21T22:00:50.640Z"
+  "updatedAt": "2026-06-22T16:16:09.852Z"
 }
