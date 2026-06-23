@@ -18512,10 +18512,10 @@
       "league": "MLB",
       "away": "Houston Astros",
       "home": "Toronto Blue Jays",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 4,
+      "homeScore": 2,
+      "status": "live",
+      "liveInfo": " 6局",
       "time": "2026-06-23T20:07:00Z",
       "gameDate": "2026-06-23T20:07:00Z",
       "winner": null
@@ -33901,5 +33901,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-23T17:30:48.212Z"
+  "updatedAt": "2026-06-23T22:07:29.466Z"
 }
