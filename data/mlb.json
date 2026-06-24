@@ -18692,10 +18692,10 @@
       "league": "MLB",
       "away": "Texas Rangers",
       "home": "Miami Marlins",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 1,
+      "homeScore": 1,
+      "status": "live",
+      "liveInfo": " 5局",
       "time": "2026-06-24T16:10:00Z",
       "gameDate": "2026-06-24T16:10:00Z",
       "winner": null
@@ -18704,10 +18704,10 @@
       "league": "MLB",
       "away": "Chicago Cubs",
       "home": "New York Mets",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 2局",
       "time": "2026-06-24T17:10:00Z",
       "gameDate": "2026-06-24T17:10:00Z",
       "winner": null
@@ -33901,5 +33901,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-24T10:29:08.243Z"
+  "updatedAt": "2026-06-24T17:31:54.722Z"
 }
