@@ -2,42 +2,6 @@
   "schedule": [
     {
       "league": "WNBA",
-      "home": "Toronto Tempo",
-      "away": "Los Angeles Sparks",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-06-25T23:00Z",
-      "gameDate": "2026-06-25T23:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "WNBA",
-      "home": "Las Vegas Aces",
-      "away": "Dallas Wings",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-06-26T02:00Z",
-      "gameDate": "2026-06-26T02:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "WNBA",
-      "home": "Seattle Storm",
-      "away": "New York Liberty",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-06-26T02:00Z",
-      "gameDate": "2026-06-26T02:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "WNBA",
       "home": "Connecticut Sun",
       "away": "Washington Mystics",
       "homeScore": null,
@@ -2327,7 +2291,31 @@
       "gameDate": "2026-09-23T02:00Z",
       "liveInfo": null,
       "winner": null
+    },
+    {
+      "league": "WNBA",
+      "home": "New York Liberty",
+      "away": "Atlanta Dream",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-24T00:00Z",
+      "gameDate": "2026-09-24T00:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "WNBA",
+      "home": "Seattle Storm",
+      "away": "Dallas Wings",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-24T02:00Z",
+      "gameDate": "2026-09-24T02:00Z",
+      "liveInfo": null,
+      "winner": null
     }
   ],
-  "updatedAt": "2026-06-25T23:01:23.216Z"
+  "updatedAt": "2026-06-26T10:38:37.524Z"
 }
