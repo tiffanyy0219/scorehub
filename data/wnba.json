@@ -4,13 +4,13 @@
       "league": "WNBA",
       "home": "Toronto Tempo",
       "away": "Phoenix Mercury",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 80,
+      "awayScore": 89,
+      "status": "final",
       "time": "2026-06-27T18:00Z",
       "gameDate": "2026-06-27T18:00Z",
       "liveInfo": null,
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "WNBA",
@@ -2341,5 +2341,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-06-27T16:41:11.687Z"
+  "updatedAt": "2026-06-27T20:41:38.332Z"
 }
