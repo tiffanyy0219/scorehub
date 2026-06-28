@@ -70,7 +70,7 @@
       "subtitle": "第8站 · Red Bull Ring",
       "time": "2026-06-28",
       "gameDate": "2026-06-28T13:00:00Z",
-      "status": "scheduled"
+      "status": "final"
     },
     {
       "league": "F1",
@@ -194,5 +194,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-28T08:33:52.160Z"
+  "updatedAt": "2026-06-28T14:58:35.364Z"
 }
