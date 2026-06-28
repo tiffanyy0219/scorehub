@@ -102,37 +102,42 @@
       "rows": [
         [
           "Andrea Kimi Antonelli",
-          "156",
+          "171",
+          "Mercedes"
+        ],
+        [
+          "George Russell",
+          "131",
           "Mercedes"
         ],
         [
           "Lewis Hamilton",
-          "115",
+          "125",
           "Ferrari"
-        ],
-        [
-          "George Russell",
-          "106",
-          "Mercedes"
-        ],
-        [
-          "Charles Leclerc",
-          "75",
-          "Ferrari"
-        ],
-        [
-          "Lando Norris",
-          "73",
-          "McLaren"
         ],
         [
           "Oscar Piastri",
-          "68",
+          "80",
           "McLaren"
         ],
         [
+          "Lando Norris",
+          "79",
+          "McLaren"
+        ],
+        [
+          "Charles Leclerc",
+          "79",
+          "Ferrari"
+        ],
+        [
           "Max Verstappen",
-          "55",
+          "73",
+          "Red Bull"
+        ],
+        [
+          "Isack Hadjar",
+          "42",
           "Red Bull"
         ],
         [
@@ -141,13 +146,8 @@
           "Alpine F1 Team"
         ],
         [
-          "Isack Hadjar",
-          "34",
-          "Red Bull"
-        ],
-        [
           "Liam Lawson",
-          "28",
+          "30",
           "RB F1 Team"
         ]
       ]
@@ -161,19 +161,19 @@
       "rows": [
         [
           "Mercedes",
-          "262"
+          "302"
         ],
         [
           "Ferrari",
-          "190"
+          "204"
         ],
         [
           "McLaren",
-          "141"
+          "159"
         ],
         [
           "Red Bull",
-          "89"
+          "115"
         ],
         [
           "Alpine F1 Team",
@@ -181,7 +181,7 @@
         ],
         [
           "RB F1 Team",
-          "41"
+          "44"
         ],
         [
           "Haas F1 Team",
@@ -194,5 +194,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-28T14:58:35.364Z"
+  "updatedAt": "2026-06-28T18:56:58.051Z"
 }
