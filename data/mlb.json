@@ -19508,23 +19508,23 @@
       "home": "San Diego Padres",
       "awayScore": 4,
       "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-06-28T20:10:00Z",
       "gameDate": "2026-06-28T20:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "New York Yankees",
       "home": "Boston Red Sox",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
+      "awayScore": 4,
+      "homeScore": 5,
+      "status": "final",
       "liveInfo": null,
       "time": "2026-06-28T23:20:00Z",
       "gameDate": "2026-06-28T23:20:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -33682,8 +33682,8 @@
         [
           "Yankees",
           "48",
-          "34",
-          ".585"
+          "35",
+          ".578"
         ],
         [
           "Blue Jays",
@@ -33699,9 +33699,9 @@
         ],
         [
           "Red Sox",
-          "35",
+          "36",
           "46",
-          ".432"
+          ".439"
         ]
       ]
     },
@@ -33880,15 +33880,15 @@
       "rows": [
         [
           "Dodgers",
-          "53",
+          "54",
           "30",
-          ".639"
+          ".643"
         ],
         [
           "Padres",
           "43",
-          "38",
-          ".531"
+          "39",
+          ".524"
         ],
         [
           "D-backs",
@@ -33911,5 +33911,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-28T22:43:08.247Z"
+  "updatedAt": "2026-06-29T14:36:40.125Z"
 }
