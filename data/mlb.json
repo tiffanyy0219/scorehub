@@ -20034,22 +20034,22 @@
       "league": "MLB",
       "away": "Pittsburgh Pirates",
       "home": "Philadelphia Phillies",
-      "awayScore": 0,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 1局",
+      "awayScore": 6,
+      "homeScore": 1,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-02T16:35:00Z",
       "gameDate": "2026-07-02T16:35:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Cincinnati Reds",
       "home": "Milwaukee Brewers",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 7,
+      "homeScore": 2,
+      "status": "live",
+      "liveInfo": " 9局",
       "time": "2026-07-02T18:10:00Z",
       "gameDate": "2026-07-02T18:10:00Z",
       "winner": null
@@ -20058,10 +20058,10 @@
       "league": "MLB",
       "away": "Miami Marlins",
       "home": "Colorado Rockies",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 4,
+      "homeScore": 5,
+      "status": "live",
+      "liveInfo": " 5局",
       "time": "2026-07-02T19:10:00Z",
       "gameDate": "2026-07-02T19:10:00Z",
       "winner": null
@@ -33805,8 +33805,8 @@
         [
           "Phillies",
           "49",
-          "38",
-          ".563"
+          "39",
+          ".557"
         ],
         [
           "Marlins",
@@ -33857,9 +33857,9 @@
         ],
         [
           "Pirates",
-          "43",
           "44",
-          ".494"
+          "44",
+          ".500"
         ],
         [
           "Reds",
@@ -33911,5 +33911,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-02T16:30:08.515Z"
+  "updatedAt": "2026-07-02T20:43:55.980Z"
 }
