@@ -20142,10 +20142,10 @@
       "league": "MLB",
       "away": "St. Louis Cardinals",
       "home": "Chicago Cubs",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-07-03T20:05:00Z",
       "gameDate": "2026-07-03T20:05:00Z",
       "winner": null
@@ -33911,5 +33911,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-03T15:57:06.692Z"
+  "updatedAt": "2026-07-03T20:34:19.965Z"
 }
