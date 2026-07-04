@@ -5,12 +5,12 @@
       "home": "Atlanta Dream",
       "away": "Golden State Valkyries",
       "homeScore": 83,
-      "awayScore": 86,
-      "status": "live",
+      "awayScore": 88,
+      "status": "final",
       "time": "2026-07-04T17:00Z",
       "gameDate": "2026-07-04T17:00Z",
-      "liveInfo": "6.5",
-      "winner": null
+      "liveInfo": null,
+      "winner": "away"
     },
     {
       "league": "WNBA",
@@ -2185,5 +2185,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-04T19:24:15.912Z"
+  "updatedAt": "2026-07-04T20:30:37.014Z"
 }
