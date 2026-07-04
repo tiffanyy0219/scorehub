@@ -20298,10 +20298,10 @@
       "league": "MLB",
       "away": "Pittsburgh Pirates",
       "home": "Washington Nationals",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 1,
+      "homeScore": 1,
+      "status": "live",
+      "liveInfo": " 2局",
       "time": "2026-07-04T15:05:00Z",
       "gameDate": "2026-07-04T15:05:00Z",
       "winner": null
@@ -33911,5 +33911,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-04T14:15:17.648Z"
+  "updatedAt": "2026-07-04T15:35:54.241Z"
 }
