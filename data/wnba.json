@@ -16,12 +16,12 @@
       "league": "WNBA",
       "home": "Las Vegas Aces",
       "away": "Indiana Fever",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 36,
+      "awayScore": 40,
+      "status": "live",
       "time": "2026-07-05T23:00Z",
       "gameDate": "2026-07-05T23:00Z",
-      "liveInfo": null,
+      "liveInfo": "2:24",
       "winner": null
     },
     {
@@ -2161,5 +2161,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-05T22:44:27.598Z"
+  "updatedAt": "2026-07-05T23:50:25.690Z"
 }
