@@ -2,30 +2,6 @@
   "schedule": [
     {
       "league": "WNBA",
-      "home": "Atlanta Dream",
-      "away": "Golden State Valkyries",
-      "homeScore": 83,
-      "awayScore": 88,
-      "status": "final",
-      "time": "2026-07-04T17:00Z",
-      "gameDate": "2026-07-04T17:00Z",
-      "liveInfo": null,
-      "winner": "away"
-    },
-    {
-      "league": "WNBA",
-      "home": "Seattle Storm",
-      "away": "Portland Fire",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-07-05T01:00Z",
-      "gameDate": "2026-07-05T01:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "WNBA",
       "home": "Toronto Tempo",
       "away": "Dallas Wings",
       "homeScore": null,
@@ -2185,5 +2161,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-04T23:45:14.523Z"
+  "updatedAt": "2026-07-05T01:28:11.132Z"
 }
