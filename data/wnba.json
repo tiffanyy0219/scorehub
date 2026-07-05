@@ -4,12 +4,12 @@
       "league": "WNBA",
       "home": "Toronto Tempo",
       "away": "Dallas Wings",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 26,
+      "awayScore": 37,
+      "status": "live",
       "time": "2026-07-05T19:00Z",
       "gameDate": "2026-07-05T19:00Z",
-      "liveInfo": null,
+      "liveInfo": "6:22",
       "winner": null
     },
     {
@@ -2161,5 +2161,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-05T17:54:37.863Z"
+  "updatedAt": "2026-07-05T19:34:28.389Z"
 }
