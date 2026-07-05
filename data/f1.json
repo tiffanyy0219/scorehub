@@ -79,7 +79,7 @@
       "subtitle": "第9站 · Silverstone Circuit",
       "time": "2026-07-05",
       "gameDate": "2026-07-05T14:00:00Z",
-      "status": "scheduled"
+      "status": "final"
     },
     {
       "league": "F1",
@@ -194,5 +194,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-05T12:21:25.108Z"
+  "updatedAt": "2026-07-05T14:18:06.919Z"
 }
