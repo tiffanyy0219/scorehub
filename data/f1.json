@@ -107,23 +107,23 @@
         ],
         [
           "George Russell",
-          "136",
+          "154",
           "Mercedes"
         ],
         [
           "Lewis Hamilton",
-          "132",
+          "147",
+          "Ferrari"
+        ],
+        [
+          "Charles Leclerc",
+          "108",
           "Ferrari"
         ],
         [
           "Lando Norris",
-          "85",
+          "97",
           "McLaren"
-        ],
-        [
-          "Charles Leclerc",
-          "83",
-          "Ferrari"
         ],
         [
           "Oscar Piastri",
@@ -137,17 +137,17 @@
         ],
         [
           "Isack Hadjar",
-          "42",
+          "52",
           "Red Bull"
         ],
         [
           "Pierre Gasly",
-          "41",
+          "42",
           "Alpine F1 Team"
         ],
         [
           "Liam Lawson",
-          "31",
+          "39",
           "RB F1 Team"
         ]
       ]
@@ -161,27 +161,27 @@
       "rows": [
         [
           "Mercedes",
-          "315"
+          "333"
         ],
         [
           "Ferrari",
-          "215"
+          "255"
         ],
         [
           "McLaren",
-          "167"
+          "179"
         ],
         [
           "Red Bull",
-          "118"
+          "128"
         ],
         [
           "Alpine F1 Team",
-          "57"
+          "60"
         ],
         [
           "RB F1 Team",
-          "45"
+          "59"
         ],
         [
           "Haas F1 Team",
@@ -194,5 +194,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-05T16:48:36.503Z"
+  "updatedAt": "2026-07-05T17:54:26.440Z"
 }
