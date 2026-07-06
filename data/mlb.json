@@ -20658,10 +20658,10 @@
       "league": "MLB",
       "away": "Philadelphia Phillies",
       "home": "Kansas City Royals",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 1,
+      "homeScore": 8,
+      "status": "live",
+      "liveInfo": " 3局",
       "time": "2026-07-06T18:10:00Z",
       "gameDate": "2026-07-06T18:10:00Z",
       "winner": null
@@ -33911,5 +33911,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-06T17:30:48.089Z"
+  "updatedAt": "2026-07-06T19:22:19.697Z"
 }
