@@ -20611,12 +20611,12 @@
       "away": "Miami Marlins",
       "home": "Athletics",
       "awayScore": 9,
-      "homeScore": 6,
-      "status": "live",
-      "liveInfo": " 9局",
+      "homeScore": 8,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-05T20:30:00Z",
       "gameDate": "2026-07-05T20:30:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -20634,10 +20634,10 @@
       "league": "MLB",
       "away": "San Diego Padres",
       "home": "Los Angeles Dodgers",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 5,
+      "homeScore": 2,
       "status": "live",
-      "liveInfo": " 2局",
+      "liveInfo": " 9局",
       "time": "2026-07-05T23:20:00Z",
       "gameDate": "2026-07-05T23:20:00Z",
       "winner": null
@@ -20646,10 +20646,10 @@
       "league": "MLB",
       "away": "Boston Red Sox",
       "home": "Los Angeles Angels",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 5,
+      "homeScore": 3,
+      "status": "live",
+      "liveInfo": " 3局",
       "time": "2026-07-06T01:30:00Z",
       "gameDate": "2026-07-06T01:30:00Z",
       "winner": null
@@ -33776,8 +33776,8 @@
         [
           "Athletics",
           "41",
-          "48",
-          ".461"
+          "49",
+          ".456"
         ],
         [
           "Angels",
@@ -33810,9 +33810,9 @@
         ],
         [
           "Marlins",
-          "48",
+          "49",
           "42",
-          ".533"
+          ".538"
         ],
         [
           "Nationals",
@@ -33911,5 +33911,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-05T23:50:12.416Z"
+  "updatedAt": "2026-07-06T02:30:53.300Z"
 }

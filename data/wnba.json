@@ -2,30 +2,6 @@
   "schedule": [
     {
       "league": "WNBA",
-      "home": "Toronto Tempo",
-      "away": "Dallas Wings",
-      "homeScore": 76,
-      "awayScore": 89,
-      "status": "final",
-      "time": "2026-07-05T19:00Z",
-      "gameDate": "2026-07-05T19:00Z",
-      "liveInfo": null,
-      "winner": "away"
-    },
-    {
-      "league": "WNBA",
-      "home": "Las Vegas Aces",
-      "away": "Indiana Fever",
-      "homeScore": 36,
-      "awayScore": 40,
-      "status": "live",
-      "time": "2026-07-05T23:00Z",
-      "gameDate": "2026-07-05T23:00Z",
-      "liveInfo": "2:24",
-      "winner": null
-    },
-    {
-      "league": "WNBA",
       "home": "Washington Mystics",
       "away": "Golden State Valkyries",
       "homeScore": null,
@@ -2161,5 +2137,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-05T23:50:25.690Z"
+  "updatedAt": "2026-07-06T02:31:13.286Z"
 }
