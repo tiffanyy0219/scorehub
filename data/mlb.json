@@ -20659,9 +20659,9 @@
       "away": "Philadelphia Phillies",
       "home": "Kansas City Royals",
       "awayScore": 1,
-      "homeScore": 8,
+      "homeScore": 15,
       "status": "live",
-      "liveInfo": " 3局",
+      "liveInfo": " 8局",
       "time": "2026-07-06T18:10:00Z",
       "gameDate": "2026-07-06T18:10:00Z",
       "winner": null
@@ -33911,5 +33911,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-06T19:22:19.697Z"
+  "updatedAt": "2026-07-06T21:12:12.029Z"
 }
