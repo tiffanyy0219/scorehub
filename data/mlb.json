@@ -20636,23 +20636,23 @@
       "home": "Los Angeles Dodgers",
       "awayScore": 5,
       "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-05T23:20:00Z",
       "gameDate": "2026-07-05T23:20:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Boston Red Sox",
       "home": "Los Angeles Angels",
-      "awayScore": 5,
-      "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 3局",
+      "awayScore": 7,
+      "homeScore": 5,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-06T01:30:00Z",
       "gameDate": "2026-07-06T01:30:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -33699,9 +33699,9 @@
         ],
         [
           "Red Sox",
-          "39",
+          "40",
           "48",
-          ".448"
+          ".455"
         ]
       ]
     },
@@ -33782,8 +33782,8 @@
         [
           "Angels",
           "36",
-          "54",
-          ".400"
+          "55",
+          ".396"
         ]
       ]
     },
@@ -33881,8 +33881,8 @@
         [
           "Dodgers",
           "59",
-          "31",
-          ".656"
+          "32",
+          ".648"
         ],
         [
           "D-backs",
@@ -33892,9 +33892,9 @@
         ],
         [
           "Padres",
-          "43",
+          "44",
           "45",
-          ".489"
+          ".494"
         ],
         [
           "Giants",
@@ -33911,5 +33911,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-06T02:30:53.300Z"
+  "updatedAt": "2026-07-06T06:55:19.393Z"
 }
