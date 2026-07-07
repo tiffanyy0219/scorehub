@@ -112,30 +112,30 @@
     },
     {
       "league": "EPL",
+      "home": "Crystal Palace",
+      "away": "Manchester City",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-28T19:00Z",
+      "gameDate": "2026-08-28T19:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Liverpool",
+      "away": "Nottingham Forest",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-29T11:30Z",
+      "gameDate": "2026-08-29T11:30Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
       "home": "AFC Bournemouth",
       "away": "Everton",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-29T14:00Z",
-      "gameDate": "2026-08-29T14:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Aston Villa",
-      "away": "Arsenal",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-29T14:00Z",
-      "gameDate": "2026-08-29T14:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Chelsea",
-      "away": "Brighton & Hove Albion",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
@@ -156,13 +156,24 @@
     },
     {
       "league": "EPL",
-      "home": "Crystal Palace",
-      "away": "Manchester City",
+      "home": "Tottenham Hotspur",
+      "away": "Newcastle United",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-08-29T14:00Z",
-      "gameDate": "2026-08-29T14:00Z",
+      "time": "2026-08-29T16:30Z",
+      "gameDate": "2026-08-29T16:30Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Chelsea",
+      "away": "Brighton & Hove Albion",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-30T13:00Z",
+      "gameDate": "2026-08-30T13:00Z",
       "winner": null
     },
     {
@@ -172,30 +183,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-08-29T14:00Z",
-      "gameDate": "2026-08-29T14:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Liverpool",
-      "away": "Nottingham Forest",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-29T14:00Z",
-      "gameDate": "2026-08-29T14:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Manchester United",
-      "away": "Ipswich Town",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-29T14:00Z",
-      "gameDate": "2026-08-29T14:00Z",
+      "time": "2026-08-30T13:00Z",
+      "gameDate": "2026-08-30T13:00Z",
       "winner": null
     },
     {
@@ -205,30 +194,52 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-08-29T14:00Z",
-      "gameDate": "2026-08-29T14:00Z",
+      "time": "2026-08-30T13:00Z",
+      "gameDate": "2026-08-30T13:00Z",
       "winner": null
     },
     {
       "league": "EPL",
-      "home": "Tottenham Hotspur",
-      "away": "Newcastle United",
+      "home": "Manchester United",
+      "away": "Ipswich Town",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-08-29T14:00Z",
-      "gameDate": "2026-08-29T14:00Z",
+      "time": "2026-08-30T15:30Z",
+      "gameDate": "2026-08-30T15:30Z",
       "winner": null
     },
     {
       "league": "EPL",
-      "home": "Arsenal",
-      "away": "Chelsea",
+      "home": "Aston Villa",
+      "away": "Arsenal",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-09-05T14:00Z",
-      "gameDate": "2026-09-05T14:00Z",
+      "time": "2026-08-31T19:00Z",
+      "gameDate": "2026-08-31T19:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Ipswich Town",
+      "away": "Liverpool",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-04T19:00Z",
+      "gameDate": "2026-09-04T19:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Newcastle United",
+      "away": "AFC Bournemouth",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-05T11:30Z",
+      "gameDate": "2026-09-05T11:30Z",
       "winner": null
     },
     {
@@ -255,41 +266,8 @@
     },
     {
       "league": "EPL",
-      "home": "Everton",
-      "away": "Manchester United",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-09-05T14:00Z",
-      "gameDate": "2026-09-05T14:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
       "home": "Fulham",
       "away": "Crystal Palace",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-09-05T14:00Z",
-      "gameDate": "2026-09-05T14:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Hull City",
-      "away": "Aston Villa",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-09-05T14:00Z",
-      "gameDate": "2026-09-05T14:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Ipswich Town",
-      "away": "Liverpool",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
@@ -310,8 +288,8 @@
     },
     {
       "league": "EPL",
-      "home": "Newcastle United",
-      "away": "AFC Bournemouth",
+      "home": "Nottingham Forest",
+      "away": "Tottenham Hotspur",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
@@ -321,13 +299,35 @@
     },
     {
       "league": "EPL",
-      "home": "Nottingham Forest",
-      "away": "Tottenham Hotspur",
+      "home": "Hull City",
+      "away": "Aston Villa",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-09-05T14:00Z",
-      "gameDate": "2026-09-05T14:00Z",
+      "time": "2026-09-05T16:30Z",
+      "gameDate": "2026-09-05T16:30Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Everton",
+      "away": "Manchester United",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-06T13:00Z",
+      "gameDate": "2026-09-06T13:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Arsenal",
+      "away": "Chelsea",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-06T15:30Z",
+      "gameDate": "2026-09-06T15:30Z",
       "winner": null
     },
     {
@@ -370,8 +370,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-09-12T14:00Z",
-      "gameDate": "2026-09-12T14:00Z",
+      "time": "2026-09-13T13:00Z",
+      "gameDate": "2026-09-13T13:00Z",
       "winner": null
     },
     {
@@ -392,8 +392,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-09-12T14:00Z",
-      "gameDate": "2026-09-12T14:00Z",
+      "time": "2026-09-14T19:00Z",
+      "gameDate": "2026-09-14T19:00Z",
       "winner": null
     },
     {
@@ -414,8 +414,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-09-12T14:00Z",
-      "gameDate": "2026-09-12T14:00Z",
+      "time": "2026-09-13T15:30Z",
+      "gameDate": "2026-09-13T15:30Z",
       "winner": null
     },
     {
@@ -425,8 +425,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-09-12T14:00Z",
-      "gameDate": "2026-09-12T14:00Z",
+      "time": "2026-09-12T19:00Z",
+      "gameDate": "2026-09-12T19:00Z",
       "winner": null
     },
     {
@@ -436,30 +436,52 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-09-12T14:00Z",
-      "gameDate": "2026-09-12T14:00Z",
+      "time": "2026-09-12T16:30Z",
+      "gameDate": "2026-09-12T16:30Z",
       "winner": null
     },
     {
       "league": "EPL",
-      "home": "AFC Bournemouth",
-      "away": "Liverpool",
+      "home": "Coventry City",
+      "away": "Brighton & Hove Albion",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-09-19T14:00Z",
-      "gameDate": "2026-09-19T14:00Z",
+      "time": "2026-09-13T13:00Z",
+      "gameDate": "2026-09-13T13:00Z",
       "winner": null
     },
     {
       "league": "EPL",
-      "home": "Brentford",
-      "away": "Chelsea",
+      "home": "Manchester United",
+      "away": "Manchester City",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-09-19T14:00Z",
-      "gameDate": "2026-09-19T14:00Z",
+      "time": "2026-09-13T15:30Z",
+      "gameDate": "2026-09-13T15:30Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Leeds United",
+      "away": "Newcastle United",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-14T19:00Z",
+      "gameDate": "2026-09-14T19:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Tottenham Hotspur",
+      "away": "Aston Villa",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-19T11:30Z",
+      "gameDate": "2026-09-19T11:30Z",
       "winner": null
     },
     {
@@ -477,17 +499,6 @@
       "league": "EPL",
       "home": "Everton",
       "away": "Ipswich Town",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-09-19T14:00Z",
-      "gameDate": "2026-09-19T14:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Fulham",
-      "away": "Manchester United",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
@@ -535,19 +546,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-09-19T14:00Z",
-      "gameDate": "2026-09-19T14:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Tottenham Hotspur",
-      "away": "Aston Villa",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-09-19T14:00Z",
-      "gameDate": "2026-09-19T14:00Z",
+      "time": "2026-09-19T16:30Z",
+      "gameDate": "2026-09-19T16:30Z",
       "winner": null
     },
     {
@@ -2290,35 +2290,13 @@
     },
     {
       "league": "Ligue 1",
-      "home": "Le Havre AC",
-      "away": "AS Monaco",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-22T18:00Z",
-      "gameDate": "2026-08-22T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "Ligue 1",
       "home": "Le Mans",
       "away": "Brest",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-08-22T18:00Z",
-      "gameDate": "2026-08-22T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "Ligue 1",
-      "home": "Troyes",
-      "away": "Paris FC",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-22T18:00Z",
-      "gameDate": "2026-08-22T18:00Z",
+      "time": "2026-08-22T18:45Z",
+      "gameDate": "2026-08-22T18:45Z",
       "winner": null
     },
     {
@@ -2345,6 +2323,17 @@
     },
     {
       "league": "Ligue 1",
+      "home": "Troyes",
+      "away": "Paris FC",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-22T18:45Z",
+      "gameDate": "2026-08-22T18:45Z",
+      "winner": null
+    },
+    {
+      "league": "Ligue 1",
       "home": "Angers",
       "away": "Lille",
       "homeScore": null,
@@ -2352,6 +2341,17 @@
       "status": "scheduled",
       "time": "2026-08-23T13:00Z",
       "gameDate": "2026-08-23T13:00Z",
+      "winner": null
+    },
+    {
+      "league": "Ligue 1",
+      "home": "Le Havre AC",
+      "away": "AS Monaco",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-23T15:45Z",
+      "gameDate": "2026-08-23T15:45Z",
       "winner": null
     },
     {
@@ -2367,13 +2367,13 @@
     },
     {
       "league": "Ligue 1",
-      "home": "AS Monaco",
-      "away": "Marseille",
+      "home": "Lille",
+      "away": "Paris Saint-Germain",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-08-29T18:00Z",
-      "gameDate": "2026-08-29T18:00Z",
+      "time": "2026-08-28T18:45Z",
+      "gameDate": "2026-08-28T18:45Z",
       "winner": null
     },
     {
@@ -2383,8 +2383,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-08-29T18:00Z",
-      "gameDate": "2026-08-29T18:00Z",
+      "time": "2026-08-29T15:15Z",
+      "gameDate": "2026-08-29T15:15Z",
       "winner": null
     },
     {
@@ -2455,8 +2455,8 @@
     },
     {
       "league": "Ligue 1",
-      "home": "Lille",
-      "away": "Paris Saint-Germain",
+      "home": "AS Monaco",
+      "away": "Marseille",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
@@ -2762,5 +2762,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-07T13:33:05.709Z"
+  "updatedAt": "2026-07-07T16:09:30.106Z"
 }
