@@ -20756,11 +20756,11 @@
       "home": "St. Louis Cardinals",
       "awayScore": 4,
       "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-07T18:15:00Z",
       "gameDate": "2026-07-07T18:15:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -33839,9 +33839,9 @@
       "rows": [
         [
           "Brewers",
-          "56",
+          "57",
           "33",
-          ".629"
+          ".633"
         ],
         [
           "Cubs",
@@ -33852,8 +33852,8 @@
         [
           "Cardinals",
           "47",
-          "41",
-          ".534"
+          "42",
+          ".528"
         ],
         [
           "Pirates",
@@ -33911,5 +33911,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-07T20:21:00.250Z"
+  "updatedAt": "2026-07-07T21:54:57.814Z"
 }
