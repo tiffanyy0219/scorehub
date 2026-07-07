@@ -2268,13 +2268,24 @@
     },
     {
       "league": "Ligue 1",
-      "home": "Angers",
-      "away": "Lille",
+      "home": "Marseille",
+      "away": "Strasbourg",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-08-22T18:00Z",
-      "gameDate": "2026-08-22T18:00Z",
+      "time": "2026-08-21T18:45Z",
+      "gameDate": "2026-08-21T18:45Z",
+      "winner": null
+    },
+    {
+      "league": "Ligue 1",
+      "home": "Lens",
+      "away": "AJ Auxerre",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-22T15:15Z",
+      "gameDate": "2026-08-22T15:15Z",
       "winner": null
     },
     {
@@ -2292,50 +2303,6 @@
       "league": "Ligue 1",
       "home": "Le Mans",
       "away": "Brest",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-22T18:00Z",
-      "gameDate": "2026-08-22T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "Ligue 1",
-      "home": "Lens",
-      "away": "AJ Auxerre",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-22T18:00Z",
-      "gameDate": "2026-08-22T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "Ligue 1",
-      "home": "Marseille",
-      "away": "Strasbourg",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-22T18:00Z",
-      "gameDate": "2026-08-22T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "Ligue 1",
-      "home": "Nice",
-      "away": "Lorient",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-22T18:00Z",
-      "gameDate": "2026-08-22T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "Ligue 1",
-      "home": "Paris Saint-Germain",
-      "away": "Stade Rennais",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
@@ -2367,6 +2334,39 @@
     },
     {
       "league": "Ligue 1",
+      "home": "Nice",
+      "away": "Lorient",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-22T18:45Z",
+      "gameDate": "2026-08-22T18:45Z",
+      "winner": null
+    },
+    {
+      "league": "Ligue 1",
+      "home": "Angers",
+      "away": "Lille",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-23T13:00Z",
+      "gameDate": "2026-08-23T13:00Z",
+      "winner": null
+    },
+    {
+      "league": "Ligue 1",
+      "home": "Paris Saint-Germain",
+      "away": "Stade Rennais",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-23T18:45Z",
+      "gameDate": "2026-08-23T18:45Z",
+      "winner": null
+    },
+    {
+      "league": "Ligue 1",
       "home": "AJ Auxerre",
       "away": "Angers",
       "homeScore": null,
@@ -2389,52 +2389,8 @@
     },
     {
       "league": "Ligue 1",
-      "home": "Brest",
-      "away": "Toulouse",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-29T18:00Z",
-      "gameDate": "2026-08-29T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "Ligue 1",
       "home": "Lorient",
       "away": "Troyes",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-29T18:00Z",
-      "gameDate": "2026-08-29T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "Ligue 1",
-      "home": "Lyon",
-      "away": "Le Havre AC",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-29T18:00Z",
-      "gameDate": "2026-08-29T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "Ligue 1",
-      "home": "Paris FC",
-      "away": "Nice",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-29T18:00Z",
-      "gameDate": "2026-08-29T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "Ligue 1",
-      "home": "Stade Rennais",
-      "away": "Le Mans",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
@@ -2451,6 +2407,28 @@
       "status": "scheduled",
       "time": "2026-08-29T18:00Z",
       "gameDate": "2026-08-29T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "Ligue 1",
+      "home": "Brest",
+      "away": "Toulouse",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-29T18:45Z",
+      "gameDate": "2026-08-29T18:45Z",
+      "winner": null
+    },
+    {
+      "league": "Ligue 1",
+      "home": "Lyon",
+      "away": "Le Havre AC",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-29T18:45Z",
+      "gameDate": "2026-08-29T18:45Z",
       "winner": null
     },
     {
@@ -2762,5 +2740,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-07T07:55:52.745Z"
+  "updatedAt": "2026-07-07T11:18:14.465Z"
 }
