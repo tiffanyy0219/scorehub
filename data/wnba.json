@@ -2,30 +2,6 @@
   "schedule": [
     {
       "league": "WNBA",
-      "home": "New York Liberty",
-      "away": "Dallas Wings",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-07-08T00:00Z",
-      "gameDate": "2026-07-08T00:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "WNBA",
-      "home": "Phoenix Mercury",
-      "away": "Chicago Sky",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-07-08T02:00Z",
-      "gameDate": "2026-07-08T02:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "WNBA",
       "home": "Toronto Tempo",
       "away": "Golden State Valkyries",
       "homeScore": null,
@@ -2101,5 +2077,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-07T23:08:00.505Z"
+  "updatedAt": "2026-07-08T00:11:27.910Z"
 }
