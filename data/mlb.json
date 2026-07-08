@@ -20912,35 +20912,35 @@
       "home": "San Diego Padres",
       "awayScore": 1,
       "homeScore": 4,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-08T01:40:00Z",
       "gameDate": "2026-07-08T01:40:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Toronto Blue Jays",
       "home": "San Francisco Giants",
-      "awayScore": 8,
+      "awayScore": 9,
       "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-08T01:45:00Z",
       "gameDate": "2026-07-08T01:45:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Colorado Rockies",
       "home": "Los Angeles Dodgers",
-      "awayScore": 1,
+      "awayScore": 4,
       "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 7局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-08T02:10:00Z",
       "gameDate": "2026-07-08T02:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -33687,9 +33687,9 @@
         ],
         [
           "Blue Jays",
-          "42",
+          "43",
           "49",
-          ".462"
+          ".467"
         ],
         [
           "Red Sox",
@@ -33881,35 +33881,35 @@
         [
           "Dodgers",
           "60",
-          "32",
-          ".652"
+          "33",
+          ".645"
         ],
         [
           "D-backs",
           "45",
-          "45",
-          ".500"
+          "46",
+          ".495"
         ],
         [
           "Padres",
-          "44",
+          "45",
           "46",
-          ".489"
+          ".495"
         ],
         [
           "Giants",
           "38",
-          "52",
-          ".422"
+          "53",
+          ".418"
         ],
         [
           "Rockies",
-          "37",
+          "38",
           "55",
-          ".402"
+          ".409"
         ]
       ]
     }
   ],
-  "updatedAt": "2026-07-08T03:50:43.372Z"
+  "updatedAt": "2026-07-08T06:34:01.582Z"
 }
