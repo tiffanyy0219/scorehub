@@ -20946,10 +20946,10 @@
       "league": "MLB",
       "away": "Toronto Blue Jays",
       "home": "San Francisco Giants",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 5,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 2局",
       "time": "2026-07-08T19:45:00Z",
       "gameDate": "2026-07-08T19:45:00Z",
       "winner": null
@@ -33911,5 +33911,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-08T18:42:10.644Z"
+  "updatedAt": "2026-07-08T20:13:50.061Z"
 }
