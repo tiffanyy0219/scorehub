@@ -21103,24 +21103,24 @@
       "away": "Colorado Rockies",
       "home": "Los Angeles Dodgers",
       "awayScore": 3,
-      "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 7局",
+      "homeScore": 4,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-09T02:10:00Z",
       "gameDate": "2026-07-09T02:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Arizona Diamondbacks",
       "home": "San Diego Padres",
-      "awayScore": 1,
-      "homeScore": 4,
-      "status": "live",
-      "liveInfo": " 6局",
+      "awayScore": 4,
+      "homeScore": 10,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-09T02:10:00Z",
       "gameDate": "2026-07-09T02:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -33880,21 +33880,21 @@
       "rows": [
         [
           "Dodgers",
-          "60",
+          "61",
           "33",
-          ".645"
+          ".649"
+        ],
+        [
+          "Padres",
+          "46",
+          "46",
+          ".500"
         ],
         [
           "D-backs",
           "45",
-          "46",
-          ".495"
-        ],
-        [
-          "Padres",
-          "45",
-          "46",
-          ".495"
+          "47",
+          ".489"
         ],
         [
           "Giants",
@@ -33905,11 +33905,11 @@
         [
           "Rockies",
           "38",
-          "55",
-          ".409"
+          "56",
+          ".404"
         ]
       ]
     }
   ],
-  "updatedAt": "2026-07-09T03:55:50.175Z"
+  "updatedAt": "2026-07-09T07:47:15.812Z"
 }
