@@ -2350,8 +2350,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-08-23T15:45Z",
-      "gameDate": "2026-08-23T15:45Z",
+      "time": "2026-08-23T15:15Z",
+      "gameDate": "2026-08-23T15:15Z",
       "winner": null
     },
     {
@@ -2762,5 +2762,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-09T13:41:53.313Z"
+  "updatedAt": "2026-07-09T16:20:55.428Z"
 }
