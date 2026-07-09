@@ -21128,11 +21128,11 @@
       "home": "Pittsburgh Pirates",
       "awayScore": 10,
       "homeScore": 5,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-09T16:35:00Z",
       "gameDate": "2026-07-09T16:35:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -21188,11 +21188,11 @@
       "home": "Chicago White Sox",
       "awayScore": 2,
       "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 7局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-09T18:10:00Z",
       "gameDate": "2026-07-09T18:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -33693,9 +33693,9 @@
         ],
         [
           "Red Sox",
-          "42",
+          "43",
           "48",
-          ".467"
+          ".473"
         ],
         [
           "Orioles",
@@ -33717,8 +33717,8 @@
         [
           "White Sox",
           "47",
-          "44",
-          ".516"
+          "45",
+          ".511"
         ],
         [
           "Guardians",
@@ -33798,9 +33798,9 @@
       "rows": [
         [
           "Braves",
-          "53",
+          "54",
           "38",
-          ".582"
+          ".587"
         ],
         [
           "Phillies",
@@ -33858,8 +33858,8 @@
         [
           "Pirates",
           "47",
-          "46",
-          ".505"
+          "47",
+          ".500"
         ],
         [
           "Reds",
@@ -33911,5 +33911,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-09T20:11:47.251Z"
+  "updatedAt": "2026-07-09T21:51:57.370Z"
 }
