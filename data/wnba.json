@@ -4,12 +4,12 @@
       "league": "WNBA",
       "home": "Minnesota Lynx",
       "away": "New York Liberty",
-      "homeScore": 5,
-      "awayScore": 9,
+      "homeScore": 46,
+      "awayScore": 39,
       "status": "live",
       "time": "2026-07-11T17:00Z",
       "gameDate": "2026-07-11T17:00Z",
-      "liveInfo": "4:33",
+      "liveInfo": "7:05",
       "winner": null
     },
     {
@@ -1969,5 +1969,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-11T17:16:38.609Z"
+  "updatedAt": "2026-07-11T18:11:59.313Z"
 }
