@@ -16,12 +16,12 @@
       "league": "WNBA",
       "home": "Atlanta Dream",
       "away": "Portland Fire",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 21,
+      "awayScore": 17,
+      "status": "live",
       "time": "2026-07-11T20:00Z",
       "gameDate": "2026-07-11T20:00Z",
-      "liveInfo": null,
+      "liveInfo": "1:53",
       "winner": null
     },
     {
@@ -1969,5 +1969,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-11T19:36:19.130Z"
+  "updatedAt": "2026-07-11T20:28:29.616Z"
 }
