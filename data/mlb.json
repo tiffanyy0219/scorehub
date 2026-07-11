@@ -21282,22 +21282,10 @@
       "league": "MLB",
       "away": "Philadelphia Phillies",
       "home": "Detroit Tigers",
-      "awayScore": 1,
-      "homeScore": 0,
+      "awayScore": 2,
+      "homeScore": 2,
       "status": "live",
-      "liveInfo": " 3局",
-      "time": "2026-07-10T22:40:00Z",
-      "gameDate": "2026-07-10T22:40:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
-      "away": "Milwaukee Brewers",
-      "home": "Pittsburgh Pirates",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "liveInfo": " 6局",
       "time": "2026-07-10T22:40:00Z",
       "gameDate": "2026-07-10T22:40:00Z",
       "winner": null
@@ -21318,10 +21306,10 @@
       "league": "MLB",
       "away": "Kansas City Royals",
       "home": "Baltimore Orioles",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 2,
+      "homeScore": 3,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 4局",
       "time": "2026-07-10T23:05:00Z",
       "gameDate": "2026-07-10T23:05:00Z",
       "winner": null
@@ -21333,7 +21321,7 @@
       "awayScore": 0,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 4局",
       "time": "2026-07-10T23:10:00Z",
       "gameDate": "2026-07-10T23:10:00Z",
       "winner": null
@@ -21343,9 +21331,9 @@
       "away": "Seattle Mariners",
       "home": "Tampa Bay Rays",
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 2,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 5局",
       "time": "2026-07-10T23:10:00Z",
       "gameDate": "2026-07-10T23:10:00Z",
       "winner": null
@@ -21354,10 +21342,10 @@
       "league": "MLB",
       "away": "Cleveland Guardians",
       "home": "Miami Marlins",
-      "awayScore": 0,
+      "awayScore": 2,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 5局",
       "time": "2026-07-10T23:10:00Z",
       "gameDate": "2026-07-10T23:10:00Z",
       "winner": null
@@ -21366,10 +21354,10 @@
       "league": "MLB",
       "away": "Boston Red Sox",
       "home": "New York Mets",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 2,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 2局",
       "time": "2026-07-10T23:15:00Z",
       "gameDate": "2026-07-10T23:15:00Z",
       "winner": null
@@ -21381,7 +21369,7 @@
       "awayScore": 0,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 3局",
       "time": "2026-07-10T23:40:00Z",
       "gameDate": "2026-07-10T23:40:00Z",
       "winner": null
@@ -21390,10 +21378,10 @@
       "league": "MLB",
       "away": "Houston Astros",
       "home": "Texas Rangers",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-07-11T00:05:00Z",
       "gameDate": "2026-07-11T00:05:00Z",
       "winner": null
@@ -21402,10 +21390,10 @@
       "league": "MLB",
       "away": "Los Angeles Angels",
       "home": "Minnesota Twins",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-07-11T00:10:00Z",
       "gameDate": "2026-07-11T00:10:00Z",
       "winner": null
@@ -21414,10 +21402,10 @@
       "league": "MLB",
       "away": "Atlanta Braves",
       "home": "St. Louis Cardinals",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-07-11T00:15:00Z",
       "gameDate": "2026-07-11T00:15:00Z",
       "winner": null
@@ -21457,6 +21445,16 @@
       "time": "2026-07-11T02:15:00Z",
       "gameDate": "2026-07-11T02:15:00Z",
       "winner": null
+    },
+    {
+      "league": "MLB",
+      "away": "Milwaukee Brewers",
+      "home": "Pittsburgh Pirates",
+      "status": "final",
+      "liveInfo": null,
+      "time": "2026-07-10T22:40:00Z",
+      "gameDate": "2026-07-10T22:40:00Z",
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -33911,5 +33909,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-10T23:17:34.108Z"
+  "updatedAt": "2026-07-11T00:14:53.349Z"
 }
