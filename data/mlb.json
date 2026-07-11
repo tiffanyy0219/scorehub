@@ -21474,11 +21474,11 @@
       "home": "Pittsburgh Pirates",
       "awayScore": 2,
       "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 7局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-11T20:05:00Z",
       "gameDate": "2026-07-11T20:05:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -21520,58 +21520,58 @@
       "league": "MLB",
       "away": "New York Yankees",
       "home": "Washington Nationals",
-      "awayScore": 0,
+      "awayScore": 4,
       "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-11T20:05:00Z",
       "gameDate": "2026-07-11T20:05:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Boston Red Sox",
       "home": "New York Mets",
-      "awayScore": 2,
+      "awayScore": 4,
       "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 7局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-11T20:10:00Z",
       "gameDate": "2026-07-11T20:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Seattle Mariners",
       "home": "Tampa Bay Rays",
       "awayScore": 1,
-      "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 7局",
+      "homeScore": 6,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-11T20:10:00Z",
       "gameDate": "2026-07-11T20:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Cleveland Guardians",
       "home": "Miami Marlins",
-      "awayScore": 2,
+      "awayScore": 4,
       "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-11T20:10:00Z",
       "gameDate": "2026-07-11T20:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Philadelphia Phillies",
       "home": "Detroit Tigers",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 4,
+      "homeScore": 1,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 5局",
       "time": "2026-07-11T22:10:00Z",
       "gameDate": "2026-07-11T22:10:00Z",
       "winner": null
@@ -21580,10 +21580,10 @@
       "league": "MLB",
       "away": "Kansas City Royals",
       "home": "Baltimore Orioles",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 2局",
       "time": "2026-07-11T23:05:00Z",
       "gameDate": "2026-07-11T23:05:00Z",
       "winner": null
@@ -21592,10 +21592,10 @@
       "league": "MLB",
       "away": "Houston Astros",
       "home": "Texas Rangers",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 2,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 2局",
       "time": "2026-07-11T23:05:00Z",
       "gameDate": "2026-07-11T23:05:00Z",
       "winner": null
@@ -21604,10 +21604,10 @@
       "league": "MLB",
       "away": "Chicago Cubs",
       "home": "Cincinnati Reds",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 2局",
       "time": "2026-07-11T23:10:00Z",
       "gameDate": "2026-07-11T23:10:00Z",
       "winner": null
@@ -21616,10 +21616,10 @@
       "league": "MLB",
       "away": "Atlanta Braves",
       "home": "St. Louis Cardinals",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-07-11T23:15:00Z",
       "gameDate": "2026-07-11T23:15:00Z",
       "winner": null
@@ -33685,27 +33685,27 @@
       "rows": [
         [
           "Rays",
-          "55",
+          "56",
           "37",
-          ".598"
+          ".602"
         ],
         [
           "Yankees",
-          "52",
+          "53",
           "42",
-          ".553"
+          ".558"
+        ],
+        [
+          "Red Sox",
+          "45",
+          "48",
+          ".484"
         ],
         [
           "Blue Jays",
           "45",
           "49",
           ".479"
-        ],
-        [
-          "Red Sox",
-          "44",
-          "48",
-          ".478"
         ],
         [
           "Orioles",
@@ -33732,9 +33732,9 @@
         ],
         [
           "Guardians",
-          "49",
+          "50",
           "46",
-          ".516"
+          ".521"
         ],
         [
           "Twins",
@@ -33774,8 +33774,8 @@
         [
           "Mariners",
           "47",
-          "48",
-          ".495"
+          "49",
+          ".490"
         ],
         [
           "Astros",
@@ -33821,20 +33821,20 @@
         [
           "Marlins",
           "52",
-          "43",
-          ".547"
+          "44",
+          ".542"
         ],
         [
           "Nationals",
           "48",
-          "47",
-          ".505"
+          "48",
+          ".500"
         ],
         [
           "Mets",
           "40",
-          "55",
-          ".421"
+          "56",
+          ".417"
         ]
       ]
     },
@@ -33850,8 +33850,8 @@
         [
           "Brewers",
           "59",
-          "35",
-          ".628"
+          "36",
+          ".621"
         ],
         [
           "Cubs",
@@ -33867,9 +33867,9 @@
         ],
         [
           "Pirates",
-          "48",
+          "49",
           "47",
-          ".505"
+          ".510"
         ],
         [
           "Reds",
@@ -33921,5 +33921,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-11T22:26:46.585Z"
+  "updatedAt": "2026-07-11T23:31:34.391Z"
 }

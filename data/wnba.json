@@ -28,12 +28,12 @@
       "league": "WNBA",
       "home": "Las Vegas Aces",
       "away": "Phoenix Mercury",
-      "homeScore": 20,
-      "awayScore": 5,
+      "homeScore": 65,
+      "awayScore": 29,
       "status": "live",
       "time": "2026-07-11T22:00Z",
       "gameDate": "2026-07-11T22:00Z",
-      "liveInfo": "2:30",
+      "liveInfo": "5:14",
       "winner": null
     },
     {
@@ -1969,5 +1969,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-11T22:26:58.555Z"
+  "updatedAt": "2026-07-11T23:31:51.984Z"
 }
