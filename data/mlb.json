@@ -21460,10 +21460,10 @@
       "league": "MLB",
       "away": "Milwaukee Brewers",
       "home": "Pittsburgh Pirates",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-07-11T16:05:00Z",
       "gameDate": "2026-07-11T16:05:00Z",
       "winner": null
@@ -33921,5 +33921,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-11T15:03:34.152Z"
+  "updatedAt": "2026-07-11T16:08:45.920Z"
 }
