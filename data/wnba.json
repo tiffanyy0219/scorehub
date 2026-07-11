@@ -16,24 +16,24 @@
       "league": "WNBA",
       "home": "Atlanta Dream",
       "away": "Portland Fire",
-      "homeScore": 57,
-      "awayScore": 59,
-      "status": "live",
+      "homeScore": 92,
+      "awayScore": 102,
+      "status": "final",
       "time": "2026-07-11T20:00Z",
       "gameDate": "2026-07-11T20:00Z",
-      "liveInfo": "6:50",
-      "winner": null
+      "liveInfo": null,
+      "winner": "away"
     },
     {
       "league": "WNBA",
       "home": "Las Vegas Aces",
       "away": "Phoenix Mercury",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 20,
+      "awayScore": 5,
+      "status": "live",
       "time": "2026-07-11T22:00Z",
       "gameDate": "2026-07-11T22:00Z",
-      "liveInfo": null,
+      "liveInfo": "2:30",
       "winner": null
     },
     {
@@ -1969,5 +1969,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-11T21:27:18.096Z"
+  "updatedAt": "2026-07-11T22:26:58.555Z"
 }

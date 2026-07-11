@@ -21472,10 +21472,10 @@
       "league": "MLB",
       "away": "Milwaukee Brewers",
       "home": "Pittsburgh Pirates",
-      "awayScore": 0,
-      "homeScore": 2,
+      "awayScore": 2,
+      "homeScore": 3,
       "status": "live",
-      "liveInfo": " 5局",
+      "liveInfo": " 7局",
       "time": "2026-07-11T20:05:00Z",
       "gameDate": "2026-07-11T20:05:00Z",
       "winner": null
@@ -21508,13 +21508,13 @@
       "league": "MLB",
       "away": "Colorado Rockies",
       "home": "San Francisco Giants",
-      "awayScore": 1,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 5局",
+      "awayScore": 2,
+      "homeScore": 4,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-11T20:05:00Z",
       "gameDate": "2026-07-11T20:05:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -21523,7 +21523,7 @@
       "awayScore": 0,
       "homeScore": 2,
       "status": "live",
-      "liveInfo": " 5局",
+      "liveInfo": " 8局",
       "time": "2026-07-11T20:05:00Z",
       "gameDate": "2026-07-11T20:05:00Z",
       "winner": null
@@ -21535,7 +21535,7 @@
       "awayScore": 2,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 4局",
+      "liveInfo": " 7局",
       "time": "2026-07-11T20:10:00Z",
       "gameDate": "2026-07-11T20:10:00Z",
       "winner": null
@@ -21547,7 +21547,7 @@
       "awayScore": 1,
       "homeScore": 2,
       "status": "live",
-      "liveInfo": " 3局",
+      "liveInfo": " 7局",
       "time": "2026-07-11T20:10:00Z",
       "gameDate": "2026-07-11T20:10:00Z",
       "winner": null
@@ -21557,9 +21557,9 @@
       "away": "Cleveland Guardians",
       "home": "Miami Marlins",
       "awayScore": 2,
-      "homeScore": 0,
+      "homeScore": 1,
       "status": "live",
-      "liveInfo": " 4局",
+      "liveInfo": " 8局",
       "time": "2026-07-11T20:10:00Z",
       "gameDate": "2026-07-11T20:10:00Z",
       "winner": null
@@ -21568,10 +21568,10 @@
       "league": "MLB",
       "away": "Philadelphia Phillies",
       "home": "Detroit Tigers",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-07-11T22:10:00Z",
       "gameDate": "2026-07-11T22:10:00Z",
       "winner": null
@@ -33908,18 +33908,18 @@
         ],
         [
           "Giants",
-          "39",
+          "40",
           "55",
-          ".415"
+          ".421"
         ],
         [
           "Rockies",
           "39",
-          "57",
-          ".406"
+          "58",
+          ".402"
         ]
       ]
     }
   ],
-  "updatedAt": "2026-07-11T21:27:09.180Z"
+  "updatedAt": "2026-07-11T22:26:46.585Z"
 }
