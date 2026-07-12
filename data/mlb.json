@@ -21798,35 +21798,35 @@
       "home": "San Francisco Giants",
       "awayScore": 1,
       "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-12T20:05:00Z",
       "gameDate": "2026-07-12T20:05:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Arizona Diamondbacks",
       "home": "Los Angeles Dodgers",
-      "awayScore": 4,
+      "awayScore": 5,
       "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 7局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-12T20:10:00Z",
       "gameDate": "2026-07-12T20:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Toronto Blue Jays",
       "home": "San Diego Padres",
       "awayScore": 4,
-      "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 8局",
+      "homeScore": 5,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-12T20:10:00Z",
       "gameDate": "2026-07-12T20:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -33710,8 +33710,8 @@
         [
           "Blue Jays",
           "45",
-          "50",
-          ".474"
+          "51",
+          ".469"
         ]
       ]
     },
@@ -33891,35 +33891,35 @@
         [
           "Dodgers",
           "61",
-          "35",
-          ".635"
+          "36",
+          ".629"
         ],
         [
           "D-backs",
-          "48",
+          "49",
           "47",
-          ".505"
+          ".510"
         ],
         [
           "Padres",
-          "47",
           "48",
-          ".495"
+          "48",
+          ".500"
         ],
         [
           "Giants",
-          "40",
+          "41",
           "55",
-          ".421"
+          ".427"
         ],
         [
           "Rockies",
           "39",
-          "58",
-          ".402"
+          "59",
+          ".398"
         ]
       ]
     }
   ],
-  "updatedAt": "2026-07-12T22:26:25.082Z"
+  "updatedAt": "2026-07-12T23:30:42.735Z"
 }
