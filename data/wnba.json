@@ -4,24 +4,24 @@
       "league": "WNBA",
       "home": "Toronto Tempo",
       "away": "New York Liberty",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 28,
+      "awayScore": 26,
+      "status": "live",
       "time": "2026-07-12T19:00Z",
       "gameDate": "2026-07-12T19:00Z",
-      "liveInfo": null,
+      "liveInfo": "6:26",
       "winner": null
     },
     {
       "league": "WNBA",
       "home": "Washington Mystics",
       "away": "Seattle Storm",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 26,
+      "awayScore": 29,
+      "status": "live",
       "time": "2026-07-12T19:00Z",
       "gameDate": "2026-07-12T19:00Z",
-      "liveInfo": null,
+      "liveInfo": "6:33",
       "winner": null
     },
     {
@@ -1933,5 +1933,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-12T18:14:11.267Z"
+  "updatedAt": "2026-07-12T19:35:36.611Z"
 }
