@@ -21665,9 +21665,9 @@
       "away": "Kansas City Royals",
       "home": "Baltimore Orioles",
       "awayScore": 2,
-      "homeScore": 2,
+      "homeScore": 8,
       "status": "live",
-      "liveInfo": " 6局",
+      "liveInfo": " 8局",
       "time": "2026-07-12T17:35:00Z",
       "gameDate": "2026-07-12T17:35:00Z",
       "winner": null
@@ -21676,10 +21676,10 @@
       "league": "MLB",
       "away": "New York Yankees",
       "home": "Washington Nationals",
-      "awayScore": 2,
-      "homeScore": 2,
+      "awayScore": 5,
+      "homeScore": 3,
       "status": "live",
-      "liveInfo": " 7局",
+      "liveInfo": " 9局",
       "time": "2026-07-12T17:35:00Z",
       "gameDate": "2026-07-12T17:35:00Z",
       "winner": null
@@ -21688,10 +21688,10 @@
       "league": "MLB",
       "away": "Chicago Cubs",
       "home": "Cincinnati Reds",
-      "awayScore": 4,
+      "awayScore": 8,
       "homeScore": 4,
       "status": "live",
-      "liveInfo": " 7局",
+      "liveInfo": " 9局",
       "time": "2026-07-12T17:40:00Z",
       "gameDate": "2026-07-12T17:40:00Z",
       "winner": null
@@ -21700,22 +21700,22 @@
       "league": "MLB",
       "away": "Boston Red Sox",
       "home": "New York Mets",
-      "awayScore": 0,
+      "awayScore": 3,
       "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-12T17:40:00Z",
       "gameDate": "2026-07-12T17:40:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Seattle Mariners",
       "home": "Tampa Bay Rays",
-      "awayScore": 7,
-      "homeScore": 0,
+      "awayScore": 8,
+      "homeScore": 2,
       "status": "live",
-      "liveInfo": " 7局",
+      "liveInfo": " 9局",
       "time": "2026-07-12T17:40:00Z",
       "gameDate": "2026-07-12T17:40:00Z",
       "winner": null
@@ -21726,20 +21726,20 @@
       "home": "Detroit Tigers",
       "awayScore": 5,
       "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 6局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-12T17:40:00Z",
       "gameDate": "2026-07-12T17:40:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Cleveland Guardians",
       "home": "Miami Marlins",
-      "awayScore": 3,
+      "awayScore": 4,
       "homeScore": 1,
       "status": "live",
-      "liveInfo": " 6局",
+      "liveInfo": " 9局",
       "time": "2026-07-12T17:40:00Z",
       "gameDate": "2026-07-12T17:40:00Z",
       "winner": null
@@ -21748,10 +21748,10 @@
       "league": "MLB",
       "away": "Los Angeles Angels",
       "home": "Minnesota Twins",
-      "awayScore": 1,
-      "homeScore": 3,
+      "awayScore": 2,
+      "homeScore": 4,
       "status": "live",
-      "liveInfo": " 6局",
+      "liveInfo": " 8局",
       "time": "2026-07-12T18:10:00Z",
       "gameDate": "2026-07-12T18:10:00Z",
       "winner": null
@@ -21761,9 +21761,9 @@
       "away": "Athletics",
       "home": "Chicago White Sox",
       "awayScore": 1,
-      "homeScore": 6,
+      "homeScore": 9,
       "status": "live",
-      "liveInfo": " 5局",
+      "liveInfo": " 8局",
       "time": "2026-07-12T18:10:00Z",
       "gameDate": "2026-07-12T18:10:00Z",
       "winner": null
@@ -21772,10 +21772,10 @@
       "league": "MLB",
       "away": "Atlanta Braves",
       "home": "St. Louis Cardinals",
-      "awayScore": 2,
-      "homeScore": 1,
+      "awayScore": 3,
+      "homeScore": 3,
       "status": "live",
-      "liveInfo": " 4局",
+      "liveInfo": " 6局",
       "time": "2026-07-12T18:15:00Z",
       "gameDate": "2026-07-12T18:15:00Z",
       "winner": null
@@ -21784,10 +21784,10 @@
       "league": "MLB",
       "away": "Houston Astros",
       "home": "Texas Rangers",
-      "awayScore": 0,
-      "homeScore": 3,
+      "awayScore": 1,
+      "homeScore": 4,
       "status": "live",
-      "liveInfo": " 3局",
+      "liveInfo": " 6局",
       "time": "2026-07-12T18:35:00Z",
       "gameDate": "2026-07-12T18:35:00Z",
       "winner": null
@@ -21796,10 +21796,10 @@
       "league": "MLB",
       "away": "Colorado Rockies",
       "home": "San Francisco Giants",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 1,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-07-12T20:05:00Z",
       "gameDate": "2026-07-12T20:05:00Z",
       "winner": null
@@ -21808,10 +21808,10 @@
       "league": "MLB",
       "away": "Arizona Diamondbacks",
       "home": "Los Angeles Dodgers",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 1,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-07-12T20:10:00Z",
       "gameDate": "2026-07-12T20:10:00Z",
       "winner": null
@@ -21820,10 +21820,10 @@
       "league": "MLB",
       "away": "Toronto Blue Jays",
       "home": "San Diego Padres",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 1,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 2局",
       "time": "2026-07-12T20:10:00Z",
       "gameDate": "2026-07-12T20:10:00Z",
       "winner": null
@@ -33697,9 +33697,9 @@
         ],
         [
           "Red Sox",
-          "45",
+          "46",
           "48",
-          ".484"
+          ".489"
         ],
         [
           "Blue Jays",
@@ -33745,8 +33745,8 @@
         [
           "Tigers",
           "44",
-          "51",
-          ".463"
+          "52",
+          ".458"
         ],
         [
           "Royals",
@@ -33814,9 +33814,9 @@
         ],
         [
           "Phillies",
-          "53",
+          "54",
           "43",
-          ".552"
+          ".557"
         ],
         [
           "Marlins",
@@ -33833,8 +33833,8 @@
         [
           "Mets",
           "40",
-          "56",
-          ".417"
+          "57",
+          ".412"
         ]
       ]
     },
@@ -33921,5 +33921,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-12T19:35:24.187Z"
+  "updatedAt": "2026-07-12T20:25:49.849Z"
 }
