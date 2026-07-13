@@ -4,12 +4,12 @@
       "league": "WNBA",
       "home": "Atlanta Dream",
       "away": "Los Angeles Sparks",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 13,
+      "awayScore": 13,
+      "status": "live",
       "time": "2026-07-13T23:00Z",
       "gameDate": "2026-07-13T23:00Z",
-      "liveInfo": null,
+      "liveInfo": "5:10",
       "winner": null
     },
     {
@@ -1885,5 +1885,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-13T22:11:33.759Z"
+  "updatedAt": "2026-07-13T23:16:38.664Z"
 }
