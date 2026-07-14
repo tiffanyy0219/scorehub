@@ -16,12 +16,12 @@
       "league": "WNBA",
       "home": "Toronto Tempo",
       "away": "Washington Mystics",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 23,
+      "awayScore": 14,
+      "status": "live",
       "time": "2026-07-14T23:00Z",
       "gameDate": "2026-07-14T23:00Z",
-      "liveInfo": null,
+      "liveInfo": "6:27",
       "winner": null
     },
     {
@@ -1861,5 +1861,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-14T22:42:27.070Z"
+  "updatedAt": "2026-07-14T23:37:37.992Z"
 }
