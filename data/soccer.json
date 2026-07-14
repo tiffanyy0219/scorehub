@@ -667,30 +667,41 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-08-16T18:00Z",
-      "gameDate": "2026-08-16T18:00Z",
+      "time": "2026-08-15T17:30Z",
+      "gameDate": "2026-08-15T17:30Z",
       "winner": null
     },
     {
       "league": "La Liga",
-      "home": "Atlético Madrid",
-      "away": "Málaga",
+      "home": "Sevilla",
+      "away": "Rayo Vallecano",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-08-16T18:00Z",
-      "gameDate": "2026-08-16T18:00Z",
+      "time": "2026-08-15T19:30Z",
+      "gameDate": "2026-08-15T19:30Z",
       "winner": null
     },
     {
       "league": "La Liga",
-      "home": "Barcelona",
-      "away": "Athletic Club",
+      "home": "Racing Santander",
+      "away": "Villarreal",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-08-16T18:00Z",
-      "gameDate": "2026-08-16T18:00Z",
+      "time": "2026-08-16T15:00Z",
+      "gameDate": "2026-08-16T15:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Espanyol",
+      "away": "Levante",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-16T17:00Z",
+      "gameDate": "2026-08-16T17:00Z",
       "winner": null
     },
     {
@@ -700,8 +711,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-08-16T18:00Z",
-      "gameDate": "2026-08-16T18:00Z",
+      "time": "2026-08-16T19:30Z",
+      "gameDate": "2026-08-16T19:30Z",
       "winner": null
     },
     {
@@ -711,140 +722,19 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-08-16T18:00Z",
-      "gameDate": "2026-08-16T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Espanyol",
-      "away": "Levante",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-16T18:00Z",
-      "gameDate": "2026-08-16T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Racing Santander",
-      "away": "Villarreal",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-16T18:00Z",
-      "gameDate": "2026-08-16T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Real Madrid",
-      "away": "Real Sociedad",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-16T18:00Z",
-      "gameDate": "2026-08-16T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Sevilla",
-      "away": "Rayo Vallecano",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-16T18:00Z",
-      "gameDate": "2026-08-16T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Valencia",
-      "away": "Real Betis",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-16T18:00Z",
-      "gameDate": "2026-08-16T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Athletic Club",
-      "away": "Sevilla",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-23T18:00Z",
-      "gameDate": "2026-08-23T18:00Z",
+      "time": "2026-08-17T19:00Z",
+      "gameDate": "2026-08-17T19:00Z",
       "winner": null
     },
     {
       "league": "La Liga",
       "home": "Atlético Madrid",
-      "away": "Villarreal",
+      "away": "Málaga",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-08-23T18:00Z",
-      "gameDate": "2026-08-23T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Elche",
-      "away": "Barcelona",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-23T18:00Z",
-      "gameDate": "2026-08-23T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Espanyol",
-      "away": "Real Madrid",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-23T18:00Z",
-      "gameDate": "2026-08-23T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Getafe",
-      "away": "Racing Santander",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-23T18:00Z",
-      "gameDate": "2026-08-23T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Málaga",
-      "away": "Deportivo La Coruña",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-23T18:00Z",
-      "gameDate": "2026-08-23T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Osasuna",
-      "away": "Levante",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-23T18:00Z",
-      "gameDate": "2026-08-23T18:00Z",
+      "time": "2026-08-19T19:00Z",
+      "gameDate": "2026-08-19T19:00Z",
       "winner": null
     },
     {
@@ -854,8 +744,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-08-23T18:00Z",
-      "gameDate": "2026-08-23T18:00Z",
+      "time": "2026-08-20T19:00Z",
+      "gameDate": "2026-08-20T19:00Z",
       "winner": null
     },
     {
@@ -865,8 +755,19 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-08-23T18:00Z",
-      "gameDate": "2026-08-23T18:00Z",
+      "time": "2026-08-21T19:00Z",
+      "gameDate": "2026-08-21T19:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Athletic Club",
+      "away": "Sevilla",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-22T15:00Z",
+      "gameDate": "2026-08-22T15:00Z",
       "winner": null
     },
     {
@@ -876,52 +777,107 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-08-23T18:00Z",
-      "gameDate": "2026-08-23T18:00Z",
+      "time": "2026-08-22T17:30Z",
+      "gameDate": "2026-08-22T17:30Z",
       "winner": null
     },
     {
       "league": "La Liga",
-      "home": "Alavés",
+      "home": "Espanyol",
+      "away": "Real Madrid",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-22T19:30Z",
+      "gameDate": "2026-08-22T19:30Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Atlético Madrid",
       "away": "Villarreal",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-08-30T18:00Z",
-      "gameDate": "2026-08-30T18:00Z",
+      "time": "2026-08-23T15:00Z",
+      "gameDate": "2026-08-23T15:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Getafe",
+      "away": "Racing Santander",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-23T17:30Z",
+      "gameDate": "2026-08-23T17:30Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Elche",
+      "away": "Barcelona",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-23T19:30Z",
+      "gameDate": "2026-08-23T19:30Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Osasuna",
+      "away": "Levante",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-24T17:30Z",
+      "gameDate": "2026-08-24T17:30Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Málaga",
+      "away": "Deportivo La Coruña",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-24T19:30Z",
+      "gameDate": "2026-08-24T19:30Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Valencia",
+      "away": "Real Betis",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-25T19:00Z",
+      "gameDate": "2026-08-25T19:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Real Madrid",
+      "away": "Real Sociedad",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-26T19:00Z",
+      "gameDate": "2026-08-26T19:00Z",
       "winner": null
     },
     {
       "league": "La Liga",
       "home": "Barcelona",
-      "away": "Rayo Vallecano",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-30T18:00Z",
-      "gameDate": "2026-08-30T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Celta Vigo",
       "away": "Athletic Club",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-08-30T18:00Z",
-      "gameDate": "2026-08-30T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Deportivo La Coruña",
-      "away": "Valencia",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-30T18:00Z",
-      "gameDate": "2026-08-30T18:00Z",
+      "time": "2026-08-27T19:00Z",
+      "gameDate": "2026-08-27T19:00Z",
       "winner": null
     },
     {
@@ -931,41 +887,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-08-30T18:00Z",
-      "gameDate": "2026-08-30T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Osasuna",
-      "away": "Getafe",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-30T18:00Z",
-      "gameDate": "2026-08-30T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Racing Santander",
-      "away": "Elche",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-30T18:00Z",
-      "gameDate": "2026-08-30T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Real Madrid",
-      "away": "Málaga",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-30T18:00Z",
-      "gameDate": "2026-08-30T18:00Z",
+      "time": "2026-08-29T15:00Z",
+      "gameDate": "2026-08-29T15:00Z",
       "winner": null
     },
     {
@@ -975,8 +898,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-08-30T18:00Z",
-      "gameDate": "2026-08-30T18:00Z",
+      "time": "2026-08-29T17:00Z",
+      "gameDate": "2026-08-29T17:00Z",
       "winner": null
     },
     {
@@ -986,8 +909,63 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-08-30T18:00Z",
-      "gameDate": "2026-08-30T18:00Z",
+      "time": "2026-08-29T19:30Z",
+      "gameDate": "2026-08-29T19:30Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Real Madrid",
+      "away": "Málaga",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-30T15:00Z",
+      "gameDate": "2026-08-30T15:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Deportivo La Coruña",
+      "away": "Valencia",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-30T17:30Z",
+      "gameDate": "2026-08-30T17:30Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Celta Vigo",
+      "away": "Athletic Club",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-30T19:30Z",
+      "gameDate": "2026-08-30T19:30Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Osasuna",
+      "away": "Getafe",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-31T17:30Z",
+      "gameDate": "2026-08-31T17:30Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Barcelona",
+      "away": "Rayo Vallecano",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-31T19:30Z",
+      "gameDate": "2026-08-31T19:30Z",
       "winner": null
     },
     {
@@ -3290,5 +3268,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-14T08:28:02.764Z"
+  "updatedAt": "2026-07-14T10:22:17.968Z"
 }
