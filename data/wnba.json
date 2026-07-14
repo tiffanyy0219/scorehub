@@ -4,12 +4,12 @@
       "league": "WNBA",
       "home": "Connecticut Sun",
       "away": "Portland Fire",
-      "homeScore": 46,
-      "awayScore": 35,
+      "homeScore": 80,
+      "awayScore": 74,
       "status": "live",
       "time": "2026-07-14T15:00Z",
       "gameDate": "2026-07-14T15:00Z",
-      "liveInfo": "4:52",
+      "liveInfo": "5:02",
       "winner": null
     },
     {
@@ -1861,5 +1861,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-14T15:40:12.587Z"
+  "updatedAt": "2026-07-14T16:53:39.216Z"
 }
