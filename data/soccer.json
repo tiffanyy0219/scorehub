@@ -1431,6 +1431,116 @@
       "winner": null
     },
     {
+      "league": "La Liga",
+      "home": "Alavés",
+      "away": "Atlético Madrid",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-11T18:00Z",
+      "gameDate": "2026-10-11T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Barcelona",
+      "away": "Getafe",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-11T18:00Z",
+      "gameDate": "2026-10-11T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Elche",
+      "away": "Celta Vigo",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-11T18:00Z",
+      "gameDate": "2026-10-11T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Levante",
+      "away": "Sevilla",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-11T18:00Z",
+      "gameDate": "2026-10-11T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Málaga",
+      "away": "Espanyol",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-11T18:00Z",
+      "gameDate": "2026-10-11T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Racing Santander",
+      "away": "Valencia",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-11T18:00Z",
+      "gameDate": "2026-10-11T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Rayo Vallecano",
+      "away": "Athletic Club",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-11T18:00Z",
+      "gameDate": "2026-10-11T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Real Betis",
+      "away": "Osasuna",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-11T18:00Z",
+      "gameDate": "2026-10-11T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Real Madrid",
+      "away": "Villarreal",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-11T18:00Z",
+      "gameDate": "2026-10-11T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Real Sociedad",
+      "away": "Deportivo La Coruña",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-11T18:00Z",
+      "gameDate": "2026-10-11T18:00Z",
+      "winner": null
+    },
+    {
       "league": "Bundesliga",
       "home": "Bayern Munich",
       "away": "VfB Stuttgart",
@@ -2476,6 +2586,116 @@
       "winner": null
     },
     {
+      "league": "Serie A",
+      "home": "Atalanta",
+      "away": "Venezia",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-11T18:00Z",
+      "gameDate": "2026-10-11T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Cagliari",
+      "away": "Juventus",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-11T18:00Z",
+      "gameDate": "2026-10-11T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Como",
+      "away": "AS Roma",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-11T18:00Z",
+      "gameDate": "2026-10-11T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Genoa",
+      "away": "Fiorentina",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-11T18:00Z",
+      "gameDate": "2026-10-11T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Internazionale",
+      "away": "Parma",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-11T18:00Z",
+      "gameDate": "2026-10-11T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Lazio",
+      "away": "Monza",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-11T18:00Z",
+      "gameDate": "2026-10-11T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Lecce",
+      "away": "Bologna",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-11T18:00Z",
+      "gameDate": "2026-10-11T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Napoli",
+      "away": "Frosinone",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-11T18:00Z",
+      "gameDate": "2026-10-11T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Sassuolo",
+      "away": "AC Milan",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-11T18:00Z",
+      "gameDate": "2026-10-11T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Torino",
+      "away": "Udinese",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-11T18:00Z",
+      "gameDate": "2026-10-11T18:00Z",
+      "winner": null
+    },
+    {
       "league": "Ligue 1",
       "home": "Marseille",
       "away": "Strasbourg",
@@ -3070,5 +3290,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-13T23:19:36.172Z"
+  "updatedAt": "2026-07-14T00:17:05.804Z"
 }
