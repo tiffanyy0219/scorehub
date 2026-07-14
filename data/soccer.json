@@ -882,6 +882,28 @@
     },
     {
       "league": "La Liga",
+      "home": "Racing Santander",
+      "away": "Elche",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-28T17:00Z",
+      "gameDate": "2026-08-28T17:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Alavés",
+      "away": "Villarreal",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-28T19:30Z",
+      "gameDate": "2026-08-28T19:30Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
       "home": "Levante",
       "away": "Real Betis",
       "homeScore": null,
@@ -3268,5 +3290,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-14T10:22:17.968Z"
+  "updatedAt": "2026-07-14T11:54:07.686Z"
 }
