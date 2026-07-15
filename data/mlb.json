@@ -21832,10 +21832,10 @@
       "league": "MLB",
       "away": "American League All-Stars",
       "home": "National League All-Stars",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 3,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 2局",
       "time": "2026-07-15T00:00:00Z",
       "gameDate": "2026-07-15T00:00:00Z",
       "winner": null
@@ -33921,5 +33921,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-14T23:37:32.409Z"
+  "updatedAt": "2026-07-15T01:00:00.140Z"
 }
