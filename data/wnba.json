@@ -4,24 +4,24 @@
       "league": "WNBA",
       "home": "Chicago Sky",
       "away": "Seattle Storm",
-      "homeScore": 5,
-      "awayScore": 2,
+      "homeScore": 86,
+      "awayScore": 77,
       "status": "live",
       "time": "2026-07-15T16:00Z",
       "gameDate": "2026-07-15T16:00Z",
-      "liveInfo": "8:29",
+      "liveInfo": "5:44",
       "winner": null
     },
     {
       "league": "WNBA",
       "home": "Minnesota Lynx",
       "away": "Los Angeles Sparks",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 24,
+      "awayScore": 20,
+      "status": "live",
       "time": "2026-07-15T17:00Z",
       "gameDate": "2026-07-15T17:00Z",
-      "liveInfo": null,
+      "liveInfo": "6:58",
       "winner": null
     },
     {
@@ -1837,5 +1837,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-15T16:04:48.889Z"
+  "updatedAt": "2026-07-15T17:37:06.627Z"
 }
