@@ -4,12 +4,12 @@
       "league": "WNBA",
       "home": "Chicago Sky",
       "away": "Seattle Storm",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 5,
+      "awayScore": 2,
+      "status": "live",
       "time": "2026-07-15T16:00Z",
       "gameDate": "2026-07-15T16:00Z",
-      "liveInfo": null,
+      "liveInfo": "8:29",
       "winner": null
     },
     {
@@ -1837,5 +1837,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-15T14:22:09.751Z"
+  "updatedAt": "2026-07-15T16:04:48.889Z"
 }

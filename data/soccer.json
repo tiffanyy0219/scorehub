@@ -1641,13 +1641,24 @@
     },
     {
       "league": "Bundesliga",
+      "home": "VfB Stuttgart",
+      "away": "FC Cologne",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-04T18:30Z",
+      "gameDate": "2026-09-04T18:30Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
       "home": "Bayer Leverkusen",
       "away": "1. FC Union Berlin",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-09-05T18:00Z",
-      "gameDate": "2026-09-05T18:00Z",
+      "time": "2026-09-05T13:30Z",
+      "gameDate": "2026-09-05T13:30Z",
       "winner": null
     },
     {
@@ -1657,30 +1668,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-09-05T18:00Z",
-      "gameDate": "2026-09-05T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "Eintracht Frankfurt",
-      "away": "FC Augsburg",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-09-05T18:00Z",
-      "gameDate": "2026-09-05T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "Hamburg SV",
-      "away": "Mainz",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-09-05T18:00Z",
-      "gameDate": "2026-09-05T18:00Z",
+      "time": "2026-09-05T13:30Z",
+      "gameDate": "2026-09-05T13:30Z",
       "winner": null
     },
     {
@@ -1690,19 +1679,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-09-05T18:00Z",
-      "gameDate": "2026-09-05T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "Schalke 04",
-      "away": "Bayern Munich",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-09-05T18:00Z",
-      "gameDate": "2026-09-05T18:00Z",
+      "time": "2026-09-05T13:30Z",
+      "gameDate": "2026-09-05T13:30Z",
       "winner": null
     },
     {
@@ -1712,19 +1690,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-09-05T18:00Z",
-      "gameDate": "2026-09-05T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "VfB Stuttgart",
-      "away": "FC Cologne",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-09-05T18:00Z",
-      "gameDate": "2026-09-05T18:00Z",
+      "time": "2026-09-05T13:30Z",
+      "gameDate": "2026-09-05T13:30Z",
       "winner": null
     },
     {
@@ -1734,8 +1701,41 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-09-05T18:00Z",
-      "gameDate": "2026-09-05T18:00Z",
+      "time": "2026-09-05T13:30Z",
+      "gameDate": "2026-09-05T13:30Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "Schalke 04",
+      "away": "Bayern Munich",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-05T16:30Z",
+      "gameDate": "2026-09-05T16:30Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "Hamburg SV",
+      "away": "Mainz",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-06T13:30Z",
+      "gameDate": "2026-09-06T13:30Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "Eintracht Frankfurt",
+      "away": "FC Augsburg",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-06T15:30Z",
+      "gameDate": "2026-09-06T15:30Z",
       "winner": null
     },
     {
@@ -1745,8 +1745,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-09-12T18:00Z",
-      "gameDate": "2026-09-12T18:00Z",
+      "time": "2026-09-11T18:30Z",
+      "gameDate": "2026-09-11T18:30Z",
       "winner": null
     },
     {
@@ -1756,8 +1756,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-09-12T18:00Z",
-      "gameDate": "2026-09-12T18:00Z",
+      "time": "2026-09-12T13:30Z",
+      "gameDate": "2026-09-12T13:30Z",
       "winner": null
     },
     {
@@ -1767,19 +1767,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-09-12T18:00Z",
-      "gameDate": "2026-09-12T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "FC Cologne",
-      "away": "Werder Bremen",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-09-12T18:00Z",
-      "gameDate": "2026-09-12T18:00Z",
+      "time": "2026-09-12T13:30Z",
+      "gameDate": "2026-09-12T13:30Z",
       "winner": null
     },
     {
@@ -1789,19 +1778,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-09-12T18:00Z",
-      "gameDate": "2026-09-12T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "RB Leipzig",
-      "away": "Hamburg SV",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-09-12T18:00Z",
-      "gameDate": "2026-09-12T18:00Z",
+      "time": "2026-09-12T13:30Z",
+      "gameDate": "2026-09-12T13:30Z",
       "winner": null
     },
     {
@@ -1811,19 +1789,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-09-12T18:00Z",
-      "gameDate": "2026-09-12T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "SV Elversberg",
-      "away": "Bayern Munich",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-09-12T18:00Z",
-      "gameDate": "2026-09-12T18:00Z",
+      "time": "2026-09-12T13:30Z",
+      "gameDate": "2026-09-12T13:30Z",
       "winner": null
     },
     {
@@ -1833,19 +1800,41 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-09-12T18:00Z",
-      "gameDate": "2026-09-12T18:00Z",
+      "time": "2026-09-12T13:30Z",
+      "gameDate": "2026-09-12T13:30Z",
       "winner": null
     },
     {
       "league": "Bundesliga",
-      "home": "Bayer Leverkusen",
-      "away": "RB Leipzig",
+      "home": "FC Cologne",
+      "away": "Werder Bremen",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-09-19T18:00Z",
-      "gameDate": "2026-09-19T18:00Z",
+      "time": "2026-09-12T16:30Z",
+      "gameDate": "2026-09-12T16:30Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "RB Leipzig",
+      "away": "Hamburg SV",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-13T13:30Z",
+      "gameDate": "2026-09-13T13:30Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "SV Elversberg",
+      "away": "Bayern Munich",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-13T15:30Z",
+      "gameDate": "2026-09-13T15:30Z",
       "winner": null
     },
     {
@@ -1855,8 +1844,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-09-19T18:00Z",
-      "gameDate": "2026-09-19T18:00Z",
+      "time": "2026-09-18T18:30Z",
+      "gameDate": "2026-09-18T18:30Z",
       "winner": null
     },
     {
@@ -1866,8 +1855,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-09-19T18:00Z",
-      "gameDate": "2026-09-19T18:00Z",
+      "time": "2026-09-19T13:30Z",
+      "gameDate": "2026-09-19T13:30Z",
       "winner": null
     },
     {
@@ -1877,8 +1866,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-09-19T18:00Z",
-      "gameDate": "2026-09-19T18:00Z",
+      "time": "2026-09-19T13:30Z",
+      "gameDate": "2026-09-19T13:30Z",
       "winner": null
     },
     {
@@ -1888,41 +1877,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-09-19T18:00Z",
-      "gameDate": "2026-09-19T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "SC Paderborn 07",
-      "away": "TSG Hoffenheim",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-09-19T18:00Z",
-      "gameDate": "2026-09-19T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "Schalke 04",
-      "away": "SV Elversberg",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-09-19T18:00Z",
-      "gameDate": "2026-09-19T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "VfB Stuttgart",
-      "away": "Borussia Dortmund",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-09-19T18:00Z",
-      "gameDate": "2026-09-19T18:00Z",
+      "time": "2026-09-19T13:30Z",
+      "gameDate": "2026-09-19T13:30Z",
       "winner": null
     },
     {
@@ -1932,8 +1888,52 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-09-19T18:00Z",
-      "gameDate": "2026-09-19T18:00Z",
+      "time": "2026-09-19T13:30Z",
+      "gameDate": "2026-09-19T13:30Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "VfB Stuttgart",
+      "away": "Borussia Dortmund",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-19T16:30Z",
+      "gameDate": "2026-09-19T16:30Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "Bayer Leverkusen",
+      "away": "RB Leipzig",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-20T13:30Z",
+      "gameDate": "2026-09-20T13:30Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "Schalke 04",
+      "away": "SV Elversberg",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-20T15:30Z",
+      "gameDate": "2026-09-20T15:30Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "SC Paderborn 07",
+      "away": "TSG Hoffenheim",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-20T17:30Z",
+      "gameDate": "2026-09-20T17:30Z",
       "winner": null
     },
     {
@@ -3290,5 +3290,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-15T14:25:56.488Z"
+  "updatedAt": "2026-07-15T16:07:42.724Z"
 }
