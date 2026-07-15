@@ -1558,30 +1558,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-08-29T18:00Z",
-      "gameDate": "2026-08-29T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "Borussia Dortmund",
-      "away": "Hamburg SV",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-29T18:00Z",
-      "gameDate": "2026-08-29T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "FC Augsburg",
-      "away": "Schalke 04",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-29T18:00Z",
-      "gameDate": "2026-08-29T18:00Z",
+      "time": "2026-08-29T13:30Z",
+      "gameDate": "2026-08-29T13:30Z",
       "winner": null
     },
     {
@@ -1591,8 +1569,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-08-29T18:00Z",
-      "gameDate": "2026-08-29T18:00Z",
+      "time": "2026-08-29T13:30Z",
+      "gameDate": "2026-08-29T13:30Z",
       "winner": null
     },
     {
@@ -1602,8 +1580,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-08-29T18:00Z",
-      "gameDate": "2026-08-29T18:00Z",
+      "time": "2026-08-29T13:30Z",
+      "gameDate": "2026-08-29T13:30Z",
       "winner": null
     },
     {
@@ -1613,19 +1591,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-08-29T18:00Z",
-      "gameDate": "2026-08-29T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "SC Freiburg",
-      "away": "Werder Bremen",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-29T18:00Z",
-      "gameDate": "2026-08-29T18:00Z",
+      "time": "2026-08-29T13:30Z",
+      "gameDate": "2026-08-29T13:30Z",
       "winner": null
     },
     {
@@ -1635,8 +1602,41 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-08-29T18:00Z",
-      "gameDate": "2026-08-29T18:00Z",
+      "time": "2026-08-29T13:30Z",
+      "gameDate": "2026-08-29T13:30Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "Borussia Dortmund",
+      "away": "Hamburg SV",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-29T16:30Z",
+      "gameDate": "2026-08-29T16:30Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "SC Freiburg",
+      "away": "Werder Bremen",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-30T13:30Z",
+      "gameDate": "2026-08-30T13:30Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "FC Augsburg",
+      "away": "Schalke 04",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-08-30T15:30Z",
+      "gameDate": "2026-08-30T15:30Z",
       "winner": null
     },
     {
@@ -3290,5 +3290,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-15T12:25:44.682Z"
+  "updatedAt": "2026-07-15T14:25:56.488Z"
 }
