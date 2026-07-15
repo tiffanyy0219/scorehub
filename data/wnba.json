@@ -16,13 +16,13 @@
       "league": "WNBA",
       "home": "Minnesota Lynx",
       "away": "Los Angeles Sparks",
-      "homeScore": 79,
-      "awayScore": 74,
-      "status": "live",
+      "homeScore": 96,
+      "awayScore": 87,
+      "status": "final",
       "time": "2026-07-15T17:00Z",
       "gameDate": "2026-07-15T17:00Z",
-      "liveInfo": "6:03",
-      "winner": null
+      "liveInfo": null,
+      "winner": "home"
     },
     {
       "league": "WNBA",
@@ -1837,5 +1837,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-15T18:45:34.278Z"
+  "updatedAt": "2026-07-15T19:57:42.452Z"
 }
