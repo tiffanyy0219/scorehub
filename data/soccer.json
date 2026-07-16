@@ -2449,19 +2449,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-09-13T18:00Z",
-      "gameDate": "2026-09-13T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "Serie A",
-      "home": "Sassuolo",
-      "away": "Juventus",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-09-13T18:00Z",
-      "gameDate": "2026-09-13T18:00Z",
+      "time": "2026-09-13T18:45Z",
+      "gameDate": "2026-09-13T18:45Z",
       "winner": null
     },
     {
@@ -3290,5 +3279,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-16T07:05:35.325Z"
+  "updatedAt": "2026-07-16T09:29:30.680Z"
 }
