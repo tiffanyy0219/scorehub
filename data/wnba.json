@@ -158,6 +158,18 @@
     },
     {
       "league": "WNBA",
+      "home": "Dallas Wings",
+      "away": "New York Liberty",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-07-21T00:00Z",
+      "gameDate": "2026-07-21T00:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "WNBA",
       "home": "Golden State Valkyries",
       "away": "Washington Mystics",
       "homeScore": null,
@@ -494,8 +506,8 @@
     },
     {
       "league": "WNBA",
-      "home": "New York Liberty",
-      "away": "Seattle Storm",
+      "home": "Atlanta Dream",
+      "away": "Las Vegas Aces",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
@@ -506,13 +518,13 @@
     },
     {
       "league": "WNBA",
-      "home": "Atlanta Dream",
-      "away": "Las Vegas Aces",
+      "home": "New York Liberty",
+      "away": "Seattle Storm",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-08-03T23:30Z",
-      "gameDate": "2026-08-03T23:30Z",
+      "time": "2026-08-03T23:00Z",
+      "gameDate": "2026-08-03T23:00Z",
       "liveInfo": null,
       "winner": null
     },
@@ -1801,5 +1813,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-16T15:09:57.323Z"
+  "updatedAt": "2026-07-16T16:42:43.613Z"
 }
