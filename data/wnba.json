@@ -4,12 +4,12 @@
       "league": "WNBA",
       "home": "Washington Mystics",
       "away": "Portland Fire",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 20,
+      "awayScore": 43,
+      "status": "live",
       "time": "2026-07-16T23:00Z",
       "gameDate": "2026-07-16T23:00Z",
-      "liveInfo": null,
+      "liveInfo": "4:48",
       "winner": null
     },
     {
@@ -1813,5 +1813,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-16T22:39:20.111Z"
+  "updatedAt": "2026-07-16T23:38:58.991Z"
 }
