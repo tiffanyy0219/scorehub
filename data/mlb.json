@@ -21858,11 +21858,11 @@
       "home": "Boston Red Sox",
       "awayScore": 0,
       "homeScore": 10,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-17T17:35:00Z",
       "gameDate": "2026-07-17T17:35:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -33686,8 +33686,8 @@
         [
           "Rays",
           "56",
-          "38",
-          ".596"
+          "39",
+          ".589"
         ],
         [
           "Yankees",
@@ -33697,9 +33697,9 @@
         ],
         [
           "Red Sox",
-          "46",
+          "47",
           "48",
-          ".489"
+          ".495"
         ],
         [
           "Orioles",
@@ -33921,5 +33921,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-17T19:36:40.767Z"
+  "updatedAt": "2026-07-17T20:31:39.257Z"
 }
