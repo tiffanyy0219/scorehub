@@ -2,30 +2,6 @@
   "schedule": [
     {
       "league": "WNBA",
-      "home": "Washington Mystics",
-      "away": "Portland Fire",
-      "homeScore": 20,
-      "awayScore": 43,
-      "status": "live",
-      "time": "2026-07-16T23:00Z",
-      "gameDate": "2026-07-16T23:00Z",
-      "liveInfo": "4:48",
-      "winner": null
-    },
-    {
-      "league": "WNBA",
-      "home": "Dallas Wings",
-      "away": "New York Liberty",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-07-17T01:00Z",
-      "gameDate": "2026-07-17T01:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "WNBA",
       "home": "Indiana Fever",
       "away": "Seattle Storm",
       "homeScore": null,
@@ -1813,5 +1789,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-16T23:38:58.991Z"
+  "updatedAt": "2026-07-17T01:12:16.618Z"
 }

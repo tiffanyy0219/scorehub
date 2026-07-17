@@ -21844,13 +21844,13 @@
       "league": "MLB",
       "away": "New York Mets",
       "home": "Philadelphia Phillies",
-      "awayScore": 1,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 6局",
+      "awayScore": 4,
+      "homeScore": 1,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-16T22:10:00Z",
       "gameDate": "2026-07-16T22:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -33815,8 +33815,8 @@
         [
           "Phillies",
           "54",
-          "43",
-          ".557"
+          "44",
+          ".551"
         ],
         [
           "Marlins",
@@ -33832,9 +33832,9 @@
         ],
         [
           "Mets",
-          "40",
+          "41",
           "57",
-          ".412"
+          ".418"
         ]
       ]
     },
@@ -33921,5 +33921,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-16T23:38:52.501Z"
+  "updatedAt": "2026-07-17T01:12:07.110Z"
 }
