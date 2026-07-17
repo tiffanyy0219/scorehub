@@ -21890,18 +21890,6 @@
     },
     {
       "league": "MLB",
-      "away": "Pittsburgh Pirates",
-      "home": "Cleveland Guardians",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "2026-07-17T23:10:00Z",
-      "gameDate": "2026-07-17T23:10:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
       "away": "Texas Rangers",
       "home": "Atlanta Braves",
       "awayScore": null,
@@ -22034,6 +22022,40 @@
     },
     {
       "league": "MLB",
+      "away": "Pittsburgh Pirates",
+      "home": "Cleveland Guardians",
+      "status": "final",
+      "liveInfo": null,
+      "time": "2026-07-17T23:10:00Z",
+      "gameDate": "2026-07-17T23:10:00Z",
+      "winner": "home"
+    },
+    {
+      "league": "MLB",
+      "away": "Pittsburgh Pirates",
+      "home": "Cleveland Guardians",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "2026-07-18T17:10:00Z",
+      "gameDate": "2026-07-18T17:10:00Z",
+      "winner": null
+    },
+    {
+      "league": "MLB",
+      "away": "Pittsburgh Pirates",
+      "home": "Cleveland Guardians",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "2026-07-18T23:10:00Z",
+      "gameDate": "2026-07-18T23:10:00Z",
+      "winner": null
+    },
+    {
+      "league": "MLB",
       "away": "Minnesota Twins",
       "home": "Chicago Cubs",
       "awayScore": null,
@@ -22084,18 +22106,6 @@
       "league": "MLB",
       "away": "Baltimore Orioles",
       "home": "Houston Astros",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "2026-07-18T20:10:00Z",
-      "gameDate": "2026-07-18T20:10:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
-      "away": "Pittsburgh Pirates",
-      "home": "Cleveland Guardians",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -33921,5 +33931,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-17T20:31:39.257Z"
+  "updatedAt": "2026-07-17T21:30:56.193Z"
 }
