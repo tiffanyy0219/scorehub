@@ -242,8 +242,8 @@
     },
     {
       "league": "WNBA",
-      "home": "TBD",
-      "away": "TBD",
+      "home": "TEAM COOP",
+      "away": "TEAM SPOON",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
@@ -1789,5 +1789,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-17T07:02:08.169Z"
+  "updatedAt": "2026-07-17T09:20:25.004Z"
 }
