@@ -21856,10 +21856,10 @@
       "league": "MLB",
       "away": "Tampa Bay Rays",
       "home": "Boston Red Sox",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 2,
+      "status": "live",
+      "liveInfo": " 3局",
       "time": "2026-07-17T17:35:00Z",
       "gameDate": "2026-07-17T17:35:00Z",
       "winner": null
@@ -33921,5 +33921,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-17T16:57:31.311Z"
+  "updatedAt": "2026-07-17T18:12:56.759Z"
 }
