@@ -22034,13 +22034,13 @@
       "league": "MLB",
       "away": "Pittsburgh Pirates",
       "home": "Cleveland Guardians",
-      "awayScore": 2,
+      "awayScore": 7,
       "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 5局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-18T17:10:00Z",
       "gameDate": "2026-07-18T17:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -22058,10 +22058,10 @@
       "league": "MLB",
       "away": "Minnesota Twins",
       "home": "Chicago Cubs",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 5,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 4局",
       "time": "2026-07-18T18:20:00Z",
       "gameDate": "2026-07-18T18:20:00Z",
       "winner": null
@@ -22070,10 +22070,10 @@
       "league": "MLB",
       "away": "New York Mets",
       "home": "Philadelphia Phillies",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 1,
+      "homeScore": 2,
+      "status": "live",
+      "liveInfo": " 2局",
       "time": "2026-07-18T19:05:00Z",
       "gameDate": "2026-07-18T19:05:00Z",
       "winner": null
@@ -22082,10 +22082,10 @@
       "league": "MLB",
       "away": "Chicago White Sox",
       "home": "Toronto Blue Jays",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-07-18T19:07:00Z",
       "gameDate": "2026-07-18T19:07:00Z",
       "winner": null
@@ -22094,10 +22094,10 @@
       "league": "MLB",
       "away": "Cincinnati Reds",
       "home": "Colorado Rockies",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 2,
+      "status": "live",
+      "liveInfo": " 2局",
       "time": "2026-07-18T19:10:00Z",
       "gameDate": "2026-07-18T19:10:00Z",
       "winner": null
@@ -33743,8 +33743,8 @@
         [
           "Guardians",
           "51",
-          "46",
-          ".526"
+          "47",
+          ".520"
         ],
         [
           "Twins",
@@ -33877,9 +33877,9 @@
         ],
         [
           "Pirates",
-          "50",
+          "51",
           "47",
-          ".515"
+          ".520"
         ],
         [
           "Reds",
@@ -33931,5 +33931,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-18T18:12:18.286Z"
+  "updatedAt": "2026-07-18T19:36:12.258Z"
 }
