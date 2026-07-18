@@ -22034,10 +22034,10 @@
       "league": "MLB",
       "away": "Pittsburgh Pirates",
       "home": "Cleveland Guardians",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-07-18T17:10:00Z",
       "gameDate": "2026-07-18T17:10:00Z",
       "winner": null
@@ -33931,5 +33931,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-18T16:08:50.347Z"
+  "updatedAt": "2026-07-18T17:14:51.175Z"
 }
