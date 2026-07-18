@@ -22068,6 +22068,18 @@
     },
     {
       "league": "MLB",
+      "away": "New York Mets",
+      "home": "Philadelphia Phillies",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "2026-07-18T19:05:00Z",
+      "gameDate": "2026-07-18T19:05:00Z",
+      "winner": null
+    },
+    {
+      "league": "MLB",
       "away": "Chicago White Sox",
       "home": "Toronto Blue Jays",
       "awayScore": null,
@@ -22088,18 +22100,6 @@
       "liveInfo": null,
       "time": "2026-07-18T19:10:00Z",
       "gameDate": "2026-07-18T19:10:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
-      "away": "New York Mets",
-      "home": "Philadelphia Phillies",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "2026-07-18T20:05:00Z",
-      "gameDate": "2026-07-18T20:05:00Z",
       "winner": null
     },
     {
@@ -33931,5 +33931,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-18T15:02:03.568Z"
+  "updatedAt": "2026-07-18T16:08:50.347Z"
 }
