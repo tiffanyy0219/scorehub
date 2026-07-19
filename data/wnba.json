@@ -16,12 +16,12 @@
       "league": "WNBA",
       "home": "Atlanta Dream",
       "away": "Chicago Sky",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 17,
+      "awayScore": 11,
+      "status": "live",
       "time": "2026-07-19T20:00Z",
       "gameDate": "2026-07-19T20:00Z",
-      "liveInfo": null,
+      "liveInfo": "4:29",
       "winner": null
     },
     {
@@ -1705,5 +1705,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-19T19:36:33.526Z"
+  "updatedAt": "2026-07-19T20:27:56.224Z"
 }
