@@ -88,7 +88,7 @@
       "subtitle": "第10站 · Circuit de Spa-Francorchamps",
       "time": "2026-07-19",
       "gameDate": "2026-07-19T13:00:00Z",
-      "status": "scheduled"
+      "status": "final"
     }
   ],
   "standings": [
@@ -194,5 +194,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-19T12:02:23.278Z"
+  "updatedAt": "2026-07-19T13:51:33.447Z"
 }
