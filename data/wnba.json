@@ -28,12 +28,12 @@
       "league": "WNBA",
       "home": "Phoenix Mercury",
       "away": "Connecticut Sun",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 24,
+      "awayScore": 23,
+      "status": "live",
       "time": "2026-07-19T23:00Z",
       "gameDate": "2026-07-19T23:00Z",
-      "liveInfo": null,
+      "liveInfo": "5:42",
       "winner": null
     },
     {
@@ -1705,5 +1705,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-19T22:29:00.776Z"
+  "updatedAt": "2026-07-19T23:34:04.684Z"
 }
