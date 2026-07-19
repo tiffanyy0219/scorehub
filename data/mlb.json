@@ -22046,10 +22046,10 @@
       "league": "MLB",
       "away": "Pittsburgh Pirates",
       "home": "Cleveland Guardians",
-      "awayScore": 0,
+      "awayScore": 2,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 3局",
       "time": "2026-07-18T23:10:00Z",
       "gameDate": "2026-07-18T23:10:00Z",
       "winner": null
@@ -22108,11 +22108,11 @@
       "home": "Houston Astros",
       "awayScore": 4,
       "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 11局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-18T20:10:00Z",
       "gameDate": "2026-07-18T20:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -22144,11 +22144,11 @@
       "home": "Boston Red Sox",
       "awayScore": 6,
       "homeScore": 7,
-      "status": "live",
-      "liveInfo": " 7局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-18T20:10:00Z",
       "gameDate": "2026-07-18T20:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -22178,10 +22178,10 @@
       "league": "MLB",
       "away": "San Francisco Giants",
       "home": "Seattle Mariners",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 1,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 4局",
       "time": "2026-07-19T00:08:00Z",
       "gameDate": "2026-07-19T00:08:00Z",
       "winner": null
@@ -33706,8 +33706,8 @@
         [
           "Rays",
           "56",
-          "40",
-          ".583"
+          "41",
+          ".577"
         ],
         [
           "Yankees",
@@ -33717,15 +33717,15 @@
         ],
         [
           "Red Sox",
+          "49",
           "48",
-          "48",
-          ".500"
+          ".505"
         ],
         [
           "Orioles",
-          "47",
+          "48",
           "51",
-          ".480"
+          ".485"
         ],
         [
           "Blue Jays",
@@ -33800,8 +33800,8 @@
         [
           "Astros",
           "47",
-          "52",
-          ".475"
+          "53",
+          ".470"
         ],
         [
           "Athletics",
@@ -33941,5 +33941,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-18T23:31:45.706Z"
+  "updatedAt": "2026-07-19T01:09:28.808Z"
 }
