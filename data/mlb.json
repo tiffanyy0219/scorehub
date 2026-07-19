@@ -22224,10 +22224,10 @@
       "league": "MLB",
       "away": "Chicago White Sox",
       "home": "Toronto Blue Jays",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-07-19T16:15:00Z",
       "gameDate": "2026-07-19T16:15:00Z",
       "winner": null
@@ -33941,5 +33941,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-19T15:02:40.194Z"
+  "updatedAt": "2026-07-19T16:08:12.656Z"
 }

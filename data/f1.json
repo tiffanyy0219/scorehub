@@ -102,8 +102,13 @@
       "rows": [
         [
           "Andrea Kimi Antonelli",
-          "179",
+          "204",
           "Mercedes"
+        ],
+        [
+          "Lewis Hamilton",
+          "159",
+          "Ferrari"
         ],
         [
           "George Russell",
@@ -111,33 +116,28 @@
           "Mercedes"
         ],
         [
-          "Lewis Hamilton",
-          "147",
-          "Ferrari"
-        ],
-        [
           "Charles Leclerc",
-          "108",
+          "126",
           "Ferrari"
         ],
         [
           "Lando Norris",
-          "97",
+          "103",
           "McLaren"
         ],
         [
           "Oscar Piastri",
-          "82",
+          "92",
           "McLaren"
         ],
         [
           "Max Verstappen",
-          "76",
+          "91",
           "Red Bull"
         ],
         [
           "Isack Hadjar",
-          "52",
+          "60",
           "Red Bull"
         ],
         [
@@ -161,27 +161,27 @@
       "rows": [
         [
           "Mercedes",
-          "333"
+          "358"
         ],
         [
           "Ferrari",
-          "255"
+          "285"
         ],
         [
           "McLaren",
-          "179"
+          "195"
         ],
         [
           "Red Bull",
-          "128"
+          "151"
         ],
         [
           "Alpine F1 Team",
-          "60"
+          "61"
         ],
         [
           "RB F1 Team",
-          "59"
+          "61"
         ],
         [
           "Haas F1 Team",
@@ -194,5 +194,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-19T15:02:40.520Z"
+  "updatedAt": "2026-07-19T16:08:12.981Z"
 }
