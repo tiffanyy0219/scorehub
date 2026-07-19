@@ -22357,12 +22357,12 @@
       "away": "Cincinnati Reds",
       "home": "Colorado Rockies",
       "awayScore": 9,
-      "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 8局",
+      "homeScore": 6,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-19T19:10:00Z",
       "gameDate": "2026-07-19T19:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -22371,7 +22371,7 @@
       "awayScore": 5,
       "homeScore": 1,
       "status": "live",
-      "liveInfo": " 5局",
+      "liveInfo": " 8局",
       "time": "2026-07-19T20:05:00Z",
       "gameDate": "2026-07-19T20:05:00Z",
       "winner": null
@@ -22381,9 +22381,9 @@
       "away": "Detroit Tigers",
       "home": "Los Angeles Angels",
       "awayScore": 1,
-      "homeScore": 1,
+      "homeScore": 3,
       "status": "live",
-      "liveInfo": " 5局",
+      "liveInfo": " 7局",
       "time": "2026-07-19T20:07:00Z",
       "gameDate": "2026-07-19T20:07:00Z",
       "winner": null
@@ -22392,10 +22392,10 @@
       "league": "MLB",
       "away": "San Francisco Giants",
       "home": "Seattle Mariners",
-      "awayScore": 2,
-      "homeScore": 2,
+      "awayScore": 3,
+      "homeScore": 6,
       "status": "live",
-      "liveInfo": " 5局",
+      "liveInfo": " 8局",
       "time": "2026-07-19T20:10:00Z",
       "gameDate": "2026-07-19T20:10:00Z",
       "winner": null
@@ -22404,10 +22404,10 @@
       "league": "MLB",
       "away": "St. Louis Cardinals",
       "home": "Arizona Diamondbacks",
-      "awayScore": 5,
-      "homeScore": 0,
+      "awayScore": 7,
+      "homeScore": 3,
       "status": "live",
-      "liveInfo": " 5局",
+      "liveInfo": " 7局",
       "time": "2026-07-19T20:10:00Z",
       "gameDate": "2026-07-19T20:10:00Z",
       "winner": null
@@ -33893,9 +33893,9 @@
         ],
         [
           "Reds",
-          "44",
+          "45",
           "53",
-          ".454"
+          ".459"
         ]
       ]
     },
@@ -33935,11 +33935,11 @@
         [
           "Rockies",
           "40",
-          "60",
-          ".400"
+          "61",
+          ".396"
         ]
       ]
     }
   ],
-  "updatedAt": "2026-07-19T21:27:59.388Z"
+  "updatedAt": "2026-07-19T22:28:51.081Z"
 }
