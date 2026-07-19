@@ -4,13 +4,13 @@
       "league": "WNBA",
       "home": "Dallas Wings",
       "away": "Los Angeles Sparks",
-      "homeScore": 46,
-      "awayScore": 42,
-      "status": "live",
+      "homeScore": 90,
+      "awayScore": 82,
+      "status": "final",
       "time": "2026-07-19T17:00Z",
       "gameDate": "2026-07-19T17:00Z",
-      "liveInfo": "9:47",
-      "winner": null
+      "liveInfo": null,
+      "winner": "home"
     },
     {
       "league": "WNBA",
@@ -1705,5 +1705,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-19T18:13:20.246Z"
+  "updatedAt": "2026-07-19T19:36:33.526Z"
 }
