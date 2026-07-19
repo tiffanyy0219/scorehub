@@ -22046,13 +22046,13 @@
       "league": "MLB",
       "away": "Pittsburgh Pirates",
       "home": "Cleveland Guardians",
-      "awayScore": 2,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 3局",
+      "awayScore": 3,
+      "homeScore": 5,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-18T23:10:00Z",
       "gameDate": "2026-07-18T23:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -22178,22 +22178,22 @@
       "league": "MLB",
       "away": "San Francisco Giants",
       "home": "Seattle Mariners",
-      "awayScore": 1,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 4局",
+      "awayScore": 3,
+      "homeScore": 4,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-19T00:08:00Z",
       "gameDate": "2026-07-19T00:08:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Washington Nationals",
       "home": "Athletics",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 14,
+      "status": "live",
+      "liveInfo": " 8局",
       "time": "2026-07-19T02:05:00Z",
       "gameDate": "2026-07-19T02:05:00Z",
       "winner": null
@@ -22202,10 +22202,10 @@
       "league": "MLB",
       "away": "Detroit Tigers",
       "home": "Los Angeles Angels",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 7,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 9局",
       "time": "2026-07-19T02:07:00Z",
       "gameDate": "2026-07-19T02:07:00Z",
       "winner": null
@@ -33752,9 +33752,9 @@
         ],
         [
           "Guardians",
-          "51",
+          "52",
           "47",
-          ".520"
+          ".525"
         ],
         [
           "Twins",
@@ -33793,9 +33793,9 @@
         ],
         [
           "Mariners",
-          "48",
+          "49",
           "50",
-          ".490"
+          ".495"
         ],
         [
           "Astros",
@@ -33888,8 +33888,8 @@
         [
           "Pirates",
           "51",
-          "47",
-          ".520"
+          "48",
+          ".515"
         ],
         [
           "Reds",
@@ -33929,8 +33929,8 @@
         [
           "Giants",
           "42",
-          "55",
-          ".433"
+          "56",
+          ".429"
         ],
         [
           "Rockies",
@@ -33941,5 +33941,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-19T01:09:28.808Z"
+  "updatedAt": "2026-07-19T04:37:18.890Z"
 }
