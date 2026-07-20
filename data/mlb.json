@@ -22416,10 +22416,10 @@
       "league": "MLB",
       "away": "Minnesota Twins",
       "home": "Cleveland Guardians",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-07-20T22:40:00Z",
       "gameDate": "2026-07-20T22:40:00Z",
       "winner": null
@@ -22428,10 +22428,10 @@
       "league": "MLB",
       "away": "Pittsburgh Pirates",
       "home": "New York Yankees",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-07-20T23:05:00Z",
       "gameDate": "2026-07-20T23:05:00Z",
       "winner": null
@@ -22464,10 +22464,10 @@
       "league": "MLB",
       "away": "Los Angeles Dodgers",
       "home": "Philadelphia Phillies",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-07-20T23:10:00Z",
       "gameDate": "2026-07-20T23:10:00Z",
       "winner": null
@@ -33941,5 +33941,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-20T21:49:02.952Z"
+  "updatedAt": "2026-07-20T22:44:53.057Z"
 }
