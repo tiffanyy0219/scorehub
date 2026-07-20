@@ -22248,13 +22248,13 @@
       "league": "MLB",
       "away": "Los Angeles Dodgers",
       "home": "New York Yankees",
-      "awayScore": 0,
-      "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 6局",
+      "awayScore": 1,
+      "homeScore": 2,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-19T23:20:00Z",
       "gameDate": "2026-07-19T23:20:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -33711,9 +33711,9 @@
         ],
         [
           "Yankees",
-          "54",
+          "55",
           "44",
-          ".551"
+          ".556"
         ],
         [
           "Red Sox",
@@ -33911,8 +33911,8 @@
         [
           "Dodgers",
           "63",
-          "36",
-          ".636"
+          "37",
+          ".630"
         ],
         [
           "D-backs",
@@ -33941,5 +33941,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-20T01:12:31.042Z"
+  "updatedAt": "2026-07-20T04:55:53.375Z"
 }
