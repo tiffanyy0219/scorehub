@@ -22251,7 +22251,7 @@
       "awayScore": 0,
       "homeScore": 1,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 6局",
       "time": "2026-07-19T23:20:00Z",
       "gameDate": "2026-07-19T23:20:00Z",
       "winner": null
@@ -22405,12 +22405,12 @@
       "away": "St. Louis Cardinals",
       "home": "Arizona Diamondbacks",
       "awayScore": 7,
-      "homeScore": 7,
-      "status": "live",
-      "liveInfo": " 10局",
+      "homeScore": 8,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-19T20:10:00Z",
       "gameDate": "2026-07-19T20:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -33882,8 +33882,8 @@
         [
           "Cardinals",
           "51",
-          "46",
-          ".526"
+          "47",
+          ".520"
         ],
         [
           "Pirates",
@@ -33916,9 +33916,9 @@
         ],
         [
           "D-backs",
-          "50",
+          "51",
           "48",
-          ".510"
+          ".515"
         ],
         [
           "Padres",
@@ -33941,5 +33941,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-19T23:33:49.404Z"
+  "updatedAt": "2026-07-20T01:12:31.042Z"
 }
