@@ -22618,18 +22618,6 @@
     },
     {
       "league": "MLB",
-      "away": "Pittsburgh Pirates",
-      "home": "New York Yankees",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "2026-07-21T23:05:00Z",
-      "gameDate": "2026-07-21T23:05:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
       "away": "Tampa Bay Rays",
       "home": "Toronto Blue Jays",
       "awayScore": null,
@@ -22776,12 +22764,34 @@
       "league": "MLB",
       "away": "Pittsburgh Pirates",
       "home": "New York Yankees",
+      "status": "final",
+      "liveInfo": null,
+      "time": "2026-07-21T23:05:00Z",
+      "gameDate": "2026-07-21T23:05:00Z",
+      "winner": "home"
+    },
+    {
+      "league": "MLB",
+      "away": "Pittsburgh Pirates",
+      "home": "New York Yankees",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-07-22T17:35:00Z",
-      "gameDate": "2026-07-22T17:35:00Z",
+      "time": "2026-07-22T17:05:00Z",
+      "gameDate": "2026-07-22T17:05:00Z",
+      "winner": null
+    },
+    {
+      "league": "MLB",
+      "away": "Pittsburgh Pirates",
+      "home": "New York Yankees",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "2026-07-22T23:05:00Z",
+      "gameDate": "2026-07-22T23:05:00Z",
       "winner": null
     },
     {
@@ -33941,5 +33951,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-21T17:36:00.397Z"
+  "updatedAt": "2026-07-21T18:54:02.740Z"
 }
