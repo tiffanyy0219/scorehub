@@ -22630,18 +22630,6 @@
     },
     {
       "league": "MLB",
-      "away": "Baltimore Orioles",
-      "home": "Boston Red Sox",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "2026-07-21T23:10:00Z",
-      "gameDate": "2026-07-21T23:10:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
       "away": "San Diego Padres",
       "home": "Atlanta Braves",
       "awayScore": null,
@@ -22772,6 +22760,16 @@
     },
     {
       "league": "MLB",
+      "away": "Baltimore Orioles",
+      "home": "Boston Red Sox",
+      "status": "final",
+      "liveInfo": null,
+      "time": "2026-07-21T23:10:00Z",
+      "gameDate": "2026-07-21T23:10:00Z",
+      "winner": "home"
+    },
+    {
+      "league": "MLB",
       "away": "Pittsburgh Pirates",
       "home": "New York Yankees",
       "awayScore": null,
@@ -22792,6 +22790,30 @@
       "liveInfo": null,
       "time": "2026-07-22T23:05:00Z",
       "gameDate": "2026-07-22T23:05:00Z",
+      "winner": null
+    },
+    {
+      "league": "MLB",
+      "away": "Baltimore Orioles",
+      "home": "Boston Red Sox",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "2026-07-22T17:35:00Z",
+      "gameDate": "2026-07-22T17:35:00Z",
+      "winner": null
+    },
+    {
+      "league": "MLB",
+      "away": "Baltimore Orioles",
+      "home": "Boston Red Sox",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "2026-07-22T23:10:00Z",
+      "gameDate": "2026-07-22T23:10:00Z",
       "winner": null
     },
     {
@@ -22900,18 +22922,6 @@
       "liveInfo": null,
       "time": "2026-07-22T23:07:00Z",
       "gameDate": "2026-07-22T23:07:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
-      "away": "Baltimore Orioles",
-      "home": "Boston Red Sox",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "2026-07-22T23:10:00Z",
-      "gameDate": "2026-07-22T23:10:00Z",
       "winner": null
     },
     {
@@ -33951,5 +33961,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-21T20:21:29.640Z"
+  "updatedAt": "2026-07-21T21:41:25.365Z"
 }
