@@ -22562,11 +22562,11 @@
       "home": "Arizona Diamondbacks",
       "awayScore": 5,
       "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-21T01:40:00Z",
       "gameDate": "2026-07-21T01:40:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -22585,12 +22585,12 @@
       "away": "St. Louis Cardinals",
       "home": "Los Angeles Angels",
       "awayScore": 2,
-      "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 9局",
+      "homeScore": 3,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-21T02:10:00Z",
       "gameDate": "2026-07-21T02:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -33805,15 +33805,15 @@
         ],
         [
           "Athletics",
-          "42",
+          "43",
           "57",
-          ".424"
+          ".430"
         ],
         [
           "Angels",
-          "39",
+          "40",
           "61",
-          ".390"
+          ".396"
         ]
       ]
     },
@@ -33882,8 +33882,8 @@
         [
           "Cardinals",
           "51",
-          "47",
-          ".520"
+          "48",
+          ".515"
         ],
         [
           "Pirates",
@@ -33917,8 +33917,8 @@
         [
           "D-backs",
           "51",
-          "48",
-          ".515"
+          "49",
+          ".510"
         ],
         [
           "Padres",
@@ -33941,5 +33941,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-21T04:37:31.092Z"
+  "updatedAt": "2026-07-21T07:20:00.330Z"
 }
