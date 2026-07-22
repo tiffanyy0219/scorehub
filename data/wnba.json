@@ -16,12 +16,12 @@
       "league": "WNBA",
       "home": "Seattle Storm",
       "away": "Minnesota Lynx",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 47,
+      "awayScore": 51,
+      "status": "live",
       "time": "2026-07-22T19:00Z",
       "gameDate": "2026-07-22T19:00Z",
-      "liveInfo": null,
+      "liveInfo": "7:33",
       "winner": null
     },
     {
@@ -1621,5 +1621,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-22T18:46:43.382Z"
+  "updatedAt": "2026-07-22T20:03:15.469Z"
 }
