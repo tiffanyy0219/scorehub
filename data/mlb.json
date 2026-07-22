@@ -22844,22 +22844,22 @@
       "league": "MLB",
       "away": "Washington Nationals",
       "home": "Colorado Rockies",
-      "awayScore": 5,
+      "awayScore": 8,
       "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 7局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-22T19:10:00Z",
       "gameDate": "2026-07-22T19:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Athletics",
       "home": "Arizona Diamondbacks",
-      "awayScore": 2,
-      "homeScore": 7,
+      "awayScore": 3,
+      "homeScore": 15,
       "status": "live",
-      "liveInfo": " 5局",
+      "liveInfo": " 8局",
       "time": "2026-07-22T19:40:00Z",
       "gameDate": "2026-07-22T19:40:00Z",
       "winner": null
@@ -22868,22 +22868,22 @@
       "league": "MLB",
       "away": "Cincinnati Reds",
       "home": "Seattle Mariners",
-      "awayScore": 2,
+      "awayScore": 5,
       "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 6局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-22T19:40:00Z",
       "gameDate": "2026-07-22T19:40:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "St. Louis Cardinals",
       "home": "Los Angeles Angels",
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 5局",
+      "liveInfo": " 9局",
       "time": "2026-07-22T20:07:00Z",
       "gameDate": "2026-07-22T20:07:00Z",
       "winner": null
@@ -22892,10 +22892,10 @@
       "league": "MLB",
       "away": "Minnesota Twins",
       "home": "Cleveland Guardians",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-07-22T22:40:00Z",
       "gameDate": "2026-07-22T22:40:00Z",
       "winner": null
@@ -22904,10 +22904,10 @@
       "league": "MLB",
       "away": "Los Angeles Dodgers",
       "home": "Philadelphia Phillies",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-07-22T22:40:00Z",
       "gameDate": "2026-07-22T22:40:00Z",
       "winner": null
@@ -33814,8 +33814,8 @@
         [
           "Mariners",
           "51",
-          "51",
-          ".500"
+          "52",
+          ".495"
         ],
         [
           "Astros",
@@ -33866,9 +33866,9 @@
         ],
         [
           "Nationals",
+          "52",
           "51",
-          "51",
-          ".500"
+          ".505"
         ],
         [
           "Mets",
@@ -33913,9 +33913,9 @@
         ],
         [
           "Reds",
-          "46",
+          "47",
           "54",
-          ".460"
+          ".465"
         ]
       ]
     },
@@ -33955,11 +33955,11 @@
         [
           "Rockies",
           "41",
-          "62",
-          ".398"
+          "63",
+          ".394"
         ]
       ]
     }
   ],
-  "updatedAt": "2026-07-22T21:21:02.582Z"
+  "updatedAt": "2026-07-22T22:34:59.708Z"
 }
