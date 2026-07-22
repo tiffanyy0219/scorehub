@@ -22729,12 +22729,12 @@
       "away": "Athletics",
       "home": "Arizona Diamondbacks",
       "awayScore": 5,
-      "homeScore": 4,
-      "status": "live",
-      "liveInfo": " 10局",
+      "homeScore": 6,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-22T01:40:00Z",
       "gameDate": "2026-07-22T01:40:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -33826,8 +33826,8 @@
         [
           "Athletics",
           "43",
-          "57",
-          ".430"
+          "58",
+          ".426"
         ],
         [
           "Angels",
@@ -33936,9 +33936,9 @@
         ],
         [
           "D-backs",
-          "51",
+          "52",
           "49",
-          ".510"
+          ".515"
         ],
         [
           "Padres",
@@ -33961,5 +33961,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-22T04:38:51.647Z"
+  "updatedAt": "2026-07-22T07:23:06.588Z"
 }
