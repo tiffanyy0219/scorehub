@@ -2,6 +2,18 @@
   "schedule": [
     {
       "league": "NBA",
+      "home": "Sacramento Kings",
+      "away": "Los Angeles Lakers",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-05T04:00Z",
+      "gameDate": "2026-10-05T04:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
       "home": "Atlanta Hawks",
       "away": "Memphis Grizzlies",
       "homeScore": null,
@@ -45,6 +57,18 @@
       "status": "scheduled",
       "time": "2026-10-08T00:00Z",
       "gameDate": "2026-10-08T00:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Los Angeles Lakers",
+      "away": "Sacramento Kings",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-08T04:00Z",
+      "gameDate": "2026-10-08T04:00Z",
       "liveInfo": null,
       "winner": null
     },
@@ -146,6 +170,18 @@
     },
     {
       "league": "NBA",
+      "home": "Phoenix Suns",
+      "away": "San Antonio Spurs",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-11T02:00Z",
+      "gameDate": "2026-10-11T02:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
       "home": "Houston Rockets",
       "away": "Dallas Mavericks",
       "homeScore": null,
@@ -177,6 +213,30 @@
       "status": "scheduled",
       "time": "2026-10-12T23:00Z",
       "gameDate": "2026-10-12T23:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Utah Jazz",
+      "away": "San Antonio Spurs",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-13T01:00Z",
+      "gameDate": "2026-10-13T01:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Los Angeles Lakers",
+      "away": "Golden State Warriors",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-13T04:00Z",
+      "gameDate": "2026-10-13T04:00Z",
       "liveInfo": null,
       "winner": null
     },
@@ -218,6 +278,30 @@
     },
     {
       "league": "NBA",
+      "home": "San Antonio Spurs",
+      "away": "Phoenix Suns",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-15T00:00Z",
+      "gameDate": "2026-10-15T00:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Los Angeles Lakers",
+      "away": "Denver Nuggets",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-16T04:00Z",
+      "gameDate": "2026-10-16T04:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
       "home": "Orlando Magic",
       "away": "Miami Heat",
       "homeScore": null,
@@ -244,6 +328,18 @@
       "league": "NBA",
       "home": "Dallas Mavericks",
       "away": "Atlanta Hawks",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-17T00:00Z",
+      "gameDate": "2026-10-17T00:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "San Antonio Spurs",
+      "away": "Sacramento Kings",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
@@ -469,5 +565,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-22T01:11:22.027Z"
+  "updatedAt": "2026-07-22T04:38:55.254Z"
 }
