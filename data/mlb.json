@@ -27870,6 +27870,18 @@
     },
     {
       "league": "MLB",
+      "away": "Pittsburgh Pirates",
+      "home": "Los Angeles Dodgers",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "2026-08-22T23:15:00Z",
+      "gameDate": "2026-08-22T23:15:00Z",
+      "winner": null
+    },
+    {
+      "league": "MLB",
       "away": "Chicago Cubs",
       "home": "Seattle Mariners",
       "awayScore": null,
@@ -27926,18 +27938,6 @@
       "liveInfo": null,
       "time": "2026-08-23T00:40:00Z",
       "gameDate": "2026-08-23T00:40:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
-      "away": "Pittsburgh Pirates",
-      "home": "Los Angeles Dodgers",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "2026-08-23T01:10:00Z",
-      "gameDate": "2026-08-23T01:10:00Z",
       "winner": null
     },
     {
@@ -33426,30 +33426,6 @@
     },
     {
       "league": "MLB",
-      "away": "Tampa Bay Rays",
-      "home": "Philadelphia Phillies",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "2026-09-26T22:05:00Z",
-      "gameDate": "2026-09-26T22:05:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
-      "away": "Baltimore Orioles",
-      "home": "New York Yankees",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "2026-09-26T23:05:00Z",
-      "gameDate": "2026-09-26T23:05:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
       "away": "Cleveland Guardians",
       "home": "Kansas City Royals",
       "awayScore": null,
@@ -33488,6 +33464,30 @@
       "league": "MLB",
       "away": "Chicago Cubs",
       "home": "Boston Red Sox",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "2026-09-26T23:15:00Z",
+      "gameDate": "2026-09-26T23:15:00Z",
+      "winner": null
+    },
+    {
+      "league": "MLB",
+      "away": "Tampa Bay Rays",
+      "home": "Philadelphia Phillies",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "2026-09-26T23:15:00Z",
+      "gameDate": "2026-09-26T23:15:00Z",
+      "winner": null
+    },
+    {
+      "league": "MLB",
+      "away": "Baltimore Orioles",
+      "home": "New York Yankees",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -33961,5 +33961,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-22T14:19:54.120Z"
+  "updatedAt": "2026-07-22T15:56:40.307Z"
 }
