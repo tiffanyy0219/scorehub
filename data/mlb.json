@@ -22784,10 +22784,10 @@
       "league": "MLB",
       "away": "Pittsburgh Pirates",
       "home": "New York Yankees",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 2局",
       "time": "2026-07-22T23:05:00Z",
       "gameDate": "2026-07-22T23:05:00Z",
       "winner": null
@@ -22808,10 +22808,10 @@
       "league": "MLB",
       "away": "Baltimore Orioles",
       "home": "Boston Red Sox",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 4,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-07-22T23:10:00Z",
       "gameDate": "2026-07-22T23:10:00Z",
       "winner": null
@@ -22856,13 +22856,13 @@
       "league": "MLB",
       "away": "Athletics",
       "home": "Arizona Diamondbacks",
-      "awayScore": 3,
+      "awayScore": 5,
       "homeScore": 15,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-22T19:40:00Z",
       "gameDate": "2026-07-22T19:40:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -22882,20 +22882,20 @@
       "home": "Los Angeles Angels",
       "awayScore": 1,
       "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-22T20:07:00Z",
       "gameDate": "2026-07-22T20:07:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Minnesota Twins",
       "home": "Cleveland Guardians",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 3,
+      "homeScore": 3,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 3局",
       "time": "2026-07-22T22:40:00Z",
       "gameDate": "2026-07-22T22:40:00Z",
       "winner": null
@@ -22904,10 +22904,10 @@
       "league": "MLB",
       "away": "Los Angeles Dodgers",
       "home": "Philadelphia Phillies",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 2,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 4局",
       "time": "2026-07-22T22:40:00Z",
       "gameDate": "2026-07-22T22:40:00Z",
       "winner": null
@@ -22916,10 +22916,10 @@
       "league": "MLB",
       "away": "Tampa Bay Rays",
       "home": "Toronto Blue Jays",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 1,
+      "homeScore": 1,
+      "status": "live",
+      "liveInfo": " 2局",
       "time": "2026-07-22T23:07:00Z",
       "gameDate": "2026-07-22T23:07:00Z",
       "winner": null
@@ -22928,10 +22928,10 @@
       "league": "MLB",
       "away": "San Diego Padres",
       "home": "Atlanta Braves",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 1,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-07-22T23:15:00Z",
       "gameDate": "2026-07-22T23:15:00Z",
       "winner": null
@@ -33826,14 +33826,14 @@
         [
           "Athletics",
           "43",
-          "58",
-          ".426"
+          "59",
+          ".422"
         ],
         [
           "Angels",
           "41",
-          "61",
-          ".402"
+          "62",
+          ".398"
         ]
       ]
     },
@@ -33907,9 +33907,9 @@
         ],
         [
           "Cardinals",
-          "51",
+          "52",
           "49",
-          ".510"
+          ".515"
         ],
         [
           "Reds",
@@ -33936,9 +33936,9 @@
         ],
         [
           "D-backs",
-          "52",
+          "53",
           "49",
-          ".515"
+          ".520"
         ],
         [
           "Padres",
@@ -33961,5 +33961,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-22T22:34:59.708Z"
+  "updatedAt": "2026-07-22T23:38:48.215Z"
 }
