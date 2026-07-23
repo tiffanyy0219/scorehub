@@ -23012,10 +23012,10 @@
       "league": "MLB",
       "away": "Arizona Diamondbacks",
       "home": "St. Louis Cardinals",
-      "awayScore": 4,
+      "awayScore": 9,
       "homeScore": 2,
       "status": "live",
-      "liveInfo": " 6局",
+      "liveInfo": " 9局",
       "time": "2026-07-23T21:15:00Z",
       "gameDate": "2026-07-23T21:15:00Z",
       "winner": null
@@ -23027,7 +23027,7 @@
       "awayScore": 0,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 5局",
       "time": "2026-07-23T22:40:00Z",
       "gameDate": "2026-07-23T22:40:00Z",
       "winner": null
@@ -33961,5 +33961,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-23T22:48:37.577Z"
+  "updatedAt": "2026-07-23T23:48:12.899Z"
 }
