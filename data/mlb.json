@@ -23001,21 +23001,21 @@
       "away": "Tampa Bay Rays",
       "home": "Toronto Blue Jays",
       "awayScore": 1,
-      "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 6局",
+      "homeScore": 3,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-23T19:07:00Z",
       "gameDate": "2026-07-23T19:07:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Arizona Diamondbacks",
       "home": "St. Louis Cardinals",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 2,
+      "status": "live",
+      "liveInfo": " 2局",
       "time": "2026-07-23T21:15:00Z",
       "gameDate": "2026-07-23T21:15:00Z",
       "winner": null
@@ -33726,8 +33726,8 @@
         [
           "Rays",
           "59",
-          "42",
-          ".584"
+          "43",
+          ".578"
         ],
         [
           "Yankees",
@@ -33749,9 +33749,9 @@
         ],
         [
           "Blue Jays",
-          "46",
+          "47",
           "56",
-          ".451"
+          ".456"
         ]
       ]
     },
@@ -33961,5 +33961,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-23T20:40:43.030Z"
+  "updatedAt": "2026-07-23T21:49:53.810Z"
 }
