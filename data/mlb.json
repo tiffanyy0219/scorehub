@@ -22976,10 +22976,10 @@
       "league": "MLB",
       "away": "San Diego Padres",
       "home": "Atlanta Braves",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 3,
+      "homeScore": 5,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 5局",
       "time": "2026-07-23T16:15:00Z",
       "gameDate": "2026-07-23T16:15:00Z",
       "winner": null
@@ -22988,10 +22988,10 @@
       "league": "MLB",
       "away": "Minnesota Twins",
       "home": "Cleveland Guardians",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 3局",
       "time": "2026-07-23T17:10:00Z",
       "gameDate": "2026-07-23T17:10:00Z",
       "winner": null
@@ -33961,5 +33961,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-23T16:10:26.430Z"
+  "updatedAt": "2026-07-23T17:51:12.606Z"
 }
