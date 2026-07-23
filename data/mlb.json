@@ -22976,22 +22976,22 @@
       "league": "MLB",
       "away": "San Diego Padres",
       "home": "Atlanta Braves",
-      "awayScore": 3,
-      "homeScore": 5,
-      "status": "live",
-      "liveInfo": " 5局",
+      "awayScore": 5,
+      "homeScore": 6,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-23T16:15:00Z",
       "gameDate": "2026-07-23T16:15:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Minnesota Twins",
       "home": "Cleveland Guardians",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 1,
       "status": "live",
-      "liveInfo": " 3局",
+      "liveInfo": " 9局",
       "time": "2026-07-23T17:10:00Z",
       "gameDate": "2026-07-23T17:10:00Z",
       "winner": null
@@ -23000,10 +23000,10 @@
       "league": "MLB",
       "away": "Tampa Bay Rays",
       "home": "Toronto Blue Jays",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 1,
+      "status": "live",
+      "liveInfo": " 2局",
       "time": "2026-07-23T19:07:00Z",
       "gameDate": "2026-07-23T19:07:00Z",
       "winner": null
@@ -33848,9 +33848,9 @@
       "rows": [
         [
           "Braves",
-          "59",
+          "60",
           "42",
-          ".584"
+          ".588"
         ],
         [
           "Phillies",
@@ -33943,8 +33943,8 @@
         [
           "Padres",
           "50",
-          "52",
-          ".490"
+          "53",
+          ".485"
         ],
         [
           "Giants",
@@ -33961,5 +33961,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-23T17:51:12.606Z"
+  "updatedAt": "2026-07-23T19:35:18.526Z"
 }
