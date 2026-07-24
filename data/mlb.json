@@ -23026,11 +23026,11 @@
       "home": "Detroit Tigers",
       "awayScore": 3,
       "homeScore": 4,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-23T22:40:00Z",
       "gameDate": "2026-07-23T22:40:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -33784,15 +33784,15 @@
         ],
         [
           "Tigers",
-          "48",
+          "49",
           "54",
-          ".471"
+          ".476"
         ],
         [
           "Royals",
           "43",
-          "60",
-          ".417"
+          "61",
+          ".413"
         ]
       ]
     },
@@ -33961,5 +33961,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-24T01:21:10.962Z"
+  "updatedAt": "2026-07-24T04:51:14.398Z"
 }
