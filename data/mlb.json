@@ -23036,10 +23036,10 @@
       "league": "MLB",
       "away": "Colorado Rockies",
       "home": "Milwaukee Brewers",
-      "awayScore": 2,
-      "homeScore": 0,
+      "awayScore": 4,
+      "homeScore": 1,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 6局",
       "time": "2026-07-24T20:10:00Z",
       "gameDate": "2026-07-24T20:10:00Z",
       "winner": null
@@ -33961,5 +33961,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-24T20:24:18.815Z"
+  "updatedAt": "2026-07-24T21:39:17.600Z"
 }
