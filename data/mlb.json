@@ -23216,22 +23216,22 @@
       "league": "MLB",
       "away": "Kansas City Royals",
       "home": "Detroit Tigers",
-      "awayScore": 1,
+      "awayScore": 3,
       "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 6局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-25T17:10:00Z",
       "gameDate": "2026-07-25T17:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Arizona Diamondbacks",
       "home": "Washington Nationals",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-07-25T20:05:00Z",
       "gameDate": "2026-07-25T20:05:00Z",
       "winner": null
@@ -23240,10 +23240,10 @@
       "league": "MLB",
       "away": "Los Angeles Angels",
       "home": "San Francisco Giants",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-07-25T20:05:00Z",
       "gameDate": "2026-07-25T20:05:00Z",
       "winner": null
@@ -23252,10 +23252,10 @@
       "league": "MLB",
       "away": "Toronto Blue Jays",
       "home": "Boston Red Sox",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-07-25T20:10:00Z",
       "gameDate": "2026-07-25T20:10:00Z",
       "winner": null
@@ -33785,14 +33785,14 @@
         [
           "Tigers",
           "50",
-          "54",
-          ".481"
+          "55",
+          ".476"
         ],
         [
           "Royals",
-          "43",
+          "44",
           "62",
-          ".410"
+          ".415"
         ]
       ]
     },
@@ -33961,5 +33961,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-25T18:29:39.840Z"
+  "updatedAt": "2026-07-25T19:48:57.806Z"
 }
