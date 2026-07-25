@@ -23216,10 +23216,10 @@
       "league": "MLB",
       "away": "Kansas City Royals",
       "home": "Detroit Tigers",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 2,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 6局",
       "time": "2026-07-25T17:10:00Z",
       "gameDate": "2026-07-25T17:10:00Z",
       "winner": null
@@ -33961,5 +33961,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-25T17:25:57.640Z"
+  "updatedAt": "2026-07-25T18:29:39.840Z"
 }
