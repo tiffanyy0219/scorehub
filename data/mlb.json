@@ -23228,10 +23228,10 @@
       "league": "MLB",
       "away": "Arizona Diamondbacks",
       "home": "Washington Nationals",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 2,
+      "homeScore": 5,
       "status": "live",
-      "liveInfo": " 2局",
+      "liveInfo": " 5局",
       "time": "2026-07-25T20:05:00Z",
       "gameDate": "2026-07-25T20:05:00Z",
       "winner": null
@@ -23241,9 +23241,9 @@
       "away": "Los Angeles Angels",
       "home": "San Francisco Giants",
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 9,
       "status": "live",
-      "liveInfo": " 3局",
+      "liveInfo": " 5局",
       "time": "2026-07-25T20:05:00Z",
       "gameDate": "2026-07-25T20:05:00Z",
       "winner": null
@@ -23252,10 +23252,10 @@
       "league": "MLB",
       "away": "Toronto Blue Jays",
       "home": "Boston Red Sox",
-      "awayScore": 0,
+      "awayScore": 5,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 3局",
+      "liveInfo": " 6局",
       "time": "2026-07-25T20:10:00Z",
       "gameDate": "2026-07-25T20:10:00Z",
       "winner": null
@@ -23264,10 +23264,10 @@
       "league": "MLB",
       "away": "San Diego Padres",
       "home": "Miami Marlins",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 2,
+      "homeScore": 1,
       "status": "live",
-      "liveInfo": " 2局",
+      "liveInfo": " 5局",
       "time": "2026-07-25T20:10:00Z",
       "gameDate": "2026-07-25T20:10:00Z",
       "winner": null
@@ -33961,5 +33961,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-25T20:39:37.991Z"
+  "updatedAt": "2026-07-25T21:38:10.313Z"
 }
