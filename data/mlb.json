@@ -23231,7 +23231,7 @@
       "awayScore": 0,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 2局",
       "time": "2026-07-25T20:05:00Z",
       "gameDate": "2026-07-25T20:05:00Z",
       "winner": null
@@ -23243,7 +23243,7 @@
       "awayScore": 0,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 3局",
       "time": "2026-07-25T20:05:00Z",
       "gameDate": "2026-07-25T20:05:00Z",
       "winner": null
@@ -23255,7 +23255,7 @@
       "awayScore": 0,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 3局",
       "time": "2026-07-25T20:10:00Z",
       "gameDate": "2026-07-25T20:10:00Z",
       "winner": null
@@ -23264,10 +23264,10 @@
       "league": "MLB",
       "away": "San Diego Padres",
       "home": "Miami Marlins",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 2局",
       "time": "2026-07-25T20:10:00Z",
       "gameDate": "2026-07-25T20:10:00Z",
       "winner": null
@@ -33961,5 +33961,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-25T19:48:57.806Z"
+  "updatedAt": "2026-07-25T20:39:37.991Z"
 }
