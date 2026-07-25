@@ -23205,12 +23205,12 @@
       "away": "Los Angeles Angels",
       "home": "San Francisco Giants",
       "awayScore": 6,
-      "homeScore": 6,
-      "status": "live",
-      "liveInfo": " 9局",
+      "homeScore": 7,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-25T02:15:00Z",
       "gameDate": "2026-07-25T02:15:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -33832,8 +33832,8 @@
         [
           "Angels",
           "41",
-          "62",
-          ".398"
+          "63",
+          ".394"
         ]
       ]
     },
@@ -33948,9 +33948,9 @@
         ],
         [
           "Giants",
-          "42",
+          "43",
           "60",
-          ".412"
+          ".417"
         ],
         [
           "Rockies",
@@ -33961,5 +33961,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-25T04:52:35.247Z"
+  "updatedAt": "2026-07-25T07:22:30.820Z"
 }
