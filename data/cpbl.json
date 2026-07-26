@@ -5,8 +5,8 @@
       "away": "{{ dateFormat(new Date(game.GameDate), 'M/D') }}({{ getChineseDay(new Date(game.GameDate)) }})",
       "home": "{{ game.VisitingTeamName }}\n                                \n                                \n                                    {{ game.VisitingScore }}\n                                    :\n                                    {{ game.HomeScore }}\n                                \n                                \n                                    \n                                    VS.\n                                    \n                                \n                                {{ game.HomeTeamName }}",
       "status": "scheduled",
-      "time": "2026-07-25T10:00:00+08:00",
-      "gameDate": "2026-07-25T10:00:00+08:00"
+      "time": "2026-07-26T10:00:00+08:00",
+      "gameDate": "2026-07-26T10:00:00+08:00"
     }
   ]
 }

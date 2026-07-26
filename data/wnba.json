@@ -2,18 +2,6 @@
   "schedule": [
     {
       "league": "WNBA",
-      "home": "TEAM COOP",
-      "away": "TEAM SPOON",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-07-26T00:30Z",
-      "gameDate": "2026-07-26T00:30Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "WNBA",
       "home": "Washington Mystics",
       "away": "Connecticut Sun",
       "homeScore": null,
@@ -1549,5 +1537,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-25T23:43:04.281Z"
+  "updatedAt": "2026-07-26T01:18:53.166Z"
 }
