@@ -23553,21 +23553,21 @@
       "away": "Los Angeles Angels",
       "home": "San Francisco Giants",
       "awayScore": 4,
-      "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 8局",
+      "homeScore": 3,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-26T20:05:00Z",
       "gameDate": "2026-07-26T20:05:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "New York Yankees",
       "home": "Philadelphia Phillies",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-07-26T23:20:00Z",
       "gameDate": "2026-07-26T23:20:00Z",
       "winner": null
@@ -33831,9 +33831,9 @@
         ],
         [
           "Angels",
-          "41",
+          "42",
           "64",
-          ".390"
+          ".396"
         ]
       ]
     },
@@ -33949,8 +33949,8 @@
         [
           "Giants",
           "44",
-          "60",
-          ".423"
+          "61",
+          ".419"
         ],
         [
           "Rockies",
@@ -33961,5 +33961,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-26T22:13:22.948Z"
+  "updatedAt": "2026-07-26T23:16:53.212Z"
 }
