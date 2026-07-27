@@ -23576,13 +23576,13 @@
       "league": "MLB",
       "away": "Seattle Mariners",
       "home": "Texas Rangers",
-      "awayScore": 2,
+      "awayScore": 3,
       "homeScore": 7,
-      "status": "live",
-      "liveInfo": " 6局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-27T18:35:00Z",
       "gameDate": "2026-07-27T18:35:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -33807,15 +33807,15 @@
       "rows": [
         [
           "Rangers",
-          "53",
+          "54",
           "52",
-          ".505"
+          ".509"
         ],
         [
           "Mariners",
           "52",
-          "54",
-          ".491"
+          "55",
+          ".486"
         ],
         [
           "Astros",
@@ -33961,5 +33961,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-27T20:10:47.982Z"
+  "updatedAt": "2026-07-27T21:32:04.809Z"
 }
