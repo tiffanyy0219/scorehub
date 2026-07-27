@@ -23564,13 +23564,13 @@
       "league": "MLB",
       "away": "New York Yankees",
       "home": "Philadelphia Phillies",
-      "awayScore": 3,
-      "homeScore": 6,
-      "status": "live",
-      "liveInfo": " 5局",
+      "awayScore": 4,
+      "homeScore": 11,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-26T23:20:00Z",
       "gameDate": "2026-07-26T23:20:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -33732,8 +33732,8 @@
         [
           "Yankees",
           "59",
-          "45",
-          ".567"
+          "46",
+          ".562"
         ],
         [
           "Red Sox",
@@ -33854,9 +33854,9 @@
         ],
         [
           "Phillies",
-          "56",
+          "57",
           "49",
-          ".533"
+          ".538"
         ],
         [
           "Nationals",
@@ -33961,5 +33961,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-27T01:03:33.546Z"
+  "updatedAt": "2026-07-27T04:50:36.098Z"
 }
