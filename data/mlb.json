@@ -25422,18 +25422,6 @@
     },
     {
       "league": "MLB",
-      "away": "Baltimore Orioles",
-      "home": "Texas Rangers",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "2026-08-08T00:05:00Z",
-      "gameDate": "2026-08-08T00:05:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
       "away": "Chicago Cubs",
       "home": "Kansas City Royals",
       "awayScore": null,
@@ -25448,6 +25436,18 @@
       "league": "MLB",
       "away": "Colorado Rockies",
       "home": "St. Louis Cardinals",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "2026-08-08T00:15:00Z",
+      "gameDate": "2026-08-08T00:15:00Z",
+      "winner": null
+    },
+    {
+      "league": "MLB",
+      "away": "Baltimore Orioles",
+      "home": "Texas Rangers",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -25488,8 +25488,8 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-08-08T01:40:00Z",
-      "gameDate": "2026-08-08T01:40:00Z",
+      "time": "2026-08-08T01:45:00Z",
+      "gameDate": "2026-08-08T01:45:00Z",
       "winner": null
     },
     {
@@ -26502,18 +26502,6 @@
     },
     {
       "league": "MLB",
-      "away": "New York Yankees",
-      "home": "Toronto Blue Jays",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "2026-08-14T23:07:00Z",
-      "gameDate": "2026-08-14T23:07:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
       "away": "Washington Nationals",
       "home": "New York Mets",
       "awayScore": null,
@@ -26552,6 +26540,18 @@
       "league": "MLB",
       "away": "Arizona Diamondbacks",
       "home": "Atlanta Braves",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "2026-08-14T23:15:00Z",
+      "gameDate": "2026-08-14T23:15:00Z",
+      "winner": null
+    },
+    {
+      "league": "MLB",
+      "away": "New York Yankees",
+      "home": "Toronto Blue Jays",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -27666,18 +27666,6 @@
     },
     {
       "league": "MLB",
-      "away": "Los Angeles Angels",
-      "home": "Texas Rangers",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "2026-08-22T00:05:00Z",
-      "gameDate": "2026-08-22T00:05:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
       "away": "Detroit Tigers",
       "home": "Kansas City Royals",
       "awayScore": null,
@@ -27698,6 +27686,18 @@
       "liveInfo": null,
       "time": "2026-08-22T00:10:00Z",
       "gameDate": "2026-08-22T00:10:00Z",
+      "winner": null
+    },
+    {
+      "league": "MLB",
+      "away": "Los Angeles Angels",
+      "home": "Texas Rangers",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "2026-08-22T00:15:00Z",
+      "gameDate": "2026-08-22T00:15:00Z",
       "winner": null
     },
     {
@@ -28722,30 +28722,6 @@
     },
     {
       "league": "MLB",
-      "away": "Boston Red Sox",
-      "home": "New York Yankees",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "2026-08-28T23:05:00Z",
-      "gameDate": "2026-08-28T23:05:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
-      "away": "Seattle Mariners",
-      "home": "Toronto Blue Jays",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "2026-08-28T23:07:00Z",
-      "gameDate": "2026-08-28T23:07:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
       "away": "Kansas City Royals",
       "home": "Cleveland Guardians",
       "awayScore": null,
@@ -28782,8 +28758,32 @@
     },
     {
       "league": "MLB",
+      "away": "Seattle Mariners",
+      "home": "Toronto Blue Jays",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "2026-08-28T23:15:00Z",
+      "gameDate": "2026-08-28T23:15:00Z",
+      "winner": null
+    },
+    {
+      "league": "MLB",
       "away": "Colorado Rockies",
       "home": "Atlanta Braves",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "2026-08-28T23:15:00Z",
+      "gameDate": "2026-08-28T23:15:00Z",
+      "winner": null
+    },
+    {
+      "league": "MLB",
+      "away": "Boston Red Sox",
+      "home": "New York Yankees",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -33961,5 +33961,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-27T14:56:02.163Z"
+  "updatedAt": "2026-07-27T17:04:48.413Z"
 }
