@@ -2,18 +2,6 @@
   "schedule": [
     {
       "league": "NBA",
-      "home": "Sacramento Kings",
-      "away": "Los Angeles Lakers",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-05T04:00Z",
-      "gameDate": "2026-10-05T04:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
       "home": "Atlanta Hawks",
       "away": "Memphis Grizzlies",
       "homeScore": null,
@@ -21,6 +9,18 @@
       "status": "scheduled",
       "time": "2026-10-05T23:00Z",
       "gameDate": "2026-10-05T23:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Sacramento Kings",
+      "away": "Los Angeles Lakers",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-06T02:00Z",
+      "gameDate": "2026-10-06T02:00Z",
       "liveInfo": null,
       "winner": null
     },
@@ -565,5 +565,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-27T22:40:24.470Z"
+  "updatedAt": "2026-07-27T23:49:24.086Z"
 }
