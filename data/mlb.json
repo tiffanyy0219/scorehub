@@ -23718,10 +23718,10 @@
       "league": "MLB",
       "away": "Cleveland Guardians",
       "home": "Cincinnati Reds",
-      "awayScore": 4,
-      "homeScore": 0,
+      "awayScore": 5,
+      "homeScore": 5,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 7局",
       "time": "2026-07-28T17:40:00Z",
       "gameDate": "2026-07-28T17:40:00Z",
       "winner": null
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-28T17:58:25.207Z"
+  "updatedAt": "2026-07-28T19:46:23.317Z"
 }
