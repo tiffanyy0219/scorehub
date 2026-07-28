@@ -23674,11 +23674,11 @@
       "home": "Los Angeles Angels",
       "awayScore": 6,
       "homeScore": 4,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-28T01:38:00Z",
       "gameDate": "2026-07-28T01:38:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -33822,13 +33822,13 @@
           ".509"
         ],
         [
-          "Mariners",
-          "52",
+          "Astros",
+          "53",
           "55",
-          ".486"
+          ".491"
         ],
         [
-          "Astros",
+          "Mariners",
           "52",
           "55",
           ".486"
@@ -33842,8 +33842,8 @@
         [
           "Angels",
           "42",
-          "64",
-          ".396"
+          "65",
+          ".393"
         ]
       ]
     },
@@ -33971,5 +33971,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-28T04:48:22.476Z"
+  "updatedAt": "2026-07-28T07:29:32.954Z"
 }
