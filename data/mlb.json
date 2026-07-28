@@ -23718,10 +23718,10 @@
       "league": "MLB",
       "away": "Cleveland Guardians",
       "home": "Cincinnati Reds",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 4,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-07-28T17:40:00Z",
       "gameDate": "2026-07-28T17:40:00Z",
       "winner": null
@@ -23796,18 +23796,6 @@
       "liveInfo": null,
       "time": "2026-07-28T22:45:00Z",
       "gameDate": "2026-07-28T22:45:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
-      "away": "Atlanta Braves",
-      "home": "New York Mets",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "2026-07-28T23:10:00Z",
-      "gameDate": "2026-07-28T23:10:00Z",
       "winner": null
     },
     {
@@ -23908,6 +23896,16 @@
     },
     {
       "league": "MLB",
+      "away": "Atlanta Braves",
+      "home": "New York Mets",
+      "status": "final",
+      "liveInfo": null,
+      "time": "2026-07-28T23:10:00Z",
+      "gameDate": "2026-07-28T23:10:00Z",
+      "winner": "home"
+    },
+    {
+      "league": "MLB",
       "away": "Philadelphia Phillies",
       "home": "Miami Marlins",
       "awayScore": null,
@@ -23964,6 +23962,18 @@
       "liveInfo": null,
       "time": "2026-07-29T17:10:00Z",
       "gameDate": "2026-07-29T17:10:00Z",
+      "winner": null
+    },
+    {
+      "league": "MLB",
+      "away": "Atlanta Braves",
+      "home": "New York Mets",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "2026-07-29T23:10:00Z",
+      "gameDate": "2026-07-29T23:10:00Z",
       "winner": null
     },
     {
@@ -33971,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-28T16:25:59.340Z"
+  "updatedAt": "2026-07-28T17:58:25.207Z"
 }
