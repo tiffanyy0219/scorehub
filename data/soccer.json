@@ -1871,6 +1871,116 @@
       "winner": null
     },
     {
+      "league": "La Liga",
+      "home": "Alavés",
+      "away": "Málaga",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-25T18:00Z",
+      "gameDate": "2026-10-25T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Athletic Club",
+      "away": "Getafe",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-25T18:00Z",
+      "gameDate": "2026-10-25T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Atlético Madrid",
+      "away": "Deportivo La Coruña",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-25T18:00Z",
+      "gameDate": "2026-10-25T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Barcelona",
+      "away": "Real Madrid",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-25T18:00Z",
+      "gameDate": "2026-10-25T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Celta Vigo",
+      "away": "Real Betis",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-25T18:00Z",
+      "gameDate": "2026-10-25T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Racing Santander",
+      "away": "Espanyol",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-25T18:00Z",
+      "gameDate": "2026-10-25T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Rayo Vallecano",
+      "away": "Elche",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-25T18:00Z",
+      "gameDate": "2026-10-25T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Real Sociedad",
+      "away": "Levante",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-25T18:00Z",
+      "gameDate": "2026-10-25T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Sevilla",
+      "away": "Osasuna",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-25T18:00Z",
+      "gameDate": "2026-10-25T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Valencia",
+      "away": "Villarreal",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-25T18:00Z",
+      "gameDate": "2026-10-25T18:00Z",
+      "winner": null
+    },
+    {
       "league": "Bundesliga",
       "home": "Bayern Munich",
       "away": "VfB Stuttgart",
@@ -3334,6 +3444,116 @@
       "winner": null
     },
     {
+      "league": "Serie A",
+      "home": "Atalanta",
+      "away": "Frosinone",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-25T18:00Z",
+      "gameDate": "2026-10-25T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Cagliari",
+      "away": "Bologna",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-25T18:00Z",
+      "gameDate": "2026-10-25T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Como",
+      "away": "Sassuolo",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-25T18:00Z",
+      "gameDate": "2026-10-25T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Genoa",
+      "away": "Venezia",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-25T18:00Z",
+      "gameDate": "2026-10-25T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Internazionale",
+      "away": "Fiorentina",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-25T18:00Z",
+      "gameDate": "2026-10-25T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Lazio",
+      "away": "Parma",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-25T18:00Z",
+      "gameDate": "2026-10-25T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Lecce",
+      "away": "Juventus",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-25T18:00Z",
+      "gameDate": "2026-10-25T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Napoli",
+      "away": "AS Roma",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-25T18:00Z",
+      "gameDate": "2026-10-25T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Torino",
+      "away": "Monza",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-25T18:00Z",
+      "gameDate": "2026-10-25T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Udinese",
+      "away": "AC Milan",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-25T18:00Z",
+      "gameDate": "2026-10-25T18:00Z",
+      "winner": null
+    },
+    {
       "league": "Ligue 1",
       "home": "Marseille",
       "away": "Strasbourg",
@@ -4113,7 +4333,18 @@
       "time": "2026-10-24T18:00Z",
       "gameDate": "2026-10-24T18:00Z",
       "winner": null
+    },
+    {
+      "league": "Ligue 1",
+      "home": "Paris Saint-Germain",
+      "away": "Lyon",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-25T19:45Z",
+      "gameDate": "2026-10-25T19:45Z",
+      "winner": null
     }
   ],
-  "updatedAt": "2026-07-27T23:53:00.892Z"
+  "updatedAt": "2026-07-28T01:44:16.340Z"
 }
