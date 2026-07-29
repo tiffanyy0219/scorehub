@@ -23944,13 +23944,13 @@
       "league": "MLB",
       "away": "Baltimore Orioles",
       "home": "Detroit Tigers",
-      "awayScore": 9,
+      "awayScore": 10,
       "homeScore": 9,
-      "status": "live",
-      "liveInfo": " 11局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-29T17:10:00Z",
       "gameDate": "2026-07-29T17:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -23980,10 +23980,10 @@
       "league": "MLB",
       "away": "Milwaukee Brewers",
       "home": "San Francisco Giants",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 2,
+      "homeScore": 3,
       "status": "live",
-      "liveInfo": " 2局",
+      "liveInfo": " 5局",
       "time": "2026-07-29T19:45:00Z",
       "gameDate": "2026-07-29T19:45:00Z",
       "winner": null
@@ -23995,7 +23995,7 @@
       "awayScore": 0,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 4局",
       "time": "2026-07-29T20:10:00Z",
       "gameDate": "2026-07-29T20:10:00Z",
       "winner": null
@@ -33763,9 +33763,9 @@
         ],
         [
           "Orioles",
-          "52",
+          "53",
           "56",
-          ".481"
+          ".486"
         ],
         [
           "Blue Jays",
@@ -33805,8 +33805,8 @@
         [
           "Tigers",
           "51",
-          "57",
-          ".472"
+          "58",
+          ".468"
         ],
         [
           "Royals",
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-29T20:16:31.144Z"
+  "updatedAt": "2026-07-29T21:15:59.522Z"
 }
