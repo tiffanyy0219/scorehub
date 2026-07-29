@@ -23909,33 +23909,33 @@
       "away": "Philadelphia Phillies",
       "home": "Miami Marlins",
       "awayScore": 6,
-      "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 7局",
+      "homeScore": 8,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-29T16:10:00Z",
       "gameDate": "2026-07-29T16:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Arizona Diamondbacks",
       "home": "Pittsburgh Pirates",
-      "awayScore": 2,
+      "awayScore": 3,
       "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 6局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-29T16:35:00Z",
       "gameDate": "2026-07-29T16:35:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Toronto Blue Jays",
       "home": "Washington Nationals",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 1,
       "status": "live",
-      "liveInfo": " 4局",
+      "liveInfo": " 7局",
       "time": "2026-07-29T17:05:00Z",
       "gameDate": "2026-07-29T17:05:00Z",
       "winner": null
@@ -23944,10 +23944,10 @@
       "league": "MLB",
       "away": "Baltimore Orioles",
       "home": "Detroit Tigers",
-      "awayScore": 0,
-      "homeScore": 3,
+      "awayScore": 5,
+      "homeScore": 7,
       "status": "live",
-      "liveInfo": " 3局",
+      "liveInfo": " 7局",
       "time": "2026-07-29T17:10:00Z",
       "gameDate": "2026-07-29T17:10:00Z",
       "winner": null
@@ -23956,10 +23956,10 @@
       "league": "MLB",
       "away": "Atlanta Braves",
       "home": "New York Mets",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 2,
+      "homeScore": 2,
       "status": "live",
-      "liveInfo": " 3局",
+      "liveInfo": " 7局",
       "time": "2026-07-29T17:10:00Z",
       "gameDate": "2026-07-29T17:10:00Z",
       "winner": null
@@ -33875,8 +33875,8 @@
         [
           "Phillies",
           "57",
-          "51",
-          ".528"
+          "52",
+          ".523"
         ],
         [
           "Nationals",
@@ -33886,9 +33886,9 @@
         ],
         [
           "Marlins",
+          "55",
           "54",
-          "54",
-          ".500"
+          ".505"
         ],
         [
           "Mets",
@@ -33922,8 +33922,8 @@
         [
           "Pirates",
           "55",
-          "53",
-          ".509"
+          "54",
+          ".505"
         ],
         [
           "Cardinals",
@@ -33956,9 +33956,9 @@
         ],
         [
           "D-backs",
-          "56",
+          "57",
           "52",
-          ".519"
+          ".523"
         ],
         [
           "Padres",
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-29T17:50:08.117Z"
+  "updatedAt": "2026-07-29T19:01:19.226Z"
 }

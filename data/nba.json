@@ -158,6 +158,18 @@
     },
     {
       "league": "NBA",
+      "home": "Toronto Raptors",
+      "away": "LA Clippers",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-10T04:00Z",
+      "gameDate": "2026-10-10T04:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
       "home": "Indiana Pacers",
       "away": "Atlanta Hawks",
       "homeScore": null,
@@ -661,5 +673,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-29T17:50:19.086Z"
+  "updatedAt": "2026-07-29T19:01:30.887Z"
 }
