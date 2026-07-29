@@ -29210,8 +29210,8 @@
     },
     {
       "league": "MLB",
-      "away": "Cincinnati Reds",
-      "home": "Chicago Cubs",
+      "away": "Houston Astros",
+      "home": "New York Mets",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -29246,8 +29246,8 @@
     },
     {
       "league": "MLB",
-      "away": "Houston Astros",
-      "home": "New York Mets",
+      "away": "Cincinnati Reds",
+      "home": "Chicago Cubs",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -30338,18 +30338,6 @@
     },
     {
       "league": "MLB",
-      "away": "Minnesota Twins",
-      "home": "Chicago White Sox",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "2026-09-06T18:10:00Z",
-      "gameDate": "2026-09-06T18:10:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
       "away": "Tampa Bay Rays",
       "home": "Texas Rangers",
       "awayScore": null,
@@ -30398,6 +30386,18 @@
     },
     {
       "league": "MLB",
+      "away": "Minnesota Twins",
+      "home": "Chicago White Sox",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "2026-09-06T22:20:00Z",
+      "gameDate": "2026-09-06T22:20:00Z",
+      "winner": null
+    },
+    {
+      "league": "MLB",
       "away": "Toronto Blue Jays",
       "home": "Kansas City Royals",
       "awayScore": null,
@@ -30430,18 +30430,6 @@
       "liveInfo": null,
       "time": "2026-09-07T17:05:00Z",
       "gameDate": "2026-09-07T17:05:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
-      "away": "Minnesota Twins",
-      "home": "Detroit Tigers",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "2026-09-07T17:10:00Z",
-      "gameDate": "2026-09-07T17:10:00Z",
       "winner": null
     },
     {
@@ -30502,6 +30490,18 @@
       "liveInfo": null,
       "time": "2026-09-07T18:10:00Z",
       "gameDate": "2026-09-07T18:10:00Z",
+      "winner": null
+    },
+    {
+      "league": "MLB",
+      "away": "Minnesota Twins",
+      "home": "Detroit Tigers",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "2026-09-07T19:10:00Z",
+      "gameDate": "2026-09-07T19:10:00Z",
       "winner": null
     },
     {
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-29T12:24:40.781Z"
+  "updatedAt": "2026-07-29T14:53:02.510Z"
 }
