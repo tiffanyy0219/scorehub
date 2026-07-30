@@ -24148,10 +24148,10 @@
       "league": "MLB",
       "away": "Pittsburgh Pirates",
       "home": "Cincinnati Reds",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 2局",
       "time": "2026-07-30T23:10:00Z",
       "gameDate": "2026-07-30T23:10:00Z",
       "winner": null
@@ -24172,10 +24172,10 @@
       "league": "MLB",
       "away": "Washington Nationals",
       "home": "Atlanta Braves",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 2,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 3局",
       "time": "2026-07-30T23:15:00Z",
       "gameDate": "2026-07-30T23:15:00Z",
       "winner": null
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-30T22:45:06.928Z"
+  "updatedAt": "2026-07-30T23:46:01.588Z"
 }
