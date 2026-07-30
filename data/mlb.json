@@ -24124,25 +24124,25 @@
       "league": "MLB",
       "away": "New York Yankees",
       "home": "Chicago White Sox",
-      "awayScore": 0,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 7局",
+      "awayScore": 1,
+      "homeScore": 2,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-30T18:10:00Z",
       "gameDate": "2026-07-30T18:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Chicago Cubs",
       "home": "St. Louis Cardinals",
-      "awayScore": 1,
-      "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 7局",
+      "awayScore": 4,
+      "homeScore": 2,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-30T18:15:00Z",
       "gameDate": "2026-07-30T18:15:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -33752,8 +33752,8 @@
         [
           "Yankees",
           "61",
-          "47",
-          ".565"
+          "48",
+          ".560"
         ],
         [
           "Red Sox",
@@ -33786,9 +33786,9 @@
       "rows": [
         [
           "White Sox",
-          "56",
+          "57",
           "51",
-          ".523"
+          ".528"
         ],
         [
           "Guardians",
@@ -33915,9 +33915,9 @@
         ],
         [
           "Cubs",
-          "61",
+          "62",
           "47",
-          ".565"
+          ".569"
         ],
         [
           "Pirates",
@@ -33928,8 +33928,8 @@
         [
           "Cardinals",
           "54",
-          "54",
-          ".500"
+          "55",
+          ".495"
         ],
         [
           "Reds",
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-30T20:08:17.761Z"
+  "updatedAt": "2026-07-30T21:32:12.395Z"
 }
