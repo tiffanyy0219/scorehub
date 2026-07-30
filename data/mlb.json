@@ -24102,23 +24102,23 @@
       "home": "Tampa Bay Rays",
       "awayScore": 2,
       "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-30T16:10:00Z",
       "gameDate": "2026-07-30T16:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Kansas City Royals",
       "home": "Minnesota Twins",
       "awayScore": 3,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 5局",
+      "homeScore": 4,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-30T17:40:00Z",
       "gameDate": "2026-07-30T17:40:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -24127,7 +24127,7 @@
       "awayScore": 0,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 2局",
+      "liveInfo": " 7局",
       "time": "2026-07-30T18:10:00Z",
       "gameDate": "2026-07-30T18:10:00Z",
       "winner": null
@@ -24136,10 +24136,10 @@
       "league": "MLB",
       "away": "Chicago Cubs",
       "home": "St. Louis Cardinals",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 1,
       "status": "live",
-      "liveInfo": " 2局",
+      "liveInfo": " 7局",
       "time": "2026-07-30T18:15:00Z",
       "gameDate": "2026-07-30T18:15:00Z",
       "winner": null
@@ -33745,9 +33745,9 @@
       "rows": [
         [
           "Rays",
-          "63",
+          "64",
           "44",
-          ".589"
+          ".593"
         ],
         [
           "Yankees",
@@ -33798,9 +33798,9 @@
         ],
         [
           "Twins",
-          "54",
           "55",
-          ".495"
+          "55",
+          ".500"
         ],
         [
           "Tigers",
@@ -33811,8 +33811,8 @@
         [
           "Royals",
           "46",
-          "63",
-          ".422"
+          "64",
+          ".418"
         ]
       ]
     },
@@ -33828,8 +33828,8 @@
         [
           "Rangers",
           "55",
-          "53",
-          ".509"
+          "54",
+          ".505"
         ],
         [
           "Astros",
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-30T18:43:37.621Z"
+  "updatedAt": "2026-07-30T20:08:17.761Z"
 }
