@@ -24064,37 +24064,37 @@
       "league": "MLB",
       "away": "Houston Astros",
       "home": "Los Angeles Angels",
-      "awayScore": 6,
+      "awayScore": 7,
       "homeScore": 4,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-30T01:38:00Z",
       "gameDate": "2026-07-30T01:38:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Boston Red Sox",
       "home": "Athletics",
-      "awayScore": 2,
+      "awayScore": 4,
       "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-30T01:40:00Z",
       "gameDate": "2026-07-30T01:40:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Seattle Mariners",
       "home": "Los Angeles Dodgers",
-      "awayScore": 0,
+      "awayScore": 2,
       "homeScore": 4,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-30T02:10:00Z",
       "gameDate": "2026-07-30T02:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -33757,9 +33757,9 @@
         ],
         [
           "Red Sox",
-          "55",
+          "56",
           "51",
-          ".519"
+          ".523"
         ],
         [
           "Orioles",
@@ -33833,27 +33833,27 @@
         ],
         [
           "Astros",
-          "54",
           "55",
-          ".495"
+          "55",
+          ".500"
         ],
         [
           "Mariners",
           "53",
-          "55",
-          ".491"
+          "56",
+          ".486"
         ],
         [
           "Athletics",
           "45",
-          "62",
-          ".421"
+          "63",
+          ".417"
         ],
         [
           "Angels",
           "42",
-          "66",
-          ".389"
+          "67",
+          ".385"
         ]
       ]
     },
@@ -33950,9 +33950,9 @@
       "rows": [
         [
           "Dodgers",
-          "67",
+          "68",
           "40",
-          ".626"
+          ".630"
         ],
         [
           "D-backs",
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-30T04:17:27.455Z"
+  "updatedAt": "2026-07-30T07:06:09.305Z"
 }
