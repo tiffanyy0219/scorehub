@@ -23968,10 +23968,10 @@
       "league": "MLB",
       "away": "Atlanta Braves",
       "home": "New York Mets",
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 2局",
+      "liveInfo": " 7局",
       "time": "2026-07-29T23:10:00Z",
       "gameDate": "2026-07-29T23:10:00Z",
       "winner": null
@@ -24006,20 +24006,20 @@
       "home": "Tampa Bay Rays",
       "awayScore": 0,
       "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 4局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-29T22:40:00Z",
       "gameDate": "2026-07-29T22:40:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Cleveland Guardians",
       "home": "Cincinnati Reds",
-      "awayScore": 0,
+      "awayScore": 4,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 2局",
+      "liveInfo": " 6局",
       "time": "2026-07-29T23:10:00Z",
       "gameDate": "2026-07-29T23:10:00Z",
       "winner": null
@@ -24028,10 +24028,10 @@
       "league": "MLB",
       "away": "Kansas City Royals",
       "home": "Minnesota Twins",
-      "awayScore": 0,
+      "awayScore": 4,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 5局",
       "time": "2026-07-29T23:40:00Z",
       "gameDate": "2026-07-29T23:40:00Z",
       "winner": null
@@ -24040,10 +24040,10 @@
       "league": "MLB",
       "away": "New York Yankees",
       "home": "Chicago White Sox",
-      "awayScore": 0,
+      "awayScore": 4,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 5局",
       "time": "2026-07-29T23:40:00Z",
       "gameDate": "2026-07-29T23:40:00Z",
       "winner": null
@@ -24055,7 +24055,7 @@
       "awayScore": 0,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 5局",
       "time": "2026-07-29T23:45:00Z",
       "gameDate": "2026-07-29T23:45:00Z",
       "winner": null
@@ -33745,9 +33745,9 @@
       "rows": [
         [
           "Rays",
-          "62",
+          "63",
           "44",
-          ".585"
+          ".589"
         ],
         [
           "Yankees",
@@ -33828,8 +33828,8 @@
         [
           "Rangers",
           "55",
-          "52",
-          ".514"
+          "53",
+          ".509"
         ],
         [
           "Astros",
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-29T23:33:45.923Z"
+  "updatedAt": "2026-07-30T01:01:07.712Z"
 }
