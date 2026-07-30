@@ -7,8 +7,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-10-03T04:00Z",
-      "gameDate": "2026-10-03T04:00Z",
+      "time": "2026-10-03T23:00Z",
+      "gameDate": "2026-10-03T23:00Z",
       "liveInfo": null,
       "winner": null
     },
@@ -673,5 +673,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-30T15:27:35.984Z"
+  "updatedAt": "2026-07-30T17:05:50.883Z"
 }

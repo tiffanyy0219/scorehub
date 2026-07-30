@@ -24100,10 +24100,10 @@
       "league": "MLB",
       "away": "Texas Rangers",
       "home": "Tampa Bay Rays",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 1,
+      "status": "live",
+      "liveInfo": " 4局",
       "time": "2026-07-30T16:10:00Z",
       "gameDate": "2026-07-30T16:10:00Z",
       "winner": null
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-30T15:27:22.456Z"
+  "updatedAt": "2026-07-30T17:05:45.803Z"
 }
