@@ -3554,6 +3554,116 @@
       "winner": null
     },
     {
+      "league": "Serie A",
+      "home": "AC Milan",
+      "away": "Bologna",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-28T18:00Z",
+      "gameDate": "2026-10-28T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "AS Roma",
+      "away": "Cagliari",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-28T18:00Z",
+      "gameDate": "2026-10-28T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Fiorentina",
+      "away": "Atalanta",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-28T18:00Z",
+      "gameDate": "2026-10-28T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Frosinone",
+      "away": "Lecce",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-28T18:00Z",
+      "gameDate": "2026-10-28T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Genoa",
+      "away": "Juventus",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-28T18:00Z",
+      "gameDate": "2026-10-28T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Monza",
+      "away": "Napoli",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-28T18:00Z",
+      "gameDate": "2026-10-28T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Parma",
+      "away": "Udinese",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-28T18:00Z",
+      "gameDate": "2026-10-28T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Sassuolo",
+      "away": "Lazio",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-28T18:00Z",
+      "gameDate": "2026-10-28T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Torino",
+      "away": "Como",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-28T18:00Z",
+      "gameDate": "2026-10-28T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Venezia",
+      "away": "Internazionale",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-28T18:00Z",
+      "gameDate": "2026-10-28T18:00Z",
+      "winner": null
+    },
+    {
       "league": "Ligue 1",
       "home": "Marseille",
       "away": "Strasbourg",
@@ -4346,5 +4456,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-30T23:50:05.970Z"
+  "updatedAt": "2026-07-31T01:23:15.234Z"
 }

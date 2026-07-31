@@ -24148,10 +24148,10 @@
       "league": "MLB",
       "away": "Pittsburgh Pirates",
       "home": "Cincinnati Reds",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 2,
+      "homeScore": 2,
       "status": "live",
-      "liveInfo": " 2局",
+      "liveInfo": " 7局",
       "time": "2026-07-30T23:10:00Z",
       "gameDate": "2026-07-30T23:10:00Z",
       "winner": null
@@ -24160,10 +24160,10 @@
       "league": "MLB",
       "away": "Miami Marlins",
       "home": "New York Mets",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 1,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 4局",
       "time": "2026-07-30T23:10:00Z",
       "gameDate": "2026-07-30T23:10:00Z",
       "winner": null
@@ -24172,10 +24172,10 @@
       "league": "MLB",
       "away": "Washington Nationals",
       "home": "Atlanta Braves",
-      "awayScore": 2,
-      "homeScore": 0,
+      "awayScore": 4,
+      "homeScore": 5,
       "status": "live",
-      "liveInfo": " 3局",
+      "liveInfo": " 8局",
       "time": "2026-07-30T23:15:00Z",
       "gameDate": "2026-07-30T23:15:00Z",
       "winner": null
@@ -24184,10 +24184,10 @@
       "league": "MLB",
       "away": "Boston Red Sox",
       "home": "Athletics",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-07-31T01:40:00Z",
       "gameDate": "2026-07-31T01:40:00Z",
       "winner": null
@@ -24196,10 +24196,10 @@
       "league": "MLB",
       "away": "San Francisco Giants",
       "home": "San Diego Padres",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-07-31T01:40:00Z",
       "gameDate": "2026-07-31T01:40:00Z",
       "winner": null
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-30T23:46:01.588Z"
+  "updatedAt": "2026-07-31T01:18:54.224Z"
 }
