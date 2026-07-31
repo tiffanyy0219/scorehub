@@ -24220,10 +24220,10 @@
       "league": "MLB",
       "away": "New York Yankees",
       "home": "Chicago Cubs",
-      "awayScore": 0,
+      "awayScore": 2,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 2局",
+      "liveInfo": " 8局",
       "time": "2026-07-31T18:20:00Z",
       "gameDate": "2026-07-31T18:20:00Z",
       "winner": null
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-31T18:40:23.904Z"
+  "updatedAt": "2026-07-31T20:12:02.082Z"
 }
