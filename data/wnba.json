@@ -4,24 +4,24 @@
       "league": "WNBA",
       "home": "Atlanta Dream",
       "away": "Seattle Storm",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 14,
+      "awayScore": 12,
+      "status": "live",
       "time": "2026-07-31T23:30Z",
       "gameDate": "2026-07-31T23:30Z",
-      "liveInfo": null,
+      "liveInfo": "4:27",
       "winner": null
     },
     {
       "league": "WNBA",
       "home": "Washington Mystics",
       "away": "Dallas Wings",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 13,
+      "awayScore": 8,
+      "status": "live",
       "time": "2026-07-31T23:30Z",
       "gameDate": "2026-07-31T23:30Z",
-      "liveInfo": null,
+      "liveInfo": "4:55",
       "winner": null
     },
     {
@@ -1417,5 +1417,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-07-31T22:40:46.787Z"
+  "updatedAt": "2026-07-31T23:46:34.133Z"
 }
