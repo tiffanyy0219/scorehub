@@ -24222,11 +24222,11 @@
       "home": "Chicago Cubs",
       "awayScore": 2,
       "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-07-31T18:20:00Z",
       "gameDate": "2026-07-31T18:20:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -33751,9 +33751,9 @@
         ],
         [
           "Yankees",
-          "61",
+          "62",
           "48",
-          ".560"
+          ".564"
         ],
         [
           "Red Sox",
@@ -33916,8 +33916,8 @@
         [
           "Cubs",
           "62",
-          "47",
-          ".569"
+          "48",
+          ".564"
         ],
         [
           "Pirates",
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-31T20:12:02.082Z"
+  "updatedAt": "2026-07-31T21:31:56.665Z"
 }
