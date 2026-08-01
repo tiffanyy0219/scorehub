@@ -24412,10 +24412,10 @@
       "league": "MLB",
       "away": "Minnesota Twins",
       "home": "Seattle Mariners",
-      "awayScore": 2,
+      "awayScore": 3,
       "homeScore": 3,
       "status": "live",
-      "liveInfo": " 6局",
+      "liveInfo": " 9局",
       "time": "2026-08-01T20:10:00Z",
       "gameDate": "2026-08-01T20:10:00Z",
       "winner": null
@@ -24426,20 +24426,20 @@
       "home": "Tampa Bay Rays",
       "awayScore": 0,
       "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-01T20:10:00Z",
       "gameDate": "2026-08-01T20:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Miami Marlins",
       "home": "New York Mets",
-      "awayScore": 5,
+      "awayScore": 6,
       "homeScore": 2,
       "status": "live",
-      "liveInfo": " 6局",
+      "liveInfo": " 9局",
       "time": "2026-08-01T20:10:00Z",
       "gameDate": "2026-08-01T20:10:00Z",
       "winner": null
@@ -24448,10 +24448,10 @@
       "league": "MLB",
       "away": "Pittsburgh Pirates",
       "home": "Cincinnati Reds",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 3局",
       "time": "2026-08-01T22:40:00Z",
       "gameDate": "2026-08-01T22:40:00Z",
       "winner": null
@@ -24460,10 +24460,10 @@
       "league": "MLB",
       "away": "Philadelphia Phillies",
       "home": "Baltimore Orioles",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-01T23:05:00Z",
       "gameDate": "2026-08-01T23:05:00Z",
       "winner": null
@@ -24472,10 +24472,10 @@
       "league": "MLB",
       "away": "Texas Rangers",
       "home": "Houston Astros",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-01T23:10:00Z",
       "gameDate": "2026-08-01T23:10:00Z",
       "winner": null
@@ -24484,10 +24484,10 @@
       "league": "MLB",
       "away": "Arizona Diamondbacks",
       "home": "Cleveland Guardians",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-01T23:15:00Z",
       "gameDate": "2026-08-01T23:15:00Z",
       "winner": null
@@ -24496,10 +24496,10 @@
       "league": "MLB",
       "away": "Washington Nationals",
       "home": "Atlanta Braves",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-01T23:15:00Z",
       "gameDate": "2026-08-01T23:15:00Z",
       "winner": null
@@ -24508,10 +24508,10 @@
       "league": "MLB",
       "away": "New York Yankees",
       "home": "Chicago Cubs",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-01T23:15:00Z",
       "gameDate": "2026-08-01T23:15:00Z",
       "winner": null
@@ -33745,9 +33745,9 @@
       "rows": [
         [
           "Rays",
-          "64",
+          "65",
           "45",
-          ".587"
+          ".591"
         ],
         [
           "Yankees",
@@ -33787,8 +33787,8 @@
         [
           "White Sox",
           "58",
-          "51",
-          ".532"
+          "52",
+          ".527"
         ],
         [
           "Twins",
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-01T22:09:14.484Z"
+  "updatedAt": "2026-08-01T23:12:23.162Z"
 }
