@@ -4,12 +4,12 @@
       "league": "WNBA",
       "home": "Chicago Sky",
       "away": "Las Vegas Aces",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 20,
+      "awayScore": 24,
+      "status": "live",
       "time": "2026-08-01T17:00Z",
       "gameDate": "2026-08-01T17:00Z",
-      "liveInfo": null,
+      "liveInfo": "7:31",
       "winner": null
     },
     {
@@ -1381,5 +1381,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-08-01T16:26:18.185Z"
+  "updatedAt": "2026-08-01T17:33:53.909Z"
 }
