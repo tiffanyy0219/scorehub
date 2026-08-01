@@ -24376,13 +24376,13 @@
       "league": "MLB",
       "away": "Boston Red Sox",
       "home": "Los Angeles Dodgers",
-      "awayScore": 8,
+      "awayScore": 9,
       "homeScore": 4,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-01T02:10:00Z",
       "gameDate": "2026-08-01T02:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -24390,11 +24390,11 @@
       "home": "Seattle Mariners",
       "awayScore": 5,
       "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-01T02:10:00Z",
       "gameDate": "2026-08-01T02:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -33757,9 +33757,9 @@
         ],
         [
           "Red Sox",
-          "57",
+          "58",
           "51",
-          ".528"
+          ".532"
         ],
         [
           "Orioles",
@@ -33791,16 +33791,16 @@
           ".532"
         ],
         [
-          "Guardians",
+          "Twins",
           "56",
           "55",
           ".505"
         ],
         [
-          "Twins",
+          "Guardians",
+          "56",
           "55",
-          "55",
-          ".500"
+          ".505"
         ],
         [
           "Tigers",
@@ -33840,8 +33840,8 @@
         [
           "Mariners",
           "53",
-          "57",
-          ".482"
+          "58",
+          ".477"
         ],
         [
           "Athletics",
@@ -33951,8 +33951,8 @@
         [
           "Dodgers",
           "69",
-          "40",
-          ".633"
+          "41",
+          ".627"
         ],
         [
           "D-backs",
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-01T04:47:02.694Z"
+  "updatedAt": "2026-08-01T07:20:12.559Z"
 }
