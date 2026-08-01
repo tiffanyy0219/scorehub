@@ -16,13 +16,13 @@
       "league": "WNBA",
       "home": "Phoenix Mercury",
       "away": "New York Liberty",
-      "homeScore": 84,
-      "awayScore": 92,
-      "status": "live",
+      "homeScore": 92,
+      "awayScore": 94,
+      "status": "final",
       "time": "2026-08-01T19:00Z",
       "gameDate": "2026-08-01T19:00Z",
-      "liveInfo": "1:10",
-      "winner": null
+      "liveInfo": null,
+      "winner": "away"
     },
     {
       "league": "WNBA",
@@ -1381,5 +1381,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-08-01T21:02:40.613Z"
+  "updatedAt": "2026-08-01T22:09:23.722Z"
 }
