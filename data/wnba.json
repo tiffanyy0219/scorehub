@@ -4,12 +4,12 @@
       "league": "WNBA",
       "home": "Minnesota Lynx",
       "away": "Indiana Fever",
-      "homeScore": 24,
-      "awayScore": 21,
+      "homeScore": 71,
+      "awayScore": 56,
       "status": "live",
       "time": "2026-08-02T17:00Z",
       "gameDate": "2026-08-02T17:00Z",
-      "liveInfo": "4:15",
+      "liveInfo": "8:10",
       "winner": null
     },
     {
@@ -1357,5 +1357,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-08-02T17:13:14.243Z"
+  "updatedAt": "2026-08-02T18:15:22.087Z"
 }
