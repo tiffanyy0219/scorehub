@@ -2,30 +2,6 @@
   "schedule": [
     {
       "league": "WNBA",
-      "home": "Chicago Sky",
-      "away": "Las Vegas Aces",
-      "homeScore": 84,
-      "awayScore": 83,
-      "status": "final",
-      "time": "2026-08-01T17:00Z",
-      "gameDate": "2026-08-01T17:00Z",
-      "liveInfo": null,
-      "winner": "home"
-    },
-    {
-      "league": "WNBA",
-      "home": "Phoenix Mercury",
-      "away": "New York Liberty",
-      "homeScore": 92,
-      "awayScore": 94,
-      "status": "final",
-      "time": "2026-08-01T19:00Z",
-      "gameDate": "2026-08-01T19:00Z",
-      "liveInfo": null,
-      "winner": "away"
-    },
-    {
-      "league": "WNBA",
       "home": "Minnesota Lynx",
       "away": "Indiana Fever",
       "homeScore": null,
@@ -1381,5 +1357,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-08-01T23:12:30.939Z"
+  "updatedAt": "2026-08-02T00:17:08.165Z"
 }
