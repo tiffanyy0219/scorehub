@@ -16,12 +16,12 @@
       "league": "WNBA",
       "home": "Portland Fire",
       "away": "Los Angeles Sparks",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 49,
+      "awayScore": 41,
+      "status": "live",
       "time": "2026-08-02T19:30Z",
       "gameDate": "2026-08-02T19:30Z",
-      "liveInfo": null,
+      "liveInfo": "30.8",
       "winner": null
     },
     {
@@ -1357,5 +1357,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-08-02T19:39:40.537Z"
+  "updatedAt": "2026-08-02T20:36:01.693Z"
 }
