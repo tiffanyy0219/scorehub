@@ -28,12 +28,12 @@
       "league": "WNBA",
       "home": "Dallas Wings",
       "away": "Connecticut Sun",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 38,
+      "awayScore": 31,
+      "status": "live",
       "time": "2026-08-02T23:00Z",
       "gameDate": "2026-08-02T23:00Z",
-      "liveInfo": null,
+      "liveInfo": "2:44",
       "winner": null
     },
     {
@@ -1357,5 +1357,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-08-02T22:38:01.902Z"
+  "updatedAt": "2026-08-02T23:42:28.514Z"
 }

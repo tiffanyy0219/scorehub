@@ -24712,13 +24712,13 @@
       "league": "MLB",
       "away": "Detroit Tigers",
       "home": "Athletics",
-      "awayScore": 6,
+      "awayScore": 11,
       "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-02T20:05:00Z",
       "gameDate": "2026-08-02T20:05:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -24726,32 +24726,32 @@
       "home": "San Diego Padres",
       "awayScore": 4,
       "homeScore": 5,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-02T20:10:00Z",
       "gameDate": "2026-08-02T20:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Minnesota Twins",
       "home": "Seattle Mariners",
-      "awayScore": 5,
-      "homeScore": 6,
-      "status": "live",
-      "liveInfo": " 8局",
+      "awayScore": 6,
+      "homeScore": 7,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-02T20:10:00Z",
       "gameDate": "2026-08-02T20:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Boston Red Sox",
       "home": "Los Angeles Dodgers",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 2,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-02T23:20:00Z",
       "gameDate": "2026-08-02T23:20:00Z",
       "winner": null
@@ -33799,14 +33799,14 @@
         [
           "Twins",
           "56",
-          "56",
-          ".500"
+          "57",
+          ".496"
         ],
         [
           "Tigers",
-          "53",
+          "54",
           "58",
-          ".477"
+          ".482"
         ],
         [
           "Royals",
@@ -33839,15 +33839,15 @@
         ],
         [
           "Mariners",
-          "54",
+          "55",
           "58",
-          ".482"
+          ".487"
         ],
         [
           "Athletics",
           "45",
-          "66",
-          ".405"
+          "67",
+          ".402"
         ],
         [
           "Angels",
@@ -33962,15 +33962,15 @@
         ],
         [
           "Padres",
-          "57",
+          "58",
           "54",
-          ".514"
+          ".518"
         ],
         [
           "Giants",
           "47",
-          "64",
-          ".423"
+          "65",
+          ".420"
         ],
         [
           "Rockies",
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-02T22:37:52.780Z"
+  "updatedAt": "2026-08-02T23:42:07.018Z"
 }
