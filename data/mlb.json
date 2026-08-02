@@ -24556,25 +24556,25 @@
       "league": "MLB",
       "away": "Milwaukee Brewers",
       "home": "Los Angeles Angels",
-      "awayScore": 2,
+      "awayScore": 3,
       "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-02T01:38:00Z",
       "gameDate": "2026-08-02T01:38:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Detroit Tigers",
       "home": "Athletics",
-      "awayScore": 7,
-      "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 8局",
+      "awayScore": 8,
+      "homeScore": 6,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-02T01:40:00Z",
       "gameDate": "2026-08-02T01:40:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -33804,9 +33804,9 @@
         ],
         [
           "Tigers",
-          "52",
+          "53",
           "58",
-          ".473"
+          ".477"
         ],
         [
           "Royals",
@@ -33846,14 +33846,14 @@
         [
           "Athletics",
           "45",
-          "65",
-          ".409"
+          "66",
+          ".405"
         ],
         [
           "Angels",
           "42",
-          "68",
-          ".382"
+          "69",
+          ".378"
         ]
       ]
     },
@@ -33909,9 +33909,9 @@
       "rows": [
         [
           "Brewers",
-          "68",
+          "69",
           "41",
-          ".624"
+          ".627"
         ],
         [
           "Cubs",
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-02T04:02:58.406Z"
+  "updatedAt": "2026-08-02T06:43:51.080Z"
 }
