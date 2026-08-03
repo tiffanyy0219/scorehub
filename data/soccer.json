@@ -1322,6 +1322,17 @@
     },
     {
       "league": "La Liga",
+      "home": "Real Sociedad",
+      "away": "Celta Vigo",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-09-03T19:00Z",
+      "gameDate": "2026-09-03T19:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
       "home": "Alavés",
       "away": "Osasuna",
       "homeScore": null,
@@ -1632,17 +1643,6 @@
       "league": "La Liga",
       "home": "Real Betis",
       "away": "Getafe",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-09-16T18:00Z",
-      "gameDate": "2026-09-16T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Real Sociedad",
-      "away": "Celta Vigo",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
@@ -4764,5 +4764,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-08-03T12:04:52.652Z"
+  "updatedAt": "2026-08-03T15:16:33.973Z"
 }
