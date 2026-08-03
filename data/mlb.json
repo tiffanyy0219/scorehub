@@ -24748,13 +24748,13 @@
       "league": "MLB",
       "away": "Boston Red Sox",
       "home": "Los Angeles Dodgers",
-      "awayScore": 6,
-      "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 6局",
+      "awayScore": 8,
+      "homeScore": 4,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-02T23:20:00Z",
       "gameDate": "2026-08-02T23:20:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -33757,9 +33757,9 @@
         ],
         [
           "Red Sox",
-          "59",
+          "60",
           "51",
-          ".536"
+          ".541"
         ],
         [
           "Orioles",
@@ -33951,8 +33951,8 @@
         [
           "Dodgers",
           "69",
-          "42",
-          ".622"
+          "43",
+          ".616"
         ],
         [
           "D-backs",
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-03T01:18:16.010Z"
+  "updatedAt": "2026-08-03T04:54:41.260Z"
 }
