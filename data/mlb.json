@@ -24748,10 +24748,10 @@
       "league": "MLB",
       "away": "Boston Red Sox",
       "home": "Los Angeles Dodgers",
-      "awayScore": 2,
-      "homeScore": 0,
+      "awayScore": 6,
+      "homeScore": 3,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 6局",
       "time": "2026-08-02T23:20:00Z",
       "gameDate": "2026-08-02T23:20:00Z",
       "winner": null
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-02T23:42:07.018Z"
+  "updatedAt": "2026-08-03T01:18:16.010Z"
 }

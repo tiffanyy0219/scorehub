@@ -2,54 +2,6 @@
   "schedule": [
     {
       "league": "WNBA",
-      "home": "Minnesota Lynx",
-      "away": "Indiana Fever",
-      "homeScore": 108,
-      "awayScore": 100,
-      "status": "final",
-      "time": "2026-08-02T17:00Z",
-      "gameDate": "2026-08-02T17:00Z",
-      "liveInfo": null,
-      "winner": "home"
-    },
-    {
-      "league": "WNBA",
-      "home": "Portland Fire",
-      "away": "Los Angeles Sparks",
-      "homeScore": 101,
-      "awayScore": 106,
-      "status": "final",
-      "time": "2026-08-02T19:30Z",
-      "gameDate": "2026-08-02T19:30Z",
-      "liveInfo": null,
-      "winner": "away"
-    },
-    {
-      "league": "WNBA",
-      "home": "Dallas Wings",
-      "away": "Connecticut Sun",
-      "homeScore": 38,
-      "awayScore": 31,
-      "status": "live",
-      "time": "2026-08-02T23:00Z",
-      "gameDate": "2026-08-02T23:00Z",
-      "liveInfo": "2:44",
-      "winner": null
-    },
-    {
-      "league": "WNBA",
-      "home": "Golden State Valkyries",
-      "away": "Toronto Tempo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-08-03T00:30Z",
-      "gameDate": "2026-08-03T00:30Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "WNBA",
       "home": "Atlanta Dream",
       "away": "Las Vegas Aces",
       "homeScore": null,
@@ -1357,5 +1309,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-08-02T23:42:28.514Z"
+  "updatedAt": "2026-08-03T01:18:38.067Z"
 }
