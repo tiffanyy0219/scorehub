@@ -24760,10 +24760,10 @@
       "league": "MLB",
       "away": "Washington Nationals",
       "home": "Philadelphia Phillies",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 1,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-03T22:40:00Z",
       "gameDate": "2026-08-03T22:40:00Z",
       "winner": null
@@ -24772,10 +24772,10 @@
       "league": "MLB",
       "away": "St. Louis Cardinals",
       "home": "New York Yankees",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-03T23:05:00Z",
       "gameDate": "2026-08-03T23:05:00Z",
       "winner": null
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-03T21:48:50.431Z"
+  "updatedAt": "2026-08-03T22:50:37.746Z"
 }
