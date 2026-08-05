@@ -25036,10 +25036,10 @@
       "league": "MLB",
       "away": "Toronto Blue Jays",
       "home": "Houston Astros",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-05T18:10:00Z",
       "gameDate": "2026-08-05T18:10:00Z",
       "winner": null
@@ -25048,10 +25048,10 @@
       "league": "MLB",
       "away": "Los Angeles Dodgers",
       "home": "Chicago Cubs",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-05T18:20:00Z",
       "gameDate": "2026-08-05T18:20:00Z",
       "winner": null
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-05T16:22:26.481Z"
+  "updatedAt": "2026-08-05T18:06:19.627Z"
 }
