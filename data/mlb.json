@@ -25014,11 +25014,11 @@
       "home": "Arizona Diamondbacks",
       "awayScore": 9,
       "homeScore": 4,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-05T01:40:00Z",
       "gameDate": "2026-08-05T01:40:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -33957,14 +33957,14 @@
         [
           "D-backs",
           "60",
-          "53",
-          ".531"
+          "54",
+          ".526"
         ],
         [
           "Padres",
-          "58",
+          "59",
           "55",
-          ".513"
+          ".518"
         ],
         [
           "Giants",
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-05T04:27:16.813Z"
+  "updatedAt": "2026-08-05T07:18:27.167Z"
 }
