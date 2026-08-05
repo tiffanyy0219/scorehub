@@ -25050,11 +25050,11 @@
       "home": "Chicago Cubs",
       "awayScore": 6,
       "homeScore": 7,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-05T18:20:00Z",
       "gameDate": "2026-08-05T18:20:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -25074,20 +25074,20 @@
       "home": "Colorado Rockies",
       "awayScore": 4,
       "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 7局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-05T19:10:00Z",
       "gameDate": "2026-08-05T19:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Los Angeles Angels",
       "home": "Baltimore Orioles",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-05T22:35:00Z",
       "gameDate": "2026-08-05T22:35:00Z",
       "winner": null
@@ -25096,10 +25096,10 @@
       "league": "MLB",
       "away": "New York Mets",
       "home": "Cleveland Guardians",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-05T22:40:00Z",
       "gameDate": "2026-08-05T22:40:00Z",
       "winner": null
@@ -25108,10 +25108,10 @@
       "league": "MLB",
       "away": "Athletics",
       "home": "Cincinnati Reds",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-05T22:40:00Z",
       "gameDate": "2026-08-05T22:40:00Z",
       "winner": null
@@ -33745,9 +33745,9 @@
       "rows": [
         [
           "Rays",
-          "67",
+          "68",
           "46",
-          ".593"
+          ".596"
         ],
         [
           "Yankees",
@@ -33915,9 +33915,9 @@
         ],
         [
           "Cubs",
-          "65",
+          "66",
           "49",
-          ".570"
+          ".574"
         ],
         [
           "Pirates",
@@ -33951,8 +33951,8 @@
         [
           "Dodgers",
           "69",
-          "45",
-          ".605"
+          "46",
+          ".600"
         ],
         [
           "D-backs",
@@ -33975,11 +33975,11 @@
         [
           "Rockies",
           "45",
-          "69",
-          ".395"
+          "70",
+          ".391"
         ]
       ]
     }
   ],
-  "updatedAt": "2026-08-05T21:18:20.572Z"
+  "updatedAt": "2026-08-05T22:32:12.737Z"
 }
