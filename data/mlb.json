@@ -24856,22 +24856,22 @@
       "league": "MLB",
       "away": "Los Angeles Angels",
       "home": "Baltimore Orioles",
-      "awayScore": 0,
-      "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 4局",
+      "awayScore": 1,
+      "homeScore": 3,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-04T22:35:00Z",
       "gameDate": "2026-08-04T22:35:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "New York Mets",
       "home": "Cleveland Guardians",
-      "awayScore": 4,
-      "homeScore": 1,
+      "awayScore": 6,
+      "homeScore": 2,
       "status": "live",
-      "liveInfo": " 3局",
+      "liveInfo": " 9局",
       "time": "2026-08-04T22:40:00Z",
       "gameDate": "2026-08-04T22:40:00Z",
       "winner": null
@@ -24880,10 +24880,10 @@
       "league": "MLB",
       "away": "Athletics",
       "home": "Cincinnati Reds",
-      "awayScore": 1,
-      "homeScore": 0,
+      "awayScore": 4,
+      "homeScore": 5,
       "status": "live",
-      "liveInfo": " 4局",
+      "liveInfo": " 8局",
       "time": "2026-08-04T22:40:00Z",
       "gameDate": "2026-08-04T22:40:00Z",
       "winner": null
@@ -24893,21 +24893,21 @@
       "away": "Washington Nationals",
       "home": "Philadelphia Phillies",
       "awayScore": 0,
-      "homeScore": 4,
-      "status": "live",
-      "liveInfo": " 3局",
+      "homeScore": 5,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-04T22:40:00Z",
       "gameDate": "2026-08-04T22:40:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "St. Louis Cardinals",
       "home": "New York Yankees",
       "awayScore": 0,
-      "homeScore": 1,
+      "homeScore": 2,
       "status": "live",
-      "liveInfo": " 2局",
+      "liveInfo": " 8局",
       "time": "2026-08-04T23:05:00Z",
       "gameDate": "2026-08-04T23:05:00Z",
       "winner": null
@@ -24916,10 +24916,10 @@
       "league": "MLB",
       "away": "Chicago White Sox",
       "home": "Boston Red Sox",
-      "awayScore": 0,
-      "homeScore": 6,
+      "awayScore": 2,
+      "homeScore": 7,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 6局",
       "time": "2026-08-04T23:10:00Z",
       "gameDate": "2026-08-04T23:10:00Z",
       "winner": null
@@ -24929,9 +24929,9 @@
       "away": "Miami Marlins",
       "home": "Atlanta Braves",
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 3,
       "status": "live",
-      "liveInfo": " 2局",
+      "liveInfo": " 8局",
       "time": "2026-08-04T23:15:00Z",
       "gameDate": "2026-08-04T23:15:00Z",
       "winner": null
@@ -24940,10 +24940,10 @@
       "league": "MLB",
       "away": "Minnesota Twins",
       "home": "Kansas City Royals",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 2,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 5局",
       "time": "2026-08-04T23:40:00Z",
       "gameDate": "2026-08-04T23:40:00Z",
       "winner": null
@@ -24952,10 +24952,10 @@
       "league": "MLB",
       "away": "Pittsburgh Pirates",
       "home": "Milwaukee Brewers",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 2,
+      "homeScore": 3,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 5局",
       "time": "2026-08-04T23:40:00Z",
       "gameDate": "2026-08-04T23:40:00Z",
       "winner": null
@@ -24964,10 +24964,10 @@
       "league": "MLB",
       "away": "Los Angeles Dodgers",
       "home": "Chicago Cubs",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 1,
+      "homeScore": 1,
+      "status": "live",
+      "liveInfo": " 4局",
       "time": "2026-08-05T00:05:00Z",
       "gameDate": "2026-08-05T00:05:00Z",
       "winner": null
@@ -24976,10 +24976,10 @@
       "league": "MLB",
       "away": "San Francisco Giants",
       "home": "Texas Rangers",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 2,
+      "status": "live",
+      "liveInfo": " 3局",
       "time": "2026-08-05T00:05:00Z",
       "gameDate": "2026-08-05T00:05:00Z",
       "winner": null
@@ -24988,10 +24988,10 @@
       "league": "MLB",
       "away": "Toronto Blue Jays",
       "home": "Houston Astros",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 3局",
       "time": "2026-08-05T00:10:00Z",
       "gameDate": "2026-08-05T00:10:00Z",
       "winner": null
@@ -25000,10 +25000,10 @@
       "league": "MLB",
       "away": "Tampa Bay Rays",
       "home": "Colorado Rockies",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 1,
+      "status": "live",
+      "liveInfo": " 2局",
       "time": "2026-08-05T00:40:00Z",
       "gameDate": "2026-08-05T00:40:00Z",
       "winner": null
@@ -33763,9 +33763,9 @@
         ],
         [
           "Orioles",
-          "54",
+          "55",
           "58",
-          ".482"
+          ".487"
         ],
         [
           "Blue Jays",
@@ -33852,8 +33852,8 @@
         [
           "Angels",
           "43",
-          "69",
-          ".384"
+          "70",
+          ".381"
         ]
       ]
     },
@@ -33874,9 +33874,9 @@
         ],
         [
           "Phillies",
-          "60",
+          "61",
           "53",
-          ".531"
+          ".535"
         ],
         [
           "Marlins",
@@ -33887,8 +33887,8 @@
         [
           "Nationals",
           "55",
-          "59",
-          ".482"
+          "60",
+          ".478"
         ],
         [
           "Mets",
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-04T23:33:51.564Z"
+  "updatedAt": "2026-08-05T01:03:00.865Z"
 }
