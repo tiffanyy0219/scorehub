@@ -25301,12 +25301,12 @@
       "away": "Chicago White Sox",
       "home": "Boston Red Sox",
       "awayScore": 11,
-      "homeScore": 11,
-      "status": "live",
-      "liveInfo": " 13局",
+      "homeScore": 12,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-06T23:10:00Z",
       "gameDate": "2026-08-06T23:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -25336,13 +25336,13 @@
       "league": "MLB",
       "away": "San Diego Padres",
       "home": "Arizona Diamondbacks",
-      "awayScore": 4,
+      "awayScore": 5,
       "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 6局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-07T01:40:00Z",
       "gameDate": "2026-08-07T01:40:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -33757,9 +33757,9 @@
         ],
         [
           "Red Sox",
-          "62",
+          "63",
           "51",
-          ".549"
+          ".553"
         ],
         [
           "Orioles",
@@ -33787,8 +33787,8 @@
         [
           "White Sox",
           "59",
-          "54",
-          ".522"
+          "55",
+          ".518"
         ],
         [
           "Twins",
@@ -33957,14 +33957,14 @@
         [
           "D-backs",
           "61",
-          "54",
-          ".530"
+          "55",
+          ".526"
         ],
         [
           "Padres",
-          "59",
+          "60",
           "56",
-          ".513"
+          ".517"
         ],
         [
           "Giants",
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-07T03:34:08.888Z"
+  "updatedAt": "2026-08-07T05:22:35.013Z"
 }
