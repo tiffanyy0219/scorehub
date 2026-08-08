@@ -25528,22 +25528,22 @@
       "league": "MLB",
       "away": "Atlanta Braves",
       "home": "New York Yankees",
-      "awayScore": 3,
+      "awayScore": 4,
       "homeScore": 5,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-08T19:05:00Z",
       "gameDate": "2026-08-08T19:05:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Athletics",
       "home": "Boston Red Sox",
-      "awayScore": 3,
+      "awayScore": 5,
       "homeScore": 2,
       "status": "live",
-      "liveInfo": " 5局",
+      "liveInfo": " 6局",
       "time": "2026-08-08T20:10:00Z",
       "gameDate": "2026-08-08T20:10:00Z",
       "winner": null
@@ -25553,9 +25553,9 @@
       "away": "Los Angeles Angels",
       "home": "Miami Marlins",
       "awayScore": 0,
-      "homeScore": 5,
+      "homeScore": 7,
       "status": "live",
-      "liveInfo": " 5局",
+      "liveInfo": " 6局",
       "time": "2026-08-08T20:10:00Z",
       "gameDate": "2026-08-08T20:10:00Z",
       "winner": null
@@ -25564,10 +25564,10 @@
       "league": "MLB",
       "away": "Toronto Blue Jays",
       "home": "Philadelphia Phillies",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-08T22:05:00Z",
       "gameDate": "2026-08-08T22:05:00Z",
       "winner": null
@@ -33751,9 +33751,9 @@
         ],
         [
           "Yankees",
-          "65",
+          "66",
           "51",
-          ".560"
+          ".564"
         ],
         [
           "Red Sox",
@@ -33869,8 +33869,8 @@
         [
           "Braves",
           "70",
-          "46",
-          ".603"
+          "47",
+          ".598"
         ],
         [
           "Phillies",
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-08T21:36:32.184Z"
+  "updatedAt": "2026-08-08T22:01:26.153Z"
 }
