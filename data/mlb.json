@@ -25528,10 +25528,10 @@
       "league": "MLB",
       "away": "Atlanta Braves",
       "home": "New York Yankees",
-      "awayScore": 0,
+      "awayScore": 2,
       "homeScore": 1,
       "status": "live",
-      "liveInfo": " 3局",
+      "liveInfo": " 5局",
       "time": "2026-08-08T19:05:00Z",
       "gameDate": "2026-08-08T19:05:00Z",
       "winner": null
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-08T19:49:43.270Z"
+  "updatedAt": "2026-08-08T20:18:18.421Z"
 }
