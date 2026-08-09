@@ -25684,22 +25684,22 @@
       "league": "MLB",
       "away": "Los Angeles Dodgers",
       "home": "Arizona Diamondbacks",
-      "awayScore": 1,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 9局",
+      "awayScore": 2,
+      "homeScore": 1,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-09T00:10:00Z",
       "gameDate": "2026-08-09T00:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Tampa Bay Rays",
       "home": "Seattle Mariners",
-      "awayScore": 1,
-      "homeScore": 1,
+      "awayScore": 3,
+      "homeScore": 2,
       "status": "live",
-      "liveInfo": " 4局",
+      "liveInfo": " 9局",
       "time": "2026-08-09T01:50:00Z",
       "gameDate": "2026-08-09T01:50:00Z",
       "winner": null
@@ -33950,15 +33950,15 @@
       "rows": [
         [
           "Dodgers",
-          "69",
+          "70",
           "47",
-          ".595"
+          ".598"
         ],
         [
           "D-backs",
           "62",
-          "55",
-          ".530"
+          "56",
+          ".525"
         ],
         [
           "Padres",
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-09T03:03:52.079Z"
+  "updatedAt": "2026-08-09T04:34:33.111Z"
 }
