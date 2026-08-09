@@ -25795,7 +25795,7 @@
       "awayScore": 2,
       "homeScore": 5,
       "status": "live",
-      "liveInfo": " 5局",
+      "liveInfo": " 7局",
       "time": "2026-08-09T18:10:00Z",
       "gameDate": "2026-08-09T18:10:00Z",
       "winner": null
@@ -25840,13 +25840,13 @@
       "league": "MLB",
       "away": "Detroit Tigers",
       "home": "San Francisco Giants",
-      "awayScore": 1,
+      "awayScore": 3,
       "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-09T20:05:00Z",
       "gameDate": "2026-08-09T20:05:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -25854,11 +25854,11 @@
       "home": "Arizona Diamondbacks",
       "awayScore": 2,
       "homeScore": 4,
-      "status": "live",
-      "liveInfo": " 7局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-09T20:10:00Z",
       "gameDate": "2026-08-09T20:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -25867,7 +25867,7 @@
       "awayScore": 4,
       "homeScore": 1,
       "status": "live",
-      "liveInfo": " 7局",
+      "liveInfo": " 9局",
       "time": "2026-08-09T20:10:00Z",
       "gameDate": "2026-08-09T20:10:00Z",
       "winner": null
@@ -33951,14 +33951,14 @@
         [
           "Dodgers",
           "70",
-          "47",
-          ".598"
+          "48",
+          ".593"
         ],
         [
           "D-backs",
-          "62",
+          "63",
           "56",
-          ".525"
+          ".529"
         ],
         [
           "Padres",
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-09T22:13:36.983Z"
+  "updatedAt": "2026-08-09T22:54:19.819Z"
 }
