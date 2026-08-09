@@ -25708,10 +25708,10 @@
       "league": "MLB",
       "away": "Cincinnati Reds",
       "home": "Washington Nationals",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-09T16:15:00Z",
       "gameDate": "2026-08-09T16:15:00Z",
       "winner": null
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-09T15:37:53.981Z"
+  "updatedAt": "2026-08-09T16:04:11.153Z"
 }
