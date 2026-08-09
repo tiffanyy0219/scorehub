@@ -25792,13 +25792,13 @@
       "league": "MLB",
       "away": "Cleveland Guardians",
       "home": "Chicago White Sox",
-      "awayScore": 2,
+      "awayScore": 3,
       "homeScore": 5,
-      "status": "live",
-      "liveInfo": " 7局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-09T18:10:00Z",
       "gameDate": "2026-08-09T18:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -25866,11 +25866,11 @@
       "home": "Seattle Mariners",
       "awayScore": 4,
       "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-09T20:10:00Z",
       "gameDate": "2026-08-09T20:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -33745,9 +33745,9 @@
       "rows": [
         [
           "Rays",
-          "70",
+          "71",
           "46",
-          ".603"
+          ".607"
         ],
         [
           "Yankees",
@@ -33786,12 +33786,12 @@
       "rows": [
         [
           "White Sox",
-          "60",
+          "61",
           "56",
-          ".517"
+          ".521"
         ],
         [
-          "Guardians",
+          "Tigers",
           "58",
           "60",
           ".492"
@@ -33803,9 +33803,9 @@
           ".487"
         ],
         [
-          "Tigers",
-          "57",
-          "60",
+          "Guardians",
+          "58",
+          "61",
           ".487"
         ],
         [
@@ -33840,8 +33840,8 @@
         [
           "Mariners",
           "56",
-          "62",
-          ".475"
+          "63",
+          ".471"
         ],
         [
           "Athletics",
@@ -33969,8 +33969,8 @@
         [
           "Giants",
           "49",
-          "68",
-          ".419"
+          "69",
+          ".415"
         ],
         [
           "Rockies",
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-09T22:54:19.819Z"
+  "updatedAt": "2026-08-09T23:37:04.137Z"
 }
