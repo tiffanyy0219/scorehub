@@ -25698,11 +25698,11 @@
       "home": "Seattle Mariners",
       "awayScore": 3,
       "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-09T01:50:00Z",
       "gameDate": "2026-08-09T01:50:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -33745,9 +33745,9 @@
       "rows": [
         [
           "Rays",
-          "69",
+          "70",
           "46",
-          ".600"
+          ".603"
         ],
         [
           "Yankees",
@@ -33840,8 +33840,8 @@
         [
           "Mariners",
           "56",
-          "61",
-          ".479"
+          "62",
+          ".475"
         ],
         [
           "Athletics",
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-09T04:34:33.111Z"
+  "updatedAt": "2026-08-09T05:33:39.626Z"
 }
