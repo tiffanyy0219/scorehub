@@ -25878,11 +25878,11 @@
       "home": "San Diego Padres",
       "awayScore": 2,
       "homeScore": 7,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-10T00:20:00Z",
       "gameDate": "2026-08-10T00:20:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -33828,8 +33828,8 @@
         [
           "Astros",
           "60",
-          "58",
-          ".508"
+          "59",
+          ".504"
         ],
         [
           "Rangers",
@@ -33962,9 +33962,9 @@
         ],
         [
           "Padres",
-          "61",
+          "62",
           "57",
-          ".517"
+          ".521"
         ],
         [
           "Giants",
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-10T02:31:22.163Z"
+  "updatedAt": "2026-08-10T04:16:44.352Z"
 }
