@@ -25876,10 +25876,10 @@
       "league": "MLB",
       "away": "Houston Astros",
       "home": "San Diego Padres",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-10T00:20:00Z",
       "gameDate": "2026-08-10T00:20:00Z",
       "winner": null
@@ -33981,5 +33981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-09T23:37:04.137Z"
+  "updatedAt": "2026-08-10T00:04:25.868Z"
 }
