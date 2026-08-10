@@ -27032,8 +27032,8 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-08-17T22:40:00Z",
-      "gameDate": "2026-08-17T22:40:00Z",
+      "time": "2026-08-17T22:05:00Z",
+      "gameDate": "2026-08-17T22:05:00Z",
       "winner": null
     },
     {
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-10T20:59:38.995Z"
+  "updatedAt": "2026-08-10T21:53:02.508Z"
 }
