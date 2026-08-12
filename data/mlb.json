@@ -26116,70 +26116,70 @@
       "league": "MLB",
       "away": "Texas Rangers",
       "home": "Los Angeles Angels",
-      "awayScore": 1,
+      "awayScore": 2,
       "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 3局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-12T01:38:00Z",
       "gameDate": "2026-08-12T01:38:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Colorado Rockies",
       "home": "Arizona Diamondbacks",
-      "awayScore": 0,
+      "awayScore": 3,
       "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 3局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-12T01:40:00Z",
       "gameDate": "2026-08-12T01:40:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Tampa Bay Rays",
       "home": "Athletics",
-      "awayScore": 6,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 4局",
+      "awayScore": 12,
+      "homeScore": 4,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-12T01:40:00Z",
       "gameDate": "2026-08-12T01:40:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Milwaukee Brewers",
       "home": "San Diego Padres",
-      "awayScore": 1,
-      "homeScore": 5,
-      "status": "live",
-      "liveInfo": " 4局",
+      "awayScore": 2,
+      "homeScore": 11,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-12T01:40:00Z",
       "gameDate": "2026-08-12T01:40:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Houston Astros",
       "home": "San Francisco Giants",
       "awayScore": 1,
-      "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 2局",
+      "homeScore": 4,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-12T01:45:00Z",
       "gameDate": "2026-08-12T01:45:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Kansas City Royals",
       "home": "Los Angeles Dodgers",
-      "awayScore": 0,
-      "homeScore": 1,
+      "awayScore": 4,
+      "homeScore": 3,
       "status": "live",
-      "liveInfo": " 2局",
+      "liveInfo": " 8局",
       "time": "2026-08-12T02:10:00Z",
       "gameDate": "2026-08-12T02:10:00Z",
       "winner": null
@@ -34381,9 +34381,9 @@
       "rows": [
         [
           "Rays",
-          "72",
+          "73",
           "46",
-          ".610"
+          ".613"
         ],
         [
           "Yankees",
@@ -34464,14 +34464,14 @@
         [
           "Astros",
           "61",
-          "59",
-          ".508"
+          "60",
+          ".504"
         ],
         [
           "Rangers",
           "60",
-          "59",
-          ".504"
+          "60",
+          ".500"
         ],
         [
           "Mariners",
@@ -34482,14 +34482,14 @@
         [
           "Athletics",
           "47",
-          "72",
-          ".395"
+          "73",
+          ".392"
         ],
         [
           "Angels",
-          "45",
+          "46",
           "74",
-          ".378"
+          ".383"
         ]
       ]
     },
@@ -34546,8 +34546,8 @@
         [
           "Brewers",
           "74",
-          "45",
-          ".622"
+          "46",
+          ".617"
         ],
         [
           "Cubs",
@@ -34593,29 +34593,29 @@
         [
           "D-backs",
           "64",
-          "56",
-          ".533"
+          "57",
+          ".529"
         ],
         [
           "Padres",
-          "63",
+          "64",
           "57",
-          ".525"
+          ".529"
         ],
         [
           "Giants",
-          "49",
+          "50",
           "70",
-          ".412"
+          ".417"
         ],
         [
           "Rockies",
-          "46",
+          "47",
           "73",
-          ".387"
+          ".392"
         ]
       ]
     }
   ],
-  "updatedAt": "2026-08-12T02:35:32.378Z"
+  "updatedAt": "2026-08-12T04:26:23.198Z"
 }
