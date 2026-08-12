@@ -26188,10 +26188,10 @@
       "league": "MLB",
       "away": "Baltimore Orioles",
       "home": "Minnesota Twins",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 4,
+      "homeScore": 2,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 3局",
       "time": "2026-08-12T17:40:00Z",
       "gameDate": "2026-08-12T17:40:00Z",
       "winner": null
@@ -26200,10 +26200,10 @@
       "league": "MLB",
       "away": "Philadelphia Phillies",
       "home": "St. Louis Cardinals",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 1,
+      "status": "live",
+      "liveInfo": " 2局",
       "time": "2026-08-12T18:15:00Z",
       "gameDate": "2026-08-12T18:15:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-12T17:45:22.493Z"
+  "updatedAt": "2026-08-12T18:41:04.557Z"
 }
