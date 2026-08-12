@@ -29888,8 +29888,8 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-09-04T23:10:00Z",
-      "gameDate": "2026-09-04T23:10:00Z",
+      "time": "2026-09-04T23:15:00Z",
+      "gameDate": "2026-09-04T23:15:00Z",
       "winner": null
     },
     {
@@ -29906,8 +29906,8 @@
     },
     {
       "league": "MLB",
-      "away": "Los Angeles Angels",
-      "home": "Pittsburgh Pirates",
+      "away": "Atlanta Braves",
+      "home": "Philadelphia Phillies",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -29918,14 +29918,14 @@
     },
     {
       "league": "MLB",
-      "away": "Atlanta Braves",
-      "home": "Philadelphia Phillies",
+      "away": "Los Angeles Angels",
+      "home": "Pittsburgh Pirates",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-09-04T22:40:00Z",
-      "gameDate": "2026-09-04T22:40:00Z",
+      "time": "2026-09-04T22:45:00Z",
+      "gameDate": "2026-09-04T22:45:00Z",
       "winner": null
     },
     {
@@ -31088,8 +31088,8 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-09-11T23:40:00Z",
-      "gameDate": "2026-09-11T23:40:00Z",
+      "time": "2026-09-11T23:45:00Z",
+      "gameDate": "2026-09-11T23:45:00Z",
       "winner": null
     },
     {
@@ -32168,8 +32168,8 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-09-18T23:10:00Z",
-      "gameDate": "2026-09-18T23:10:00Z",
+      "time": "2026-09-18T23:15:00Z",
+      "gameDate": "2026-09-18T23:15:00Z",
       "winner": null
     },
     {
@@ -32276,8 +32276,8 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-09-19T02:10:00Z",
-      "gameDate": "2026-09-19T02:10:00Z",
+      "time": "2026-09-19T02:15:00Z",
+      "gameDate": "2026-09-19T02:15:00Z",
       "winner": null
     },
     {
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-12T12:03:24.718Z"
+  "updatedAt": "2026-08-12T13:43:26.590Z"
 }
