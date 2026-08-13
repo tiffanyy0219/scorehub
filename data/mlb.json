@@ -26416,22 +26416,22 @@
       "league": "MLB",
       "away": "Boston Red Sox",
       "home": "Toronto Blue Jays",
-      "awayScore": 5,
+      "awayScore": 7,
       "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-13T19:07:00Z",
       "gameDate": "2026-08-13T19:07:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Chicago Cubs",
       "home": "Washington Nationals",
       "awayScore": 0,
-      "homeScore": 1,
+      "homeScore": 6,
       "status": "live",
-      "liveInfo": " 4局",
+      "liveInfo": " 7局",
       "time": "2026-08-13T20:05:00Z",
       "gameDate": "2026-08-13T20:05:00Z",
       "winner": null
@@ -34393,15 +34393,15 @@
         ],
         [
           "Red Sox",
-          "64",
+          "65",
           "56",
-          ".533"
+          ".537"
         ],
         [
           "Blue Jays",
           "59",
-          "63",
-          ".484"
+          "64",
+          ".480"
         ],
         [
           "Orioles",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-13T21:02:51.605Z"
+  "updatedAt": "2026-08-13T22:00:42.420Z"
 }
