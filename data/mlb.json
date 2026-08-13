@@ -26345,24 +26345,24 @@
       "away": "Kansas City Royals",
       "home": "Los Angeles Dodgers",
       "awayScore": 2,
-      "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 4局",
+      "homeScore": 4,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-13T02:10:00Z",
       "gameDate": "2026-08-13T02:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Texas Rangers",
       "home": "Los Angeles Angels",
       "awayScore": 2,
-      "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 4局",
+      "homeScore": 5,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-13T02:10:00Z",
       "gameDate": "2026-08-13T02:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -34447,8 +34447,8 @@
         [
           "Royals",
           "49",
-          "72",
-          ".405"
+          "73",
+          ".402"
         ]
       ]
     },
@@ -34470,8 +34470,8 @@
         [
           "Rangers",
           "60",
-          "60",
-          ".500"
+          "61",
+          ".496"
         ],
         [
           "Mariners",
@@ -34487,9 +34487,9 @@
         ],
         [
           "Angels",
-          "46",
+          "47",
           "74",
-          ".383"
+          ".388"
         ]
       ]
     },
@@ -34586,9 +34586,9 @@
       "rows": [
         [
           "Dodgers",
-          "72",
+          "73",
           "48",
-          ".600"
+          ".603"
         ],
         [
           "Padres",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-13T03:18:05.966Z"
+  "updatedAt": "2026-08-13T05:13:59.961Z"
 }
