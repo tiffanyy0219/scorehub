@@ -26370,20 +26370,20 @@
       "home": "Detroit Tigers",
       "awayScore": 0,
       "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-13T17:10:00Z",
       "gameDate": "2026-08-13T17:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Cincinnati Reds",
       "home": "Chicago White Sox",
       "awayScore": 9,
-      "homeScore": 5,
+      "homeScore": 7,
       "status": "live",
-      "liveInfo": " 7局",
+      "liveInfo": " 9局",
       "time": "2026-08-13T17:10:00Z",
       "gameDate": "2026-08-13T17:10:00Z",
       "winner": null
@@ -26393,12 +26393,12 @@
       "away": "Pittsburgh Pirates",
       "home": "Miami Marlins",
       "awayScore": 13,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 9局",
+      "homeScore": 1,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-13T17:10:00Z",
       "gameDate": "2026-08-13T17:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -26407,7 +26407,7 @@
       "awayScore": 1,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 6局",
+      "liveInfo": " 8局",
       "time": "2026-08-13T17:35:00Z",
       "gameDate": "2026-08-13T17:35:00Z",
       "winner": null
@@ -26419,7 +26419,7 @@
       "awayScore": 1,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 2局",
+      "liveInfo": " 4局",
       "time": "2026-08-13T19:07:00Z",
       "gameDate": "2026-08-13T19:07:00Z",
       "winner": null
@@ -26428,10 +26428,10 @@
       "league": "MLB",
       "away": "Chicago Cubs",
       "home": "Washington Nationals",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-13T20:05:00Z",
       "gameDate": "2026-08-13T20:05:00Z",
       "winner": null
@@ -34427,22 +34427,22 @@
           ".521"
         ],
         [
+          "Tigers",
+          "60",
+          "61",
+          ".496"
+        ],
+        [
           "Twins",
           "60",
           "62",
           ".492"
         ],
         [
-          "Tigers",
-          "59",
-          "61",
-          ".492"
-        ],
-        [
           "Guardians",
           "59",
-          "62",
-          ".488"
+          "63",
+          ".484"
         ],
         [
           "Royals",
@@ -34517,8 +34517,8 @@
         [
           "Marlins",
           "62",
-          "59",
-          ".512"
+          "60",
+          ".508"
         ],
         [
           "Nationals",
@@ -34562,16 +34562,16 @@
           ".504"
         ],
         [
+          "Pirates",
+          "59",
+          "64",
+          ".480"
+        ],
+        [
           "Reds",
           "57",
           "62",
           ".479"
-        ],
-        [
-          "Pirates",
-          "58",
-          "64",
-          ".475"
         ]
       ]
     },
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-13T19:29:52.472Z"
+  "updatedAt": "2026-08-13T20:07:50.583Z"
 }
