@@ -26429,21 +26429,21 @@
       "away": "Chicago Cubs",
       "home": "Washington Nationals",
       "awayScore": 0,
-      "homeScore": 6,
-      "status": "live",
-      "liveInfo": " 7局",
+      "homeScore": 7,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-13T20:05:00Z",
       "gameDate": "2026-08-13T20:05:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Philadelphia Phillies",
       "home": "Minnesota Twins",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-13T23:30:00Z",
       "gameDate": "2026-08-13T23:30:00Z",
       "winner": null
@@ -34522,9 +34522,9 @@
         ],
         [
           "Nationals",
-          "59",
+          "60",
           "63",
-          ".484"
+          ".488"
         ],
         [
           "Mets",
@@ -34552,8 +34552,8 @@
         [
           "Cubs",
           "71",
-          "50",
-          ".587"
+          "51",
+          ".582"
         ],
         [
           "Cardinals",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-13T22:00:42.420Z"
+  "updatedAt": "2026-08-13T23:00:19.460Z"
 }
