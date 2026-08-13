@@ -26440,7 +26440,7 @@
       "league": "MLB",
       "away": "Philadelphia Phillies",
       "home": "Minnesota Twins",
-      "awayScore": 0,
+      "awayScore": 2,
       "homeScore": 0,
       "status": "live",
       "liveInfo": " 1局",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-13T23:00:19.460Z"
+  "updatedAt": "2026-08-13T23:52:37.360Z"
 }
