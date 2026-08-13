@@ -26381,12 +26381,12 @@
       "away": "Cincinnati Reds",
       "home": "Chicago White Sox",
       "awayScore": 9,
-      "homeScore": 7,
-      "status": "live",
-      "liveInfo": " 9局",
+      "homeScore": 8,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-13T17:10:00Z",
       "gameDate": "2026-08-13T17:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -26406,20 +26406,20 @@
       "home": "New York Yankees",
       "awayScore": 1,
       "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-13T17:35:00Z",
       "gameDate": "2026-08-13T17:35:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Boston Red Sox",
       "home": "Toronto Blue Jays",
-      "awayScore": 1,
+      "awayScore": 5,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 4局",
+      "liveInfo": " 8局",
       "time": "2026-08-13T19:07:00Z",
       "gameDate": "2026-08-13T19:07:00Z",
       "winner": null
@@ -26429,9 +26429,9 @@
       "away": "Chicago Cubs",
       "home": "Washington Nationals",
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 1,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 4局",
       "time": "2026-08-13T20:05:00Z",
       "gameDate": "2026-08-13T20:05:00Z",
       "winner": null
@@ -34388,8 +34388,8 @@
         [
           "Yankees",
           "68",
-          "52",
-          ".567"
+          "53",
+          ".562"
         ],
         [
           "Red Sox",
@@ -34423,8 +34423,8 @@
         [
           "White Sox",
           "62",
-          "57",
-          ".521"
+          "58",
+          ".517"
         ],
         [
           "Tigers",
@@ -34475,9 +34475,9 @@
         ],
         [
           "Mariners",
-          "56",
+          "57",
           "65",
-          ".463"
+          ".467"
         ],
         [
           "Athletics",
@@ -34562,16 +34562,16 @@
           ".504"
         ],
         [
+          "Reds",
+          "58",
+          "62",
+          ".483"
+        ],
+        [
           "Pirates",
           "59",
           "64",
           ".480"
-        ],
-        [
-          "Reds",
-          "57",
-          "62",
-          ".479"
         ]
       ]
     },
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-13T20:07:50.583Z"
+  "updatedAt": "2026-08-13T21:02:51.605Z"
 }
