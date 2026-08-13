@@ -26378,6 +26378,18 @@
     },
     {
       "league": "MLB",
+      "away": "Cincinnati Reds",
+      "home": "Chicago White Sox",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "2026-08-13T17:10:00Z",
+      "gameDate": "2026-08-13T17:10:00Z",
+      "winner": null
+    },
+    {
+      "league": "MLB",
       "away": "Pittsburgh Pirates",
       "home": "Miami Marlins",
       "awayScore": null,
@@ -26398,18 +26410,6 @@
       "liveInfo": null,
       "time": "2026-08-13T17:35:00Z",
       "gameDate": "2026-08-13T17:35:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
-      "away": "Cincinnati Reds",
-      "home": "Chicago White Sox",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "2026-08-13T18:10:00Z",
-      "gameDate": "2026-08-13T18:10:00Z",
       "winner": null
     },
     {
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-13T15:13:56.340Z"
+  "updatedAt": "2026-08-13T16:13:17.949Z"
 }
