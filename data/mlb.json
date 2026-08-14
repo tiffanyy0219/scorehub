@@ -26440,22 +26440,22 @@
       "league": "MLB",
       "away": "Philadelphia Phillies",
       "home": "Minnesota Twins",
-      "awayScore": 2,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 1局",
+      "awayScore": 7,
+      "homeScore": 1,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-13T23:30:00Z",
       "gameDate": "2026-08-13T23:30:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Texas Rangers",
       "home": "Los Angeles Angels",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-14T02:07:00Z",
       "gameDate": "2026-08-14T02:07:00Z",
       "winner": null
@@ -26464,10 +26464,10 @@
       "league": "MLB",
       "away": "Milwaukee Brewers",
       "home": "Los Angeles Dodgers",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-14T02:10:00Z",
       "gameDate": "2026-08-14T02:10:00Z",
       "winner": null
@@ -34435,8 +34435,8 @@
         [
           "Twins",
           "60",
-          "62",
-          ".492"
+          "63",
+          ".488"
         ],
         [
           "Guardians",
@@ -34510,9 +34510,9 @@
         ],
         [
           "Phillies",
-          "64",
+          "65",
           "58",
-          ".525"
+          ".528"
         ],
         [
           "Marlins",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-13T23:52:37.360Z"
+  "updatedAt": "2026-08-14T02:27:36.762Z"
 }
