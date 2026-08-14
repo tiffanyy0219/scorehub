@@ -26491,7 +26491,7 @@
       "awayScore": 0,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 4局",
+      "liveInfo": " 6局",
       "time": "2026-08-14T22:10:00Z",
       "gameDate": "2026-08-14T22:10:00Z",
       "winner": null
@@ -26501,9 +26501,9 @@
       "away": "Boston Red Sox",
       "home": "Pittsburgh Pirates",
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 1,
       "status": "live",
-      "liveInfo": " 2局",
+      "liveInfo": " 4局",
       "time": "2026-08-14T22:40:00Z",
       "gameDate": "2026-08-14T22:40:00Z",
       "winner": null
@@ -26513,9 +26513,9 @@
       "away": "Chicago White Sox",
       "home": "Detroit Tigers",
       "awayScore": 1,
-      "homeScore": 0,
+      "homeScore": 2,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 3局",
       "time": "2026-08-14T22:40:00Z",
       "gameDate": "2026-08-14T22:40:00Z",
       "winner": null
@@ -26527,7 +26527,7 @@
       "awayScore": 0,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 2局",
       "time": "2026-08-14T23:10:00Z",
       "gameDate": "2026-08-14T23:10:00Z",
       "winner": null
@@ -26539,7 +26539,7 @@
       "awayScore": 0,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 2局",
       "time": "2026-08-14T23:10:00Z",
       "gameDate": "2026-08-14T23:10:00Z",
       "winner": null
@@ -26551,7 +26551,7 @@
       "awayScore": 0,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 2局",
       "time": "2026-08-14T23:10:00Z",
       "gameDate": "2026-08-14T23:10:00Z",
       "winner": null
@@ -26560,7 +26560,7 @@
       "league": "MLB",
       "away": "Arizona Diamondbacks",
       "home": "Atlanta Braves",
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
       "status": "live",
       "liveInfo": " 1局",
@@ -26575,7 +26575,7 @@
       "awayScore": 0,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 2局",
       "time": "2026-08-14T23:15:00Z",
       "gameDate": "2026-08-14T23:15:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-14T23:00:02.815Z"
+  "updatedAt": "2026-08-14T23:31:53.854Z"
 }
