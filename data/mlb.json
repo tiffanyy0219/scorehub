@@ -26658,20 +26658,20 @@
       "home": "Chicago Cubs",
       "awayScore": 8,
       "homeScore": 4,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-15T18:20:00Z",
       "gameDate": "2026-08-15T18:20:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "New York Yankees",
       "home": "Toronto Blue Jays",
       "awayScore": 1,
-      "homeScore": 1,
+      "homeScore": 2,
       "status": "live",
-      "liveInfo": " 6局",
+      "liveInfo": " 8局",
       "time": "2026-08-15T19:07:00Z",
       "gameDate": "2026-08-15T19:07:00Z",
       "winner": null
@@ -26681,9 +26681,9 @@
       "away": "Colorado Rockies",
       "home": "San Francisco Giants",
       "awayScore": 1,
-      "homeScore": 0,
+      "homeScore": 7,
       "status": "live",
-      "liveInfo": " 3局",
+      "liveInfo": " 4局",
       "time": "2026-08-15T20:05:00Z",
       "gameDate": "2026-08-15T20:05:00Z",
       "winner": null
@@ -26692,10 +26692,10 @@
       "league": "MLB",
       "away": "Washington Nationals",
       "home": "New York Mets",
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 2,
       "status": "live",
-      "liveInfo": " 2局",
+      "liveInfo": " 4局",
       "time": "2026-08-15T20:10:00Z",
       "gameDate": "2026-08-15T20:10:00Z",
       "winner": null
@@ -34552,14 +34552,14 @@
         [
           "Cubs",
           "72",
-          "51",
-          ".585"
+          "52",
+          ".581"
         ],
         [
           "Cardinals",
+          "62",
           "61",
-          "61",
-          ".500"
+          ".504"
         ],
         [
           "Reds",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-15T20:53:14.800Z"
+  "updatedAt": "2026-08-15T21:26:26.530Z"
 }
