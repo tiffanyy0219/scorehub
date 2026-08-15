@@ -26647,7 +26647,7 @@
       "awayScore": 1,
       "homeScore": 1,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 3局",
       "time": "2026-08-15T17:10:00Z",
       "gameDate": "2026-08-15T17:10:00Z",
       "winner": null
@@ -26656,10 +26656,10 @@
       "league": "MLB",
       "away": "St. Louis Cardinals",
       "home": "Chicago Cubs",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-15T18:20:00Z",
       "gameDate": "2026-08-15T18:20:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-15T17:35:07.456Z"
+  "updatedAt": "2026-08-15T17:55:50.368Z"
 }
