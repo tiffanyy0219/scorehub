@@ -26598,23 +26598,23 @@
       "home": "Los Angeles Angels",
       "awayScore": 7,
       "homeScore": 6,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-15T01:38:00Z",
       "gameDate": "2026-08-15T01:38:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Texas Rangers",
       "home": "Athletics",
       "awayScore": 3,
-      "homeScore": 5,
-      "status": "live",
-      "liveInfo": " 8局",
+      "homeScore": 8,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-15T01:40:00Z",
       "gameDate": "2026-08-15T01:40:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -26623,7 +26623,7 @@
       "awayScore": 1,
       "homeScore": 3,
       "status": "live",
-      "liveInfo": " 7局",
+      "liveInfo": " 9局",
       "time": "2026-08-15T02:10:00Z",
       "gameDate": "2026-08-15T02:10:00Z",
       "winner": null
@@ -26632,10 +26632,10 @@
       "league": "MLB",
       "away": "Colorado Rockies",
       "home": "San Francisco Giants",
-      "awayScore": 4,
-      "homeScore": 1,
+      "awayScore": 5,
+      "homeScore": 2,
       "status": "live",
-      "liveInfo": " 8局",
+      "liveInfo": " 9局",
       "time": "2026-08-15T02:15:00Z",
       "gameDate": "2026-08-15T02:15:00Z",
       "winner": null
@@ -34446,9 +34446,9 @@
         ],
         [
           "Royals",
-          "49",
+          "50",
           "73",
-          ".402"
+          ".407"
         ]
       ]
     },
@@ -34470,8 +34470,8 @@
         [
           "Rangers",
           "60",
-          "62",
-          ".492"
+          "63",
+          ".488"
         ],
         [
           "Mariners",
@@ -34480,16 +34480,16 @@
           ".463"
         ],
         [
-          "Angels",
+          "Athletics",
           "48",
           "74",
           ".393"
         ],
         [
-          "Athletics",
-          "47",
-          "74",
-          ".388"
+          "Angels",
+          "48",
+          "75",
+          ".390"
         ]
       ]
     },
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-15T04:05:23.291Z"
+  "updatedAt": "2026-08-15T04:44:50.899Z"
 }
