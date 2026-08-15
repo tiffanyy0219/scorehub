@@ -26622,11 +26622,11 @@
       "home": "Los Angeles Dodgers",
       "awayScore": 1,
       "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-15T02:10:00Z",
       "gameDate": "2026-08-15T02:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -26634,11 +26634,11 @@
       "home": "San Francisco Giants",
       "awayScore": 5,
       "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-15T02:15:00Z",
       "gameDate": "2026-08-15T02:15:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -34546,8 +34546,8 @@
         [
           "Brewers",
           "75",
-          "47",
-          ".615"
+          "48",
+          ".610"
         ],
         [
           "Cubs",
@@ -34586,9 +34586,9 @@
       "rows": [
         [
           "Dodgers",
-          "73",
+          "74",
           "49",
-          ".598"
+          ".602"
         ],
         [
           "Padres",
@@ -34605,17 +34605,17 @@
         [
           "Giants",
           "50",
-          "71",
-          ".413"
+          "72",
+          ".410"
         ],
         [
           "Rockies",
-          "48",
+          "49",
           "73",
-          ".397"
+          ".402"
         ]
       ]
     }
   ],
-  "updatedAt": "2026-08-15T04:44:50.899Z"
+  "updatedAt": "2026-08-15T05:11:23.246Z"
 }
