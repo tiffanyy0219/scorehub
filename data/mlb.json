@@ -26682,11 +26682,11 @@
       "home": "San Francisco Giants",
       "awayScore": 1,
       "homeScore": 7,
-      "status": "live",
-      "liveInfo": " 7局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-15T20:05:00Z",
       "gameDate": "2026-08-15T20:05:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -26695,7 +26695,7 @@
       "awayScore": 4,
       "homeScore": 3,
       "status": "live",
-      "liveInfo": " 7局",
+      "liveInfo": " 8局",
       "time": "2026-08-15T20:10:00Z",
       "gameDate": "2026-08-15T20:10:00Z",
       "winner": null
@@ -26704,10 +26704,10 @@
       "league": "MLB",
       "away": "Baltimore Orioles",
       "home": "Tampa Bay Rays",
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 2局",
       "time": "2026-08-15T22:10:00Z",
       "gameDate": "2026-08-15T22:10:00Z",
       "winner": null
@@ -34604,18 +34604,18 @@
         ],
         [
           "Giants",
-          "50",
+          "51",
           "72",
-          ".410"
+          ".415"
         ],
         [
           "Rockies",
           "49",
-          "73",
-          ".402"
+          "74",
+          ".398"
         ]
       ]
     }
   ],
-  "updatedAt": "2026-08-15T22:07:44.888Z"
+  "updatedAt": "2026-08-15T22:36:53.967Z"
 }
