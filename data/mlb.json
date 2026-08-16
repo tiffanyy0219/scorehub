@@ -26814,11 +26814,11 @@
       "home": "Athletics",
       "awayScore": 5,
       "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-16T01:40:00Z",
       "gameDate": "2026-08-16T01:40:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -34469,9 +34469,9 @@
         ],
         [
           "Rangers",
-          "60",
+          "61",
           "63",
-          ".488"
+          ".492"
         ],
         [
           "Mariners",
@@ -34488,8 +34488,8 @@
         [
           "Athletics",
           "48",
-          "74",
-          ".393"
+          "75",
+          ".390"
         ]
       ]
     },
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-16T04:20:12.636Z"
+  "updatedAt": "2026-08-16T04:57:53.366Z"
 }
