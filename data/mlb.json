@@ -26848,13 +26848,13 @@
       "league": "MLB",
       "away": "Arizona Diamondbacks",
       "home": "Atlanta Braves",
-      "awayScore": 2,
+      "awayScore": 3,
       "homeScore": 5,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-16T17:35:00Z",
       "gameDate": "2026-08-16T17:35:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -26875,7 +26875,7 @@
       "awayScore": 3,
       "homeScore": 4,
       "status": "live",
-      "liveInfo": " 8局",
+      "liveInfo": " 9局",
       "time": "2026-08-16T17:40:00Z",
       "gameDate": "2026-08-16T17:40:00Z",
       "winner": null
@@ -26897,7 +26897,7 @@
       "away": "Chicago White Sox",
       "home": "Detroit Tigers",
       "awayScore": 6,
-      "homeScore": 4,
+      "homeScore": 5,
       "status": "live",
       "liveInfo": " 7局",
       "time": "2026-08-16T17:40:00Z",
@@ -26908,7 +26908,7 @@
       "league": "MLB",
       "away": "Miami Marlins",
       "home": "Cincinnati Reds",
-      "awayScore": 0,
+      "awayScore": 2,
       "homeScore": 0,
       "status": "live",
       "liveInfo": " 8局",
@@ -26920,7 +26920,7 @@
       "league": "MLB",
       "away": "Philadelphia Phillies",
       "home": "Minnesota Twins",
-      "awayScore": 0,
+      "awayScore": 4,
       "homeScore": 5,
       "status": "live",
       "liveInfo": " 6局",
@@ -26956,10 +26956,10 @@
       "league": "MLB",
       "away": "Texas Rangers",
       "home": "Athletics",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-16T20:05:00Z",
       "gameDate": "2026-08-16T20:05:00Z",
       "winner": null
@@ -26968,10 +26968,10 @@
       "league": "MLB",
       "away": "Kansas City Royals",
       "home": "Los Angeles Angels",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-16T20:07:00Z",
       "gameDate": "2026-08-16T20:07:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-16T19:46:39.395Z"
+  "updatedAt": "2026-08-16T20:00:58.967Z"
 }
