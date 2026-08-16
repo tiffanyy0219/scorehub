@@ -26884,10 +26884,10 @@
       "league": "MLB",
       "away": "San Diego Padres",
       "home": "Cleveland Guardians",
-      "awayScore": 3,
+      "awayScore": 5,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 8局",
+      "liveInfo": " 9局",
       "time": "2026-08-16T17:40:00Z",
       "gameDate": "2026-08-16T17:40:00Z",
       "winner": null
@@ -26946,11 +26946,11 @@
       "home": "San Francisco Giants",
       "awayScore": 13,
       "homeScore": 7,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-16T20:05:00Z",
       "gameDate": "2026-08-16T20:05:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -26982,17 +26982,17 @@
       "home": "Los Angeles Dodgers",
       "awayScore": 6,
       "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-16T20:10:00Z",
       "gameDate": "2026-08-16T20:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Seattle Mariners",
       "home": "Houston Astros",
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
       "status": "live",
       "liveInfo": " 1局",
@@ -34545,9 +34545,9 @@
       "rows": [
         [
           "Brewers",
-          "76",
+          "77",
           "48",
-          ".613"
+          ".616"
         ],
         [
           "Cubs",
@@ -34587,8 +34587,8 @@
         [
           "Dodgers",
           "74",
-          "50",
-          ".597"
+          "51",
+          ".592"
         ],
         [
           "Padres",
@@ -34605,17 +34605,17 @@
         [
           "Giants",
           "51",
-          "72",
-          ".415"
+          "73",
+          ".411"
         ],
         [
           "Rockies",
-          "49",
+          "50",
           "74",
-          ".398"
+          ".403"
         ]
       ]
     }
   ],
-  "updatedAt": "2026-08-16T23:01:23.760Z"
+  "updatedAt": "2026-08-16T23:32:49.140Z"
 }
