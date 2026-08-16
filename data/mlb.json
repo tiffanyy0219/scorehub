@@ -26884,10 +26884,10 @@
       "league": "MLB",
       "away": "San Diego Padres",
       "home": "Cleveland Guardians",
-      "awayScore": 0,
+      "awayScore": 2,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 3局",
       "time": "2026-08-16T17:40:00Z",
       "gameDate": "2026-08-16T17:40:00Z",
       "winner": null
@@ -26922,11 +26922,11 @@
       "home": "Minnesota Twins",
       "awayScore": 7,
       "homeScore": 5,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-16T18:10:00Z",
       "gameDate": "2026-08-16T18:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -26935,7 +26935,7 @@
       "awayScore": 9,
       "homeScore": 2,
       "status": "live",
-      "liveInfo": " 5局",
+      "liveInfo": " 7局",
       "time": "2026-08-16T19:15:00Z",
       "gameDate": "2026-08-16T19:15:00Z",
       "winner": null
@@ -26944,10 +26944,10 @@
       "league": "MLB",
       "away": "Colorado Rockies",
       "home": "San Francisco Giants",
-      "awayScore": 4,
-      "homeScore": 5,
+      "awayScore": 6,
+      "homeScore": 6,
       "status": "live",
-      "liveInfo": " 3局",
+      "liveInfo": " 5局",
       "time": "2026-08-16T20:05:00Z",
       "gameDate": "2026-08-16T20:05:00Z",
       "winner": null
@@ -26959,7 +26959,7 @@
       "awayScore": 2,
       "homeScore": 2,
       "status": "live",
-      "liveInfo": " 3局",
+      "liveInfo": " 5局",
       "time": "2026-08-16T20:05:00Z",
       "gameDate": "2026-08-16T20:05:00Z",
       "winner": null
@@ -26968,10 +26968,10 @@
       "league": "MLB",
       "away": "Kansas City Royals",
       "home": "Los Angeles Angels",
-      "awayScore": 1,
+      "awayScore": 2,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 4局",
+      "liveInfo": " 6局",
       "time": "2026-08-16T20:07:00Z",
       "gameDate": "2026-08-16T20:07:00Z",
       "winner": null
@@ -26980,10 +26980,10 @@
       "league": "MLB",
       "away": "Milwaukee Brewers",
       "home": "Los Angeles Dodgers",
-      "awayScore": 1,
-      "homeScore": 0,
+      "awayScore": 2,
+      "homeScore": 1,
       "status": "live",
-      "liveInfo": " 3局",
+      "liveInfo": " 5局",
       "time": "2026-08-16T20:10:00Z",
       "gameDate": "2026-08-16T20:10:00Z",
       "winner": null
@@ -34433,16 +34433,16 @@
           ".484"
         ],
         [
-          "Twins",
+          "Tigers",
           "60",
           "64",
           ".484"
         ],
         [
-          "Tigers",
+          "Twins",
           "60",
-          "64",
-          ".484"
+          "65",
+          ".480"
         ],
         [
           "Royals",
@@ -34510,9 +34510,9 @@
         ],
         [
           "Phillies",
-          "66",
+          "67",
           "58",
-          ".532"
+          ".536"
         ],
         [
           "Marlins",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-16T20:57:26.546Z"
+  "updatedAt": "2026-08-16T21:28:30.519Z"
 }
