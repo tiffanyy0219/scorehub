@@ -26801,9 +26801,9 @@
       "away": "Kansas City Royals",
       "home": "Los Angeles Angels",
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 1,
       "status": "live",
-      "liveInfo": " 5局",
+      "liveInfo": " 8局",
       "time": "2026-08-16T01:38:00Z",
       "gameDate": "2026-08-16T01:38:00Z",
       "winner": null
@@ -26812,10 +26812,10 @@
       "league": "MLB",
       "away": "Texas Rangers",
       "home": "Athletics",
-      "awayScore": 0,
+      "awayScore": 4,
       "homeScore": 3,
       "status": "live",
-      "liveInfo": " 4局",
+      "liveInfo": " 7局",
       "time": "2026-08-16T01:40:00Z",
       "gameDate": "2026-08-16T01:40:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-16T02:48:05.584Z"
+  "updatedAt": "2026-08-16T03:36:52.287Z"
 }
