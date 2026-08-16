@@ -26884,10 +26884,10 @@
       "league": "MLB",
       "away": "San Diego Padres",
       "home": "Cleveland Guardians",
-      "awayScore": 2,
+      "awayScore": 3,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 3局",
+      "liveInfo": " 4局",
       "time": "2026-08-16T17:40:00Z",
       "gameDate": "2026-08-16T17:40:00Z",
       "winner": null
@@ -26932,10 +26932,10 @@
       "league": "MLB",
       "away": "St. Louis Cardinals",
       "home": "Chicago Cubs",
-      "awayScore": 9,
+      "awayScore": 11,
       "homeScore": 2,
       "status": "live",
-      "liveInfo": " 7局",
+      "liveInfo": " 8局",
       "time": "2026-08-16T19:15:00Z",
       "gameDate": "2026-08-16T19:15:00Z",
       "winner": null
@@ -26945,9 +26945,9 @@
       "away": "Colorado Rockies",
       "home": "San Francisco Giants",
       "awayScore": 6,
-      "homeScore": 6,
+      "homeScore": 7,
       "status": "live",
-      "liveInfo": " 5局",
+      "liveInfo": " 6局",
       "time": "2026-08-16T20:05:00Z",
       "gameDate": "2026-08-16T20:05:00Z",
       "winner": null
@@ -26959,7 +26959,7 @@
       "awayScore": 2,
       "homeScore": 2,
       "status": "live",
-      "liveInfo": " 5局",
+      "liveInfo": " 6局",
       "time": "2026-08-16T20:05:00Z",
       "gameDate": "2026-08-16T20:05:00Z",
       "winner": null
@@ -26968,10 +26968,10 @@
       "league": "MLB",
       "away": "Kansas City Royals",
       "home": "Los Angeles Angels",
-      "awayScore": 2,
+      "awayScore": 3,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 6局",
+      "liveInfo": " 7局",
       "time": "2026-08-16T20:07:00Z",
       "gameDate": "2026-08-16T20:07:00Z",
       "winner": null
@@ -26983,7 +26983,7 @@
       "awayScore": 2,
       "homeScore": 1,
       "status": "live",
-      "liveInfo": " 5局",
+      "liveInfo": " 6局",
       "time": "2026-08-16T20:10:00Z",
       "gameDate": "2026-08-16T20:10:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-16T21:28:30.519Z"
+  "updatedAt": "2026-08-16T21:49:46.909Z"
 }
