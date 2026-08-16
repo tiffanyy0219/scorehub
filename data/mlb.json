@@ -26886,11 +26886,11 @@
       "home": "Cleveland Guardians",
       "awayScore": 5,
       "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-16T17:40:00Z",
       "gameDate": "2026-08-16T17:40:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -26995,7 +26995,7 @@
       "awayScore": 1,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 3局",
       "time": "2026-08-16T23:20:00Z",
       "gameDate": "2026-08-16T23:20:00Z",
       "winner": null
@@ -34427,12 +34427,6 @@
           ".528"
         ],
         [
-          "Guardians",
-          "60",
-          "64",
-          ".484"
-        ],
-        [
           "Tigers",
           "60",
           "64",
@@ -34440,6 +34434,12 @@
         ],
         [
           "Twins",
+          "60",
+          "65",
+          ".480"
+        ],
+        [
+          "Guardians",
           "60",
           "65",
           ".480"
@@ -34592,9 +34592,9 @@
         ],
         [
           "Padres",
-          "66",
+          "67",
           "58",
-          ".532"
+          ".536"
         ],
         [
           "D-backs",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-16T23:32:49.140Z"
+  "updatedAt": "2026-08-16T23:54:56.949Z"
 }
