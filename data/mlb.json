@@ -27005,9 +27005,9 @@
       "away": "St. Louis Cardinals",
       "home": "Cincinnati Reds",
       "awayScore": 2,
-      "homeScore": 0,
+      "homeScore": 1,
       "status": "live",
-      "liveInfo": " 2局",
+      "liveInfo": " 4局",
       "time": "2026-08-17T17:40:00Z",
       "gameDate": "2026-08-17T17:40:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-17T18:16:14.687Z"
+  "updatedAt": "2026-08-17T19:03:06.245Z"
 }
