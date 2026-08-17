@@ -26994,11 +26994,11 @@
       "home": "Houston Astros",
       "awayScore": 3,
       "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-16T23:20:00Z",
       "gameDate": "2026-08-16T23:20:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -34464,8 +34464,8 @@
         [
           "Astros",
           "63",
-          "61",
-          ".508"
+          "62",
+          ".504"
         ],
         [
           "Rangers",
@@ -34475,9 +34475,9 @@
         ],
         [
           "Mariners",
-          "58",
+          "59",
           "66",
-          ".468"
+          ".472"
         ],
         [
           "Athletics",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-17T01:42:50.493Z"
+  "updatedAt": "2026-08-17T02:47:49.129Z"
 }
