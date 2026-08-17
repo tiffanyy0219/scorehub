@@ -27007,7 +27007,7 @@
       "awayScore": 2,
       "homeScore": 1,
       "status": "live",
-      "liveInfo": " 7局",
+      "liveInfo": " 8局",
       "time": "2026-08-17T17:40:00Z",
       "gameDate": "2026-08-17T17:40:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-17T19:40:02.464Z"
+  "updatedAt": "2026-08-17T20:01:24.979Z"
 }
