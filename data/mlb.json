@@ -27006,11 +27006,11 @@
       "home": "Cincinnati Reds",
       "awayScore": 2,
       "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-17T17:40:00Z",
       "gameDate": "2026-08-17T17:40:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -34557,9 +34557,9 @@
         ],
         [
           "Cardinals",
-          "63",
+          "64",
           "61",
-          ".508"
+          ".512"
         ],
         [
           "Pirates",
@@ -34570,8 +34570,8 @@
         [
           "Reds",
           "59",
-          "64",
-          ".480"
+          "65",
+          ".476"
         ]
       ]
     },
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-17T20:01:24.979Z"
+  "updatedAt": "2026-08-17T20:41:25.023Z"
 }
