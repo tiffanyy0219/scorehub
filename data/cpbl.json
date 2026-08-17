@@ -5,25 +5,25 @@
       "away": "中信兄弟",
       "home": "統一7-ELEVEn獅",
       "status": "scheduled",
-      "time": "2026-08-17T13:01:10.942Z",
-      "gameDate": "2026-08-17T13:01:10.942Z"
+      "time": "2026-08-17T13:51:19.096Z",
+      "gameDate": "2026-08-17T13:51:19.096Z"
     },
     {
       "league": "中職",
       "away": "樂天桃猿",
       "home": "富邦悍將",
       "status": "scheduled",
-      "time": "2026-08-17T13:01:10.942Z",
-      "gameDate": "2026-08-17T13:01:10.942Z"
+      "time": "2026-08-17T13:51:19.096Z",
+      "gameDate": "2026-08-17T13:51:19.096Z"
     },
     {
       "league": "中職",
       "away": "味全龍",
       "home": "台鋼雄鷹",
       "status": "scheduled",
-      "time": "2026-08-17T13:01:10.942Z",
-      "gameDate": "2026-08-17T13:01:10.942Z"
+      "time": "2026-08-17T13:51:19.096Z",
+      "gameDate": "2026-08-17T13:51:19.096Z"
     }
   ],
-  "error": "maximum redirect reached at: https://en.cpbl.com.tw/schedule/index?year=2026&kindCode=A"
+  "error": "抓不到資料"
 }
