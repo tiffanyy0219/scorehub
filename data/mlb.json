@@ -27019,7 +27019,7 @@
       "awayScore": 2,
       "homeScore": 1,
       "status": "live",
-      "liveInfo": " 4局",
+      "liveInfo": " 5局",
       "time": "2026-08-17T22:40:00Z",
       "gameDate": "2026-08-17T22:40:00Z",
       "winner": null
@@ -27028,10 +27028,10 @@
       "league": "MLB",
       "away": "Baltimore Orioles",
       "home": "Tampa Bay Rays",
-      "awayScore": 4,
+      "awayScore": 6,
       "homeScore": 4,
       "status": "live",
-      "liveInfo": " 5局",
+      "liveInfo": " 6局",
       "time": "2026-08-17T22:05:00Z",
       "gameDate": "2026-08-17T22:05:00Z",
       "winner": null
@@ -27043,7 +27043,7 @@
       "awayScore": 0,
       "homeScore": 2,
       "status": "live",
-      "liveInfo": " 3局",
+      "liveInfo": " 4局",
       "time": "2026-08-17T22:40:00Z",
       "gameDate": "2026-08-17T22:40:00Z",
       "winner": null
@@ -27052,10 +27052,10 @@
       "league": "MLB",
       "away": "Detroit Tigers",
       "home": "Pittsburgh Pirates",
-      "awayScore": 2,
+      "awayScore": 4,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 2局",
+      "liveInfo": " 3局",
       "time": "2026-08-17T23:05:00Z",
       "gameDate": "2026-08-17T23:05:00Z",
       "winner": null
@@ -27065,9 +27065,9 @@
       "away": "Arizona Diamondbacks",
       "home": "Boston Red Sox",
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 2,
       "status": "live",
-      "liveInfo": " 2局",
+      "liveInfo": " 3局",
       "time": "2026-08-17T23:10:00Z",
       "gameDate": "2026-08-17T23:10:00Z",
       "winner": null
@@ -27076,10 +27076,10 @@
       "league": "MLB",
       "away": "San Diego Padres",
       "home": "New York Mets",
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 2,
       "status": "live",
-      "liveInfo": " 2局",
+      "liveInfo": " 3局",
       "time": "2026-08-17T23:10:00Z",
       "gameDate": "2026-08-17T23:10:00Z",
       "winner": null
@@ -27088,8 +27088,8 @@
       "league": "MLB",
       "away": "Athletics",
       "home": "Kansas City Royals",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 1,
       "status": "live",
       "liveInfo": " 1局",
       "time": "2026-08-17T23:40:00Z",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-17T23:36:30.929Z"
+  "updatedAt": "2026-08-17T23:57:28.712Z"
 }
