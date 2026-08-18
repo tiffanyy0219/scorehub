@@ -27102,35 +27102,35 @@
       "home": "Minnesota Twins",
       "awayScore": 2,
       "homeScore": 4,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-17T23:40:00Z",
       "gameDate": "2026-08-17T23:40:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Chicago White Sox",
       "home": "Chicago Cubs",
       "awayScore": 5,
-      "homeScore": 4,
-      "status": "live",
-      "liveInfo": " 8局",
+      "homeScore": 7,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-18T00:05:00Z",
       "gameDate": "2026-08-18T00:05:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Los Angeles Dodgers",
       "home": "Colorado Rockies",
-      "awayScore": 10,
-      "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 7局",
+      "awayScore": 11,
+      "homeScore": 5,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-18T00:40:00Z",
       "gameDate": "2026-08-18T00:40:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -34423,8 +34423,8 @@
         [
           "White Sox",
           "65",
-          "58",
-          ".528"
+          "59",
+          ".524"
         ],
         [
           "Tigers",
@@ -34434,9 +34434,9 @@
         ],
         [
           "Twins",
-          "60",
+          "61",
           "65",
-          ".480"
+          ".484"
         ],
         [
           "Guardians",
@@ -34505,8 +34505,8 @@
         [
           "Braves",
           "74",
-          "50",
-          ".597"
+          "51",
+          ".592"
         ],
         [
           "Phillies",
@@ -34551,9 +34551,9 @@
         ],
         [
           "Cubs",
-          "72",
+          "73",
           "53",
-          ".576"
+          ".579"
         ],
         [
           "Cardinals",
@@ -34586,9 +34586,9 @@
       "rows": [
         [
           "Dodgers",
-          "74",
+          "75",
           "51",
-          ".592"
+          ".595"
         ],
         [
           "Padres",
@@ -34611,11 +34611,11 @@
         [
           "Rockies",
           "50",
-          "74",
-          ".403"
+          "75",
+          ".400"
         ]
       ]
     }
   ],
-  "updatedAt": "2026-08-18T02:44:03.220Z"
+  "updatedAt": "2026-08-18T03:32:02.650Z"
 }
