@@ -27294,20 +27294,20 @@
       "home": "Houston Astros",
       "awayScore": 3,
       "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-19T00:10:00Z",
       "gameDate": "2026-08-19T00:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Los Angeles Dodgers",
       "home": "Colorado Rockies",
       "awayScore": 7,
-      "homeScore": 4,
+      "homeScore": 5,
       "status": "live",
-      "liveInfo": " 7局",
+      "liveInfo": " 9局",
       "time": "2026-08-19T00:40:00Z",
       "gameDate": "2026-08-19T00:40:00Z",
       "winner": null
@@ -34464,8 +34464,8 @@
         [
           "Astros",
           "63",
-          "62",
-          ".504"
+          "63",
+          ".500"
         ],
         [
           "Rangers",
@@ -34481,9 +34481,9 @@
         ],
         [
           "Angels",
-          "49",
+          "50",
           "76",
-          ".392"
+          ".397"
         ],
         [
           "Athletics",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-19T02:45:19.760Z"
+  "updatedAt": "2026-08-19T03:33:33.568Z"
 }
