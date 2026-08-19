@@ -27305,12 +27305,12 @@
       "away": "Los Angeles Dodgers",
       "home": "Colorado Rockies",
       "awayScore": 7,
-      "homeScore": 5,
-      "status": "live",
-      "liveInfo": " 9局",
+      "homeScore": 6,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-19T00:40:00Z",
       "gameDate": "2026-08-19T00:40:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -34586,9 +34586,9 @@
       "rows": [
         [
           "Dodgers",
-          "75",
+          "76",
           "51",
-          ".595"
+          ".598"
         ],
         [
           "Padres",
@@ -34611,11 +34611,11 @@
         [
           "Rockies",
           "50",
-          "75",
-          ".400"
+          "76",
+          ".397"
         ]
       ]
     }
   ],
-  "updatedAt": "2026-08-19T03:33:33.568Z"
+  "updatedAt": "2026-08-19T04:20:36.413Z"
 }
