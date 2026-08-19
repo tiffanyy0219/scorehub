@@ -27317,9 +27317,9 @@
       "away": "Detroit Tigers",
       "home": "Pittsburgh Pirates",
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 1,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 2局",
       "time": "2026-08-19T16:35:00Z",
       "gameDate": "2026-08-19T16:35:00Z",
       "winner": null
@@ -27328,10 +27328,10 @@
       "league": "MLB",
       "away": "San Diego Padres",
       "home": "New York Mets",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-19T17:10:00Z",
       "gameDate": "2026-08-19T17:10:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-19T16:37:46.428Z"
+  "updatedAt": "2026-08-19T17:02:24.001Z"
 }
