@@ -27281,12 +27281,12 @@
       "away": "Chicago White Sox",
       "home": "Chicago Cubs",
       "awayScore": 3,
-      "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 8局",
+      "homeScore": 4,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-19T00:05:00Z",
       "gameDate": "2026-08-19T00:05:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -34423,8 +34423,8 @@
         [
           "White Sox",
           "65",
-          "59",
-          ".524"
+          "60",
+          ".520"
         ],
         [
           "Twins",
@@ -34551,9 +34551,9 @@
         ],
         [
           "Cubs",
-          "73",
+          "74",
           "53",
-          ".579"
+          ".583"
         ],
         [
           "Cardinals",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-19T04:20:36.413Z"
+  "updatedAt": "2026-08-19T05:03:33.987Z"
 }
