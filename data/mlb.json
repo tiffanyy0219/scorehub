@@ -27535,7 +27535,7 @@
       "awayScore": 2,
       "homeScore": 6,
       "status": "live",
-      "liveInfo": " 7局",
+      "liveInfo": " 8局",
       "time": "2026-08-20T18:10:00Z",
       "gameDate": "2026-08-20T18:10:00Z",
       "winner": null
@@ -27557,9 +27557,9 @@
       "away": "Seattle Mariners",
       "home": "Milwaukee Brewers",
       "awayScore": 4,
-      "homeScore": 6,
+      "homeScore": 7,
       "status": "live",
-      "liveInfo": " 7局",
+      "liveInfo": " 9局",
       "time": "2026-08-20T18:10:00Z",
       "gameDate": "2026-08-20T18:10:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-20T20:37:50.100Z"
+  "updatedAt": "2026-08-20T21:04:22.429Z"
 }
