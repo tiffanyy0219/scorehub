@@ -27568,10 +27568,10 @@
       "league": "MLB",
       "away": "New York Yankees",
       "home": "Baltimore Orioles",
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 3局",
       "time": "2026-08-20T22:35:00Z",
       "gameDate": "2026-08-20T22:35:00Z",
       "winner": null
@@ -27580,10 +27580,10 @@
       "league": "MLB",
       "away": "Washington Nationals",
       "home": "Texas Rangers",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-21T00:05:00Z",
       "gameDate": "2026-08-21T00:05:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-20T23:15:39.563Z"
+  "updatedAt": "2026-08-20T23:44:37.346Z"
 }
