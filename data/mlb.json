@@ -27534,11 +27534,11 @@
       "home": "Kansas City Royals",
       "awayScore": 2,
       "homeScore": 6,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-20T18:10:00Z",
       "gameDate": "2026-08-20T18:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -27558,11 +27558,11 @@
       "home": "Milwaukee Brewers",
       "awayScore": 4,
       "homeScore": 7,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-20T18:10:00Z",
       "gameDate": "2026-08-20T18:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -32462,6 +32462,18 @@
     },
     {
       "league": "MLB",
+      "away": "Philadelphia Phillies",
+      "home": "New York Mets",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "2026-09-20T17:10:00Z",
+      "gameDate": "2026-09-20T17:10:00Z",
+      "winner": null
+    },
+    {
+      "league": "MLB",
       "away": "Kansas City Royals",
       "home": "Pittsburgh Pirates",
       "awayScore": null,
@@ -32500,18 +32512,6 @@
       "league": "MLB",
       "away": "Boston Red Sox",
       "home": "Tampa Bay Rays",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "2026-09-20T17:40:00Z",
-      "gameDate": "2026-09-20T17:40:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
-      "away": "Philadelphia Phillies",
-      "home": "New York Mets",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34446,9 +34446,9 @@
         ],
         [
           "Royals",
-          "54",
+          "55",
           "74",
-          ".422"
+          ".426"
         ]
       ]
     },
@@ -34476,8 +34476,8 @@
         [
           "Mariners",
           "60",
-          "67",
-          ".472"
+          "68",
+          ".469"
         ],
         [
           "Angels",
@@ -34488,8 +34488,8 @@
         [
           "Athletics",
           "49",
-          "78",
-          ".386"
+          "79",
+          ".383"
         ]
       ]
     },
@@ -34545,9 +34545,9 @@
       "rows": [
         [
           "Brewers",
-          "78",
+          "79",
           "49",
-          ".614"
+          ".617"
         ],
         [
           "Cubs",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-20T21:04:22.429Z"
+  "updatedAt": "2026-08-20T21:41:33.737Z"
 }
