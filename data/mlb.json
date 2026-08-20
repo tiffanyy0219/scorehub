@@ -27390,11 +27390,11 @@
       "home": "Baltimore Orioles",
       "awayScore": 5,
       "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-19T22:35:00Z",
       "gameDate": "2026-08-19T22:35:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -27436,34 +27436,34 @@
       "league": "MLB",
       "away": "Athletics",
       "home": "Kansas City Royals",
-      "awayScore": 5,
-      "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 8局",
+      "awayScore": 7,
+      "homeScore": 9,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-19T23:40:00Z",
       "gameDate": "2026-08-19T23:40:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Seattle Mariners",
       "home": "Milwaukee Brewers",
       "awayScore": 7,
-      "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 6局",
+      "homeScore": 5,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-19T23:40:00Z",
       "gameDate": "2026-08-19T23:40:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Washington Nationals",
       "home": "Texas Rangers",
-      "awayScore": 3,
+      "awayScore": 6,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 6局",
+      "liveInfo": " 9局",
       "time": "2026-08-20T00:05:00Z",
       "gameDate": "2026-08-20T00:05:00Z",
       "winner": null
@@ -27475,7 +27475,7 @@
       "awayScore": 2,
       "homeScore": 3,
       "status": "live",
-      "liveInfo": " 5局",
+      "liveInfo": " 8局",
       "time": "2026-08-20T00:10:00Z",
       "gameDate": "2026-08-20T00:10:00Z",
       "winner": null
@@ -27485,9 +27485,9 @@
       "away": "Los Angeles Dodgers",
       "home": "Colorado Rockies",
       "awayScore": 4,
-      "homeScore": 0,
+      "homeScore": 2,
       "status": "live",
-      "liveInfo": " 4局",
+      "liveInfo": " 7局",
       "time": "2026-08-20T00:40:00Z",
       "gameDate": "2026-08-20T00:40:00Z",
       "winner": null
@@ -34387,9 +34387,9 @@
         ],
         [
           "Yankees",
-          "70",
+          "71",
           "55",
-          ".560"
+          ".563"
         ],
         [
           "Red Sox",
@@ -34406,8 +34406,8 @@
         [
           "Orioles",
           "61",
-          "65",
-          ".484"
+          "66",
+          ".480"
         ]
       ]
     },
@@ -34446,9 +34446,9 @@
         ],
         [
           "Royals",
-          "53",
+          "54",
           "74",
-          ".417"
+          ".422"
         ]
       ]
     },
@@ -34475,9 +34475,9 @@
         ],
         [
           "Mariners",
-          "59",
+          "60",
           "67",
-          ".468"
+          ".472"
         ],
         [
           "Angels",
@@ -34488,8 +34488,8 @@
         [
           "Athletics",
           "49",
-          "77",
-          ".389"
+          "78",
+          ".386"
         ]
       ]
     },
@@ -34546,8 +34546,8 @@
         [
           "Brewers",
           "78",
-          "48",
-          ".619"
+          "49",
+          ".614"
         ],
         [
           "Cubs",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-20T01:46:28.438Z"
+  "updatedAt": "2026-08-20T02:44:58.421Z"
 }
