@@ -27568,10 +27568,10 @@
       "league": "MLB",
       "away": "New York Yankees",
       "home": "Baltimore Orioles",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-20T22:35:00Z",
       "gameDate": "2026-08-20T22:35:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-20T22:11:17.038Z"
+  "updatedAt": "2026-08-20T22:49:02.051Z"
 }
