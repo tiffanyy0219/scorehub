@@ -27497,9 +27497,9 @@
       "away": "St. Louis Cardinals",
       "home": "Cincinnati Reds",
       "awayScore": 4,
-      "homeScore": 0,
+      "homeScore": 5,
       "status": "live",
-      "liveInfo": " 4局",
+      "liveInfo": " 8局",
       "time": "2026-08-20T16:40:00Z",
       "gameDate": "2026-08-20T16:40:00Z",
       "winner": null
@@ -27508,10 +27508,10 @@
       "league": "MLB",
       "away": "San Francisco Giants",
       "home": "Cleveland Guardians",
-      "awayScore": 0,
+      "awayScore": 2,
       "homeScore": 3,
       "status": "live",
-      "liveInfo": " 3局",
+      "liveInfo": " 6局",
       "time": "2026-08-20T17:10:00Z",
       "gameDate": "2026-08-20T17:10:00Z",
       "winner": null
@@ -27520,10 +27520,10 @@
       "league": "MLB",
       "away": "Toronto Blue Jays",
       "home": "Tampa Bay Rays",
-      "awayScore": 1,
-      "homeScore": 0,
+      "awayScore": 3,
+      "homeScore": 1,
       "status": "live",
-      "liveInfo": " 3局",
+      "liveInfo": " 6局",
       "time": "2026-08-20T17:10:00Z",
       "gameDate": "2026-08-20T17:10:00Z",
       "winner": null
@@ -27533,9 +27533,9 @@
       "away": "Athletics",
       "home": "Kansas City Royals",
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 1,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 2局",
       "time": "2026-08-20T18:10:00Z",
       "gameDate": "2026-08-20T18:10:00Z",
       "winner": null
@@ -27544,10 +27544,10 @@
       "league": "MLB",
       "away": "Atlanta Braves",
       "home": "Chicago White Sox",
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 3局",
       "time": "2026-08-20T18:10:00Z",
       "gameDate": "2026-08-20T18:10:00Z",
       "winner": null
@@ -27557,9 +27557,9 @@
       "away": "Seattle Mariners",
       "home": "Milwaukee Brewers",
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 6,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 2局",
       "time": "2026-08-20T18:10:00Z",
       "gameDate": "2026-08-20T18:10:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-20T17:50:49.277Z"
+  "updatedAt": "2026-08-20T18:49:13.740Z"
 }
