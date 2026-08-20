@@ -27496,10 +27496,10 @@
       "league": "MLB",
       "away": "St. Louis Cardinals",
       "home": "Cincinnati Reds",
-      "awayScore": 1,
+      "awayScore": 4,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 3局",
+      "liveInfo": " 4局",
       "time": "2026-08-20T16:40:00Z",
       "gameDate": "2026-08-20T16:40:00Z",
       "winner": null
@@ -27509,9 +27509,9 @@
       "away": "San Francisco Giants",
       "home": "Cleveland Guardians",
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 3,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 3局",
       "time": "2026-08-20T17:10:00Z",
       "gameDate": "2026-08-20T17:10:00Z",
       "winner": null
@@ -27520,10 +27520,10 @@
       "league": "MLB",
       "away": "Toronto Blue Jays",
       "home": "Tampa Bay Rays",
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 3局",
       "time": "2026-08-20T17:10:00Z",
       "gameDate": "2026-08-20T17:10:00Z",
       "winner": null
@@ -27532,10 +27532,10 @@
       "league": "MLB",
       "away": "Athletics",
       "home": "Kansas City Royals",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-20T18:10:00Z",
       "gameDate": "2026-08-20T18:10:00Z",
       "winner": null
@@ -27544,10 +27544,10 @@
       "league": "MLB",
       "away": "Atlanta Braves",
       "home": "Chicago White Sox",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-20T18:10:00Z",
       "gameDate": "2026-08-20T18:10:00Z",
       "winner": null
@@ -27556,10 +27556,10 @@
       "league": "MLB",
       "away": "Seattle Mariners",
       "home": "Milwaukee Brewers",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-20T18:10:00Z",
       "gameDate": "2026-08-20T18:10:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-20T17:15:08.669Z"
+  "updatedAt": "2026-08-20T17:50:49.277Z"
 }
