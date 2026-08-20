@@ -27496,10 +27496,10 @@
       "league": "MLB",
       "away": "St. Louis Cardinals",
       "home": "Cincinnati Reds",
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 3局",
       "time": "2026-08-20T16:40:00Z",
       "gameDate": "2026-08-20T16:40:00Z",
       "winner": null
@@ -27508,10 +27508,10 @@
       "league": "MLB",
       "away": "San Francisco Giants",
       "home": "Cleveland Guardians",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-20T17:10:00Z",
       "gameDate": "2026-08-20T17:10:00Z",
       "winner": null
@@ -27520,10 +27520,10 @@
       "league": "MLB",
       "away": "Toronto Blue Jays",
       "home": "Tampa Bay Rays",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-20T17:10:00Z",
       "gameDate": "2026-08-20T17:10:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-20T16:43:13.269Z"
+  "updatedAt": "2026-08-20T17:15:08.669Z"
 }
