@@ -27581,24 +27581,24 @@
       "away": "Washington Nationals",
       "home": "Texas Rangers",
       "awayScore": 0,
-      "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 8局",
+      "homeScore": 2,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-21T00:05:00Z",
       "gameDate": "2026-08-21T00:05:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Los Angeles Angels",
       "home": "Houston Astros",
-      "awayScore": 14,
-      "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 6局",
+      "awayScore": 18,
+      "homeScore": 3,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-21T00:10:00Z",
       "gameDate": "2026-08-21T00:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -34464,14 +34464,14 @@
         [
           "Astros",
           "64",
-          "63",
-          ".504"
+          "64",
+          ".500"
         ],
         [
           "Rangers",
-          "62",
+          "63",
           "65",
-          ".488"
+          ".492"
         ],
         [
           "Mariners",
@@ -34481,9 +34481,9 @@
         ],
         [
           "Angels",
-          "50",
+          "51",
           "77",
-          ".394"
+          ".398"
         ],
         [
           "Athletics",
@@ -34523,8 +34523,8 @@
         [
           "Nationals",
           "61",
-          "67",
-          ".477"
+          "68",
+          ".473"
         ],
         [
           "Mets",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-21T02:09:10.283Z"
+  "updatedAt": "2026-08-21T03:16:43.546Z"
 }
