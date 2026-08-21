@@ -27568,22 +27568,22 @@
       "league": "MLB",
       "away": "New York Yankees",
       "home": "Baltimore Orioles",
-      "awayScore": 3,
+      "awayScore": 6,
       "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 5局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-20T22:35:00Z",
       "gameDate": "2026-08-20T22:35:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Washington Nationals",
       "home": "Texas Rangers",
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 1,
       "status": "live",
-      "liveInfo": " 2局",
+      "liveInfo": " 8局",
       "time": "2026-08-21T00:05:00Z",
       "gameDate": "2026-08-21T00:05:00Z",
       "winner": null
@@ -27592,10 +27592,10 @@
       "league": "MLB",
       "away": "Los Angeles Angels",
       "home": "Houston Astros",
-      "awayScore": 1,
-      "homeScore": 0,
+      "awayScore": 14,
+      "homeScore": 2,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 6局",
       "time": "2026-08-21T00:10:00Z",
       "gameDate": "2026-08-21T00:10:00Z",
       "winner": null
@@ -34387,9 +34387,9 @@
         ],
         [
           "Yankees",
-          "71",
+          "72",
           "55",
-          ".563"
+          ".567"
         ],
         [
           "Red Sox",
@@ -34406,8 +34406,8 @@
         [
           "Orioles",
           "61",
-          "66",
-          ".480"
+          "67",
+          ".477"
         ]
       ]
     },
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-21T00:25:51.935Z"
+  "updatedAt": "2026-08-21T02:09:10.283Z"
 }
