@@ -27761,24 +27761,24 @@
       "away": "Pittsburgh Pirates",
       "home": "Los Angeles Dodgers",
       "awayScore": 4,
-      "homeScore": 4,
-      "status": "live",
-      "liveInfo": " 9局",
+      "homeScore": 5,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-22T02:10:00Z",
       "gameDate": "2026-08-22T02:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Chicago Cubs",
       "home": "Seattle Mariners",
       "awayScore": 5,
-      "homeScore": 5,
-      "status": "live",
-      "liveInfo": " 10局",
+      "homeScore": 6,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-22T02:10:00Z",
       "gameDate": "2026-08-22T02:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -34475,9 +34475,9 @@
         ],
         [
           "Mariners",
-          "60",
+          "61",
           "68",
-          ".469"
+          ".473"
         ],
         [
           "Angels",
@@ -34552,8 +34552,8 @@
         [
           "Cubs",
           "74",
-          "54",
-          ".578"
+          "55",
+          ".574"
         ],
         [
           "Cardinals",
@@ -34564,8 +34564,8 @@
         [
           "Pirates",
           "63",
-          "66",
-          ".488"
+          "67",
+          ".485"
         ],
         [
           "Reds",
@@ -34586,9 +34586,9 @@
       "rows": [
         [
           "Dodgers",
-          "77",
+          "78",
           "51",
-          ".602"
+          ".605"
         ],
         [
           "Padres",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-22T05:05:12.773Z"
+  "updatedAt": "2026-08-22T05:39:47.732Z"
 }
