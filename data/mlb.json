@@ -27820,10 +27820,10 @@
       "league": "MLB",
       "away": "St. Louis Cardinals",
       "home": "Philadelphia Phillies",
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 7,
       "status": "live",
-      "liveInfo": " 5局",
+      "liveInfo": " 6局",
       "time": "2026-08-22T22:05:00Z",
       "gameDate": "2026-08-22T22:05:00Z",
       "winner": null
@@ -27835,7 +27835,7 @@
       "awayScore": 1,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 2局",
+      "liveInfo": " 3局",
       "time": "2026-08-22T23:05:00Z",
       "gameDate": "2026-08-22T23:05:00Z",
       "winner": null
@@ -27847,7 +27847,7 @@
       "awayScore": 1,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 2局",
+      "liveInfo": " 3局",
       "time": "2026-08-22T23:05:00Z",
       "gameDate": "2026-08-22T23:05:00Z",
       "winner": null
@@ -27856,10 +27856,10 @@
       "league": "MLB",
       "away": "Athletics",
       "home": "Houston Astros",
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 3局",
       "time": "2026-08-22T23:10:00Z",
       "gameDate": "2026-08-22T23:10:00Z",
       "winner": null
@@ -27869,9 +27869,9 @@
       "away": "New York Mets",
       "home": "Chicago White Sox",
       "awayScore": 1,
-      "homeScore": 0,
+      "homeScore": 1,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 2局",
       "time": "2026-08-22T23:10:00Z",
       "gameDate": "2026-08-22T23:10:00Z",
       "winner": null
@@ -27883,7 +27883,7 @@
       "awayScore": 0,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 3局",
       "time": "2026-08-22T23:15:00Z",
       "gameDate": "2026-08-22T23:15:00Z",
       "winner": null
@@ -27895,7 +27895,7 @@
       "awayScore": 3,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 2局",
       "time": "2026-08-22T23:15:00Z",
       "gameDate": "2026-08-22T23:15:00Z",
       "winner": null
@@ -27907,7 +27907,7 @@
       "awayScore": 0,
       "homeScore": 1,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 3局",
       "time": "2026-08-22T23:15:00Z",
       "gameDate": "2026-08-22T23:15:00Z",
       "winner": null
@@ -27919,7 +27919,7 @@
       "awayScore": 1,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 2局",
       "time": "2026-08-22T23:15:00Z",
       "gameDate": "2026-08-22T23:15:00Z",
       "winner": null
@@ -27940,10 +27940,10 @@
       "league": "MLB",
       "away": "Cleveland Guardians",
       "home": "Colorado Rockies",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-23T00:10:00Z",
       "gameDate": "2026-08-23T00:10:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-22T23:26:31.678Z"
+  "updatedAt": "2026-08-22T23:49:06.891Z"
 }
