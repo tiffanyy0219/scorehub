@@ -27784,10 +27784,10 @@
       "league": "MLB",
       "away": "Toronto Blue Jays",
       "home": "New York Yankees",
-      "awayScore": 2,
+      "awayScore": 3,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 4局",
+      "liveInfo": " 6局",
       "time": "2026-08-22T17:35:00Z",
       "gameDate": "2026-08-22T17:35:00Z",
       "winner": null
@@ -27797,9 +27797,9 @@
       "away": "Atlanta Braves",
       "home": "Milwaukee Brewers",
       "awayScore": 1,
-      "homeScore": 1,
+      "homeScore": 4,
       "status": "live",
-      "liveInfo": " 3局",
+      "liveInfo": " 4局",
       "time": "2026-08-22T18:10:00Z",
       "gameDate": "2026-08-22T18:10:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-22T19:04:24.131Z"
+  "updatedAt": "2026-08-22T19:32:44.558Z"
 }
