@@ -27737,12 +27737,12 @@
       "away": "Cincinnati Reds",
       "home": "Arizona Diamondbacks",
       "awayScore": 0,
-      "homeScore": 6,
-      "status": "live",
-      "liveInfo": " 7局",
+      "homeScore": 9,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-22T01:40:00Z",
       "gameDate": "2026-08-22T01:40:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -27760,10 +27760,10 @@
       "league": "MLB",
       "away": "Pittsburgh Pirates",
       "home": "Los Angeles Dodgers",
-      "awayScore": 2,
+      "awayScore": 4,
       "homeScore": 4,
       "status": "live",
-      "liveInfo": " 6局",
+      "liveInfo": " 8局",
       "time": "2026-08-22T02:10:00Z",
       "gameDate": "2026-08-22T02:10:00Z",
       "winner": null
@@ -27772,10 +27772,10 @@
       "league": "MLB",
       "away": "Chicago Cubs",
       "home": "Seattle Mariners",
-      "awayScore": 3,
+      "awayScore": 5,
       "homeScore": 5,
       "status": "live",
-      "liveInfo": " 6局",
+      "liveInfo": " 9局",
       "time": "2026-08-22T02:10:00Z",
       "gameDate": "2026-08-22T02:10:00Z",
       "winner": null
@@ -34570,8 +34570,8 @@
         [
           "Reds",
           "61",
-          "67",
-          ".477"
+          "68",
+          ".473"
         ]
       ]
     },
@@ -34598,9 +34598,9 @@
         ],
         [
           "D-backs",
-          "67",
+          "68",
           "61",
-          ".523"
+          ".527"
         ],
         [
           "Giants",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-22T03:53:50.949Z"
+  "updatedAt": "2026-08-22T04:39:06.037Z"
 }
