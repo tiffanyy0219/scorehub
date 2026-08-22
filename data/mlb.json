@@ -27763,7 +27763,7 @@
       "awayScore": 4,
       "homeScore": 4,
       "status": "live",
-      "liveInfo": " 8局",
+      "liveInfo": " 9局",
       "time": "2026-08-22T02:10:00Z",
       "gameDate": "2026-08-22T02:10:00Z",
       "winner": null
@@ -27775,7 +27775,7 @@
       "awayScore": 5,
       "homeScore": 5,
       "status": "live",
-      "liveInfo": " 9局",
+      "liveInfo": " 10局",
       "time": "2026-08-22T02:10:00Z",
       "gameDate": "2026-08-22T02:10:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-22T04:39:06.037Z"
+  "updatedAt": "2026-08-22T05:05:12.773Z"
 }
