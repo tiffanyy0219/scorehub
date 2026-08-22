@@ -27784,10 +27784,10 @@
       "league": "MLB",
       "away": "Toronto Blue Jays",
       "home": "New York Yankees",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-08-22T17:35:00Z",
       "gameDate": "2026-08-22T17:35:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-22T16:58:29.984Z"
+  "updatedAt": "2026-08-22T17:29:30.438Z"
 }
