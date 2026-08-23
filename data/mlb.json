@@ -27833,45 +27833,45 @@
       "away": "Tampa Bay Rays",
       "home": "Baltimore Orioles",
       "awayScore": 2,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 6局",
+      "homeScore": 3,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-22T23:05:00Z",
       "gameDate": "2026-08-22T23:05:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Los Angeles Angels",
       "home": "Texas Rangers",
-      "awayScore": 2,
+      "awayScore": 3,
       "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 6局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-22T23:05:00Z",
       "gameDate": "2026-08-22T23:05:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Athletics",
       "home": "Houston Astros",
-      "awayScore": 1,
-      "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 6局",
+      "awayScore": 4,
+      "homeScore": 3,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-22T23:10:00Z",
       "gameDate": "2026-08-22T23:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "New York Mets",
       "home": "Chicago White Sox",
-      "awayScore": 4,
-      "homeScore": 3,
+      "awayScore": 8,
+      "homeScore": 5,
       "status": "live",
-      "liveInfo": " 4局",
+      "liveInfo": " 9局",
       "time": "2026-08-22T23:10:00Z",
       "gameDate": "2026-08-22T23:10:00Z",
       "winner": null
@@ -27881,36 +27881,36 @@
       "away": "Detroit Tigers",
       "home": "Kansas City Royals",
       "awayScore": 1,
-      "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 6局",
+      "homeScore": 3,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-22T23:15:00Z",
       "gameDate": "2026-08-22T23:15:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Pittsburgh Pirates",
       "home": "Los Angeles Dodgers",
       "awayScore": 3,
-      "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 5局",
+      "homeScore": 4,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-22T23:15:00Z",
       "gameDate": "2026-08-22T23:15:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Chicago Cubs",
       "home": "Seattle Mariners",
-      "awayScore": 1,
-      "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 5局",
+      "awayScore": 4,
+      "homeScore": 5,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-22T23:15:00Z",
       "gameDate": "2026-08-22T23:15:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -27919,7 +27919,7 @@
       "awayScore": 2,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 5局",
+      "liveInfo": " 9局",
       "time": "2026-08-22T23:15:00Z",
       "gameDate": "2026-08-22T23:15:00Z",
       "winner": null
@@ -27928,10 +27928,10 @@
       "league": "MLB",
       "away": "Cincinnati Reds",
       "home": "Arizona Diamondbacks",
-      "awayScore": 1,
-      "homeScore": 0,
+      "awayScore": 9,
+      "homeScore": 4,
       "status": "live",
-      "liveInfo": " 2局",
+      "liveInfo": " 7局",
       "time": "2026-08-23T00:10:00Z",
       "gameDate": "2026-08-23T00:10:00Z",
       "winner": null
@@ -27940,10 +27940,10 @@
       "league": "MLB",
       "away": "Cleveland Guardians",
       "home": "Colorado Rockies",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 4,
+      "homeScore": 2,
       "status": "live",
-      "liveInfo": " 2局",
+      "liveInfo": " 8局",
       "time": "2026-08-23T00:10:00Z",
       "gameDate": "2026-08-23T00:10:00Z",
       "winner": null
@@ -27952,10 +27952,10 @@
       "league": "MLB",
       "away": "Minnesota Twins",
       "home": "San Diego Padres",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 5,
+      "homeScore": 1,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 5局",
       "time": "2026-08-23T00:40:00Z",
       "gameDate": "2026-08-23T00:40:00Z",
       "winner": null
@@ -34382,8 +34382,8 @@
         [
           "Rays",
           "76",
-          "52",
-          ".594"
+          "53",
+          ".589"
         ],
         [
           "Yankees",
@@ -34405,9 +34405,9 @@
         ],
         [
           "Orioles",
-          "62",
+          "63",
           "67",
-          ".481"
+          ".485"
         ]
       ]
     },
@@ -34441,14 +34441,14 @@
         [
           "Tigers",
           "61",
-          "67",
-          ".477"
+          "68",
+          ".473"
         ],
         [
           "Royals",
-          "56",
+          "57",
           "74",
-          ".431"
+          ".435"
         ]
       ]
     },
@@ -34464,32 +34464,32 @@
         [
           "Astros",
           "65",
-          "64",
-          ".504"
+          "65",
+          ".500"
         ],
         [
           "Rangers",
           "64",
-          "65",
-          ".496"
+          "66",
+          ".492"
         ],
         [
           "Mariners",
-          "61",
+          "62",
           "68",
-          ".473"
+          ".477"
         ],
         [
           "Angels",
-          "51",
+          "52",
           "78",
-          ".395"
+          ".400"
         ],
         [
           "Athletics",
-          "49",
+          "50",
           "80",
-          ".380"
+          ".385"
         ]
       ]
     },
@@ -34552,8 +34552,8 @@
         [
           "Cubs",
           "74",
-          "55",
-          ".574"
+          "56",
+          ".569"
         ],
         [
           "Cardinals",
@@ -34564,8 +34564,8 @@
         [
           "Pirates",
           "63",
-          "67",
-          ".485"
+          "68",
+          ".481"
         ],
         [
           "Reds",
@@ -34586,9 +34586,9 @@
       "rows": [
         [
           "Dodgers",
-          "78",
+          "79",
           "51",
-          ".605"
+          ".608"
         ],
         [
           "Padres",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-23T00:40:14.484Z"
+  "updatedAt": "2026-08-23T02:14:57.227Z"
 }
