@@ -28096,13 +28096,13 @@
       "league": "MLB",
       "away": "Chicago Cubs",
       "home": "Seattle Mariners",
-      "awayScore": 16,
+      "awayScore": 19,
       "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-23T20:10:00Z",
       "gameDate": "2026-08-23T20:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -28122,20 +28122,20 @@
       "home": "Arizona Diamondbacks",
       "awayScore": 3,
       "homeScore": 5,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-23T20:15:00Z",
       "gameDate": "2026-08-23T20:15:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Atlanta Braves",
       "home": "Milwaukee Brewers",
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 2局",
       "time": "2026-08-23T23:10:00Z",
       "gameDate": "2026-08-23T23:10:00Z",
       "winner": null
@@ -34476,8 +34476,8 @@
         [
           "Mariners",
           "62",
-          "68",
-          ".477"
+          "69",
+          ".473"
         ],
         [
           "Angels",
@@ -34551,9 +34551,9 @@
         ],
         [
           "Cubs",
-          "74",
+          "75",
           "56",
-          ".569"
+          ".573"
         ],
         [
           "Cardinals",
@@ -34570,8 +34570,8 @@
         [
           "Reds",
           "62",
-          "68",
-          ".477"
+          "69",
+          ".473"
         ]
       ]
     },
@@ -34598,9 +34598,9 @@
         ],
         [
           "D-backs",
-          "68",
+          "69",
           "62",
-          ".523"
+          ".527"
         ],
         [
           "Giants",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-23T23:02:23.772Z"
+  "updatedAt": "2026-08-23T23:33:57.388Z"
 }
