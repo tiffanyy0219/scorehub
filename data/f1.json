@@ -102,28 +102,28 @@
       "rows": [
         [
           "Andrea Kimi Antonelli",
-          "224",
+          "242",
+          "Mercedes"
+        ],
+        [
+          "George Russell",
+          "183",
           "Mercedes"
         ],
         [
           "Lewis Hamilton",
-          "171",
-          "Ferrari"
-        ],
-        [
-          "George Russell",
-          "168",
-          "Mercedes"
-        ],
-        [
-          "Charles Leclerc",
-          "145",
+          "183",
           "Ferrari"
         ],
         [
           "Lando Norris",
-          "134",
+          "159",
           "McLaren"
+        ],
+        [
+          "Charles Leclerc",
+          "155",
+          "Ferrari"
         ],
         [
           "Max Verstappen",
@@ -132,7 +132,7 @@
         ],
         [
           "Oscar Piastri",
-          "96",
+          "104",
           "McLaren"
         ],
         [
@@ -141,14 +141,14 @@
           "Red Bull"
         ],
         [
-          "Pierre Gasly",
-          "43",
-          "Alpine F1 Team"
+          "Liam Lawson",
+          "49",
+          "RB F1 Team"
         ],
         [
-          "Liam Lawson",
-          "43",
-          "RB F1 Team"
+          "Pierre Gasly",
+          "44",
+          "Alpine F1 Team"
         ]
       ]
     },
@@ -161,19 +161,19 @@
       "rows": [
         [
           "Mercedes",
-          "392"
+          "425"
         ],
         [
           "Ferrari",
-          "316"
+          "338"
         ],
         [
           "McLaren",
-          "230"
+          "263"
         ],
         [
           "Red Bull",
-          "180"
+          "186"
         ],
         [
           "RB F1 Team",
@@ -181,7 +181,7 @@
         ],
         [
           "Alpine F1 Team",
-          "62"
+          "63"
         ],
         [
           "Haas F1 Team",
@@ -189,10 +189,10 @@
         ],
         [
           "Audi",
-          "12"
+          "16"
         ]
       ]
     }
   ],
-  "updatedAt": "2026-08-23T15:31:40.642Z"
+  "updatedAt": "2026-08-23T15:56:41.972Z"
 }
