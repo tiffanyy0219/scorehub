@@ -28086,20 +28086,20 @@
       "home": "Los Angeles Dodgers",
       "awayScore": 0,
       "homeScore": 4,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-23T20:10:00Z",
       "gameDate": "2026-08-23T20:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Chicago Cubs",
       "home": "Seattle Mariners",
-      "awayScore": 7,
+      "awayScore": 16,
       "homeScore": 2,
       "status": "live",
-      "liveInfo": " 7局",
+      "liveInfo": " 8局",
       "time": "2026-08-23T20:10:00Z",
       "gameDate": "2026-08-23T20:10:00Z",
       "winner": null
@@ -28110,11 +28110,11 @@
       "home": "San Diego Padres",
       "awayScore": 1,
       "homeScore": 8,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-23T20:10:00Z",
       "gameDate": "2026-08-23T20:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -28123,7 +28123,7 @@
       "awayScore": 3,
       "homeScore": 5,
       "status": "live",
-      "liveInfo": " 8局",
+      "liveInfo": " 9局",
       "time": "2026-08-23T20:15:00Z",
       "gameDate": "2026-08-23T20:15:00Z",
       "winner": null
@@ -34435,8 +34435,8 @@
         [
           "Twins",
           "63",
-          "67",
-          ".485"
+          "68",
+          ".481"
         ],
         [
           "Tigers",
@@ -34564,8 +34564,8 @@
         [
           "Pirates",
           "63",
-          "68",
-          ".481"
+          "69",
+          ".477"
         ],
         [
           "Reds",
@@ -34586,15 +34586,15 @@
       "rows": [
         [
           "Dodgers",
-          "79",
+          "80",
           "51",
-          ".608"
+          ".611"
         ],
         [
           "Padres",
-          "70",
+          "71",
           "60",
-          ".538"
+          ".542"
         ],
         [
           "D-backs",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-23T22:42:35.586Z"
+  "updatedAt": "2026-08-23T23:02:23.772Z"
 }
