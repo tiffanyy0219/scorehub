@@ -28013,7 +28013,7 @@
       "away": "Detroit Tigers",
       "home": "Kansas City Royals",
       "awayScore": 7,
-      "homeScore": 9,
+      "homeScore": 11,
       "status": "live",
       "liveInfo": " 8局",
       "time": "2026-08-23T18:10:00Z",
@@ -28024,10 +28024,10 @@
       "league": "MLB",
       "away": "Athletics",
       "home": "Houston Astros",
-      "awayScore": 6,
+      "awayScore": 7,
       "homeScore": 6,
       "status": "live",
-      "liveInfo": " 6局",
+      "liveInfo": " 8局",
       "time": "2026-08-23T18:10:00Z",
       "gameDate": "2026-08-23T18:10:00Z",
       "winner": null
@@ -28036,22 +28036,22 @@
       "league": "MLB",
       "away": "New York Mets",
       "home": "Chicago White Sox",
-      "awayScore": 0,
-      "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 9局",
+      "awayScore": 1,
+      "homeScore": 2,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-23T18:10:00Z",
       "gameDate": "2026-08-23T18:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Los Angeles Angels",
       "home": "Texas Rangers",
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 5,
       "status": "live",
-      "liveInfo": " 7局",
+      "liveInfo": " 8局",
       "time": "2026-08-23T18:35:00Z",
       "gameDate": "2026-08-23T18:35:00Z",
       "winner": null
@@ -28060,10 +28060,10 @@
       "league": "MLB",
       "away": "Cleveland Guardians",
       "home": "Colorado Rockies",
-      "awayScore": 5,
+      "awayScore": 6,
       "homeScore": 2,
       "status": "live",
-      "liveInfo": " 3局",
+      "liveInfo": " 4局",
       "time": "2026-08-23T19:10:00Z",
       "gameDate": "2026-08-23T19:10:00Z",
       "winner": null
@@ -28073,9 +28073,9 @@
       "away": "San Francisco Giants",
       "home": "Boston Red Sox",
       "awayScore": 3,
-      "homeScore": 4,
+      "homeScore": 5,
       "status": "live",
-      "liveInfo": " 4局",
+      "liveInfo": " 6局",
       "time": "2026-08-23T19:15:00Z",
       "gameDate": "2026-08-23T19:15:00Z",
       "winner": null
@@ -28087,7 +28087,7 @@
       "awayScore": 0,
       "homeScore": 1,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 3局",
       "time": "2026-08-23T20:10:00Z",
       "gameDate": "2026-08-23T20:10:00Z",
       "winner": null
@@ -28097,9 +28097,9 @@
       "away": "Chicago Cubs",
       "home": "Seattle Mariners",
       "awayScore": 0,
-      "homeScore": 1,
+      "homeScore": 2,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 2局",
       "time": "2026-08-23T20:10:00Z",
       "gameDate": "2026-08-23T20:10:00Z",
       "winner": null
@@ -28109,9 +28109,9 @@
       "away": "Minnesota Twins",
       "home": "San Diego Padres",
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 1,
       "status": "live",
-      "liveInfo": " 2局",
+      "liveInfo": " 4局",
       "time": "2026-08-23T20:10:00Z",
       "gameDate": "2026-08-23T20:10:00Z",
       "winner": null
@@ -28120,10 +28120,10 @@
       "league": "MLB",
       "away": "Cincinnati Reds",
       "home": "Arizona Diamondbacks",
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 3局",
       "time": "2026-08-23T20:15:00Z",
       "gameDate": "2026-08-23T20:15:00Z",
       "winner": null
@@ -34387,9 +34387,9 @@
         ],
         [
           "Yankees",
-          "73",
+          "74",
           "56",
-          ".566"
+          ".569"
         ],
         [
           "Red Sox",
@@ -34400,8 +34400,8 @@
         [
           "Blue Jays",
           "64",
-          "67",
-          ".489"
+          "68",
+          ".485"
         ],
         [
           "Orioles",
@@ -34422,9 +34422,9 @@
       "rows": [
         [
           "White Sox",
-          "67",
+          "68",
           "62",
-          ".519"
+          ".523"
         ],
         [
           "Guardians",
@@ -34529,8 +34529,8 @@
         [
           "Mets",
           "59",
-          "71",
-          ".454"
+          "72",
+          ".450"
         ]
       ]
     },
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-23T20:30:06.052Z"
+  "updatedAt": "2026-08-23T20:54:13.741Z"
 }
