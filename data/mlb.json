@@ -27954,11 +27954,11 @@
       "home": "San Diego Padres",
       "awayScore": 5,
       "homeScore": 7,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-23T00:40:00Z",
       "gameDate": "2026-08-23T00:40:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -34435,8 +34435,8 @@
         [
           "Twins",
           "63",
-          "66",
-          ".488"
+          "67",
+          ".485"
         ],
         [
           "Tigers",
@@ -34592,9 +34592,9 @@
         ],
         [
           "Padres",
-          "69",
+          "70",
           "60",
-          ".535"
+          ".538"
         ],
         [
           "D-backs",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-23T03:25:46.458Z"
+  "updatedAt": "2026-08-23T04:10:52.586Z"
 }
