@@ -28132,10 +28132,10 @@
       "league": "MLB",
       "away": "Atlanta Braves",
       "home": "Milwaukee Brewers",
-      "awayScore": 1,
-      "homeScore": 0,
+      "awayScore": 3,
+      "homeScore": 1,
       "status": "live",
-      "liveInfo": " 3局",
+      "liveInfo": " 8局",
       "time": "2026-08-23T23:10:00Z",
       "gameDate": "2026-08-23T23:10:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-23T23:55:44.925Z"
+  "updatedAt": "2026-08-24T01:49:21.844Z"
 }
