@@ -28144,7 +28144,7 @@
       "league": "MLB",
       "away": "Tampa Bay Rays",
       "home": "Detroit Tigers",
-      "awayScore": 0,
+      "awayScore": 2,
       "homeScore": 0,
       "status": "live",
       "liveInfo": " 1局",
@@ -28159,7 +28159,7 @@
       "awayScore": 0,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 2局",
       "time": "2026-08-24T22:40:00Z",
       "gameDate": "2026-08-24T22:40:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-24T22:37:53.539Z"
+  "updatedAt": "2026-08-24T23:01:30.220Z"
 }
