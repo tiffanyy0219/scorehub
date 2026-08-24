@@ -28132,13 +28132,13 @@
       "league": "MLB",
       "away": "Atlanta Braves",
       "home": "Milwaukee Brewers",
-      "awayScore": 3,
-      "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 8局",
+      "awayScore": 4,
+      "homeScore": 2,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-23T23:10:00Z",
       "gameDate": "2026-08-23T23:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -34504,9 +34504,9 @@
       "rows": [
         [
           "Braves",
-          "75",
+          "76",
           "55",
-          ".577"
+          ".580"
         ],
         [
           "Phillies",
@@ -34546,8 +34546,8 @@
         [
           "Brewers",
           "81",
-          "49",
-          ".623"
+          "50",
+          ".618"
         ],
         [
           "Cubs",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-24T01:49:21.844Z"
+  "updatedAt": "2026-08-24T02:55:09.521Z"
 }
