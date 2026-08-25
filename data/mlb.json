@@ -28216,10 +28216,10 @@
       "league": "MLB",
       "away": "Pittsburgh Pirates",
       "home": "San Diego Padres",
-      "awayScore": 2,
+      "awayScore": 3,
       "homeScore": 2,
       "status": "live",
-      "liveInfo": " 10局",
+      "liveInfo": " 12局",
       "time": "2026-08-25T01:40:00Z",
       "gameDate": "2026-08-25T01:40:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-25T05:06:54.872Z"
+  "updatedAt": "2026-08-25T05:46:45.942Z"
 }
