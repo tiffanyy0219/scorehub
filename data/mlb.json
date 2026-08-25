@@ -28217,9 +28217,9 @@
       "away": "Pittsburgh Pirates",
       "home": "San Diego Padres",
       "awayScore": 2,
-      "homeScore": 1,
+      "homeScore": 2,
       "status": "live",
-      "liveInfo": " 8局",
+      "liveInfo": " 10局",
       "time": "2026-08-25T01:40:00Z",
       "gameDate": "2026-08-25T01:40:00Z",
       "winner": null
@@ -28229,12 +28229,12 @@
       "away": "Minnesota Twins",
       "home": "Athletics",
       "awayScore": 9,
-      "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 9局",
+      "homeScore": 6,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-25T01:40:00Z",
       "gameDate": "2026-08-25T01:40:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -34434,9 +34434,9 @@
         ],
         [
           "Twins",
-          "63",
+          "64",
           "68",
-          ".481"
+          ".485"
         ],
         [
           "Tigers",
@@ -34488,8 +34488,8 @@
         [
           "Athletics",
           "51",
-          "80",
-          ".389"
+          "81",
+          ".386"
         ]
       ]
     },
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-25T04:22:52.595Z"
+  "updatedAt": "2026-08-25T05:06:54.872Z"
 }
