@@ -28218,11 +28218,11 @@
       "home": "San Diego Padres",
       "awayScore": 3,
       "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 12局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-25T01:40:00Z",
       "gameDate": "2026-08-25T01:40:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -34563,9 +34563,9 @@
         ],
         [
           "Pirates",
-          "63",
+          "64",
           "69",
-          ".477"
+          ".481"
         ],
         [
           "Reds",
@@ -34593,8 +34593,8 @@
         [
           "Padres",
           "71",
-          "60",
-          ".542"
+          "61",
+          ".538"
         ],
         [
           "D-backs",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-25T05:46:45.942Z"
+  "updatedAt": "2026-08-25T06:19:53.501Z"
 }
