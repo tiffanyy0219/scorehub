@@ -28374,11 +28374,11 @@
       "home": "Los Angeles Angels",
       "awayScore": 8,
       "homeScore": 6,
-      "status": "live",
-      "liveInfo": " 10局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-26T01:38:00Z",
       "gameDate": "2026-08-26T01:38:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -34428,9 +34428,9 @@
         ],
         [
           "Guardians",
+          "67",
           "66",
-          "66",
-          ".500"
+          ".504"
         ],
         [
           "Twins",
@@ -34480,13 +34480,13 @@
           ".481"
         ],
         [
-          "Angels",
+          "Athletics",
           "52",
-          "80",
-          ".394"
+          "81",
+          ".391"
         ],
         [
-          "Athletics",
+          "Angels",
           "52",
           "81",
           ".391"
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-26T04:55:56.210Z"
+  "updatedAt": "2026-08-26T05:40:58.901Z"
 }
