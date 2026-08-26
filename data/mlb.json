@@ -28372,10 +28372,10 @@
       "league": "MLB",
       "away": "Cleveland Guardians",
       "home": "Los Angeles Angels",
-      "awayScore": 5,
+      "awayScore": 8,
       "homeScore": 6,
       "status": "live",
-      "liveInfo": " 7局",
+      "liveInfo": " 10局",
       "time": "2026-08-26T01:38:00Z",
       "gameDate": "2026-08-26T01:38:00Z",
       "winner": null
@@ -28385,12 +28385,12 @@
       "away": "Chicago Cubs",
       "home": "Arizona Diamondbacks",
       "awayScore": 4,
-      "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 9局",
+      "homeScore": 5,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-26T01:40:00Z",
       "gameDate": "2026-08-26T01:40:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -28410,11 +28410,11 @@
       "home": "Athletics",
       "awayScore": 2,
       "homeScore": 4,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-26T01:40:00Z",
       "gameDate": "2026-08-26T01:40:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -28422,11 +28422,11 @@
       "home": "Seattle Mariners",
       "awayScore": 1,
       "homeScore": 4,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-26T01:40:00Z",
       "gameDate": "2026-08-26T01:40:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -34435,8 +34435,8 @@
         [
           "Twins",
           "64",
-          "68",
-          ".485"
+          "69",
+          ".481"
         ],
         [
           "Tigers",
@@ -34475,9 +34475,9 @@
         ],
         [
           "Mariners",
-          "63",
+          "64",
           "69",
-          ".477"
+          ".481"
         ],
         [
           "Angels",
@@ -34487,9 +34487,9 @@
         ],
         [
           "Athletics",
-          "51",
+          "52",
           "81",
-          ".386"
+          ".391"
         ]
       ]
     },
@@ -34511,8 +34511,8 @@
         [
           "Phillies",
           "73",
-          "59",
-          ".553"
+          "60",
+          ".549"
         ],
         [
           "Marlins",
@@ -34552,8 +34552,8 @@
         [
           "Cubs",
           "76",
-          "56",
-          ".576"
+          "57",
+          ".571"
         ],
         [
           "Cardinals",
@@ -34570,8 +34570,8 @@
         [
           "Reds",
           "62",
-          "70",
-          ".470"
+          "71",
+          ".466"
         ]
       ]
     },
@@ -34598,15 +34598,15 @@
         ],
         [
           "D-backs",
-          "69",
+          "70",
           "63",
-          ".523"
+          ".526"
         ],
         [
           "Giants",
-          "53",
+          "54",
           "78",
-          ".405"
+          ".409"
         ],
         [
           "Rockies",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-26T04:08:12.154Z"
+  "updatedAt": "2026-08-26T04:55:56.210Z"
 }
