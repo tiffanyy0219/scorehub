@@ -28446,32 +28446,32 @@
       "home": "Detroit Tigers",
       "awayScore": 3,
       "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-26T17:10:00Z",
       "gameDate": "2026-08-26T17:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Chicago Cubs",
       "home": "Arizona Diamondbacks",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
+      "awayScore": 0,
+      "homeScore": 2,
+      "status": "final",
       "liveInfo": null,
       "time": "2026-08-26T19:40:00Z",
       "gameDate": "2026-08-26T19:40:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Cincinnati Reds",
       "home": "San Francisco Giants",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 3,
+      "homeScore": 6,
+      "status": "live",
+      "liveInfo": " 8局",
       "time": "2026-08-26T19:45:00Z",
       "gameDate": "2026-08-26T19:45:00Z",
       "winner": null
@@ -28480,10 +28480,10 @@
       "league": "MLB",
       "away": "Cleveland Guardians",
       "home": "Los Angeles Angels",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 1,
+      "homeScore": 3,
+      "status": "live",
+      "liveInfo": " 8局",
       "time": "2026-08-26T20:07:00Z",
       "gameDate": "2026-08-26T20:07:00Z",
       "winner": null
@@ -28492,10 +28492,10 @@
       "league": "MLB",
       "away": "Pittsburgh Pirates",
       "home": "San Diego Padres",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 2,
+      "status": "live",
+      "liveInfo": " 7局",
       "time": "2026-08-26T20:10:00Z",
       "gameDate": "2026-08-26T20:10:00Z",
       "winner": null
@@ -28504,10 +28504,10 @@
       "league": "MLB",
       "away": "Philadelphia Phillies",
       "home": "Seattle Mariners",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 6,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 7局",
       "time": "2026-08-26T20:10:00Z",
       "gameDate": "2026-08-26T20:10:00Z",
       "winner": null
@@ -34381,9 +34381,9 @@
       "rows": [
         [
           "Rays",
-          "78",
+          "79",
           "54",
-          ".591"
+          ".594"
         ],
         [
           "Yankees",
@@ -34441,8 +34441,8 @@
         [
           "Tigers",
           "62",
-          "70",
-          ".470"
+          "71",
+          ".466"
         ],
         [
           "Royals",
@@ -34552,8 +34552,8 @@
         [
           "Cubs",
           "76",
-          "57",
-          ".571"
+          "58",
+          ".567"
         ],
         [
           "Cardinals",
@@ -34598,9 +34598,9 @@
         ],
         [
           "D-backs",
-          "70",
+          "71",
           "63",
-          ".526"
+          ".530"
         ],
         [
           "Giants",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-26T19:09:07.015Z"
+  "updatedAt": "2026-08-26T22:08:29.764Z"
 }
