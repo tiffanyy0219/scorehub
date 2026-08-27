@@ -28614,11 +28614,11 @@
       "home": "Athletics",
       "awayScore": 4,
       "homeScore": 7,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-27T01:05:00Z",
       "gameDate": "2026-08-27T01:05:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -34435,8 +34435,8 @@
         [
           "Twins",
           "64",
-          "69",
-          ".481"
+          "70",
+          ".478"
         ],
         [
           "Tigers",
@@ -34481,9 +34481,9 @@
         ],
         [
           "Athletics",
-          "52",
+          "53",
           "81",
-          ".391"
+          ".396"
         ],
         [
           "Angels",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-27T03:19:16.355Z"
+  "updatedAt": "2026-08-27T14:22:54.553Z"
 }
