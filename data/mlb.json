@@ -28708,10 +28708,10 @@
       "league": "MLB",
       "away": "Cincinnati Reds",
       "home": "Chicago Cubs",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 9,
+      "homeScore": 8,
+      "status": "live",
+      "liveInfo": " 9局",
       "time": "2026-08-28T18:20:00Z",
       "gameDate": "2026-08-28T18:20:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-28T10:59:05.027Z"
+  "updatedAt": "2026-08-28T21:20:48.085Z"
 }
