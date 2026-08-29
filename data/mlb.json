@@ -28852,37 +28852,37 @@
       "league": "MLB",
       "away": "Philadelphia Phillies",
       "home": "Los Angeles Angels",
-      "awayScore": 1,
+      "awayScore": 5,
       "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 7局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-29T01:38:00Z",
       "gameDate": "2026-08-29T01:38:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Baltimore Orioles",
       "home": "Athletics",
-      "awayScore": 2,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 6局",
+      "awayScore": 4,
+      "homeScore": 3,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-29T01:40:00Z",
       "gameDate": "2026-08-29T01:40:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Arizona Diamondbacks",
       "home": "San Francisco Giants",
-      "awayScore": 6,
-      "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 4局",
+      "awayScore": 10,
+      "homeScore": 6,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-29T02:15:00Z",
       "gameDate": "2026-08-29T02:15:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -34398,15 +34398,15 @@
           ".545"
         ],
         [
+          "Orioles",
+          "66",
+          "69",
+          ".489"
+        ],
+        [
           "Blue Jays",
           "66",
           "70",
-          ".485"
-        ],
-        [
-          "Orioles",
-          "65",
-          "69",
           ".485"
         ]
       ]
@@ -34482,14 +34482,14 @@
         [
           "Athletics",
           "53",
-          "81",
-          ".396"
+          "82",
+          ".393"
         ],
         [
           "Angels",
           "52",
-          "82",
-          ".388"
+          "83",
+          ".385"
         ]
       ]
     },
@@ -34510,9 +34510,9 @@
         ],
         [
           "Phillies",
-          "74",
+          "75",
           "60",
-          ".552"
+          ".556"
         ],
         [
           "Marlins",
@@ -34598,15 +34598,15 @@
         ],
         [
           "D-backs",
-          "71",
+          "72",
           "64",
-          ".526"
+          ".529"
         ],
         [
           "Giants",
           "55",
-          "79",
-          ".410"
+          "80",
+          ".407"
         ],
         [
           "Rockies",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-29T03:17:27.151Z"
+  "updatedAt": "2026-08-29T10:14:24.312Z"
 }
