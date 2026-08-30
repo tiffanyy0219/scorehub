@@ -28900,10 +28900,10 @@
       "league": "MLB",
       "away": "Boston Red Sox",
       "home": "New York Yankees",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 4,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 6局",
       "time": "2026-08-29T23:15:00Z",
       "gameDate": "2026-08-29T23:15:00Z",
       "winner": null
@@ -29056,10 +29056,10 @@
       "league": "MLB",
       "away": "Texas Rangers",
       "home": "Milwaukee Brewers",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 3,
+      "homeScore": 5,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 8局",
       "time": "2026-08-29T23:15:00Z",
       "gameDate": "2026-08-29T23:15:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-29T23:20:36.034Z"
+  "updatedAt": "2026-08-30T01:33:40.284Z"
 }
