@@ -28900,13 +28900,13 @@
       "league": "MLB",
       "away": "Boston Red Sox",
       "home": "New York Yankees",
-      "awayScore": 1,
-      "homeScore": 4,
-      "status": "live",
-      "liveInfo": " 6局",
+      "awayScore": 2,
+      "homeScore": 9,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-29T23:15:00Z",
       "gameDate": "2026-08-29T23:15:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -28984,13 +28984,13 @@
       "league": "MLB",
       "away": "Arizona Diamondbacks",
       "home": "San Francisco Giants",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
+      "awayScore": 2,
+      "homeScore": 7,
+      "status": "final",
       "liveInfo": null,
       "time": "2026-08-30T02:05:00Z",
       "gameDate": "2026-08-30T02:05:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -29058,35 +29058,35 @@
       "home": "Milwaukee Brewers",
       "awayScore": 3,
       "homeScore": 5,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-29T23:15:00Z",
       "gameDate": "2026-08-29T23:15:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Baltimore Orioles",
       "home": "Athletics",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
+      "awayScore": 5,
+      "homeScore": 3,
+      "status": "final",
       "liveInfo": null,
       "time": "2026-08-30T02:05:00Z",
       "gameDate": "2026-08-30T02:05:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Philadelphia Phillies",
       "home": "Los Angeles Angels",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
+      "awayScore": 4,
+      "homeScore": 2,
+      "status": "final",
       "liveInfo": null,
       "time": "2026-08-30T02:07:00Z",
       "gameDate": "2026-08-30T02:07:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -34387,26 +34387,26 @@
         ],
         [
           "Yankees",
-          "76",
+          "77",
           "59",
-          ".563"
+          ".566"
         ],
         [
           "Red Sox",
           "74",
-          "61",
-          ".548"
+          "62",
+          ".544"
+        ],
+        [
+          "Orioles",
+          "67",
+          "69",
+          ".493"
         ],
         [
           "Blue Jays",
           "67",
           "70",
-          ".489"
-        ],
-        [
-          "Orioles",
-          "66",
-          "69",
           ".489"
         ]
       ]
@@ -34470,8 +34470,8 @@
         [
           "Rangers",
           "66",
-          "69",
-          ".489"
+          "70",
+          ".485"
         ],
         [
           "Mariners",
@@ -34482,14 +34482,14 @@
         [
           "Athletics",
           "53",
-          "82",
-          ".393"
+          "83",
+          ".390"
         ],
         [
           "Angels",
           "52",
-          "83",
-          ".385"
+          "84",
+          ".382"
         ]
       ]
     },
@@ -34510,9 +34510,9 @@
         ],
         [
           "Phillies",
-          "75",
+          "76",
           "60",
-          ".556"
+          ".559"
         ],
         [
           "Marlins",
@@ -34545,9 +34545,9 @@
       "rows": [
         [
           "Brewers",
-          "84",
+          "85",
           "51",
-          ".622"
+          ".625"
         ],
         [
           "Cubs",
@@ -34591,22 +34591,22 @@
           ".596"
         ],
         [
-          "D-backs",
-          "73",
-          "64",
-          ".533"
-        ],
-        [
           "Padres",
           "72",
           "64",
           ".529"
         ],
         [
+          "D-backs",
+          "73",
+          "65",
+          ".529"
+        ],
+        [
           "Giants",
-          "55",
+          "56",
           "81",
-          ".404"
+          ".409"
         ],
         [
           "Rockies",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-30T01:33:40.284Z"
+  "updatedAt": "2026-08-30T07:23:39.756Z"
 }
