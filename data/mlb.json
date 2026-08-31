@@ -29226,32 +29226,32 @@
       "home": "Athletics",
       "awayScore": 8,
       "homeScore": 5,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-30T20:05:00Z",
       "gameDate": "2026-08-30T20:05:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Philadelphia Phillies",
       "home": "Los Angeles Angels",
-      "awayScore": 4,
-      "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 9局",
+      "awayScore": 5,
+      "homeScore": 2,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-08-30T20:07:00Z",
       "gameDate": "2026-08-30T20:07:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Cincinnati Reds",
       "home": "Chicago Cubs",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 3,
+      "homeScore": 2,
+      "status": "live",
+      "liveInfo": " 4局",
       "time": "2026-08-30T23:20:00Z",
       "gameDate": "2026-08-30T23:20:00Z",
       "winner": null
@@ -34398,15 +34398,15 @@
           ".540"
         ],
         [
+          "Orioles",
+          "68",
+          "69",
+          ".496"
+        ],
+        [
           "Blue Jays",
           "68",
           "70",
-          ".493"
-        ],
-        [
-          "Orioles",
-          "67",
-          "69",
           ".493"
         ]
       ]
@@ -34482,14 +34482,14 @@
         [
           "Athletics",
           "53",
-          "83",
-          ".390"
+          "84",
+          ".387"
         ],
         [
           "Angels",
           "52",
-          "84",
-          ".382"
+          "85",
+          ".380"
         ]
       ]
     },
@@ -34510,9 +34510,9 @@
         ],
         [
           "Phillies",
-          "76",
+          "77",
           "60",
-          ".559"
+          ".562"
         ],
         [
           "Marlins",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-30T22:42:49.898Z"
+  "updatedAt": "2026-08-31T00:55:43.133Z"
 }
