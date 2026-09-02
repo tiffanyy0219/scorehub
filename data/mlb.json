@@ -29584,10 +29584,10 @@
       "league": "MLB",
       "away": "San Diego Padres",
       "home": "Cincinnati Reds",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 3,
+      "homeScore": 4,
+      "status": "live",
+      "liveInfo": " 6局",
       "time": "2026-09-02T16:40:00Z",
       "gameDate": "2026-09-02T16:40:00Z",
       "winner": null
@@ -29596,10 +29596,10 @@
       "league": "MLB",
       "away": "Atlanta Braves",
       "home": "Washington Nationals",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 4局",
       "time": "2026-09-02T17:05:00Z",
       "gameDate": "2026-09-02T17:05:00Z",
       "winner": null
@@ -29608,10 +29608,10 @@
       "league": "MLB",
       "away": "Athletics",
       "home": "Texas Rangers",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-09-02T18:35:00Z",
       "gameDate": "2026-09-02T18:35:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-02T15:05:07.070Z"
+  "updatedAt": "2026-09-02T18:39:45.129Z"
 }
