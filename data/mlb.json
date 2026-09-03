@@ -29764,37 +29764,37 @@
       "league": "MLB",
       "away": "San Francisco Giants",
       "home": "Pittsburgh Pirates",
-      "awayScore": 1,
-      "homeScore": 4,
-      "status": "live",
-      "liveInfo": " 7局",
+      "awayScore": 2,
+      "homeScore": 5,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-03T16:35:00Z",
       "gameDate": "2026-09-03T16:35:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Toronto Blue Jays",
       "home": "Cleveland Guardians",
-      "awayScore": 1,
-      "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 5局",
+      "awayScore": 6,
+      "homeScore": 3,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-03T17:10:00Z",
       "gameDate": "2026-09-03T17:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Chicago White Sox",
       "home": "Houston Astros",
-      "awayScore": 0,
-      "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 2局",
+      "awayScore": 2,
+      "homeScore": 6,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-03T18:10:00Z",
       "gameDate": "2026-09-03T18:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -34399,9 +34399,9 @@
         ],
         [
           "Blue Jays",
-          "69",
+          "70",
           "71",
-          ".493"
+          ".496"
         ],
         [
           "Orioles",
@@ -34423,14 +34423,14 @@
         [
           "White Sox",
           "73",
-          "66",
-          ".525"
+          "67",
+          ".521"
         ],
         [
           "Guardians",
           "70",
-          "69",
-          ".504"
+          "70",
+          ".500"
         ],
         [
           "Twins",
@@ -34463,9 +34463,9 @@
       "rows": [
         [
           "Astros",
-          "71",
+          "72",
           "69",
-          ".507"
+          ".511"
         ],
         [
           "Rangers",
@@ -34563,9 +34563,9 @@
         ],
         [
           "Pirates",
-          "68",
+          "69",
           "72",
-          ".486"
+          ".489"
         ],
         [
           "Reds",
@@ -34605,8 +34605,8 @@
         [
           "Giants",
           "58",
-          "82",
-          ".414"
+          "83",
+          ".411"
         ],
         [
           "Rockies",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-03T18:41:58.325Z"
+  "updatedAt": "2026-09-03T21:25:14.867Z"
 }
