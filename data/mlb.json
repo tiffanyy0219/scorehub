@@ -29872,10 +29872,10 @@
       "league": "MLB",
       "away": "Detroit Tigers",
       "home": "Cleveland Guardians",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 6,
+      "homeScore": 6,
+      "status": "live",
+      "liveInfo": " 5局",
       "time": "2026-09-04T18:10:00Z",
       "gameDate": "2026-09-04T18:10:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-04T18:19:17.100Z"
+  "updatedAt": "2026-09-04T20:53:21.893Z"
 }
