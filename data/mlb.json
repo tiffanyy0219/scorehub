@@ -30078,44 +30078,44 @@
       "home": "Miami Marlins",
       "awayScore": 6,
       "homeScore": 5,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-05T20:10:00Z",
       "gameDate": "2026-09-05T20:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Atlanta Braves",
       "home": "Philadelphia Phillies",
-      "awayScore": 1,
+      "awayScore": 2,
       "homeScore": 4,
-      "status": "live",
-      "liveInfo": " 5局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-05T22:05:00Z",
       "gameDate": "2026-09-05T22:05:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Detroit Tigers",
       "home": "Cleveland Guardians",
-      "awayScore": 3,
+      "awayScore": 6,
       "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 6局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-05T22:10:00Z",
       "gameDate": "2026-09-05T22:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Los Angeles Angels",
       "home": "Pittsburgh Pirates",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 6,
+      "homeScore": 1,
       "status": "live",
-      "liveInfo": " 4局",
+      "liveInfo": " 9局",
       "time": "2026-09-05T22:40:00Z",
       "gameDate": "2026-09-05T22:40:00Z",
       "winner": null
@@ -30127,7 +30127,7 @@
       "awayScore": 2,
       "homeScore": 1,
       "status": "live",
-      "liveInfo": " 3局",
+      "liveInfo": " 4局",
       "time": "2026-09-05T22:40:00Z",
       "gameDate": "2026-09-05T22:40:00Z",
       "winner": null
@@ -30136,10 +30136,10 @@
       "league": "MLB",
       "away": "Boston Red Sox",
       "home": "Baltimore Orioles",
-      "awayScore": 0,
+      "awayScore": 5,
       "homeScore": 0,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 7局",
       "time": "2026-09-05T23:05:00Z",
       "gameDate": "2026-09-05T23:05:00Z",
       "winner": null
@@ -30148,10 +30148,10 @@
       "league": "MLB",
       "away": "Tampa Bay Rays",
       "home": "Texas Rangers",
-      "awayScore": 1,
-      "homeScore": 0,
+      "awayScore": 3,
+      "homeScore": 3,
       "status": "live",
-      "liveInfo": " 2局",
+      "liveInfo": " 8局",
       "time": "2026-09-05T23:05:00Z",
       "gameDate": "2026-09-05T23:05:00Z",
       "winner": null
@@ -30160,10 +30160,10 @@
       "league": "MLB",
       "away": "Toronto Blue Jays",
       "home": "Kansas City Royals",
-      "awayScore": 2,
-      "homeScore": 0,
+      "awayScore": 4,
+      "homeScore": 3,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 7局",
       "time": "2026-09-05T23:10:00Z",
       "gameDate": "2026-09-05T23:10:00Z",
       "winner": null
@@ -30172,10 +30172,10 @@
       "league": "MLB",
       "away": "Minnesota Twins",
       "home": "Chicago White Sox",
-      "awayScore": 0,
-      "homeScore": 2,
+      "awayScore": 6,
+      "homeScore": 4,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 7局",
       "time": "2026-09-05T23:10:00Z",
       "gameDate": "2026-09-05T23:10:00Z",
       "winner": null
@@ -30184,10 +30184,10 @@
       "league": "MLB",
       "away": "Arizona Diamondbacks",
       "home": "Houston Astros",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 3,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 7局",
       "time": "2026-09-05T23:15:00Z",
       "gameDate": "2026-09-05T23:15:00Z",
       "winner": null
@@ -30196,10 +30196,10 @@
       "league": "MLB",
       "away": "New York Yankees",
       "home": "San Diego Padres",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 5,
+      "homeScore": 1,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 6局",
       "time": "2026-09-05T23:15:00Z",
       "gameDate": "2026-09-05T23:15:00Z",
       "winner": null
@@ -30208,10 +30208,10 @@
       "league": "MLB",
       "away": "St. Louis Cardinals",
       "home": "Colorado Rockies",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 1,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 5局",
       "time": "2026-09-06T00:10:00Z",
       "gameDate": "2026-09-06T00:10:00Z",
       "winner": null
@@ -30220,10 +30220,10 @@
       "league": "MLB",
       "away": "Washington Nationals",
       "home": "Los Angeles Dodgers",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-09-06T01:10:00Z",
       "gameDate": "2026-09-06T01:10:00Z",
       "winner": null
@@ -34429,8 +34429,8 @@
         [
           "Guardians",
           "72",
-          "70",
-          ".507"
+          "71",
+          ".503"
         ],
         [
           "Twins",
@@ -34440,9 +34440,9 @@
         ],
         [
           "Tigers",
-          "64",
+          "65",
           "77",
-          ".454"
+          ".458"
         ],
         [
           "Royals",
@@ -34505,20 +34505,20 @@
         [
           "Braves",
           "84",
-          "57",
-          ".596"
+          "58",
+          ".592"
         ],
         [
           "Phillies",
-          "79",
+          "80",
           "62",
-          ".560"
+          ".563"
         ],
         [
           "Marlins",
           "71",
-          "71",
-          ".500"
+          "72",
+          ".497"
         ],
         [
           "Nationals",
@@ -34551,9 +34551,9 @@
         ],
         [
           "Cubs",
-          "80",
+          "81",
           "62",
-          ".563"
+          ".566"
         ],
         [
           "Cardinals",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-05T23:24:12.493Z"
+  "updatedAt": "2026-09-06T01:16:25.167Z"
 }
