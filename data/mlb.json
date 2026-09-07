@@ -30472,13 +30472,13 @@
       "league": "MLB",
       "away": "Arizona Diamondbacks",
       "home": "Kansas City Royals",
-      "awayScore": 3,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 10局",
+      "awayScore": 5,
+      "homeScore": 4,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-07T18:10:00Z",
       "gameDate": "2026-09-07T18:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -30498,20 +30498,20 @@
       "home": "Detroit Tigers",
       "awayScore": 4,
       "homeScore": 5,
-      "status": "live",
-      "liveInfo": " 6局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-07T19:10:00Z",
       "gameDate": "2026-09-07T19:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Washington Nationals",
       "home": "San Diego Padres",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 2,
+      "homeScore": 3,
+      "status": "live",
+      "liveInfo": " 7局",
       "time": "2026-09-07T21:10:00Z",
       "gameDate": "2026-09-07T21:10:00Z",
       "winner": null
@@ -34435,20 +34435,20 @@
         [
           "Twins",
           "68",
-          "75",
-          ".476"
+          "76",
+          ".472"
         ],
         [
           "Tigers",
-          "65",
+          "66",
           "78",
-          ".455"
+          ".458"
         ],
         [
           "Royals",
           "64",
-          "80",
-          ".444"
+          "81",
+          ".441"
         ]
       ]
     },
@@ -34545,15 +34545,15 @@
       "rows": [
         [
           "Brewers",
-          "88",
+          "89",
           "56",
-          ".611"
+          ".614"
         ],
         [
           "Cubs",
           "81",
-          "63",
-          ".563"
+          "64",
+          ".559"
         ],
         [
           "Cardinals",
@@ -34592,9 +34592,9 @@
         ],
         [
           "D-backs",
-          "76",
+          "77",
           "68",
-          ".528"
+          ".531"
         ],
         [
           "Padres",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-07T20:48:32.209Z"
+  "updatedAt": "2026-09-07T23:06:42.287Z"
 }
