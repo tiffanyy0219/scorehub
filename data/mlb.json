@@ -30424,10 +30424,10 @@
       "league": "MLB",
       "away": "Atlanta Braves",
       "home": "Philadelphia Phillies",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 3局",
       "time": "2026-09-07T17:05:00Z",
       "gameDate": "2026-09-07T17:05:00Z",
       "winner": null
@@ -30436,10 +30436,10 @@
       "league": "MLB",
       "away": "New York Mets",
       "home": "Miami Marlins",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 3,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 2局",
       "time": "2026-09-07T17:10:00Z",
       "gameDate": "2026-09-07T17:10:00Z",
       "winner": null
@@ -30448,10 +30448,10 @@
       "league": "MLB",
       "away": "Los Angeles Angels",
       "home": "Boston Red Sox",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-09-07T17:35:00Z",
       "gameDate": "2026-09-07T17:35:00Z",
       "winner": null
@@ -30460,10 +30460,10 @@
       "league": "MLB",
       "away": "Cleveland Guardians",
       "home": "Baltimore Orioles",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-09-07T17:35:00Z",
       "gameDate": "2026-09-07T17:35:00Z",
       "winner": null
@@ -30472,10 +30472,10 @@
       "league": "MLB",
       "away": "Arizona Diamondbacks",
       "home": "Kansas City Royals",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-09-07T18:10:00Z",
       "gameDate": "2026-09-07T18:10:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-07T12:10:27.577Z"
+  "updatedAt": "2026-09-07T17:46:34.364Z"
 }
