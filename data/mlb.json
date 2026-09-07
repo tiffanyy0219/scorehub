@@ -30401,24 +30401,24 @@
       "away": "Minnesota Twins",
       "home": "Chicago White Sox",
       "awayScore": 1,
-      "homeScore": 6,
-      "status": "live",
-      "liveInfo": " 8局",
+      "homeScore": 10,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-06T22:20:00Z",
       "gameDate": "2026-09-06T22:20:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Washington Nationals",
       "home": "Los Angeles Dodgers",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
+      "awayScore": 5,
+      "homeScore": 7,
+      "status": "final",
       "liveInfo": null,
       "time": "2026-09-07T02:10:00Z",
       "gameDate": "2026-09-07T02:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -34422,9 +34422,9 @@
       "rows": [
         [
           "White Sox",
-          "74",
+          "75",
           "68",
-          ".521"
+          ".524"
         ],
         [
           "Guardians",
@@ -34435,8 +34435,8 @@
         [
           "Twins",
           "68",
-          "74",
-          ".479"
+          "75",
+          ".476"
         ],
         [
           "Tigers",
@@ -34523,8 +34523,8 @@
         [
           "Nationals",
           "67",
-          "77",
-          ".465"
+          "78",
+          ".462"
         ],
         [
           "Mets",
@@ -34586,9 +34586,9 @@
       "rows": [
         [
           "Dodgers",
-          "85",
+          "86",
           "57",
-          ".599"
+          ".601"
         ],
         [
           "D-backs",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-07T00:51:00.390Z"
+  "updatedAt": "2026-09-07T05:53:52.920Z"
 }
