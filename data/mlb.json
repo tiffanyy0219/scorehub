@@ -30940,10 +30940,10 @@
       "league": "MLB",
       "away": "Texas Rangers",
       "home": "Seattle Mariners",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 3,
+      "homeScore": 4,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 8局",
       "time": "2026-09-10T20:10:00Z",
       "gameDate": "2026-09-10T20:10:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-10T19:51:44.787Z"
+  "updatedAt": "2026-09-10T22:23:48.348Z"
 }
