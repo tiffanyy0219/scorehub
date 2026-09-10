@@ -30905,12 +30905,12 @@
       "away": "Cincinnati Reds",
       "home": "Los Angeles Dodgers",
       "awayScore": 1,
-      "homeScore": 13,
-      "status": "live",
-      "liveInfo": " 8局",
+      "homeScore": 14,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-10T02:10:00Z",
       "gameDate": "2026-09-10T02:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -34570,8 +34570,8 @@
         [
           "Reds",
           "69",
-          "76",
-          ".476"
+          "77",
+          ".473"
         ]
       ]
     },
@@ -34586,9 +34586,9 @@
       "rows": [
         [
           "Dodgers",
-          "88",
+          "89",
           "57",
-          ".607"
+          ".610"
         ],
         [
           "Padres",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-10T04:30:31.903Z"
+  "updatedAt": "2026-09-10T09:10:54.204Z"
 }
