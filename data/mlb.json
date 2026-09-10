@@ -30916,10 +30916,10 @@
       "league": "MLB",
       "away": "Tampa Bay Rays",
       "home": "Atlanta Braves",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 5局",
       "time": "2026-09-10T16:15:00Z",
       "gameDate": "2026-09-10T16:15:00Z",
       "winner": null
@@ -30928,10 +30928,10 @@
       "league": "MLB",
       "away": "Houston Astros",
       "home": "Philadelphia Phillies",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-09-10T17:05:00Z",
       "gameDate": "2026-09-10T17:05:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-10T13:40:33.957Z"
+  "updatedAt": "2026-09-10T17:18:14.343Z"
 }
