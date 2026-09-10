@@ -30916,34 +30916,34 @@
       "league": "MLB",
       "away": "Tampa Bay Rays",
       "home": "Atlanta Braves",
-      "awayScore": 0,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 5局",
+      "awayScore": 1,
+      "homeScore": 3,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-10T16:15:00Z",
       "gameDate": "2026-09-10T16:15:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Houston Astros",
       "home": "Philadelphia Phillies",
-      "awayScore": 0,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 1局",
+      "awayScore": 2,
+      "homeScore": 1,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-10T17:05:00Z",
       "gameDate": "2026-09-10T17:05:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Texas Rangers",
       "home": "Seattle Mariners",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-09-10T20:10:00Z",
       "gameDate": "2026-09-10T20:10:00Z",
       "winner": null
@@ -34382,8 +34382,8 @@
         [
           "Rays",
           "87",
-          "58",
-          ".600"
+          "59",
+          ".596"
         ],
         [
           "Yankees",
@@ -34463,9 +34463,9 @@
       "rows": [
         [
           "Astros",
-          "74",
+          "75",
           "72",
-          ".507"
+          ".510"
         ],
         [
           "Rangers",
@@ -34504,15 +34504,15 @@
       "rows": [
         [
           "Braves",
-          "85",
+          "86",
           "61",
-          ".582"
+          ".585"
         ],
         [
           "Phillies",
           "82",
-          "64",
-          ".562"
+          "65",
+          ".558"
         ],
         [
           "Marlins",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-10T17:18:14.343Z"
+  "updatedAt": "2026-09-10T19:51:44.787Z"
 }
