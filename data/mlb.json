@@ -30976,10 +30976,10 @@
       "league": "MLB",
       "away": "Pittsburgh Pirates",
       "home": "Chicago Cubs",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 1,
+      "homeScore": 9,
+      "status": "live",
+      "liveInfo": " 5局",
       "time": "2026-09-11T18:20:00Z",
       "gameDate": "2026-09-11T18:20:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-11T17:25:55.317Z"
+  "updatedAt": "2026-09-11T19:58:23.971Z"
 }
