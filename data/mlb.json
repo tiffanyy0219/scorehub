@@ -30952,25 +30952,25 @@
       "league": "MLB",
       "away": "Colorado Rockies",
       "home": "New York Yankees",
-      "awayScore": 1,
-      "homeScore": 4,
-      "status": "live",
-      "liveInfo": " 4局",
+      "awayScore": 3,
+      "homeScore": 10,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-10T23:05:00Z",
       "gameDate": "2026-09-10T23:05:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Pittsburgh Pirates",
       "home": "Chicago White Sox",
-      "awayScore": 0,
+      "awayScore": 2,
       "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 4局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-10T23:40:00Z",
       "gameDate": "2026-09-10T23:40:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -34387,9 +34387,9 @@
         ],
         [
           "Yankees",
-          "83",
+          "84",
           "62",
-          ".572"
+          ".575"
         ],
         [
           "Red Sox",
@@ -34423,8 +34423,8 @@
         [
           "White Sox",
           "75",
-          "70",
-          ".517"
+          "71",
+          ".514"
         ],
         [
           "Guardians",
@@ -34557,9 +34557,9 @@
         ],
         [
           "Pirates",
+          "74",
           "73",
-          "73",
-          ".500"
+          ".503"
         ],
         [
           "Cardinals",
@@ -34611,11 +34611,11 @@
         [
           "Rockies",
           "55",
-          "90",
-          ".379"
+          "91",
+          ".377"
         ]
       ]
     }
   ],
-  "updatedAt": "2026-09-11T00:25:49.521Z"
+  "updatedAt": "2026-09-11T05:05:07.897Z"
 }
