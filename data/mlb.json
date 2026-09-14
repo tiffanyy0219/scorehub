@@ -31504,13 +31504,13 @@
       "league": "MLB",
       "away": "San Diego Padres",
       "home": "San Francisco Giants",
-      "awayScore": 5,
-      "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 3局",
+      "awayScore": 6,
+      "homeScore": 4,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-13T23:20:00Z",
       "gameDate": "2026-09-13T23:20:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -34592,9 +34592,9 @@
         ],
         [
           "Padres",
-          "80",
+          "81",
           "68",
-          ".541"
+          ".544"
         ],
         [
           "D-backs",
@@ -34605,8 +34605,8 @@
         [
           "Giants",
           "62",
-          "87",
-          ".416"
+          "88",
+          ".413"
         ],
         [
           "Rockies",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-14T00:16:34.907Z"
+  "updatedAt": "2026-09-14T05:08:20.958Z"
 }
