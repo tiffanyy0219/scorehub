@@ -33891,7 +33891,7 @@
     {
       "league": "MLB",
       "away": "AL 4/5 Winner",
-      "home": "AL #1 Seed",
+      "home": "AL East Champ",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -33963,7 +33963,7 @@
     {
       "league": "MLB",
       "away": "AL 4/5 Winner",
-      "home": "AL #1 Seed",
+      "home": "AL East Champ",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34010,7 +34010,7 @@
     },
     {
       "league": "MLB",
-      "away": "AL #1 Seed",
+      "away": "AL East Champ",
       "home": "AL 4/5 Winner",
       "awayScore": null,
       "homeScore": null,
@@ -34058,7 +34058,7 @@
     },
     {
       "league": "MLB",
-      "away": "AL #1 Seed",
+      "away": "AL East Champ",
       "home": "AL 4/5 Winner",
       "awayScore": null,
       "homeScore": null,
@@ -34107,7 +34107,7 @@
     {
       "league": "MLB",
       "away": "AL 4/5 Winner",
-      "home": "AL #1 Seed",
+      "home": "AL East Champ",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-15T12:53:09.241Z"
+  "updatedAt": "2026-09-15T17:36:25.987Z"
 }
