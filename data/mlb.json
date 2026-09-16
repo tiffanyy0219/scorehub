@@ -31816,10 +31816,10 @@
       "league": "MLB",
       "away": "Chicago White Sox",
       "home": "Cleveland Guardians",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-09-16T17:10:00Z",
       "gameDate": "2026-09-16T17:10:00Z",
       "winner": null
@@ -31828,10 +31828,10 @@
       "league": "MLB",
       "away": "San Francisco Giants",
       "home": "St. Louis Cardinals",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-09-16T17:15:00Z",
       "gameDate": "2026-09-16T17:15:00Z",
       "winner": null
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-16T12:02:22.656Z"
+  "updatedAt": "2026-09-16T16:50:56.144Z"
 }
