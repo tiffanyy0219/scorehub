@@ -31996,34 +31996,34 @@
       "league": "MLB",
       "away": "Milwaukee Brewers",
       "home": "Pittsburgh Pirates",
-      "awayScore": 0,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 1局",
+      "awayScore": 4,
+      "homeScore": 7,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-17T16:35:00Z",
       "gameDate": "2026-09-17T16:35:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Los Angeles Dodgers",
       "home": "Cincinnati Reds",
-      "awayScore": 0,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 1局",
+      "awayScore": 8,
+      "homeScore": 2,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-17T16:40:00Z",
       "gameDate": "2026-09-17T16:40:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Athletics",
       "home": "Tampa Bay Rays",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 1,
+      "homeScore": 10,
+      "status": "live",
+      "liveInfo": " 9局",
       "time": "2026-09-17T17:10:00Z",
       "gameDate": "2026-09-17T17:10:00Z",
       "winner": null
@@ -32032,10 +32032,10 @@
       "league": "MLB",
       "away": "San Diego Padres",
       "home": "Colorado Rockies",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 7,
+      "homeScore": 1,
+      "status": "live",
+      "liveInfo": " 2局",
       "time": "2026-09-17T19:10:00Z",
       "gameDate": "2026-09-17T19:10:00Z",
       "winner": null
@@ -34546,8 +34546,8 @@
         [
           "Brewers",
           "95",
-          "57",
-          ".625"
+          "58",
+          ".621"
         ],
         [
           "Cubs",
@@ -34557,9 +34557,9 @@
         ],
         [
           "Pirates",
-          "75",
+          "76",
           "77",
-          ".493"
+          ".497"
         ],
         [
           "Cardinals",
@@ -34570,8 +34570,8 @@
         [
           "Reds",
           "71",
-          "81",
-          ".467"
+          "82",
+          ".464"
         ]
       ]
     },
@@ -34586,9 +34586,9 @@
       "rows": [
         [
           "Dodgers",
-          "92",
+          "93",
           "60",
-          ".605"
+          ".608"
         ],
         [
           "Padres",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-17T16:43:48.091Z"
+  "updatedAt": "2026-09-17T19:54:13.822Z"
 }
