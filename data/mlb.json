@@ -32022,23 +32022,23 @@
       "home": "Tampa Bay Rays",
       "awayScore": 1,
       "homeScore": 10,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-17T17:10:00Z",
       "gameDate": "2026-09-17T17:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "San Diego Padres",
       "home": "Colorado Rockies",
-      "awayScore": 7,
-      "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 2局",
+      "awayScore": 9,
+      "homeScore": 2,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-17T19:10:00Z",
       "gameDate": "2026-09-17T19:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -34381,9 +34381,9 @@
       "rows": [
         [
           "Rays",
-          "92",
+          "93",
           "59",
-          ".609"
+          ".612"
         ],
         [
           "Yankees",
@@ -34482,8 +34482,8 @@
         [
           "Athletics",
           "61",
-          "91",
-          ".401"
+          "92",
+          ".399"
         ],
         [
           "Angels",
@@ -34592,9 +34592,9 @@
         ],
         [
           "Padres",
-          "83",
+          "84",
           "69",
-          ".546"
+          ".549"
         ],
         [
           "D-backs",
@@ -34611,11 +34611,11 @@
         [
           "Rockies",
           "56",
-          "96",
-          ".368"
+          "97",
+          ".366"
         ]
       ]
     }
   ],
-  "updatedAt": "2026-09-17T19:54:13.822Z"
+  "updatedAt": "2026-09-17T22:46:05.045Z"
 }
