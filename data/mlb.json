@@ -32370,95 +32370,95 @@
       "home": "Texas Rangers",
       "awayScore": 2,
       "homeScore": 6,
-      "status": "live",
-      "liveInfo": " 8局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-19T23:05:00Z",
       "gameDate": "2026-09-19T23:05:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Atlanta Braves",
       "home": "Houston Astros",
       "awayScore": 6,
-      "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 8局",
+      "homeScore": 3,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-19T23:10:00Z",
       "gameDate": "2026-09-19T23:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Washington Nationals",
       "home": "St. Louis Cardinals",
-      "awayScore": 3,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 7局",
+      "awayScore": 8,
+      "homeScore": 5,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-19T23:15:00Z",
       "gameDate": "2026-09-19T23:15:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Seattle Mariners",
       "home": "Colorado Rockies",
       "awayScore": 3,
-      "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 5局",
+      "homeScore": 5,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-20T00:10:00Z",
       "gameDate": "2026-09-20T00:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "New York Yankees",
       "home": "Arizona Diamondbacks",
-      "awayScore": 0,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 4局",
+      "awayScore": 3,
+      "homeScore": 5,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-20T00:10:00Z",
       "gameDate": "2026-09-20T00:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Miami Marlins",
       "home": "San Diego Padres",
-      "awayScore": 3,
-      "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 3局",
+      "awayScore": 6,
+      "homeScore": 7,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-20T00:40:00Z",
       "gameDate": "2026-09-20T00:40:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "San Francisco Giants",
       "home": "Los Angeles Dodgers",
-      "awayScore": 0,
-      "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 2局",
+      "awayScore": 4,
+      "homeScore": 10,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-20T01:10:00Z",
       "gameDate": "2026-09-20T01:10:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Minnesota Twins",
       "home": "Los Angeles Angels",
-      "awayScore": 0,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 1局",
+      "awayScore": 5,
+      "homeScore": 6,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-20T01:38:00Z",
       "gameDate": "2026-09-20T01:38:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -34388,8 +34388,8 @@
         [
           "Yankees",
           "89",
-          "64",
-          ".582"
+          "65",
+          ".578"
         ],
         [
           "Red Sox",
@@ -34400,8 +34400,8 @@
         [
           "Blue Jays",
           "76",
-          "78",
-          ".494"
+          "79",
+          ".490"
         ],
         [
           "Orioles",
@@ -34441,8 +34441,8 @@
         [
           "Twins",
           "72",
-          "82",
-          ".468"
+          "83",
+          ".465"
         ],
         [
           "Royals",
@@ -34462,22 +34462,22 @@
       ],
       "rows": [
         [
-          "Astros",
+          "Rangers",
+          "78",
           "77",
-          "77",
-          ".500"
+          ".503"
         ],
         [
-          "Rangers",
+          "Astros",
           "77",
-          "77",
-          ".500"
+          "78",
+          ".497"
         ],
         [
           "Mariners",
           "72",
-          "82",
-          ".468"
+          "83",
+          ".465"
         ],
         [
           "Athletics",
@@ -34487,9 +34487,9 @@
         ],
         [
           "Angels",
-          "59",
+          "60",
           "95",
-          ".383"
+          ".387"
         ]
       ]
     },
@@ -34504,9 +34504,9 @@
       "rows": [
         [
           "Braves",
-          "90",
+          "91",
           "64",
-          ".584"
+          ".587"
         ],
         [
           "Phillies",
@@ -34517,14 +34517,14 @@
         [
           "Marlins",
           "76",
-          "78",
-          ".494"
+          "79",
+          ".490"
         ],
         [
           "Nationals",
-          "72",
+          "73",
           "82",
-          ".468"
+          ".471"
         ],
         [
           "Mets",
@@ -34564,8 +34564,8 @@
         [
           "Cardinals",
           "75",
-          "79",
-          ".487"
+          "80",
+          ".484"
         ],
         [
           "Reds",
@@ -34586,36 +34586,36 @@
       "rows": [
         [
           "Dodgers",
-          "94",
+          "95",
           "60",
-          ".610"
+          ".613"
         ],
         [
           "Padres",
-          "85",
+          "86",
           "69",
-          ".552"
+          ".555"
         ],
         [
           "D-backs",
-          "80",
+          "81",
           "74",
-          ".519"
+          ".523"
         ],
         [
           "Giants",
           "64",
-          "90",
-          ".416"
+          "91",
+          ".413"
         ],
         [
           "Rockies",
-          "56",
+          "57",
           "98",
-          ".364"
+          ".368"
         ]
       ]
     }
   ],
-  "updatedAt": "2026-09-20T01:31:05.487Z"
+  "updatedAt": "2026-09-20T07:00:15.712Z"
 }
