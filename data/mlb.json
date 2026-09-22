@@ -32644,10 +32644,10 @@
       "league": "MLB",
       "away": "Toronto Blue Jays",
       "home": "Baltimore Orioles",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 3,
+      "homeScore": 2,
+      "status": "live",
+      "liveInfo": " 7局",
       "time": "2026-09-21T22:35:00Z",
       "gameDate": "2026-09-21T22:35:00Z",
       "winner": null
@@ -32656,13 +32656,13 @@
       "league": "MLB",
       "away": "Washington Nationals",
       "home": "Detroit Tigers",
-      "awayScore": 0,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 1局",
+      "awayScore": 2,
+      "homeScore": 9,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-21T22:40:00Z",
       "gameDate": "2026-09-21T22:40:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -34433,13 +34433,13 @@
           ".513"
         ],
         [
-          "Twins",
-          "73",
+          "Tigers",
+          "74",
           "83",
-          ".468"
+          ".471"
         ],
         [
-          "Tigers",
+          "Twins",
           "73",
           "83",
           ".468"
@@ -34523,8 +34523,8 @@
         [
           "Nationals",
           "73",
-          "83",
-          ".468"
+          "84",
+          ".465"
         ],
         [
           "Mets",
@@ -34617,5 +34617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-21T22:45:58.240Z"
+  "updatedAt": "2026-09-22T01:15:56.034Z"
 }
