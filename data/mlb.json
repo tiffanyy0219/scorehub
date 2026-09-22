@@ -32681,12 +32681,12 @@
       "away": "Tampa Bay Rays",
       "home": "New York Yankees",
       "awayScore": 0,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 1局",
+      "homeScore": 2,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-22T17:05:00Z",
       "gameDate": "2026-09-22T17:05:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -32698,18 +32698,6 @@
       "liveInfo": null,
       "time": "2026-09-22T23:05:00Z",
       "gameDate": "2026-09-22T23:05:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
-      "away": "Toronto Blue Jays",
-      "home": "Baltimore Orioles",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "2026-09-22T22:35:00Z",
-      "gameDate": "2026-09-22T22:35:00Z",
       "winner": null
     },
     {
@@ -32870,6 +32858,16 @@
     },
     {
       "league": "MLB",
+      "away": "Toronto Blue Jays",
+      "home": "Baltimore Orioles",
+      "status": "final",
+      "liveInfo": null,
+      "time": "2026-09-22T22:35:00Z",
+      "gameDate": "2026-09-22T22:35:00Z",
+      "winner": "home"
+    },
+    {
+      "league": "MLB",
       "away": "Washington Nationals",
       "home": "Detroit Tigers",
       "awayScore": null,
@@ -32882,14 +32880,14 @@
     },
     {
       "league": "MLB",
-      "away": "Minnesota Twins",
-      "home": "San Francisco Giants",
+      "away": "Toronto Blue Jays",
+      "home": "Baltimore Orioles",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-09-23T19:45:00Z",
-      "gameDate": "2026-09-23T19:45:00Z",
+      "time": "2026-09-23T17:35:00Z",
+      "gameDate": "2026-09-23T17:35:00Z",
       "winner": null
     },
     {
@@ -32902,6 +32900,18 @@
       "liveInfo": null,
       "time": "2026-09-23T22:35:00Z",
       "gameDate": "2026-09-23T22:35:00Z",
+      "winner": null
+    },
+    {
+      "league": "MLB",
+      "away": "Minnesota Twins",
+      "home": "San Francisco Giants",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "2026-09-23T19:45:00Z",
+      "gameDate": "2026-09-23T19:45:00Z",
       "winner": null
     },
     {
@@ -33735,7 +33745,7 @@
     {
       "league": "MLB",
       "away": "AL Wild Card #2",
-      "home": "AL Wild Card #1",
+      "home": "AL East Runner-Up",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -33783,7 +33793,7 @@
     {
       "league": "MLB",
       "away": "AL Wild Card #2",
-      "home": "AL Wild Card #1",
+      "home": "AL East Runner-Up",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -33831,7 +33841,7 @@
     {
       "league": "MLB",
       "away": "AL Wild Card #2",
-      "home": "AL Wild Card #1",
+      "home": "AL East Runner-Up",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34382,14 +34392,14 @@
         [
           "Rays",
           "95",
-          "60",
-          ".613"
+          "61",
+          ".609"
         ],
         [
           "Yankees",
-          "89",
+          "90",
           "66",
-          ".574"
+          ".577"
         ],
         [
           "Red Sox",
@@ -34617,5 +34627,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-22T16:49:43.145Z"
+  "updatedAt": "2026-09-22T19:58:02.505Z"
 }
