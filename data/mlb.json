@@ -32870,10 +32870,10 @@
       "league": "MLB",
       "away": "Washington Nationals",
       "home": "Detroit Tigers",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-09-23T17:10:00Z",
       "gameDate": "2026-09-23T17:10:00Z",
       "winner": null
@@ -34627,5 +34627,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-23T12:09:14.579Z"
+  "updatedAt": "2026-09-23T17:02:44.616Z"
 }
