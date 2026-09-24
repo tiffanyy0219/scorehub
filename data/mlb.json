@@ -33063,21 +33063,21 @@
       "away": "St. Louis Cardinals",
       "home": "Pittsburgh Pirates",
       "awayScore": 1,
-      "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 3局",
+      "homeScore": 2,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-24T16:35:00Z",
       "gameDate": "2026-09-24T16:35:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Chicago White Sox",
       "home": "Kansas City Royals",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 9,
+      "homeScore": 1,
+      "status": "live",
+      "liveInfo": " 9局",
       "time": "2026-09-24T18:10:00Z",
       "gameDate": "2026-09-24T18:10:00Z",
       "winner": null
@@ -33086,10 +33086,10 @@
       "league": "MLB",
       "away": "Miami Marlins",
       "home": "Chicago Cubs",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 1,
+      "homeScore": 2,
+      "status": "live",
+      "liveInfo": " 8局",
       "time": "2026-09-24T18:20:00Z",
       "gameDate": "2026-09-24T18:20:00Z",
       "winner": null
@@ -33098,10 +33098,10 @@
       "league": "MLB",
       "away": "New York Mets",
       "home": "Texas Rangers",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 1,
+      "homeScore": 3,
+      "status": "live",
+      "liveInfo": " 7局",
       "time": "2026-09-24T18:35:00Z",
       "gameDate": "2026-09-24T18:35:00Z",
       "winner": null
@@ -33110,10 +33110,10 @@
       "league": "MLB",
       "away": "Arizona Diamondbacks",
       "home": "Colorado Rockies",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 10,
+      "homeScore": 1,
+      "status": "live",
+      "liveInfo": " 4局",
       "time": "2026-09-24T19:10:00Z",
       "gameDate": "2026-09-24T19:10:00Z",
       "winner": null
@@ -34567,15 +34567,15 @@
         ],
         [
           "Pirates",
-          "80",
+          "81",
           "78",
-          ".506"
+          ".509"
         ],
         [
           "Cardinals",
           "77",
-          "81",
-          ".487"
+          "82",
+          ".484"
         ],
         [
           "Reds",
@@ -34627,5 +34627,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-24T17:20:19.095Z"
+  "updatedAt": "2026-09-24T20:41:21.089Z"
 }
