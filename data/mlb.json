@@ -33062,10 +33062,10 @@
       "league": "MLB",
       "away": "St. Louis Cardinals",
       "home": "Pittsburgh Pirates",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 1,
+      "homeScore": 1,
+      "status": "live",
+      "liveInfo": " 3局",
       "time": "2026-09-24T16:35:00Z",
       "gameDate": "2026-09-24T16:35:00Z",
       "winner": null
@@ -34627,5 +34627,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-24T12:13:01.289Z"
+  "updatedAt": "2026-09-24T17:20:19.095Z"
 }
