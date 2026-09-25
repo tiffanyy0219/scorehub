@@ -33207,21 +33207,21 @@
       "away": "Chicago Cubs",
       "home": "Boston Red Sox",
       "awayScore": 3,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 3局",
+      "homeScore": 4,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-25T17:05:00Z",
       "gameDate": "2026-09-25T17:05:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Chicago Cubs",
       "home": "Boston Red Sox",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-09-25T21:35:00Z",
       "gameDate": "2026-09-25T21:35:00Z",
       "winner": null
@@ -33230,10 +33230,10 @@
       "league": "MLB",
       "away": "Baltimore Orioles",
       "home": "New York Yankees",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 7,
+      "homeScore": 1,
+      "status": "live",
+      "liveInfo": " 5局",
       "time": "2026-09-25T20:05:00Z",
       "gameDate": "2026-09-25T20:05:00Z",
       "winner": null
@@ -33744,7 +33744,7 @@
     },
     {
       "league": "MLB",
-      "away": "AL Wild Card #2",
+      "away": "Boston Red Sox",
       "home": "New York Yankees",
       "awayScore": null,
       "homeScore": null,
@@ -33780,8 +33780,8 @@
     },
     {
       "league": "MLB",
-      "away": "AL Wild Card #3",
-      "home": "AL West #1",
+      "away": "CWS/CLE",
+      "home": "HOU/TEX",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -33792,7 +33792,7 @@
     },
     {
       "league": "MLB",
-      "away": "AL Wild Card #2",
+      "away": "Boston Red Sox",
       "home": "New York Yankees",
       "awayScore": null,
       "homeScore": null,
@@ -33828,8 +33828,8 @@
     },
     {
       "league": "MLB",
-      "away": "AL Wild Card #3",
-      "home": "AL West #1",
+      "away": "CWS/CLE",
+      "home": "HOU/TEX",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -33840,7 +33840,7 @@
     },
     {
       "league": "MLB",
-      "away": "AL Wild Card #2",
+      "away": "Boston Red Sox",
       "home": "New York Yankees",
       "awayScore": null,
       "homeScore": null,
@@ -33876,8 +33876,8 @@
     },
     {
       "league": "MLB",
-      "away": "AL Wild Card #3",
-      "home": "AL West #1",
+      "away": "CWS/CLE",
+      "home": "HOU/TEX",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -33901,7 +33901,7 @@
     {
       "league": "MLB",
       "away": "AL 3/6 Winner",
-      "home": "AL Central #1",
+      "home": "CLE/CWS",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -33973,7 +33973,7 @@
     {
       "league": "MLB",
       "away": "AL 3/6 Winner",
-      "home": "AL Central #1",
+      "home": "CLE/CWS",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34044,7 +34044,7 @@
     },
     {
       "league": "MLB",
-      "away": "AL Central #1",
+      "away": "CLE/CWS",
       "home": "AL 3/6 Winner",
       "awayScore": null,
       "homeScore": null,
@@ -34068,7 +34068,7 @@
     },
     {
       "league": "MLB",
-      "away": "AL Central #1",
+      "away": "CLE/CWS",
       "home": "AL 3/6 Winner",
       "awayScore": null,
       "homeScore": null,
@@ -34117,7 +34117,7 @@
     {
       "league": "MLB",
       "away": "AL 3/6 Winner",
-      "home": "AL Central #1",
+      "home": "CLE/CWS",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34403,9 +34403,9 @@
         ],
         [
           "Red Sox",
-          "85",
+          "86",
           "74",
-          ".535"
+          ".538"
         ],
         [
           "Orioles",
@@ -34562,8 +34562,8 @@
         [
           "Cubs",
           "88",
-          "71",
-          ".553"
+          "72",
+          ".550"
         ],
         [
           "Pirates",
@@ -34627,5 +34627,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-25T17:53:50.256Z"
+  "updatedAt": "2026-09-25T21:23:54.209Z"
 }
