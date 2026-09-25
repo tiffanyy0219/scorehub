@@ -33206,10 +33206,10 @@
       "league": "MLB",
       "away": "Chicago Cubs",
       "home": "Boston Red Sox",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 3,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 3局",
       "time": "2026-09-25T17:05:00Z",
       "gameDate": "2026-09-25T17:05:00Z",
       "winner": null
@@ -33222,8 +33222,8 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-09-25T22:05:00Z",
-      "gameDate": "2026-09-25T22:05:00Z",
+      "time": "2026-09-25T21:35:00Z",
+      "gameDate": "2026-09-25T21:35:00Z",
       "winner": null
     },
     {
@@ -34627,5 +34627,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-25T12:57:46.271Z"
+  "updatedAt": "2026-09-25T17:53:50.256Z"
 }
