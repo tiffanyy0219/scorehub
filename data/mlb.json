@@ -33388,11 +33388,11 @@
       "home": "Seattle Mariners",
       "awayScore": 7,
       "homeScore": 5,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-26T02:10:00Z",
       "gameDate": "2026-09-26T02:10:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
@@ -34486,8 +34486,8 @@
         [
           "Mariners",
           "74",
-          "85",
-          ".465"
+          "86",
+          ".463"
         ],
         [
           "Athletics",
@@ -34497,9 +34497,9 @@
         ],
         [
           "Angels",
-          "61",
+          "62",
           "98",
-          ".384"
+          ".388"
         ]
       ]
     },
@@ -34627,5 +34627,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-26T04:53:43.616Z"
+  "updatedAt": "2026-09-26T09:46:35.621Z"
 }
