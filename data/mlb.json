@@ -33768,7 +33768,7 @@
     },
     {
       "league": "MLB",
-      "away": "NL Wild Card #3",
+      "away": "PHI/ARI",
       "home": "Atlanta Braves",
       "awayScore": null,
       "homeScore": null,
@@ -33816,7 +33816,7 @@
     },
     {
       "league": "MLB",
-      "away": "NL Wild Card #3",
+      "away": "PHI/ARI",
       "home": "Atlanta Braves",
       "awayScore": null,
       "homeScore": null,
@@ -33864,7 +33864,7 @@
     },
     {
       "league": "MLB",
-      "away": "NL Wild Card #3",
+      "away": "PHI/ARI",
       "home": "Atlanta Braves",
       "awayScore": null,
       "homeScore": null,
@@ -34627,5 +34627,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-27T06:43:05.031Z"
+  "updatedAt": "2026-09-27T12:31:02.451Z"
 }
