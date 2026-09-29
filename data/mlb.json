@@ -33744,10 +33744,10 @@
       "league": "MLB",
       "away": "Philadelphia Phillies",
       "home": "Atlanta Braves",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 1,
+      "homeScore": 1,
+      "status": "live",
+      "liveInfo": " 5局",
       "time": "2026-09-29T18:00:00Z",
       "gameDate": "2026-09-29T18:00:00Z",
       "winner": null
@@ -34625,5 +34625,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-29T14:20:41.965Z"
+  "updatedAt": "2026-09-29T19:34:41.701Z"
 }
