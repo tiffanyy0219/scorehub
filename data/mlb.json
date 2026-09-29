@@ -33744,22 +33744,22 @@
       "league": "MLB",
       "away": "Philadelphia Phillies",
       "home": "Atlanta Braves",
-      "awayScore": 1,
-      "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 5局",
+      "awayScore": 3,
+      "homeScore": 5,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-09-29T18:00:00Z",
       "gameDate": "2026-09-29T18:00:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Chicago White Sox",
       "home": "Houston Astros",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 5,
+      "homeScore": 2,
+      "status": "live",
+      "liveInfo": " 6局",
       "time": "2026-09-29T21:00:00Z",
       "gameDate": "2026-09-29T21:00:00Z",
       "winner": null
@@ -33892,8 +33892,8 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-10-03T07:33:00Z",
-      "gameDate": "2026-10-03T07:33:00Z",
+      "time": "2026-10-03T17:00:00Z",
+      "gameDate": "2026-10-03T17:00:00Z",
       "winner": null
     },
     {
@@ -33904,8 +33904,8 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-10-03T07:33:00Z",
-      "gameDate": "2026-10-03T07:33:00Z",
+      "time": "2026-10-03T22:30:00Z",
+      "gameDate": "2026-10-03T22:30:00Z",
       "winner": null
     },
     {
@@ -33940,8 +33940,8 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-10-04T08:33:00Z",
-      "gameDate": "2026-10-04T08:33:00Z",
+      "time": "2026-10-04T20:00:00Z",
+      "gameDate": "2026-10-04T20:00:00Z",
       "winner": null
     },
     {
@@ -33952,8 +33952,8 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-10-04T10:33:00Z",
-      "gameDate": "2026-10-04T10:33:00Z",
+      "time": "2026-10-05T00:00:00Z",
+      "gameDate": "2026-10-05T00:00:00Z",
       "winner": null
     },
     {
@@ -33964,8 +33964,8 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-10-05T07:33:00Z",
-      "gameDate": "2026-10-05T07:33:00Z",
+      "time": "2026-10-05T21:00:00Z",
+      "gameDate": "2026-10-05T21:00:00Z",
       "winner": null
     },
     {
@@ -33976,8 +33976,8 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-10-05T07:33:00Z",
-      "gameDate": "2026-10-05T07:33:00Z",
+      "time": "2026-10-06T00:00:00Z",
+      "gameDate": "2026-10-06T00:00:00Z",
       "winner": null
     },
     {
@@ -34625,5 +34625,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-29T19:34:41.701Z"
+  "updatedAt": "2026-09-29T23:11:13.204Z"
 }
