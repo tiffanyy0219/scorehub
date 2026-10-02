@@ -1354,6 +1354,83 @@
       "winner": null
     },
     {
+      "league": "EPL",
+      "home": "Coventry City",
+      "away": "Brentford",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-30T19:30Z",
+      "gameDate": "2026-12-30T19:30Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Crystal Palace",
+      "away": "AFC Bournemouth",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-30T19:30Z",
+      "gameDate": "2026-12-30T19:30Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Fulham",
+      "away": "Arsenal",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-30T19:30Z",
+      "gameDate": "2026-12-30T19:30Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Manchester United",
+      "away": "Sunderland",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-30T19:30Z",
+      "gameDate": "2026-12-30T19:30Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Newcastle United",
+      "away": "Nottingham Forest",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-30T19:30Z",
+      "gameDate": "2026-12-30T19:30Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Aston Villa",
+      "away": "Liverpool",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-30T20:15Z",
+      "gameDate": "2026-12-30T20:15Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Ipswich Town",
+      "away": "Chelsea",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-30T20:15Z",
+      "gameDate": "2026-12-30T20:15Z",
+      "winner": null
+    },
+    {
       "league": "La Liga",
       "home": "Málaga",
       "away": "Espanyol",
@@ -5556,5 +5633,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-10-01T22:03:47.597Z"
+  "updatedAt": "2026-10-02T01:45:29.938Z"
 }

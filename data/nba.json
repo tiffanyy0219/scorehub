@@ -6395,6 +6395,78 @@
       "gameDate": "2026-12-30T03:30Z",
       "liveInfo": null,
       "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Detroit Pistons",
+      "away": "New Orleans Pelicans",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-31T00:00Z",
+      "gameDate": "2026-12-31T00:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Toronto Raptors",
+      "away": "Washington Wizards",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-31T00:30Z",
+      "gameDate": "2026-12-31T00:30Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Chicago Bulls",
+      "away": "Boston Celtics",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-31T01:00Z",
+      "gameDate": "2026-12-31T01:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Phoenix Suns",
+      "away": "Philadelphia 76ers",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-31T02:00Z",
+      "gameDate": "2026-12-31T02:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Utah Jazz",
+      "away": "New York Knicks",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-31T02:00Z",
+      "gameDate": "2026-12-31T02:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Golden State Warriors",
+      "away": "Houston Rockets",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-31T03:00Z",
+      "gameDate": "2026-12-31T03:00Z",
+      "liveInfo": null,
+      "winner": null
     }
   ],
   "standings": [
@@ -6601,5 +6673,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-01T22:00:30.000Z"
+  "updatedAt": "2026-10-02T01:40:06.843Z"
 }
