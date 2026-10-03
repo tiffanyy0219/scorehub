@@ -7,20 +7,20 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-10-04T04:00Z",
-      "gameDate": "2026-10-04T04:00Z",
+      "time": "2026-10-04T18:00Z",
+      "gameDate": "2026-10-04T18:00Z",
       "liveInfo": null,
       "winner": null
     },
     {
       "league": "WNBA",
-      "home": "TBD",
-      "away": "TBD",
+      "home": "Golden State Valkyries",
+      "away": "Las Vegas Aces",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-10-04T04:00Z",
-      "gameDate": "2026-10-04T04:00Z",
+      "time": "2026-10-04T20:00Z",
+      "gameDate": "2026-10-04T20:00Z",
       "liveInfo": null,
       "winner": null
     },
@@ -31,20 +31,20 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-10-07T04:00Z",
-      "gameDate": "2026-10-07T04:00Z",
+      "time": "2026-10-07T23:30Z",
+      "gameDate": "2026-10-07T23:30Z",
       "liveInfo": null,
       "winner": null
     },
     {
       "league": "WNBA",
-      "home": "TBD",
-      "away": "TBD",
+      "home": "Golden State Valkyries",
+      "away": "Las Vegas Aces",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-10-07T04:00Z",
-      "gameDate": "2026-10-07T04:00Z",
+      "time": "2026-10-08T01:30Z",
+      "gameDate": "2026-10-08T01:30Z",
       "liveInfo": null,
       "winner": null
     },
@@ -55,20 +55,20 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-10-09T04:00Z",
-      "gameDate": "2026-10-09T04:00Z",
+      "time": "2026-10-09T23:30Z",
+      "gameDate": "2026-10-09T23:30Z",
       "liveInfo": null,
       "winner": null
     },
     {
       "league": "WNBA",
-      "home": "TBD",
-      "away": "TBD",
+      "home": "Las Vegas Aces",
+      "away": "Golden State Valkyries",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-10-09T04:00Z",
-      "gameDate": "2026-10-09T04:00Z",
+      "time": "2026-10-10T01:30Z",
+      "gameDate": "2026-10-10T01:30Z",
       "liveInfo": null,
       "winner": null
     },
@@ -86,8 +86,8 @@
     },
     {
       "league": "WNBA",
-      "home": "TBD",
-      "away": "TBD",
+      "home": "Las Vegas Aces",
+      "away": "Golden State Valkyries",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
@@ -110,8 +110,8 @@
     },
     {
       "league": "WNBA",
-      "home": "TBD",
-      "away": "TBD",
+      "home": "Golden State Valkyries",
+      "away": "Las Vegas Aces",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
@@ -205,5 +205,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-10-03T01:55:54.415Z"
+  "updatedAt": "2026-10-03T07:56:08.134Z"
 }
