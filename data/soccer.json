@@ -1431,6 +1431,17 @@
       "winner": null
     },
     {
+      "league": "EPL",
+      "home": "Leeds United",
+      "away": "Everton",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-01T20:00Z",
+      "gameDate": "2027-01-01T20:00Z",
+      "winner": null
+    },
+    {
       "league": "La Liga",
       "home": "Málaga",
       "away": "Espanyol",
@@ -5633,5 +5644,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-10-03T23:08:09.311Z"
+  "updatedAt": "2026-10-04T02:38:51.182Z"
 }

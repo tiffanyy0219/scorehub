@@ -2,18 +2,6 @@
   "schedule": [
     {
       "league": "NBA",
-      "home": "Toronto Raptors",
-      "away": "Miami Heat",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-03T23:00Z",
-      "gameDate": "2026-10-03T23:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
       "home": "Denver Nuggets",
       "away": "Utah Jazz",
       "homeScore": null,
@@ -6575,6 +6563,78 @@
       "gameDate": "2027-01-01T02:00Z",
       "liveInfo": null,
       "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Washington Wizards",
+      "away": "San Antonio Spurs",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-01T22:00Z",
+      "gameDate": "2027-01-01T22:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Detroit Pistons",
+      "away": "Orlando Magic",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-02T00:30Z",
+      "gameDate": "2027-01-02T00:30Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Toronto Raptors",
+      "away": "LA Clippers",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-02T00:30Z",
+      "gameDate": "2027-01-02T00:30Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Milwaukee Bucks",
+      "away": "Philadelphia 76ers",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-02T01:00Z",
+      "gameDate": "2027-01-02T01:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Houston Rockets",
+      "away": "Dallas Mavericks",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-02T01:30Z",
+      "gameDate": "2027-01-02T01:30Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Utah Jazz",
+      "away": "Boston Celtics",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-02T02:30Z",
+      "gameDate": "2027-01-02T02:30Z",
+      "liveInfo": null,
+      "winner": null
     }
   ],
   "standings": [
@@ -6587,6 +6647,12 @@
         "勝率"
       ],
       "rows": [
+        [
+          "Toronto Raptors",
+          "0",
+          "1",
+          "0.000"
+        ],
         [
           "Atlanta Hawks",
           "0",
@@ -6619,12 +6685,6 @@
         ],
         [
           "Indiana Pacers",
-          "0",
-          "0",
-          "0.000"
-        ],
-        [
-          "Miami Heat",
           "0",
           "0",
           "0.000"
@@ -6666,16 +6726,16 @@
           "0.000"
         ],
         [
-          "Toronto Raptors",
+          "Charlotte Hornets",
           "0",
           "0",
           "0.000"
         ],
         [
-          "Charlotte Hornets",
+          "Miami Heat",
+          "1",
           "0",
-          "0",
-          "0.000"
+          "1.000"
         ]
       ]
     },
@@ -6781,5 +6841,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-03T23:04:40.685Z"
+  "updatedAt": "2026-10-04T02:35:21.483Z"
 }

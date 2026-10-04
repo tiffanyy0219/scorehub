@@ -33877,21 +33877,21 @@
       "away": "New York Yankees",
       "home": "Tampa Bay Rays",
       "awayScore": 0,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 2局",
+      "homeScore": 1,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-10-03T22:30:00Z",
       "gameDate": "2026-10-03T22:30:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "San Diego Padres",
       "home": "Milwaukee Brewers",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 2,
+      "homeScore": 2,
+      "status": "live",
+      "liveInfo": " 5局",
       "time": "2026-10-04T00:30:00Z",
       "gameDate": "2026-10-04T00:30:00Z",
       "winner": null
@@ -34589,5 +34589,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-03T23:04:34.649Z"
+  "updatedAt": "2026-10-04T02:35:14.282Z"
 }
