@@ -33900,10 +33900,10 @@
       "league": "MLB",
       "away": "San Diego Padres",
       "home": "Milwaukee Brewers",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 2,
+      "homeScore": 1,
+      "status": "live",
+      "liveInfo": " 6局",
       "time": "2026-10-04T20:00:00Z",
       "gameDate": "2026-10-04T20:00:00Z",
       "winner": null
@@ -34589,5 +34589,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-04T18:19:16.073Z"
+  "updatedAt": "2026-10-04T21:42:12.779Z"
 }
