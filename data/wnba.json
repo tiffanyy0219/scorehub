@@ -4,12 +4,12 @@
       "league": "WNBA",
       "home": "Atlanta Dream",
       "away": "New York Liberty",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 14,
+      "awayScore": 15,
+      "status": "live",
       "time": "2026-10-04T18:00Z",
       "gameDate": "2026-10-04T18:00Z",
-      "liveInfo": null,
+      "liveInfo": "3:59",
       "winner": null
     },
     {
@@ -205,5 +205,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-10-04T14:26:56.487Z"
+  "updatedAt": "2026-10-04T18:19:45.072Z"
 }
