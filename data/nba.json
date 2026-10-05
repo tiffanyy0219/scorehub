@@ -6845,6 +6845,18 @@
       ],
       "rows": [
         [
+          "Golden State Warriors",
+          "0",
+          "1",
+          "0.000"
+        ],
+        [
+          "Denver Nuggets",
+          "0",
+          "1",
+          "0.000"
+        ],
+        [
           "New Orleans Pelicans",
           "0",
           "0",
@@ -6857,25 +6869,7 @@
           "0.000"
         ],
         [
-          "Denver Nuggets",
-          "0",
-          "0",
-          "0.000"
-        ],
-        [
-          "Golden State Warriors",
-          "0",
-          "0",
-          "0.000"
-        ],
-        [
           "Houston Rockets",
-          "0",
-          "0",
-          "0.000"
-        ],
-        [
-          "LA Clippers",
           "0",
           "0",
           "0.000"
@@ -6923,19 +6917,25 @@
           "0.000"
         ],
         [
-          "Utah Jazz",
+          "Memphis Grizzlies",
           "0",
           "0",
           "0.000"
         ],
         [
-          "Memphis Grizzlies",
+          "Utah Jazz",
+          "1",
           "0",
+          "1.000"
+        ],
+        [
+          "LA Clippers",
+          "1",
           "0",
-          "0.000"
+          "1.000"
         ]
       ]
     }
   ],
-  "updatedAt": "2026-10-05T00:13:50.643Z"
+  "updatedAt": "2026-10-05T05:54:11.854Z"
 }
