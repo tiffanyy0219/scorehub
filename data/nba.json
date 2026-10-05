@@ -2,30 +2,6 @@
   "schedule": [
     {
       "league": "NBA",
-      "home": "Denver Nuggets",
-      "away": "Utah Jazz",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-04T23:00Z",
-      "gameDate": "2026-10-04T23:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "LA Clippers",
-      "away": "Golden State Warriors",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-04T23:00Z",
-      "gameDate": "2026-10-04T23:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
       "home": "Atlanta Hawks",
       "away": "Memphis Grizzlies",
       "homeScore": null,
@@ -6635,6 +6611,126 @@
       "gameDate": "2027-01-02T02:30Z",
       "liveInfo": null,
       "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Charlotte Hornets",
+      "away": "Cleveland Cavaliers",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-02T18:00Z",
+      "gameDate": "2027-01-02T18:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Denver Nuggets",
+      "away": "New York Knicks",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-02T22:00Z",
+      "gameDate": "2027-01-02T22:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Indiana Pacers",
+      "away": "Minnesota Timberwolves",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-03T00:00Z",
+      "gameDate": "2027-01-03T00:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "New Orleans Pelicans",
+      "away": "Miami Heat",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-03T00:00Z",
+      "gameDate": "2027-01-03T00:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Atlanta Hawks",
+      "away": "Dallas Mavericks",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-03T00:30Z",
+      "gameDate": "2027-01-03T00:30Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Chicago Bulls",
+      "away": "Los Angeles Lakers",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-03T01:00Z",
+      "gameDate": "2027-01-03T01:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Oklahoma City Thunder",
+      "away": "Utah Jazz",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-03T01:00Z",
+      "gameDate": "2027-01-03T01:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Golden State Warriors",
+      "away": "Brooklyn Nets",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-03T01:30Z",
+      "gameDate": "2027-01-03T01:30Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Phoenix Suns",
+      "away": "Sacramento Kings",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-03T02:00Z",
+      "gameDate": "2027-01-03T02:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Portland Trail Blazers",
+      "away": "Boston Celtics",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-03T03:00Z",
+      "gameDate": "2027-01-03T03:00Z",
+      "liveInfo": null,
+      "winner": null
     }
   ],
   "standings": [
@@ -6841,5 +6937,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-04T21:42:20.784Z"
+  "updatedAt": "2026-10-05T00:13:50.643Z"
 }
