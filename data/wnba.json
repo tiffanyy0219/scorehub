@@ -50,8 +50,8 @@
     },
     {
       "league": "WNBA",
-      "home": "New York Liberty",
-      "away": "Atlanta Dream",
+      "home": "Las Vegas Aces",
+      "away": "Golden State Valkyries",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
@@ -62,13 +62,13 @@
     },
     {
       "league": "WNBA",
-      "home": "Las Vegas Aces",
-      "away": "Golden State Valkyries",
+      "home": "New York Liberty",
+      "away": "Atlanta Dream",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-10-11T04:00Z",
-      "gameDate": "2026-10-11T04:00Z",
+      "time": "2026-10-11T18:00Z",
+      "gameDate": "2026-10-11T18:00Z",
       "liveInfo": null,
       "winner": null
     },
@@ -181,5 +181,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-10-05T14:16:24.598Z"
+  "updatedAt": "2026-10-05T21:31:40.828Z"
 }
