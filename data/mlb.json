@@ -33936,13 +33936,13 @@
       "league": "MLB",
       "away": "New York Yankees",
       "home": "Tampa Bay Rays",
-      "awayScore": 1,
-      "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 5局",
+      "awayScore": 2,
+      "homeScore": 5,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-10-06T00:00:00Z",
       "gameDate": "2026-10-06T00:00:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -34589,5 +34589,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-06T01:53:22.909Z"
+  "updatedAt": "2026-10-06T08:49:18.001Z"
 }

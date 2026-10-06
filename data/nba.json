@@ -6786,6 +6786,12 @@
           "0.000"
         ],
         [
+          "Milwaukee Bucks",
+          "0",
+          "1",
+          "0.000"
+        ],
+        [
           "New York Knicks",
           "0",
           "1",
@@ -6817,12 +6823,6 @@
         ],
         [
           "Indiana Pacers",
-          "0",
-          "0",
-          "0.000"
-        ],
-        [
-          "Milwaukee Bucks",
           "0",
           "0",
           "0.000"
@@ -6899,6 +6899,12 @@
           "0.000"
         ],
         [
+          "Sacramento Kings",
+          "0",
+          "1",
+          "0.000"
+        ],
+        [
           "New Orleans Pelicans",
           "0",
           "0",
@@ -6917,25 +6923,7 @@
           "0.000"
         ],
         [
-          "Los Angeles Lakers",
-          "0",
-          "0",
-          "0.000"
-        ],
-        [
-          "Minnesota Timberwolves",
-          "0",
-          "0",
-          "0.000"
-        ],
-        [
           "Portland Trail Blazers",
-          "0",
-          "0",
-          "0.000"
-        ],
-        [
-          "Sacramento Kings",
           "0",
           "0",
           "0.000"
@@ -6953,13 +6941,25 @@
           "0.000"
         ],
         [
-          "Memphis Grizzlies",
+          "Los Angeles Lakers",
+          "1",
+          "0",
+          "1.000"
+        ],
+        [
+          "Minnesota Timberwolves",
           "1",
           "0",
           "1.000"
         ],
         [
           "Utah Jazz",
+          "1",
+          "0",
+          "1.000"
+        ],
+        [
+          "Memphis Grizzlies",
           "1",
           "0",
           "1.000"
@@ -6973,5 +6973,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-06T01:53:30.865Z"
+  "updatedAt": "2026-10-06T08:49:25.511Z"
 }
