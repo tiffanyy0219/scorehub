@@ -4,12 +4,12 @@
       "league": "NBA",
       "home": "Indiana Pacers",
       "away": "Minnesota Timberwolves",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 37,
+      "awayScore": 33,
+      "status": "live",
       "time": "2026-10-07T23:00Z",
       "gameDate": "2026-10-07T23:00Z",
-      "liveInfo": null,
+      "liveInfo": "9:51",
       "winner": null
     },
     {
@@ -6997,5 +6997,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-07T19:23:58.425Z"
+  "updatedAt": "2026-10-07T23:42:45.585Z"
 }
