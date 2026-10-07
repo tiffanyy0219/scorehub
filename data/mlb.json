@@ -33950,23 +33950,23 @@
       "home": "Atlanta Braves",
       "awayScore": 3,
       "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 6局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-10-06T22:00:00Z",
       "gameDate": "2026-10-06T22:00:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Milwaukee Brewers",
       "home": "San Diego Padres",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
+      "awayScore": 3,
+      "homeScore": 4,
+      "status": "final",
       "liveInfo": null,
       "time": "2026-10-07T01:30:00Z",
       "gameDate": "2026-10-07T01:30:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -34589,5 +34589,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-07T00:09:17.172Z"
+  "updatedAt": "2026-10-07T06:00:18.044Z"
 }

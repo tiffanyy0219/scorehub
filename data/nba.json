@@ -6828,6 +6828,12 @@
           "0.000"
         ],
         [
+          "Charlotte Hornets",
+          "0",
+          "1",
+          "0.000"
+        ],
+        [
           "Boston Celtics",
           "0",
           "0",
@@ -6852,12 +6858,6 @@
           "0.000"
         ],
         [
-          "Brooklyn Nets",
-          "0",
-          "0",
-          "0.000"
-        ],
-        [
           "Orlando Magic",
           "0",
           "0",
@@ -6865,12 +6865,6 @@
         ],
         [
           "Washington Wizards",
-          "0",
-          "0",
-          "0.000"
-        ],
-        [
-          "Charlotte Hornets",
           "0",
           "0",
           "0.000"
@@ -6889,6 +6883,12 @@
         ],
         [
           "Philadelphia 76ers",
+          "1",
+          "0",
+          "1.000"
+        ],
+        [
+          "Brooklyn Nets",
           "1",
           "0",
           "1.000"
@@ -6911,13 +6911,7 @@
           "0.000"
         ],
         [
-          "Golden State Warriors",
-          "0",
-          "1",
-          "0.000"
-        ],
-        [
-          "Denver Nuggets",
+          "Oklahoma City Thunder",
           "0",
           "1",
           "0.000"
@@ -6929,10 +6923,28 @@
           "0.000"
         ],
         [
-          "New Orleans Pelicans",
-          "0",
-          "0",
-          "0.000"
+          "Golden State Warriors",
+          "1",
+          "1",
+          "0.500"
+        ],
+        [
+          "Utah Jazz",
+          "1",
+          "1",
+          "0.500"
+        ],
+        [
+          "Denver Nuggets",
+          "1",
+          "1",
+          "0.500"
+        ],
+        [
+          "Los Angeles Lakers",
+          "1",
+          "1",
+          "0.500"
         ],
         [
           "Dallas Mavericks",
@@ -6959,25 +6971,7 @@
           "0.000"
         ],
         [
-          "Oklahoma City Thunder",
-          "0",
-          "0",
-          "0.000"
-        ],
-        [
-          "Los Angeles Lakers",
-          "1",
-          "0",
-          "1.000"
-        ],
-        [
           "Minnesota Timberwolves",
-          "1",
-          "0",
-          "1.000"
-        ],
-        [
-          "Utah Jazz",
           "1",
           "0",
           "1.000"
@@ -6993,9 +6987,15 @@
           "1",
           "0",
           "1.000"
+        ],
+        [
+          "New Orleans Pelicans",
+          "1",
+          "0",
+          "1.000"
         ]
       ]
     }
   ],
-  "updatedAt": "2026-10-07T00:09:22.564Z"
+  "updatedAt": "2026-10-07T06:00:21.537Z"
 }
