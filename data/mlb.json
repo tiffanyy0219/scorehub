@@ -33984,22 +33984,22 @@
       "league": "MLB",
       "away": "Los Angeles Dodgers",
       "home": "Atlanta Braves",
-      "awayScore": 1,
+      "awayScore": 4,
       "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 5局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-10-07T22:00:00Z",
       "gameDate": "2026-10-07T22:00:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Tampa Bay Rays",
       "home": "New York Yankees",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 4,
+      "homeScore": 3,
       "status": "live",
-      "liveInfo": " 1局",
+      "liveInfo": " 9局",
       "time": "2026-10-08T00:00:00Z",
       "gameDate": "2026-10-08T00:00:00Z",
       "winner": null
@@ -34008,10 +34008,10 @@
       "league": "MLB",
       "away": "Milwaukee Brewers",
       "home": "San Diego Padres",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 1,
+      "homeScore": 1,
+      "status": "live",
+      "liveInfo": " 4局",
       "time": "2026-10-08T02:00:00Z",
       "gameDate": "2026-10-08T02:00:00Z",
       "winner": null
@@ -34048,18 +34048,6 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-10-09T20:30:00Z",
-      "gameDate": "2026-10-09T20:30:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
-      "away": "Atlanta Braves",
-      "home": "Los Angeles Dodgers",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
       "time": "2026-10-10T00:00:00Z",
       "gameDate": "2026-10-10T00:00:00Z",
       "winner": null
@@ -34090,8 +34078,8 @@
     },
     {
       "league": "MLB",
-      "away": "NL Lower Seed",
-      "home": "NL Higher Seed",
+      "away": "LAD/SD",
+      "home": "MIL/LAD",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34114,8 +34102,8 @@
     },
     {
       "league": "MLB",
-      "away": "NL Lower Seed",
-      "home": "NL Higher Seed",
+      "away": "LAD/SD",
+      "home": "MIL/LAD",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34138,8 +34126,8 @@
     },
     {
       "league": "MLB",
-      "away": "NL Higher Seed",
-      "home": "NL Lower Seed",
+      "away": "MIL/LAD",
+      "home": "LAD/SD",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34162,8 +34150,8 @@
     },
     {
       "league": "MLB",
-      "away": "NL Higher Seed",
-      "home": "NL Lower Seed",
+      "away": "MIL/LAD",
+      "home": "LAD/SD",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34186,8 +34174,8 @@
     },
     {
       "league": "MLB",
-      "away": "NL Higher Seed",
-      "home": "NL Lower Seed",
+      "away": "MIL/LAD",
+      "home": "LAD/SD",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34210,8 +34198,8 @@
     },
     {
       "league": "MLB",
-      "away": "NL Lower Seed",
-      "home": "NL Higher Seed",
+      "away": "LAD/SD",
+      "home": "MIL/LAD",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34234,8 +34222,8 @@
     },
     {
       "league": "MLB",
-      "away": "NL Lower Seed",
-      "home": "NL Higher Seed",
+      "away": "LAD/SD",
+      "home": "MIL/LAD",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34589,5 +34577,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-07T23:42:37.866Z"
+  "updatedAt": "2026-10-08T03:01:55.982Z"
 }
