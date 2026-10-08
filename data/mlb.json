@@ -34210,8 +34210,8 @@
     },
     {
       "league": "MLB",
-      "away": "Lower Seed League Champion",
-      "home": "Higher Seed League Champion",
+      "away": "AL Champion",
+      "home": "NL Champion",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34222,8 +34222,8 @@
     },
     {
       "league": "MLB",
-      "away": "Lower Seed League Champion",
-      "home": "Higher Seed League Champion",
+      "away": "AL Champion",
+      "home": "NL Champion",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34234,8 +34234,8 @@
     },
     {
       "league": "MLB",
-      "away": "Higher Seed League Champion",
-      "home": "Lower Seed League Champion",
+      "away": "NL Champion",
+      "home": "AL Champion",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34246,8 +34246,8 @@
     },
     {
       "league": "MLB",
-      "away": "Higher Seed League Champion",
-      "home": "Lower Seed League Champion",
+      "away": "NL Champion",
+      "home": "AL Champion",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34258,8 +34258,8 @@
     },
     {
       "league": "MLB",
-      "away": "Higher Seed League Champion",
-      "home": "Lower Seed League Champion",
+      "away": "NL Champion",
+      "home": "AL Champion",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34270,8 +34270,8 @@
     },
     {
       "league": "MLB",
-      "away": "Lower Seed League Champion",
-      "home": "Higher Seed League Champion",
+      "away": "AL Champion",
+      "home": "NL Champion",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34282,8 +34282,8 @@
     },
     {
       "league": "MLB",
-      "away": "Lower Seed League Champion",
-      "home": "Higher Seed League Champion",
+      "away": "AL Champion",
+      "home": "NL Champion",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34541,5 +34541,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-08T17:34:42.544Z"
+  "updatedAt": "2026-10-08T22:27:13.551Z"
 }
