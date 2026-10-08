@@ -33998,40 +33998,28 @@
       "home": "New York Yankees",
       "awayScore": 4,
       "homeScore": 3,
-      "status": "live",
-      "liveInfo": " 9局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-10-08T00:00:00Z",
       "gameDate": "2026-10-08T00:00:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Milwaukee Brewers",
       "home": "San Diego Padres",
-      "awayScore": 1,
+      "awayScore": 3,
       "homeScore": 1,
-      "status": "live",
-      "liveInfo": " 4局",
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-10-08T02:00:00Z",
       "gameDate": "2026-10-08T02:00:00Z",
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "MLB",
       "away": "Cleveland Guardians",
       "home": "Chicago White Sox",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "2026-10-08T21:00:00Z",
-      "gameDate": "2026-10-08T21:00:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
-      "away": "Tampa Bay Rays",
-      "home": "New York Yankees",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34042,32 +34030,8 @@
     },
     {
       "league": "MLB",
-      "away": "San Diego Padres",
-      "home": "Milwaukee Brewers",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "2026-10-10T00:00:00Z",
-      "gameDate": "2026-10-10T00:00:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
       "away": "Chicago White Sox",
       "home": "Cleveland Guardians",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "2026-10-10T21:00:00Z",
-      "gameDate": "2026-10-10T21:00:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
-      "away": "New York Yankees",
-      "home": "Tampa Bay Rays",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34078,8 +34042,8 @@
     },
     {
       "league": "MLB",
-      "away": "LAD/SD",
-      "home": "MIL/LAD",
+      "away": "Los Angeles Dodgers",
+      "home": "Milwaukee Brewers",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34090,8 +34054,8 @@
     },
     {
       "league": "MLB",
-      "away": "AL Lower Seed",
-      "home": "AL Higher Seed",
+      "away": "Los Angeles Dodgers",
+      "home": "Milwaukee Brewers",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34102,8 +34066,8 @@
     },
     {
       "league": "MLB",
-      "away": "LAD/SD",
-      "home": "MIL/LAD",
+      "away": "CLE/CWS",
+      "home": "Tampa Bay Rays",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34114,8 +34078,8 @@
     },
     {
       "league": "MLB",
-      "away": "AL Lower Seed",
-      "home": "AL Higher Seed",
+      "away": "CLE/CWS",
+      "home": "Tampa Bay Rays",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34126,8 +34090,8 @@
     },
     {
       "league": "MLB",
-      "away": "MIL/LAD",
-      "home": "LAD/SD",
+      "away": "Milwaukee Brewers",
+      "home": "Los Angeles Dodgers",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34138,8 +34102,8 @@
     },
     {
       "league": "MLB",
-      "away": "AL Higher Seed",
-      "home": "AL Lower Seed",
+      "away": "Milwaukee Brewers",
+      "home": "Los Angeles Dodgers",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34150,8 +34114,8 @@
     },
     {
       "league": "MLB",
-      "away": "MIL/LAD",
-      "home": "LAD/SD",
+      "away": "Tampa Bay Rays",
+      "home": "CLE/CWS",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34162,8 +34126,8 @@
     },
     {
       "league": "MLB",
-      "away": "AL Higher Seed",
-      "home": "AL Lower Seed",
+      "away": "Milwaukee Brewers",
+      "home": "Los Angeles Dodgers",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34174,8 +34138,8 @@
     },
     {
       "league": "MLB",
-      "away": "MIL/LAD",
-      "home": "LAD/SD",
+      "away": "Tampa Bay Rays",
+      "home": "CLE/CWS",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34186,8 +34150,8 @@
     },
     {
       "league": "MLB",
-      "away": "AL Higher Seed",
-      "home": "AL Lower Seed",
+      "away": "Tampa Bay Rays",
+      "home": "CLE/CWS",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34198,8 +34162,8 @@
     },
     {
       "league": "MLB",
-      "away": "LAD/SD",
-      "home": "MIL/LAD",
+      "away": "Los Angeles Dodgers",
+      "home": "Milwaukee Brewers",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34210,8 +34174,8 @@
     },
     {
       "league": "MLB",
-      "away": "AL Lower Seed",
-      "home": "AL Higher Seed",
+      "away": "Los Angeles Dodgers",
+      "home": "Milwaukee Brewers",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34222,8 +34186,8 @@
     },
     {
       "league": "MLB",
-      "away": "LAD/SD",
-      "home": "MIL/LAD",
+      "away": "CLE/CWS",
+      "home": "Tampa Bay Rays",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34234,8 +34198,8 @@
     },
     {
       "league": "MLB",
-      "away": "AL Lower Seed",
-      "home": "AL Higher Seed",
+      "away": "CLE/CWS",
+      "home": "Tampa Bay Rays",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34577,5 +34541,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-08T03:01:55.982Z"
+  "updatedAt": "2026-10-08T10:30:04.517Z"
 }
