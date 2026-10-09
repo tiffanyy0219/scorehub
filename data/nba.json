@@ -4,13 +4,13 @@
       "league": "NBA",
       "home": "Dallas Mavericks",
       "away": "Houston Rockets",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 117,
+      "awayScore": 135,
+      "status": "final",
       "time": "2026-10-09T12:00Z",
       "gameDate": "2026-10-09T12:00Z",
       "liveInfo": null,
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "NBA",
@@ -6971,13 +6971,19 @@
           "0.000"
         ],
         [
-          "Memphis Grizzlies",
+          "Dallas Mavericks",
+          "0",
+          "1",
+          "0.000"
+        ],
+        [
+          "Minnesota Timberwolves",
           "1",
           "1",
           "0.500"
         ],
         [
-          "Minnesota Timberwolves",
+          "Memphis Grizzlies",
           "1",
           "1",
           "0.500"
@@ -6989,28 +6995,22 @@
           "0.500"
         ],
         [
-          "Utah Jazz",
-          "1",
-          "1",
-          "0.500"
-        ],
-        [
           "Denver Nuggets",
           "1",
           "1",
           "0.500"
         ],
         [
-          "Dallas Mavericks",
-          "0",
-          "0",
-          "0.000"
+          "Utah Jazz",
+          "1",
+          "1",
+          "0.500"
         ],
         [
           "Houston Rockets",
+          "1",
           "0",
-          "0",
-          "0.000"
+          "1.000"
         ],
         [
           "Portland Trail Blazers",
@@ -7033,5 +7033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-09T09:34:44.085Z"
+  "updatedAt": "2026-10-09T16:34:24.431Z"
 }
