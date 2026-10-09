@@ -34020,10 +34020,10 @@
       "league": "MLB",
       "away": "Cleveland Guardians",
       "home": "Chicago White Sox",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 7,
+      "homeScore": 4,
+      "status": "live",
+      "liveInfo": " 6局",
       "time": "2026-10-09T00:00:00Z",
       "gameDate": "2026-10-09T00:00:00Z",
       "winner": null
@@ -34048,8 +34048,8 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-10-11T07:33:00Z",
-      "gameDate": "2026-10-11T07:33:00Z",
+      "time": "2026-10-12T00:00:00Z",
+      "gameDate": "2026-10-12T00:00:00Z",
       "winner": null
     },
     {
@@ -34060,8 +34060,8 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-10-12T07:33:00Z",
-      "gameDate": "2026-10-12T07:33:00Z",
+      "time": "2026-10-12T21:00:00Z",
+      "gameDate": "2026-10-12T21:00:00Z",
       "winner": null
     },
     {
@@ -34072,8 +34072,8 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-10-12T07:33:00Z",
-      "gameDate": "2026-10-12T07:33:00Z",
+      "time": "2026-10-13T00:00:00Z",
+      "gameDate": "2026-10-13T00:00:00Z",
       "winner": null
     },
     {
@@ -34084,8 +34084,8 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-10-13T07:33:00Z",
-      "gameDate": "2026-10-13T07:33:00Z",
+      "time": "2026-10-14T00:00:00Z",
+      "gameDate": "2026-10-14T00:00:00Z",
       "winner": null
     },
     {
@@ -34096,8 +34096,20 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-10-14T07:33:00Z",
-      "gameDate": "2026-10-14T07:33:00Z",
+      "time": "2026-10-15T00:00:00Z",
+      "gameDate": "2026-10-15T00:00:00Z",
+      "winner": null
+    },
+    {
+      "league": "MLB",
+      "away": "Tampa Bay Rays",
+      "home": "CLE/CWS",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "2026-10-15T22:00:00Z",
+      "gameDate": "2026-10-15T22:00:00Z",
       "winner": null
     },
     {
@@ -34108,8 +34120,8 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-10-15T07:33:00Z",
-      "gameDate": "2026-10-15T07:33:00Z",
+      "time": "2026-10-16T01:00:00Z",
+      "gameDate": "2026-10-16T01:00:00Z",
       "winner": null
     },
     {
@@ -34120,8 +34132,8 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-10-15T07:33:00Z",
-      "gameDate": "2026-10-15T07:33:00Z",
+      "time": "2026-10-16T22:00:00Z",
+      "gameDate": "2026-10-16T22:00:00Z",
       "winner": null
     },
     {
@@ -34132,8 +34144,8 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-10-16T07:33:00Z",
-      "gameDate": "2026-10-16T07:33:00Z",
+      "time": "2026-10-17T01:00:00Z",
+      "gameDate": "2026-10-17T01:00:00Z",
       "winner": null
     },
     {
@@ -34144,20 +34156,8 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-10-16T07:33:00Z",
-      "gameDate": "2026-10-16T07:33:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
-      "away": "Tampa Bay Rays",
-      "home": "CLE/CWS",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "2026-10-17T07:33:00Z",
-      "gameDate": "2026-10-17T07:33:00Z",
+      "time": "2026-10-18T00:00:00Z",
+      "gameDate": "2026-10-18T00:00:00Z",
       "winner": null
     },
     {
@@ -34168,8 +34168,20 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-10-18T07:33:00Z",
-      "gameDate": "2026-10-18T07:33:00Z",
+      "time": "2026-10-19T00:00:00Z",
+      "gameDate": "2026-10-19T00:00:00Z",
+      "winner": null
+    },
+    {
+      "league": "MLB",
+      "away": "CLE/CWS",
+      "home": "Tampa Bay Rays",
+      "awayScore": null,
+      "homeScore": null,
+      "status": "scheduled",
+      "liveInfo": null,
+      "time": "2026-10-19T21:00:00Z",
+      "gameDate": "2026-10-19T21:00:00Z",
       "winner": null
     },
     {
@@ -34180,8 +34192,8 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-10-19T07:33:00Z",
-      "gameDate": "2026-10-19T07:33:00Z",
+      "time": "2026-10-20T00:00:00Z",
+      "gameDate": "2026-10-20T00:00:00Z",
       "winner": null
     },
     {
@@ -34192,20 +34204,8 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-10-19T07:33:00Z",
-      "gameDate": "2026-10-19T07:33:00Z",
-      "winner": null
-    },
-    {
-      "league": "MLB",
-      "away": "CLE/CWS",
-      "home": "Tampa Bay Rays",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
-      "time": "2026-10-20T07:33:00Z",
-      "gameDate": "2026-10-20T07:33:00Z",
+      "time": "2026-10-21T00:00:00Z",
+      "gameDate": "2026-10-21T00:00:00Z",
       "winner": null
     },
     {
@@ -34541,5 +34541,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-08T22:27:13.551Z"
+  "updatedAt": "2026-10-09T02:29:41.661Z"
 }

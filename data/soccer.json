@@ -1596,6 +1596,50 @@
       "winner": null
     },
     {
+      "league": "EPL",
+      "home": "Crystal Palace",
+      "away": "Chelsea",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-06T19:30Z",
+      "gameDate": "2027-01-06T19:30Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Fulham",
+      "away": "Tottenham Hotspur",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-06T19:30Z",
+      "gameDate": "2027-01-06T19:30Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Ipswich Town",
+      "away": "Coventry City",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-06T19:30Z",
+      "gameDate": "2027-01-06T19:30Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Leeds United",
+      "away": "Manchester City",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-06T20:15Z",
+      "gameDate": "2027-01-06T20:15Z",
+      "winner": null
+    },
+    {
       "league": "La Liga",
       "home": "Málaga",
       "away": "Espanyol",
@@ -5160,6 +5204,61 @@
       "winner": null
     },
     {
+      "league": "Serie A",
+      "home": "Juventus",
+      "away": "Torino",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-06T11:30Z",
+      "gameDate": "2027-01-06T11:30Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Frosinone",
+      "away": "Bologna",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-06T14:00Z",
+      "gameDate": "2027-01-06T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Lecce",
+      "away": "Parma",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-06T14:00Z",
+      "gameDate": "2027-01-06T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Atalanta",
+      "away": "Como",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-06T17:00Z",
+      "gameDate": "2027-01-06T17:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Lazio",
+      "away": "Internazionale",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-06T19:45Z",
+      "gameDate": "2027-01-06T19:45Z",
+      "winner": null
+    },
+    {
       "league": "Ligue 1",
       "home": "Lens",
       "away": "Lyon",
@@ -6150,5 +6249,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-10-08T22:31:35.816Z"
+  "updatedAt": "2026-10-09T02:33:34.866Z"
 }
