@@ -6984,6 +6984,12 @@
           "0.000"
         ],
         [
+          "Chicago Bulls",
+          "1",
+          "1",
+          "0.500"
+        ],
+        [
           "Atlanta Hawks",
           "1",
           "1",
@@ -7015,12 +7021,6 @@
         ],
         [
           "Boston Celtics",
-          "1",
-          "0",
-          "1.000"
-        ],
-        [
-          "Chicago Bulls",
           "1",
           "0",
           "1.000"
@@ -7103,25 +7103,19 @@
           "0.500"
         ],
         [
-          "Memphis Grizzlies",
-          "1",
-          "1",
-          "0.500"
-        ],
-        [
           "New Orleans Pelicans",
           "1",
           "1",
           "0.500"
         ],
         [
-          "Denver Nuggets",
+          "Utah Jazz",
           "1",
           "1",
           "0.500"
         ],
         [
-          "Utah Jazz",
+          "Denver Nuggets",
           "1",
           "1",
           "0.500"
@@ -7145,6 +7139,12 @@
           "1.000"
         ],
         [
+          "Memphis Grizzlies",
+          "2",
+          "1",
+          "0.667"
+        ],
+        [
           "Los Angeles Lakers",
           "2",
           "1",
@@ -7153,5 +7153,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-10T01:01:15.206Z"
+  "updatedAt": "2026-10-10T07:02:42.803Z"
 }
