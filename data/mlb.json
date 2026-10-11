@@ -34032,10 +34032,10 @@
       "league": "MLB",
       "away": "Chicago White Sox",
       "home": "Cleveland Guardians",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 2局",
       "time": "2026-10-11T00:00:00Z",
       "gameDate": "2026-10-11T00:00:00Z",
       "winner": null
@@ -34541,5 +34541,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-10T21:39:22.455Z"
+  "updatedAt": "2026-10-11T00:30:38.119Z"
 }
