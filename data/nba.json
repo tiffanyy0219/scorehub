@@ -6978,13 +6978,13 @@
           "0.000"
         ],
         [
-          "Cleveland Cavaliers",
-          "0",
+          "Philadelphia 76ers",
           "1",
-          "0.000"
+          "2",
+          "0.333"
         ],
         [
-          "Toronto Raptors",
+          "Cleveland Cavaliers",
           "0",
           "1",
           "0.000"
@@ -6996,13 +6996,25 @@
           "0.000"
         ],
         [
+          "Indiana Pacers",
+          "1",
+          "1",
+          "0.500"
+        ],
+        [
           "Chicago Bulls",
           "1",
           "1",
           "0.500"
         ],
         [
-          "Atlanta Hawks",
+          "Detroit Pistons",
+          "1",
+          "1",
+          "0.500"
+        ],
+        [
+          "Toronto Raptors",
           "1",
           "1",
           "0.500"
@@ -7014,49 +7026,37 @@
           "0.500"
         ],
         [
-          "Philadelphia 76ers",
-          "1",
-          "1",
-          "0.500"
-        ],
-        [
-          "Indiana Pacers",
-          "1",
-          "0",
-          "1.000"
-        ],
-        [
-          "Detroit Pistons",
-          "1",
-          "0",
-          "1.000"
-        ],
-        [
-          "Boston Celtics",
-          "1",
-          "0",
-          "1.000"
-        ],
-        [
           "Orlando Magic",
           "1",
           "0",
           "1.000"
         ],
         [
-          "Washington Wizards",
+          "Miami Heat",
+          "2",
           "1",
-          "0",
-          "1.000"
+          "0.667"
         ],
         [
-          "Brooklyn Nets",
+          "Atlanta Hawks",
+          "2",
+          "1",
+          "0.667"
+        ],
+        [
+          "Boston Celtics",
           "2",
           "0",
           "1.000"
         ],
         [
-          "Miami Heat",
+          "Washington Wizards",
+          "2",
+          "0",
+          "1.000"
+        ],
+        [
+          "Brooklyn Nets",
           "2",
           "0",
           "1.000"
@@ -7073,34 +7073,28 @@
       ],
       "rows": [
         [
+          "Sacramento Kings",
+          "0",
+          "3",
+          "0.000"
+        ],
+        [
           "Oklahoma City Thunder",
           "0",
           "2",
           "0.000"
         ],
         [
+          "San Antonio Spurs",
+          "0",
+          "2",
+          "0.000"
+        ],
+        [
           "Phoenix Suns",
-          "0",
-          "2",
-          "0.000"
-        ],
-        [
-          "Sacramento Kings",
-          "0",
-          "2",
-          "0.000"
-        ],
-        [
-          "Golden State Warriors",
           "1",
           "2",
           "0.333"
-        ],
-        [
-          "San Antonio Spurs",
-          "0",
-          "1",
-          "0.000"
         ],
         [
           "Dallas Mavericks",
@@ -7109,13 +7103,13 @@
           "0.000"
         ],
         [
-          "Minnesota Timberwolves",
-          "1",
-          "1",
+          "Golden State Warriors",
+          "2",
+          "2",
           "0.500"
         ],
         [
-          "New Orleans Pelicans",
+          "LA Clippers",
           "1",
           "1",
           "0.500"
@@ -7133,10 +7127,10 @@
           "0.500"
         ],
         [
-          "Houston Rockets",
+          "New Orleans Pelicans",
           "1",
-          "0",
-          "1.000"
+          "1",
+          "0.500"
         ],
         [
           "Portland Trail Blazers",
@@ -7145,10 +7139,16 @@
           "1.000"
         ],
         [
-          "LA Clippers",
+          "Houston Rockets",
           "1",
           "0",
           "1.000"
+        ],
+        [
+          "Los Angeles Lakers",
+          "2",
+          "1",
+          "0.667"
         ],
         [
           "Memphis Grizzlies",
@@ -7157,7 +7157,7 @@
           "0.667"
         ],
         [
-          "Los Angeles Lakers",
+          "Minnesota Timberwolves",
           "2",
           "1",
           "0.667"
@@ -7165,5 +7165,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-11T00:30:44.783Z"
+  "updatedAt": "2026-10-11T06:26:27.243Z"
 }

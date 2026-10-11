@@ -34033,12 +34033,12 @@
       "away": "Chicago White Sox",
       "home": "Cleveland Guardians",
       "awayScore": 0,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 2局",
+      "homeScore": 2,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-10-11T00:00:00Z",
       "gameDate": "2026-10-11T00:00:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -34066,7 +34066,7 @@
     },
     {
       "league": "MLB",
-      "away": "CLE/CWS",
+      "away": "Cleveland Guardians",
       "home": "Tampa Bay Rays",
       "awayScore": null,
       "homeScore": null,
@@ -34078,7 +34078,7 @@
     },
     {
       "league": "MLB",
-      "away": "CLE/CWS",
+      "away": "Cleveland Guardians",
       "home": "Tampa Bay Rays",
       "awayScore": null,
       "homeScore": null,
@@ -34103,7 +34103,7 @@
     {
       "league": "MLB",
       "away": "Tampa Bay Rays",
-      "home": "CLE/CWS",
+      "home": "Cleveland Guardians",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34127,7 +34127,7 @@
     {
       "league": "MLB",
       "away": "Tampa Bay Rays",
-      "home": "CLE/CWS",
+      "home": "Cleveland Guardians",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34151,7 +34151,7 @@
     {
       "league": "MLB",
       "away": "Tampa Bay Rays",
-      "home": "CLE/CWS",
+      "home": "Cleveland Guardians",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34174,7 +34174,7 @@
     },
     {
       "league": "MLB",
-      "away": "CLE/CWS",
+      "away": "Cleveland Guardians",
       "home": "Tampa Bay Rays",
       "awayScore": null,
       "homeScore": null,
@@ -34198,7 +34198,7 @@
     },
     {
       "league": "MLB",
-      "away": "CLE/CWS",
+      "away": "Cleveland Guardians",
       "home": "Tampa Bay Rays",
       "awayScore": null,
       "homeScore": null,
@@ -34541,5 +34541,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-11T00:30:38.119Z"
+  "updatedAt": "2026-10-11T06:26:19.825Z"
 }
