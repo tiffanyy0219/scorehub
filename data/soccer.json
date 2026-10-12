@@ -2,39 +2,6 @@
   "schedule": [
     {
       "league": "EPL",
-      "home": "Crystal Palace",
-      "away": "Nottingham Forest",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-11T13:00Z",
-      "gameDate": "2026-10-11T13:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Hull City",
-      "away": "Everton",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-11T13:00Z",
-      "gameDate": "2026-10-11T13:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Liverpool",
-      "away": "Manchester City",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-11T15:30Z",
-      "gameDate": "2026-10-11T15:30Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
       "home": "Coventry City",
       "away": "Newcastle United",
       "homeScore": null,
@@ -1586,50 +1553,6 @@
     },
     {
       "league": "La Liga",
-      "home": "Elche",
-      "away": "Celta Vigo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-11T12:00Z",
-      "gameDate": "2026-10-11T12:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Real Sociedad",
-      "away": "Deportivo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-11T14:15Z",
-      "gameDate": "2026-10-11T14:15Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Real Betis",
-      "away": "Osasuna",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-11T16:30Z",
-      "gameDate": "2026-10-11T16:30Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Racing Santander",
-      "away": "Valencia",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-11T19:00Z",
-      "gameDate": "2026-10-11T19:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
       "home": "Levante",
       "away": "Sevilla",
       "homeScore": null,
@@ -2752,28 +2675,6 @@
     },
     {
       "league": "Bundesliga",
-      "home": "FC Cologne",
-      "away": "Borussia Mönchengladbach",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-11T13:30Z",
-      "gameDate": "2026-10-11T13:30Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "SC Freiburg",
-      "away": "Schalke 04",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-11T15:30Z",
-      "gameDate": "2026-10-11T15:30Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
       "home": "Eintracht Frankfurt",
       "away": "FC Cologne",
       "homeScore": null,
@@ -3664,58 +3565,102 @@
       "winner": null
     },
     {
-      "league": "Serie A",
-      "home": "Como",
-      "away": "AS Roma",
+      "league": "Bundesliga",
+      "home": "Borussia Dortmund",
+      "away": "Mainz",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-10-11T10:30Z",
-      "gameDate": "2026-10-11T10:30Z",
+      "time": "2027-01-09T20:00Z",
+      "gameDate": "2027-01-09T20:00Z",
       "winner": null
     },
     {
-      "league": "Serie A",
-      "home": "Lazio",
-      "away": "Monza",
+      "league": "Bundesliga",
+      "home": "Borussia Mönchengladbach",
+      "away": "Bayern Munich",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-10-11T13:00Z",
-      "gameDate": "2026-10-11T13:00Z",
+      "time": "2027-01-09T20:00Z",
+      "gameDate": "2027-01-09T20:00Z",
       "winner": null
     },
     {
-      "league": "Serie A",
-      "home": "Lecce",
-      "away": "Bologna",
+      "league": "Bundesliga",
+      "home": "Eintracht Frankfurt",
+      "away": "Schalke 04",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-10-11T13:00Z",
-      "gameDate": "2026-10-11T13:00Z",
+      "time": "2027-01-09T20:00Z",
+      "gameDate": "2027-01-09T20:00Z",
       "winner": null
     },
     {
-      "league": "Serie A",
-      "home": "Sassuolo",
-      "away": "AC Milan",
+      "league": "Bundesliga",
+      "home": "FC Cologne",
+      "away": "SC Freiburg",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-10-11T16:00Z",
-      "gameDate": "2026-10-11T16:00Z",
+      "time": "2027-01-09T20:00Z",
+      "gameDate": "2027-01-09T20:00Z",
       "winner": null
     },
     {
-      "league": "Serie A",
-      "home": "Cagliari",
-      "away": "Juventus",
+      "league": "Bundesliga",
+      "home": "Hamburg SV",
+      "away": "Bayer Leverkusen",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-10-11T18:45Z",
-      "gameDate": "2026-10-11T18:45Z",
+      "time": "2027-01-09T20:00Z",
+      "gameDate": "2027-01-09T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "SC Paderborn 07",
+      "away": "RB Leipzig",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-09T20:00Z",
+      "gameDate": "2027-01-09T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "TSG Hoffenheim",
+      "away": "SV Elversberg",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-09T20:00Z",
+      "gameDate": "2027-01-09T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "VfB Stuttgart",
+      "away": "FC Augsburg",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-09T20:00Z",
+      "gameDate": "2027-01-09T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "Werder Bremen",
+      "away": "1. FC Union Berlin",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-09T20:00Z",
+      "gameDate": "2027-01-09T20:00Z",
       "winner": null
     },
     {
@@ -5061,36 +5006,36 @@
       "winner": null
     },
     {
-      "league": "Ligue 1",
-      "home": "Nice",
-      "away": "Strasbourg",
+      "league": "Serie A",
+      "home": "Monza",
+      "away": "Frosinone",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-10-11T13:00Z",
-      "gameDate": "2026-10-11T13:00Z",
+      "time": "2027-01-09T14:00Z",
+      "gameDate": "2027-01-09T14:00Z",
       "winner": null
     },
     {
-      "league": "Ligue 1",
-      "home": "Stade Rennais",
-      "away": "AJ Auxerre",
+      "league": "Serie A",
+      "home": "AS Roma",
+      "away": "AC Milan",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-10-11T15:15Z",
-      "gameDate": "2026-10-11T15:15Z",
+      "time": "2027-01-09T17:00Z",
+      "gameDate": "2027-01-09T17:00Z",
       "winner": null
     },
     {
-      "league": "Ligue 1",
-      "home": "Troyes",
-      "away": "Marseille",
+      "league": "Serie A",
+      "home": "Bologna",
+      "away": "Genoa",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-10-11T18:45Z",
-      "gameDate": "2026-10-11T18:45Z",
+      "time": "2027-01-09T19:45Z",
+      "gameDate": "2027-01-09T19:45Z",
       "winner": null
     },
     {
@@ -5985,5 +5930,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-10-11T22:25:13.439Z"
+  "updatedAt": "2026-10-12T01:42:46.786Z"
 }
