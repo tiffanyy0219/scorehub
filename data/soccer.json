@@ -1905,46 +1905,13 @@
     },
     {
       "league": "La Liga",
-      "home": "Atlético Madrid",
-      "away": "Barcelona",
+      "home": "Sevilla",
+      "away": "Alavés",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-11-08T20:00Z",
-      "gameDate": "2026-11-08T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Celta Vigo",
-      "away": "Levante",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-08T20:00Z",
-      "gameDate": "2026-11-08T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Elche",
-      "away": "Real Betis",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-08T20:00Z",
-      "gameDate": "2026-11-08T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Espanyol",
-      "away": "Deportivo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-08T20:00Z",
-      "gameDate": "2026-11-08T20:00Z",
+      "time": "2026-11-06T20:00Z",
+      "gameDate": "2026-11-06T20:00Z",
       "winner": null
     },
     {
@@ -1954,8 +1921,19 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-11-08T20:00Z",
-      "gameDate": "2026-11-08T20:00Z",
+      "time": "2026-11-07T13:00Z",
+      "gameDate": "2026-11-07T13:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Espanyol",
+      "away": "Deportivo",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-11-07T15:15Z",
+      "gameDate": "2026-11-07T15:15Z",
       "winner": null
     },
     {
@@ -1965,30 +1943,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-11-08T20:00Z",
-      "gameDate": "2026-11-08T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Real Sociedad",
-      "away": "Rayo Vallecano",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-08T20:00Z",
-      "gameDate": "2026-11-08T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Sevilla",
-      "away": "Alavés",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-08T20:00Z",
-      "gameDate": "2026-11-08T20:00Z",
+      "time": "2026-11-07T17:30Z",
+      "gameDate": "2026-11-07T17:30Z",
       "winner": null
     },
     {
@@ -1998,14 +1954,58 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-11-08T20:00Z",
-      "gameDate": "2026-11-08T20:00Z",
+      "time": "2026-11-07T20:00Z",
+      "gameDate": "2026-11-07T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Elche",
+      "away": "Real Betis",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-11-08T13:00Z",
+      "gameDate": "2026-11-08T13:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Real Sociedad",
+      "away": "Rayo Vallecano",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-11-08T15:15Z",
+      "gameDate": "2026-11-08T15:15Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Celta Vigo",
+      "away": "Levante",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-11-08T17:30Z",
+      "gameDate": "2026-11-08T17:30Z",
       "winner": null
     },
     {
       "league": "La Liga",
       "home": "Villarreal",
       "away": "Getafe",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-11-08T17:30Z",
+      "gameDate": "2026-11-08T17:30Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Atlético Madrid",
+      "away": "Barcelona",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
@@ -5930,5 +5930,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-10-12T08:05:08.573Z"
+  "updatedAt": "2026-10-12T17:54:30.171Z"
 }
