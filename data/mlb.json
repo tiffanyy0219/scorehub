@@ -34056,22 +34056,22 @@
       "league": "MLB",
       "away": "Los Angeles Dodgers",
       "home": "Milwaukee Brewers",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
+      "awayScore": 4,
+      "homeScore": 7,
+      "status": "final",
       "liveInfo": null,
       "time": "2026-10-12T21:00:00Z",
       "gameDate": "2026-10-12T21:00:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
       "away": "Cleveland Guardians",
       "home": "Tampa Bay Rays",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 2,
+      "status": "live",
+      "liveInfo": " 1局",
       "time": "2026-10-13T00:00:00Z",
       "gameDate": "2026-10-13T00:00:00Z",
       "winner": null
@@ -34541,5 +34541,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-12T17:51:05.496Z"
+  "updatedAt": "2026-10-13T00:27:47.212Z"
 }

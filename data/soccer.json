@@ -2,17 +2,6 @@
   "schedule": [
     {
       "league": "EPL",
-      "home": "Coventry City",
-      "away": "Newcastle United",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-12T19:00Z",
-      "gameDate": "2026-10-12T19:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
       "home": "Everton",
       "away": "Chelsea",
       "homeScore": null,
@@ -1553,17 +1542,6 @@
     },
     {
       "league": "La Liga",
-      "home": "Levante",
-      "away": "Sevilla",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-12T19:00Z",
-      "gameDate": "2026-10-12T19:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
       "home": "Deportivo",
       "away": "Levante",
       "homeScore": null,
@@ -2674,6 +2652,116 @@
       "winner": null
     },
     {
+      "league": "La Liga",
+      "home": "Alavés",
+      "away": "Real Sociedad",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-10T20:00Z",
+      "gameDate": "2027-01-10T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Athletic Club",
+      "away": "Villarreal",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-10T20:00Z",
+      "gameDate": "2027-01-10T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Atlético Madrid",
+      "away": "Racing Santander",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-10T20:00Z",
+      "gameDate": "2027-01-10T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Deportivo",
+      "away": "Rayo Vallecano",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-10T20:00Z",
+      "gameDate": "2027-01-10T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Elche",
+      "away": "Getafe",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-10T20:00Z",
+      "gameDate": "2027-01-10T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Espanyol",
+      "away": "Real Betis",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-10T20:00Z",
+      "gameDate": "2027-01-10T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Osasuna",
+      "away": "Barcelona",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-10T20:00Z",
+      "gameDate": "2027-01-10T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Real Madrid",
+      "away": "Levante",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-10T20:00Z",
+      "gameDate": "2027-01-10T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Sevilla",
+      "away": "Celta Vigo",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-10T20:00Z",
+      "gameDate": "2027-01-10T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Valencia",
+      "away": "Málaga",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-10T20:00Z",
+      "gameDate": "2027-01-10T20:00Z",
+      "winner": null
+    },
+    {
       "league": "Bundesliga",
       "home": "Eintracht Frankfurt",
       "away": "FC Cologne",
@@ -3661,28 +3749,6 @@
       "status": "scheduled",
       "time": "2027-01-09T20:00Z",
       "gameDate": "2027-01-09T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "Serie A",
-      "home": "Atalanta",
-      "away": "Venezia",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-12T16:30Z",
-      "gameDate": "2026-10-12T16:30Z",
-      "winner": null
-    },
-    {
-      "league": "Serie A",
-      "home": "Torino",
-      "away": "Udinese",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-12T18:45Z",
-      "gameDate": "2026-10-12T18:45Z",
       "winner": null
     },
     {
@@ -5039,6 +5105,61 @@
       "winner": null
     },
     {
+      "league": "Serie A",
+      "home": "Como",
+      "away": "Lazio",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-10T11:30Z",
+      "gameDate": "2027-01-10T11:30Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Fiorentina",
+      "away": "Lecce",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-10T14:00Z",
+      "gameDate": "2027-01-10T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Parma",
+      "away": "Venezia",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-10T14:00Z",
+      "gameDate": "2027-01-10T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Torino",
+      "away": "Atalanta",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-10T17:00Z",
+      "gameDate": "2027-01-10T17:00Z",
+      "winner": null
+    },
+    {
+      "league": "Serie A",
+      "home": "Internazionale",
+      "away": "Juventus",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-10T19:45Z",
+      "gameDate": "2027-01-10T19:45Z",
+      "winner": null
+    },
+    {
       "league": "Ligue 1",
       "home": "Le Mans",
       "away": "Toulouse",
@@ -5930,5 +6051,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-10-12T17:54:30.171Z"
+  "updatedAt": "2026-10-13T00:31:39.518Z"
 }
