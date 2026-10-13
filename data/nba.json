@@ -686,18 +686,6 @@
     },
     {
       "league": "NBA",
-      "home": "Atlanta Hawks",
-      "away": "Houston Rockets",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-25T00:00Z",
-      "gameDate": "2026-10-25T00:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
       "home": "Chicago Bulls",
       "away": "Washington Wizards",
       "homeScore": null,
@@ -717,6 +705,18 @@
       "status": "scheduled",
       "time": "2026-10-25T00:00Z",
       "gameDate": "2026-10-25T00:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Atlanta Hawks",
+      "away": "Houston Rockets",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-25T00:30Z",
+      "gameDate": "2026-10-25T00:30Z",
       "liveInfo": null,
       "winner": null
     },
@@ -7225,5 +7225,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-13T15:00:28.391Z"
+  "updatedAt": "2026-10-13T20:38:58.393Z"
 }

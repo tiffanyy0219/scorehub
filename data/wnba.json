@@ -31,8 +31,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-10-23T00:00Z",
-      "gameDate": "2026-10-23T00:00Z",
+      "time": "2026-10-22T00:00Z",
+      "gameDate": "2026-10-22T00:00Z",
       "liveInfo": null,
       "winner": null
     },
@@ -43,8 +43,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-10-24T19:30Z",
-      "gameDate": "2026-10-24T19:30Z",
+      "time": "2026-10-24T17:00Z",
+      "gameDate": "2026-10-24T17:00Z",
       "liveInfo": null,
       "winner": null
     },
@@ -85,5 +85,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-10-13T15:00:33.406Z"
+  "updatedAt": "2026-10-13T20:39:04.810Z"
 }
