@@ -7034,7 +7034,7 @@
         [
           "New York Knicks",
           "0",
-          "2",
+          "3",
           "0.000"
         ],
         [
@@ -7098,7 +7098,7 @@
           "0.667"
         ],
         [
-          "Atlanta Hawks",
+          "Washington Wizards",
           "2",
           "1",
           "0.667"
@@ -7110,14 +7110,14 @@
           "1.000"
         ],
         [
-          "Washington Wizards",
-          "2",
-          "0",
-          "1.000"
+          "Atlanta Hawks",
+          "3",
+          "1",
+          "0.750"
         ],
         [
           "Brooklyn Nets",
-          "2",
+          "3",
           "0",
           "1.000"
         ]
@@ -7133,21 +7133,21 @@
       ],
       "rows": [
         [
-          "Sacramento Kings",
+          "Oklahoma City Thunder",
           "0",
           "3",
           "0.000"
         ],
         [
-          "Oklahoma City Thunder",
+          "San Antonio Spurs",
           "0",
-          "2",
+          "3",
           "0.000"
         ],
         [
-          "San Antonio Spurs",
+          "Sacramento Kings",
           "0",
-          "2",
+          "3",
           "0.000"
         ],
         [
@@ -7164,12 +7164,6 @@
         ],
         [
           "LA Clippers",
-          "1",
-          "1",
-          "0.500"
-        ],
-        [
-          "Utah Jazz",
           "1",
           "1",
           "0.500"
@@ -7199,13 +7193,13 @@
           "0.667"
         ],
         [
-          "Minnesota Timberwolves",
+          "Los Angeles Lakers",
           "2",
           "1",
           "0.667"
         ],
         [
-          "Los Angeles Lakers",
+          "Utah Jazz",
           "2",
           "1",
           "0.667"
@@ -7221,9 +7215,15 @@
           "2",
           "0",
           "1.000"
+        ],
+        [
+          "Minnesota Timberwolves",
+          "3",
+          "1",
+          "0.750"
         ]
       ]
     }
   ],
-  "updatedAt": "2026-10-13T00:27:54.891Z"
+  "updatedAt": "2026-10-13T07:02:05.818Z"
 }
