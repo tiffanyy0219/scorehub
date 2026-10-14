@@ -34080,13 +34080,13 @@
       "league": "MLB",
       "away": "Cleveland Guardians",
       "home": "Tampa Bay Rays",
-      "awayScore": 0,
-      "homeScore": 0,
-      "status": "live",
-      "liveInfo": " 1局",
+      "awayScore": 1,
+      "homeScore": 3,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-10-14T00:00:00Z",
       "gameDate": "2026-10-14T00:00:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -34541,5 +34541,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-13T23:56:13.884Z"
+  "updatedAt": "2026-10-14T04:40:14.600Z"
 }
