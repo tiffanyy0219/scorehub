@@ -34108,8 +34108,8 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-10-15T22:00:00Z",
-      "gameDate": "2026-10-15T22:00:00Z",
+      "time": "2026-10-15T17:00:00Z",
+      "gameDate": "2026-10-15T17:00:00Z",
       "winner": null
     },
     {
@@ -34541,5 +34541,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-14T14:42:59.994Z"
+  "updatedAt": "2026-10-14T18:58:48.212Z"
 }
