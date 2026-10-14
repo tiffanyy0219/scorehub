@@ -4,24 +4,24 @@
       "league": "NBA",
       "home": "Orlando Magic",
       "away": "Cleveland Cavaliers",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 49,
+      "awayScore": 35,
+      "status": "live",
       "time": "2026-10-13T23:00Z",
       "gameDate": "2026-10-13T23:00Z",
-      "liveInfo": null,
+      "liveInfo": "8:06",
       "winner": null
     },
     {
       "league": "NBA",
       "home": "Toronto Raptors",
       "away": "New York Knicks",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 58,
+      "awayScore": 33,
+      "status": "live",
       "time": "2026-10-13T23:00Z",
       "gameDate": "2026-10-13T23:00Z",
-      "liveInfo": null,
+      "liveInfo": "6:55",
       "winner": null
     },
     {
@@ -7225,5 +7225,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-13T20:38:58.393Z"
+  "updatedAt": "2026-10-13T23:56:22.351Z"
 }
