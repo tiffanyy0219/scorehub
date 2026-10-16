@@ -34174,7 +34174,7 @@
     },
     {
       "league": "MLB",
-      "away": "AL Champion",
+      "away": "TB/CLE",
       "home": "Milwaukee Brewers",
       "awayScore": null,
       "homeScore": null,
@@ -34186,7 +34186,7 @@
     },
     {
       "league": "MLB",
-      "away": "AL Champion",
+      "away": "TB/CLE",
       "home": "Milwaukee Brewers",
       "awayScore": null,
       "homeScore": null,
@@ -34199,7 +34199,7 @@
     {
       "league": "MLB",
       "away": "Milwaukee Brewers",
-      "home": "AL Champion",
+      "home": "TB/CLE",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34211,7 +34211,7 @@
     {
       "league": "MLB",
       "away": "Milwaukee Brewers",
-      "home": "AL Champion",
+      "home": "TB/CLE",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34223,7 +34223,7 @@
     {
       "league": "MLB",
       "away": "Milwaukee Brewers",
-      "home": "AL Champion",
+      "home": "TB/CLE",
       "awayScore": null,
       "homeScore": null,
       "status": "scheduled",
@@ -34234,7 +34234,7 @@
     },
     {
       "league": "MLB",
-      "away": "AL Champion",
+      "away": "TB/CLE",
       "home": "Milwaukee Brewers",
       "awayScore": null,
       "homeScore": null,
@@ -34246,7 +34246,7 @@
     },
     {
       "league": "MLB",
-      "away": "AL Champion",
+      "away": "TB/CLE",
       "home": "Milwaukee Brewers",
       "awayScore": null,
       "homeScore": null,
@@ -34505,5 +34505,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-16T14:15:24.905Z"
+  "updatedAt": "2026-10-16T18:10:23.673Z"
 }

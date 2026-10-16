@@ -338,6 +338,18 @@
     },
     {
       "league": "NBA",
+      "home": "Milwaukee Bucks",
+      "away": "Chicago Bulls",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-23T20:00Z",
+      "gameDate": "2026-10-23T20:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
       "home": "Boston Celtics",
       "away": "New York Knicks",
       "homeScore": null,
@@ -400,18 +412,6 @@
       "league": "NBA",
       "home": "Miami Heat",
       "away": "Detroit Pistons",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-24T00:00Z",
-      "gameDate": "2026-10-24T00:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Milwaukee Bucks",
-      "away": "Chicago Bulls",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
@@ -7309,5 +7309,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-16T14:15:30.181Z"
+  "updatedAt": "2026-10-16T18:10:28.673Z"
 }
