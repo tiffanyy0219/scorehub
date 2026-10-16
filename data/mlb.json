@@ -34116,10 +34116,10 @@
       "league": "MLB",
       "away": "Milwaukee Brewers",
       "home": "Los Angeles Dodgers",
-      "awayScore": null,
-      "homeScore": null,
-      "status": "scheduled",
-      "liveInfo": null,
+      "awayScore": 0,
+      "homeScore": 0,
+      "status": "live",
+      "liveInfo": " 2局",
       "time": "2026-10-16T00:00:00Z",
       "gameDate": "2026-10-16T00:00:00Z",
       "winner": null
@@ -34541,5 +34541,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-15T22:13:31.572Z"
+  "updatedAt": "2026-10-16T00:29:05.047Z"
 }
