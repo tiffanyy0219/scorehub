@@ -4,48 +4,48 @@
       "league": "NBA",
       "home": "Orlando Magic",
       "away": "Miami Heat",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 36,
+      "awayScore": 36,
+      "status": "live",
       "time": "2026-10-16T23:00Z",
       "gameDate": "2026-10-16T23:00Z",
-      "liveInfo": null,
+      "liveInfo": "11:03",
       "winner": null
     },
     {
       "league": "NBA",
       "home": "Philadelphia 76ers",
       "away": "Boston Celtics",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 32,
+      "awayScore": 34,
+      "status": "live",
       "time": "2026-10-16T23:00Z",
       "gameDate": "2026-10-16T23:00Z",
-      "liveInfo": null,
+      "liveInfo": "10:15",
       "winner": null
     },
     {
       "league": "NBA",
       "home": "Detroit Pistons",
       "away": "Toronto Raptors",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 33,
+      "awayScore": 33,
+      "status": "live",
       "time": "2026-10-16T23:00Z",
       "gameDate": "2026-10-16T23:00Z",
-      "liveInfo": null,
+      "liveInfo": "12:00",
       "winner": null
     },
     {
       "league": "NBA",
       "home": "Indiana Pacers",
       "away": "Milwaukee Bucks",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 40,
+      "awayScore": 24,
+      "status": "live",
       "time": "2026-10-16T23:00Z",
       "gameDate": "2026-10-16T23:00Z",
-      "liveInfo": null,
+      "liveInfo": "9:18",
       "winner": null
     },
     {
@@ -7309,5 +7309,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-16T21:22:46.402Z"
+  "updatedAt": "2026-10-16T23:47:37.513Z"
 }
