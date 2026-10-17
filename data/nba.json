@@ -2,150 +2,6 @@
   "schedule": [
     {
       "league": "NBA",
-      "home": "Orlando Magic",
-      "away": "Miami Heat",
-      "homeScore": 36,
-      "awayScore": 36,
-      "status": "live",
-      "time": "2026-10-16T23:00Z",
-      "gameDate": "2026-10-16T23:00Z",
-      "liveInfo": "11:03",
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Philadelphia 76ers",
-      "away": "Boston Celtics",
-      "homeScore": 32,
-      "awayScore": 34,
-      "status": "live",
-      "time": "2026-10-16T23:00Z",
-      "gameDate": "2026-10-16T23:00Z",
-      "liveInfo": "10:15",
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Detroit Pistons",
-      "away": "Toronto Raptors",
-      "homeScore": 33,
-      "awayScore": 33,
-      "status": "live",
-      "time": "2026-10-16T23:00Z",
-      "gameDate": "2026-10-16T23:00Z",
-      "liveInfo": "12:00",
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Indiana Pacers",
-      "away": "Milwaukee Bucks",
-      "homeScore": 40,
-      "awayScore": 24,
-      "status": "live",
-      "time": "2026-10-16T23:00Z",
-      "gameDate": "2026-10-16T23:00Z",
-      "liveInfo": "9:18",
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Dallas Mavericks",
-      "away": "Atlanta Hawks",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-17T00:00Z",
-      "gameDate": "2026-10-17T00:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "San Antonio Spurs",
-      "away": "Sacramento Kings",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-17T00:00Z",
-      "gameDate": "2026-10-17T00:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Memphis Grizzlies",
-      "away": "Charlotte Hornets",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-17T00:00Z",
-      "gameDate": "2026-10-17T00:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "New Orleans Pelicans",
-      "away": "Washington Wizards",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-17T00:00Z",
-      "gameDate": "2026-10-17T00:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Chicago Bulls",
-      "away": "Minnesota Timberwolves",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-17T00:00Z",
-      "gameDate": "2026-10-17T00:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Golden State Warriors",
-      "away": "Portland Trail Blazers",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-17T02:00Z",
-      "gameDate": "2026-10-17T02:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Phoenix Suns",
-      "away": "Utah Jazz",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-17T02:00Z",
-      "gameDate": "2026-10-17T02:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Los Angeles Lakers",
-      "away": "Denver Nuggets",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-17T02:30Z",
-      "gameDate": "2026-10-17T02:30Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
       "home": "Detroit Pistons",
       "away": "Boston Celtics",
       "homeScore": null,
@@ -7103,6 +6959,114 @@
       "gameDate": "2027-01-14T03:00Z",
       "liveInfo": null,
       "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "San Antonio Spurs",
+      "away": "New Orleans Pelicans",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-14T19:00Z",
+      "gameDate": "2027-01-14T19:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Detroit Pistons",
+      "away": "Dallas Mavericks",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-15T00:00Z",
+      "gameDate": "2027-01-15T00:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Philadelphia 76ers",
+      "away": "Brooklyn Nets",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-15T00:00Z",
+      "gameDate": "2027-01-15T00:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "New York Knicks",
+      "away": "Miami Heat",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-15T00:30Z",
+      "gameDate": "2027-01-15T00:30Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Chicago Bulls",
+      "away": "Minnesota Timberwolves",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-15T01:00Z",
+      "gameDate": "2027-01-15T01:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Denver Nuggets",
+      "away": "Memphis Grizzlies",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-15T02:00Z",
+      "gameDate": "2027-01-15T02:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Utah Jazz",
+      "away": "Charlotte Hornets",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-15T02:00Z",
+      "gameDate": "2027-01-15T02:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Los Angeles Lakers",
+      "away": "Orlando Magic",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-15T03:00Z",
+      "gameDate": "2027-01-15T03:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Sacramento Kings",
+      "away": "LA Clippers",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-15T03:00Z",
+      "gameDate": "2027-01-15T03:00Z",
+      "liveInfo": null,
+      "winner": null
     }
   ],
   "standings": [
@@ -7122,10 +7086,16 @@
           "0.200"
         ],
         [
-          "Milwaukee Bucks",
+          "Indiana Pacers",
           "1",
           "3",
           "0.250"
+        ],
+        [
+          "Milwaukee Bucks",
+          "2",
+          "3",
+          "0.400"
         ],
         [
           "Cleveland Cavaliers",
@@ -7146,12 +7116,6 @@
           "0.333"
         ],
         [
-          "Indiana Pacers",
-          "1",
-          "2",
-          "0.333"
-        ],
-        [
           "Chicago Bulls",
           "2",
           "2",
@@ -7164,19 +7128,13 @@
           "0.500"
         ],
         [
-          "Detroit Pistons",
-          "2",
-          "1",
-          "0.667"
-        ],
-        [
           "Washington Wizards",
           "2",
           "1",
           "0.667"
         ],
         [
-          "Orlando Magic",
+          "Detroit Pistons",
           "2",
           "1",
           "0.667"
@@ -7184,8 +7142,8 @@
         [
           "Miami Heat",
           "3",
-          "1",
-          "0.750"
+          "2",
+          "0.600"
         ],
         [
           "Atlanta Hawks",
@@ -7195,6 +7153,12 @@
         ],
         [
           "Brooklyn Nets",
+          "3",
+          "1",
+          "0.750"
+        ],
+        [
+          "Orlando Magic",
           "3",
           "1",
           "0.750"
@@ -7309,5 +7273,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-16T23:47:37.513Z"
+  "updatedAt": "2026-10-17T01:38:55.859Z"
 }
