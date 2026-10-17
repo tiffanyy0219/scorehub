@@ -34142,8 +34142,8 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-10-18T00:00:00Z",
-      "gameDate": "2026-10-18T00:00:00Z",
+      "time": "2026-10-18T00:08:00Z",
+      "gameDate": "2026-10-18T00:08:00Z",
       "winner": null
     },
     {
@@ -34154,8 +34154,8 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-10-18T21:00:00Z",
-      "gameDate": "2026-10-18T21:00:00Z",
+      "time": "2026-10-18T21:08:00Z",
+      "gameDate": "2026-10-18T21:08:00Z",
       "winner": null
     },
     {
@@ -34166,8 +34166,8 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-10-20T00:00:00Z",
-      "gameDate": "2026-10-20T00:00:00Z",
+      "time": "2026-10-20T00:08:00Z",
+      "gameDate": "2026-10-20T00:08:00Z",
       "winner": null
     },
     {
@@ -34178,8 +34178,8 @@
       "homeScore": null,
       "status": "scheduled",
       "liveInfo": null,
-      "time": "2026-10-21T00:00:00Z",
-      "gameDate": "2026-10-21T00:00:00Z",
+      "time": "2026-10-21T00:08:00Z",
+      "gameDate": "2026-10-21T00:08:00Z",
       "winner": null
     },
     {
@@ -34515,5 +34515,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-17T10:57:04.429Z"
+  "updatedAt": "2026-10-17T14:09:17.094Z"
 }
