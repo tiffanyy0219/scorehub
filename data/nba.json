@@ -7067,6 +7067,102 @@
       "gameDate": "2027-01-15T03:00Z",
       "liveInfo": null,
       "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Atlanta Hawks",
+      "away": "Golden State Warriors",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-16T00:00Z",
+      "gameDate": "2027-01-16T00:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Indiana Pacers",
+      "away": "Phoenix Suns",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-16T00:00Z",
+      "gameDate": "2027-01-16T00:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Toronto Raptors",
+      "away": "Miami Heat",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-16T00:30Z",
+      "gameDate": "2027-01-16T00:30Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Milwaukee Bucks",
+      "away": "Cleveland Cavaliers",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-16T01:00Z",
+      "gameDate": "2027-01-16T01:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Oklahoma City Thunder",
+      "away": "Utah Jazz",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-16T01:00Z",
+      "gameDate": "2027-01-16T01:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Houston Rockets",
+      "away": "Washington Wizards",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-16T01:30Z",
+      "gameDate": "2027-01-16T01:30Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Portland Trail Blazers",
+      "away": "Sacramento Kings",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-16T03:00Z",
+      "gameDate": "2027-01-16T03:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "LA Clippers",
+      "away": "Orlando Magic",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-16T03:30Z",
+      "gameDate": "2027-01-16T03:30Z",
+      "liveInfo": null,
+      "winner": null
     }
   ],
   "standings": [
@@ -7273,5 +7369,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-17T23:30:54.032Z"
+  "updatedAt": "2026-10-18T01:31:19.730Z"
 }

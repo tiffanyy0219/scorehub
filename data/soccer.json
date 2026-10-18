@@ -2,61 +2,6 @@
   "schedule": [
     {
       "league": "EPL",
-      "home": "Everton",
-      "away": "Chelsea",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-17T11:30Z",
-      "gameDate": "2026-10-17T11:30Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Brentford",
-      "away": "Liverpool",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-17T14:00Z",
-      "gameDate": "2026-10-17T14:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Fulham",
-      "away": "Hull City",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-17T14:00Z",
-      "gameDate": "2026-10-17T14:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Manchester City",
-      "away": "Ipswich Town",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-17T14:00Z",
-      "gameDate": "2026-10-17T14:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Newcastle United",
-      "away": "Aston Villa",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-17T16:30Z",
-      "gameDate": "2026-10-17T16:30Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
       "home": "AFC Bournemouth",
       "away": "Sunderland",
       "homeScore": null,
@@ -1542,50 +1487,6 @@
     },
     {
       "league": "La Liga",
-      "home": "Espanyol",
-      "away": "Atlético Madrid",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-17T12:00Z",
-      "gameDate": "2026-10-17T12:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Villarreal",
-      "away": "Elche",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-17T14:15Z",
-      "gameDate": "2026-10-17T14:15Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Real Betis",
-      "away": "Barcelona",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-17T16:30Z",
-      "gameDate": "2026-10-17T16:30Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Valencia",
-      "away": "Athletic Club",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-17T19:00Z",
-      "gameDate": "2026-10-17T19:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
       "home": "Osasuna",
       "away": "Racing Santander",
       "homeScore": null,
@@ -2752,72 +2653,6 @@
     },
     {
       "league": "Bundesliga",
-      "home": "1. FC Union Berlin",
-      "away": "Borussia Dortmund",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-17T13:30Z",
-      "gameDate": "2026-10-17T13:30Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "Hamburg SV",
-      "away": "VfB Stuttgart",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-17T13:30Z",
-      "gameDate": "2026-10-17T13:30Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "Schalke 04",
-      "away": "Mainz",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-17T13:30Z",
-      "gameDate": "2026-10-17T13:30Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "SV Elversberg",
-      "away": "FC Augsburg",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-17T13:30Z",
-      "gameDate": "2026-10-17T13:30Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "Werder Bremen",
-      "away": "SC Paderborn 07",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-17T13:30Z",
-      "gameDate": "2026-10-17T13:30Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "Bayern Munich",
-      "away": "RB Leipzig",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-17T16:30Z",
-      "gameDate": "2026-10-17T16:30Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
       "home": "Bayer Leverkusen",
       "away": "SC Freiburg",
       "homeScore": null,
@@ -3826,39 +3661,6 @@
       "status": "scheduled",
       "time": "2027-01-13T20:00Z",
       "gameDate": "2027-01-13T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "Serie A",
-      "home": "Venezia",
-      "away": "Napoli",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-17T13:00Z",
-      "gameDate": "2026-10-17T13:00Z",
-      "winner": null
-    },
-    {
-      "league": "Serie A",
-      "home": "Bologna",
-      "away": "Internazionale",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-17T16:00Z",
-      "gameDate": "2026-10-17T16:00Z",
-      "winner": null
-    },
-    {
-      "league": "Serie A",
-      "home": "AS Roma",
-      "away": "Genoa",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-17T18:45Z",
-      "gameDate": "2026-10-17T18:45Z",
       "winner": null
     },
     {
@@ -5249,39 +5051,6 @@
     },
     {
       "league": "Ligue 1",
-      "home": "Strasbourg",
-      "away": "Paris Saint-Germain",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-17T15:15Z",
-      "gameDate": "2026-10-17T15:15Z",
-      "winner": null
-    },
-    {
-      "league": "Ligue 1",
-      "home": "Lille",
-      "away": "Brest",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-17T18:45Z",
-      "gameDate": "2026-10-17T18:45Z",
-      "winner": null
-    },
-    {
-      "league": "Ligue 1",
-      "home": "Troyes",
-      "away": "Lens",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-17T18:45Z",
-      "gameDate": "2026-10-17T18:45Z",
-      "winner": null
-    },
-    {
-      "league": "Ligue 1",
       "home": "Angers",
       "away": "Marseille",
       "homeScore": null,
@@ -6128,5 +5897,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-10-17T23:34:31.350Z"
+  "updatedAt": "2026-10-18T01:35:24.649Z"
 }
