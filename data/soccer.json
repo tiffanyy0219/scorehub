@@ -563,35 +563,13 @@
     },
     {
       "league": "EPL",
-      "home": "AFC Bournemouth",
-      "away": "Brighton & Hove Albion",
+      "home": "Coventry City",
+      "away": "Ipswich Town",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-12-02T20:00Z",
-      "gameDate": "2026-12-02T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Aston Villa",
-      "away": "Everton",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-12-02T20:00Z",
-      "gameDate": "2026-12-02T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Brentford",
-      "away": "Arsenal",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-12-02T20:00Z",
-      "gameDate": "2026-12-02T20:00Z",
+      "time": "2026-12-01T20:00Z",
+      "gameDate": "2026-12-01T20:00Z",
       "winner": null
     },
     {
@@ -601,19 +579,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-12-02T20:00Z",
-      "gameDate": "2026-12-02T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Coventry City",
-      "away": "Ipswich Town",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-12-02T20:00Z",
-      "gameDate": "2026-12-02T20:00Z",
+      "time": "2026-12-02T19:30Z",
+      "gameDate": "2026-12-02T19:30Z",
       "winner": null
     },
     {
@@ -623,8 +590,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-12-02T20:00Z",
-      "gameDate": "2026-12-02T20:00Z",
+      "time": "2026-12-02T19:30Z",
+      "gameDate": "2026-12-02T19:30Z",
       "winner": null
     },
     {
@@ -634,8 +601,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-12-02T20:00Z",
-      "gameDate": "2026-12-02T20:00Z",
+      "time": "2026-12-02T19:30Z",
+      "gameDate": "2026-12-02T19:30Z",
       "winner": null
     },
     {
@@ -645,8 +612,41 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-12-02T20:00Z",
-      "gameDate": "2026-12-02T20:00Z",
+      "time": "2026-12-02T19:30Z",
+      "gameDate": "2026-12-02T19:30Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "AFC Bournemouth",
+      "away": "Brighton & Hove Albion",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-02T20:15Z",
+      "gameDate": "2026-12-02T20:15Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Aston Villa",
+      "away": "Everton",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-02T20:15Z",
+      "gameDate": "2026-12-02T20:15Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Brentford",
+      "away": "Arsenal",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-02T20:15Z",
+      "gameDate": "2026-12-02T20:15Z",
       "winner": null
     },
     {
@@ -656,8 +656,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-12-02T20:00Z",
-      "gameDate": "2026-12-02T20:00Z",
+      "time": "2026-12-02T20:15Z",
+      "gameDate": "2026-12-02T20:15Z",
       "winner": null
     },
     {
@@ -667,8 +667,19 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-12-02T20:00Z",
-      "gameDate": "2026-12-02T20:00Z",
+      "time": "2026-12-03T20:00Z",
+      "gameDate": "2026-12-03T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Chelsea",
+      "away": "Liverpool",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-05T12:30Z",
+      "gameDate": "2026-12-05T12:30Z",
       "winner": null
     },
     {
@@ -686,39 +697,6 @@
       "league": "EPL",
       "home": "Aston Villa",
       "away": "Crystal Palace",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-12-05T15:00Z",
-      "gameDate": "2026-12-05T15:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Brentford",
-      "away": "Manchester City",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-12-05T15:00Z",
-      "gameDate": "2026-12-05T15:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Chelsea",
-      "away": "Liverpool",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-12-05T15:00Z",
-      "gameDate": "2026-12-05T15:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Everton",
-      "away": "Fulham",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
@@ -750,24 +728,46 @@
     },
     {
       "league": "EPL",
-      "home": "Newcastle United",
-      "away": "Sunderland",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-12-05T15:00Z",
-      "gameDate": "2026-12-05T15:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
       "home": "Nottingham Forest",
       "away": "Brighton & Hove Albion",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-12-05T15:00Z",
-      "gameDate": "2026-12-05T15:00Z",
+      "time": "2026-12-05T17:30Z",
+      "gameDate": "2026-12-05T17:30Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Brentford",
+      "away": "Manchester City",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-05T20:00Z",
+      "gameDate": "2026-12-05T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Everton",
+      "away": "Fulham",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-06T14:00Z",
+      "gameDate": "2026-12-06T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Newcastle United",
+      "away": "Sunderland",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-06T14:00Z",
+      "gameDate": "2026-12-06T14:00Z",
       "winner": null
     },
     {
@@ -777,69 +777,14 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-12-05T15:00Z",
-      "gameDate": "2026-12-05T15:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Arsenal",
-      "away": "AFC Bournemouth",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-12-12T15:00Z",
-      "gameDate": "2026-12-12T15:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Brighton & Hove Albion",
-      "away": "Everton",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-12-12T15:00Z",
-      "gameDate": "2026-12-12T15:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Coventry City",
-      "away": "Aston Villa",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-12-12T15:00Z",
-      "gameDate": "2026-12-12T15:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Crystal Palace",
-      "away": "Manchester United",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-12-12T15:00Z",
-      "gameDate": "2026-12-12T15:00Z",
+      "time": "2026-12-06T16:30Z",
+      "gameDate": "2026-12-06T16:30Z",
       "winner": null
     },
     {
       "league": "EPL",
       "home": "Fulham",
       "away": "Brentford",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-12-12T15:00Z",
-      "gameDate": "2026-12-12T15:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Hull City",
-      "away": "Tottenham Hotspur",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
@@ -876,8 +821,30 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-12-12T15:00Z",
-      "gameDate": "2026-12-12T15:00Z",
+      "time": "2026-12-12T17:30Z",
+      "gameDate": "2026-12-12T17:30Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Arsenal",
+      "away": "AFC Bournemouth",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-13T14:00Z",
+      "gameDate": "2026-12-13T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Brighton & Hove Albion",
+      "away": "Everton",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-13T14:00Z",
+      "gameDate": "2026-12-13T14:00Z",
       "winner": null
     },
     {
@@ -887,8 +854,52 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-12-12T15:00Z",
-      "gameDate": "2026-12-12T15:00Z",
+      "time": "2026-12-13T14:00Z",
+      "gameDate": "2026-12-13T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Coventry City",
+      "away": "Aston Villa",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-13T16:30Z",
+      "gameDate": "2026-12-13T16:30Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Crystal Palace",
+      "away": "Manchester United",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-13T19:00Z",
+      "gameDate": "2026-12-13T19:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Hull City",
+      "away": "Tottenham Hotspur",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-14T20:00Z",
+      "gameDate": "2026-12-14T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Brentford",
+      "away": "Newcastle United",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-19T12:30Z",
+      "gameDate": "2026-12-19T12:30Z",
       "winner": null
     },
     {
@@ -904,63 +915,8 @@
     },
     {
       "league": "EPL",
-      "home": "Arsenal",
-      "away": "Manchester United",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-12-19T15:00Z",
-      "gameDate": "2026-12-19T15:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Brentford",
-      "away": "Newcastle United",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-12-19T15:00Z",
-      "gameDate": "2026-12-19T15:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Brighton & Hove Albion",
-      "away": "Ipswich Town",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-12-19T15:00Z",
-      "gameDate": "2026-12-19T15:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Chelsea",
-      "away": "Aston Villa",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-12-19T15:00Z",
-      "gameDate": "2026-12-19T15:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
       "home": "Leeds United",
       "away": "Fulham",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-12-19T15:00Z",
-      "gameDate": "2026-12-19T15:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Liverpool",
-      "away": "Tottenham Hotspur",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
@@ -992,13 +948,57 @@
     },
     {
       "league": "EPL",
+      "home": "Liverpool",
+      "away": "Tottenham Hotspur",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-19T17:30Z",
+      "gameDate": "2026-12-19T17:30Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Brighton & Hove Albion",
+      "away": "Ipswich Town",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-20T14:00Z",
+      "gameDate": "2026-12-20T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
       "home": "Sunderland",
       "away": "Crystal Palace",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-12-19T15:00Z",
-      "gameDate": "2026-12-19T15:00Z",
+      "time": "2026-12-20T14:00Z",
+      "gameDate": "2026-12-20T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Arsenal",
+      "away": "Manchester United",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-20T16:30Z",
+      "gameDate": "2026-12-20T16:30Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Chelsea",
+      "away": "Aston Villa",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-21T20:00Z",
+      "gameDate": "2026-12-21T20:00Z",
       "winner": null
     },
     {
@@ -5996,5 +5996,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-10-19T10:59:09.404Z"
+  "updatedAt": "2026-10-19T17:28:02.576Z"
 }
