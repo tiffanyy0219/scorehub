@@ -4,12 +4,12 @@
       "league": "NBA",
       "home": "Detroit Pistons",
       "away": "Boston Celtics",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 21,
+      "awayScore": 18,
+      "status": "live",
       "time": "2026-10-20T19:00Z",
       "gameDate": "2026-10-20T19:00Z",
-      "liveInfo": null,
+      "liveInfo": "2:45",
       "winner": null
     },
     {
@@ -7537,5 +7537,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-20T15:19:04.520Z"
+  "updatedAt": "2026-10-20T19:25:25.235Z"
 }
