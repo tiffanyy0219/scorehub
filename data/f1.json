@@ -1,5 +1,198 @@
 {
-  "schedule": [],
-  "standings": [],
-  "error": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+  "schedule": [
+    {
+      "league": "F1",
+      "singleEvent": true,
+      "title": "Australian Grand Prix",
+      "subtitle": "第1站 · Albert Park Grand Prix Circuit",
+      "time": "2026-03-08",
+      "gameDate": "2026-03-08T04:00:00Z",
+      "status": "final"
+    },
+    {
+      "league": "F1",
+      "singleEvent": true,
+      "title": "Chinese Grand Prix",
+      "subtitle": "第2站 · Shanghai International Circuit",
+      "time": "2026-03-15",
+      "gameDate": "2026-03-15T07:00:00Z",
+      "status": "final"
+    },
+    {
+      "league": "F1",
+      "singleEvent": true,
+      "title": "Japanese Grand Prix",
+      "subtitle": "第3站 · Suzuka Circuit",
+      "time": "2026-03-29",
+      "gameDate": "2026-03-29T05:00:00Z",
+      "status": "final"
+    },
+    {
+      "league": "F1",
+      "singleEvent": true,
+      "title": "Miami Grand Prix",
+      "subtitle": "第4站 · Miami International Autodrome",
+      "time": "2026-05-03",
+      "gameDate": "2026-05-03T20:00:00Z",
+      "status": "final"
+    },
+    {
+      "league": "F1",
+      "singleEvent": true,
+      "title": "Canadian Grand Prix",
+      "subtitle": "第5站 · Circuit Gilles Villeneuve",
+      "time": "2026-05-24",
+      "gameDate": "2026-05-24T20:00:00Z",
+      "status": "final"
+    },
+    {
+      "league": "F1",
+      "singleEvent": true,
+      "title": "Monaco Grand Prix",
+      "subtitle": "第6站 · Circuit de Monaco",
+      "time": "2026-06-07",
+      "gameDate": "2026-06-07T13:00:00Z",
+      "status": "final"
+    },
+    {
+      "league": "F1",
+      "singleEvent": true,
+      "title": "Barcelona Grand Prix",
+      "subtitle": "第7站 · Circuit de Barcelona-Catalunya",
+      "time": "2026-06-14",
+      "gameDate": "2026-06-14T13:00:00Z",
+      "status": "final"
+    },
+    {
+      "league": "F1",
+      "singleEvent": true,
+      "title": "Austrian Grand Prix",
+      "subtitle": "第8站 · Red Bull Ring",
+      "time": "2026-06-28",
+      "gameDate": "2026-06-28T13:00:00Z",
+      "status": "final"
+    },
+    {
+      "league": "F1",
+      "singleEvent": true,
+      "title": "British Grand Prix",
+      "subtitle": "第9站 · Silverstone Circuit",
+      "time": "2026-07-05",
+      "gameDate": "2026-07-05T14:00:00Z",
+      "status": "final"
+    },
+    {
+      "league": "F1",
+      "singleEvent": true,
+      "title": "Belgian Grand Prix",
+      "subtitle": "第10站 · Circuit de Spa-Francorchamps",
+      "time": "2026-07-19",
+      "gameDate": "2026-07-19T13:00:00Z",
+      "status": "final"
+    }
+  ],
+  "standings": [
+    {
+      "label": "F1 2026 車手積分榜",
+      "headers": [
+        "車手",
+        "積分",
+        "車隊"
+      ],
+      "rows": [
+        [
+          "Andrea Kimi Antonelli",
+          "340",
+          "Mercedes"
+        ],
+        [
+          "George Russell",
+          "238",
+          "Mercedes"
+        ],
+        [
+          "Lewis Hamilton",
+          "229",
+          "Ferrari"
+        ],
+        [
+          "Max Verstappen",
+          "221",
+          "Red Bull"
+        ],
+        [
+          "Charles Leclerc",
+          "215",
+          "Ferrari"
+        ],
+        [
+          "Lando Norris",
+          "201",
+          "McLaren"
+        ],
+        [
+          "Oscar Piastri",
+          "138",
+          "McLaren"
+        ],
+        [
+          "Isack Hadjar",
+          "97",
+          "Red Bull"
+        ],
+        [
+          "Liam Lawson",
+          "75",
+          "RB F1 Team"
+        ],
+        [
+          "Pierre Gasly",
+          "41",
+          "Alpine F1 Team"
+        ]
+      ]
+    },
+    {
+      "label": "F1 2026 車隊積分榜",
+      "headers": [
+        "車隊",
+        "積分"
+      ],
+      "rows": [
+        [
+          "Mercedes",
+          "578"
+        ],
+        [
+          "Ferrari",
+          "444"
+        ],
+        [
+          "McLaren",
+          "339"
+        ],
+        [
+          "Red Bull",
+          "332"
+        ],
+        [
+          "RB F1 Team",
+          "100"
+        ],
+        [
+          "Alpine F1 Team",
+          "68"
+        ],
+        [
+          "Haas F1 Team",
+          "30"
+        ],
+        [
+          "Audi",
+          "23"
+        ]
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-21T16:05:48.029Z"
 }
