@@ -7344,7 +7344,19 @@
       ],
       "rows": [
         [
+          "Brooklyn Nets",
+          "0",
+          "1",
+          "0.000"
+        ],
+        [
           "New York Knicks",
+          "0",
+          "1",
+          "0.000"
+        ],
+        [
+          "Orlando Magic",
           "0",
           "1",
           "0.000"
@@ -7356,15 +7368,21 @@
           "0.000"
         ],
         [
-          "Atlanta Hawks",
+          "Milwaukee Bucks",
           "0",
+          "1",
+          "0.000"
+        ],
+        [
+          "Miami Heat",
           "0",
+          "1",
           "0.000"
         ],
         [
           "Chicago Bulls",
           "0",
-          "0",
+          "1",
           "0.000"
         ],
         [
@@ -7375,54 +7393,36 @@
         ],
         [
           "Indiana Pacers",
+          "1",
           "0",
-          "0",
-          "0.000"
-        ],
-        [
-          "Miami Heat",
-          "0",
-          "0",
-          "0.000"
-        ],
-        [
-          "Milwaukee Bucks",
-          "0",
-          "0",
-          "0.000"
-        ],
-        [
-          "Brooklyn Nets",
-          "0",
-          "0",
-          "0.000"
-        ],
-        [
-          "Orlando Magic",
-          "0",
-          "0",
-          "0.000"
-        ],
-        [
-          "Washington Wizards",
-          "0",
-          "0",
-          "0.000"
+          "1.000"
         ],
         [
           "Toronto Raptors",
+          "1",
           "0",
-          "0",
-          "0.000"
+          "1.000"
         ],
         [
-          "Charlotte Hornets",
+          "Washington Wizards",
+          "1",
           "0",
-          "0",
-          "0.000"
+          "1.000"
         ],
         [
           "Detroit Pistons",
+          "1",
+          "0",
+          "1.000"
+        ],
+        [
+          "Atlanta Hawks",
+          "1",
+          "0",
+          "1.000"
+        ],
+        [
+          "Charlotte Hornets",
           "1",
           "0",
           "1.000"
@@ -7445,21 +7445,45 @@
       ],
       "rows": [
         [
+          "New Orleans Pelicans",
+          "0",
+          "1",
+          "0.000"
+        ],
+        [
           "San Antonio Spurs",
           "0",
           "1",
           "0.000"
         ],
         [
-          "New Orleans Pelicans",
+          "Dallas Mavericks",
           "0",
-          "0",
+          "1",
           "0.000"
         ],
         [
-          "Dallas Mavericks",
+          "Utah Jazz",
           "0",
+          "1",
+          "0.000"
+        ],
+        [
+          "Golden State Warriors",
           "0",
+          "1",
+          "0.000"
+        ],
+        [
+          "Sacramento Kings",
+          "0",
+          "1",
+          "0.000"
+        ],
+        [
+          "Phoenix Suns",
+          "0",
+          "1",
           "0.000"
         ],
         [
@@ -7469,64 +7493,40 @@
           "0.000"
         ],
         [
-          "Golden State Warriors",
-          "0",
-          "0",
-          "0.000"
-        ],
-        [
-          "Houston Rockets",
-          "0",
-          "0",
-          "0.000"
-        ],
-        [
-          "LA Clippers",
-          "0",
-          "0",
-          "0.000"
-        ],
-        [
-          "Los Angeles Lakers",
-          "0",
-          "0",
-          "0.000"
-        ],
-        [
           "Minnesota Timberwolves",
+          "1",
           "0",
-          "0",
-          "0.000"
-        ],
-        [
-          "Phoenix Suns",
-          "0",
-          "0",
-          "0.000"
+          "1.000"
         ],
         [
           "Portland Trail Blazers",
+          "1",
           "0",
-          "0",
-          "0.000"
+          "1.000"
         ],
         [
-          "Sacramento Kings",
+          "LA Clippers",
+          "1",
           "0",
-          "0",
-          "0.000"
+          "1.000"
         ],
         [
-          "Utah Jazz",
+          "Los Angeles Lakers",
+          "1",
           "0",
-          "0",
-          "0.000"
+          "1.000"
         ],
         [
           "Memphis Grizzlies",
+          "1",
           "0",
+          "1.000"
+        ],
+        [
+          "Houston Rockets",
+          "1",
           "0",
-          "0.000"
+          "1.000"
         ],
         [
           "Oklahoma City Thunder",
@@ -7537,5 +7537,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-22T01:39:06.207Z"
+  "updatedAt": "2026-10-22T06:36:09.190Z"
 }
