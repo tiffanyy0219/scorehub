@@ -4,12 +4,12 @@
       "league": "NBA",
       "home": "Philadelphia 76ers",
       "away": "Cleveland Cavaliers",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 18,
+      "awayScore": 32,
+      "status": "live",
       "time": "2026-10-22T23:00Z",
       "gameDate": "2026-10-22T23:00Z",
-      "liveInfo": null,
+      "liveInfo": "24.8",
       "winner": null
     },
     {
@@ -7537,5 +7537,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-22T20:48:08.212Z"
+  "updatedAt": "2026-10-22T23:41:59.659Z"
 }
