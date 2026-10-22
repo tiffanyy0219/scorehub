@@ -1542,17 +1542,6 @@
     },
     {
       "league": "La Liga",
-      "home": "Levante",
-      "away": "Athletic Club",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-21T18:00Z",
-      "gameDate": "2026-10-21T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
       "home": "Alavés",
       "away": "Málaga",
       "homeScore": null,
@@ -6172,5 +6161,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-10-21T23:22:24.946Z"
+  "updatedAt": "2026-10-22T01:42:12.962Z"
 }
