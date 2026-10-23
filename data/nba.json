@@ -4,12 +4,12 @@
       "league": "NBA",
       "home": "Milwaukee Bucks",
       "away": "Chicago Bulls",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 26,
+      "awayScore": 13,
+      "status": "live",
       "time": "2026-10-23T20:00Z",
       "gameDate": "2026-10-23T20:00Z",
-      "liveInfo": null,
+      "liveInfo": "1:19",
       "winner": null
     },
     {
@@ -7633,5 +7633,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-23T17:34:17.496Z"
+  "updatedAt": "2026-10-23T20:38:44.545Z"
 }
