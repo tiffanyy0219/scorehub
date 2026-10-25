@@ -34187,12 +34187,12 @@
       "away": "Tampa Bay Rays",
       "home": "Milwaukee Brewers",
       "awayScore": 4,
-      "homeScore": 2,
-      "status": "live",
-      "liveInfo": " 4局",
+      "homeScore": 5,
+      "status": "final",
+      "liveInfo": null,
       "time": "2026-10-25T00:00:00Z",
       "gameDate": "2026-10-25T00:00:00Z",
-      "winner": null
+      "winner": "home"
     },
     {
       "league": "MLB",
@@ -34503,5 +34503,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-25T01:29:23.129Z"
+  "updatedAt": "2026-10-25T06:44:55.616Z"
 }
