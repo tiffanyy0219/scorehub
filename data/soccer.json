@@ -3656,9 +3656,9 @@
       "league": "Serie A",
       "home": "Internazionale",
       "away": "Fiorentina",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "live",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
       "time": "2026-10-25T11:30Z",
       "gameDate": "2026-10-25T11:30Z",
       "winner": null
@@ -5908,5 +5908,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-10-25T12:09:54.478Z"
+  "updatedAt": "2026-10-25T16:19:14.873Z"
 }
