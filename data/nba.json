@@ -4,60 +4,60 @@
       "league": "NBA",
       "home": "Utah Jazz",
       "away": "Los Angeles Lakers",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 123,
+      "awayScore": 132,
+      "status": "final",
       "time": "2026-10-25T21:00Z",
       "gameDate": "2026-10-25T21:00Z",
       "liveInfo": null,
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "NBA",
       "home": "Brooklyn Nets",
       "away": "Indiana Pacers",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 65,
+      "awayScore": 79,
+      "status": "live",
       "time": "2026-10-25T22:00Z",
       "gameDate": "2026-10-25T22:00Z",
-      "liveInfo": null,
+      "liveInfo": "8:14",
       "winner": null
     },
     {
       "league": "NBA",
       "home": "New York Knicks",
       "away": "Orlando Magic",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 28,
+      "awayScore": 18,
+      "status": "live",
       "time": "2026-10-25T23:00Z",
       "gameDate": "2026-10-25T23:00Z",
-      "liveInfo": null,
+      "liveInfo": "45.5",
       "winner": null
     },
     {
       "league": "NBA",
       "home": "Minnesota Timberwolves",
       "away": "Toronto Raptors",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 25,
+      "awayScore": 18,
+      "status": "live",
       "time": "2026-10-25T23:00Z",
       "gameDate": "2026-10-25T23:00Z",
-      "liveInfo": null,
+      "liveInfo": "2:40",
       "winner": null
     },
     {
       "league": "NBA",
       "home": "Oklahoma City Thunder",
       "away": "LA Clippers",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 23,
+      "awayScore": 23,
+      "status": "live",
       "time": "2026-10-25T23:00Z",
       "gameDate": "2026-10-25T23:00Z",
-      "liveInfo": null,
+      "liveInfo": "0.0",
       "winner": null
     },
     {
@@ -7422,13 +7422,13 @@
           "0.500"
         ],
         [
-          "Indiana Pacers",
+          "Cleveland Cavaliers",
           "1",
           "1",
           "0.500"
         ],
         [
-          "Cleveland Cavaliers",
+          "Indiana Pacers",
           "1",
           "1",
           "0.500"
@@ -7505,6 +7505,12 @@
           "0.333"
         ],
         [
+          "Utah Jazz",
+          "1",
+          "2",
+          "0.333"
+        ],
+        [
           "Dallas Mavericks",
           "1",
           "2",
@@ -7523,16 +7529,16 @@
           "0.500"
         ],
         [
-          "Utah Jazz",
+          "Phoenix Suns",
           "1",
           "1",
           "0.500"
         ],
         [
-          "Phoenix Suns",
-          "1",
-          "1",
-          "0.500"
+          "Oklahoma City Thunder",
+          "2",
+          "0",
+          "1.000"
         ],
         [
           "Minnesota Timberwolves",
@@ -7547,20 +7553,14 @@
           "1.000"
         ],
         [
-          "Los Angeles Lakers",
-          "2",
-          "0",
-          "1.000"
-        ],
-        [
-          "Oklahoma City Thunder",
-          "2",
-          "0",
-          "1.000"
-        ],
-        [
           "Memphis Grizzlies",
           "2",
+          "0",
+          "1.000"
+        ],
+        [
+          "Los Angeles Lakers",
+          "3",
           "0",
           "1.000"
         ],
@@ -7573,5 +7573,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-25T21:47:14.080Z"
+  "updatedAt": "2026-10-25T23:38:04.092Z"
 }
