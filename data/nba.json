@@ -7446,13 +7446,13 @@
           "0.667"
         ],
         [
-          "Detroit Pistons",
-          "2",
-          "0",
-          "1.000"
+          "Philadelphia 76ers",
+          "3",
+          "1",
+          "0.750"
         ],
         [
-          "Philadelphia 76ers",
+          "Detroit Pistons",
           "3",
           "0",
           "1.000"
@@ -7483,7 +7483,7 @@
         [
           "Sacramento Kings",
           "0",
-          "2",
+          "3",
           "0.000"
         ],
         [
@@ -7529,19 +7529,13 @@
           "1.000"
         ],
         [
-          "Memphis Grizzlies",
-          "2",
-          "0",
-          "1.000"
-        ],
-        [
-          "Oklahoma City Thunder",
+          "Minnesota Timberwolves",
           "3",
           "0",
           "1.000"
         ],
         [
-          "Houston Rockets",
+          "Oklahoma City Thunder",
           "3",
           "0",
           "1.000"
@@ -7553,7 +7547,13 @@
           "1.000"
         ],
         [
-          "Minnesota Timberwolves",
+          "Memphis Grizzlies",
+          "3",
+          "0",
+          "1.000"
+        ],
+        [
+          "Houston Rockets",
           "3",
           "0",
           "1.000"
@@ -7561,5 +7561,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-26T01:44:34.142Z"
+  "updatedAt": "2026-10-26T07:05:37.863Z"
 }
