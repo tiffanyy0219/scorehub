@@ -5282,6 +5282,17 @@
     },
     {
       "league": "Ligue 1",
+      "home": "Nice",
+      "away": "Stade Rennais",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-10-30T18:00Z",
+      "gameDate": "2026-10-30T18:00Z",
+      "winner": null
+    },
+    {
+      "league": "Ligue 1",
       "home": "Lille",
       "away": "Lens",
       "homeScore": null,
@@ -5289,39 +5300,6 @@
       "status": "scheduled",
       "time": "2026-10-30T20:05Z",
       "gameDate": "2026-10-30T20:05Z",
-      "winner": null
-    },
-    {
-      "league": "Ligue 1",
-      "home": "Nice",
-      "away": "Stade Rennais",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-31T16:15Z",
-      "gameDate": "2026-10-31T16:15Z",
-      "winner": null
-    },
-    {
-      "league": "Ligue 1",
-      "home": "Lorient",
-      "away": "Brest",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-31T19:45Z",
-      "gameDate": "2026-10-31T19:45Z",
-      "winner": null
-    },
-    {
-      "league": "Ligue 1",
-      "home": "Lyon",
-      "away": "Angers",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-31T19:45Z",
-      "gameDate": "2026-10-31T19:45Z",
       "winner": null
     },
     {
@@ -5348,6 +5326,17 @@
     },
     {
       "league": "Ligue 1",
+      "home": "Lyon",
+      "away": "Angers",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-11-01T16:15Z",
+      "gameDate": "2026-11-01T16:15Z",
+      "winner": null
+    },
+    {
+      "league": "Ligue 1",
       "home": "Paris FC",
       "away": "AS Monaco",
       "homeScore": null,
@@ -5366,6 +5355,17 @@
       "status": "scheduled",
       "time": "2026-11-01T19:45Z",
       "gameDate": "2026-11-01T19:45Z",
+      "winner": null
+    },
+    {
+      "league": "Ligue 1",
+      "home": "Lorient",
+      "away": "Brest",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-11-02T19:45Z",
+      "gameDate": "2026-11-02T19:45Z",
       "winner": null
     },
     {
@@ -6161,5 +6161,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-10-27T08:22:44.781Z"
+  "updatedAt": "2026-10-27T14:48:39.304Z"
 }
