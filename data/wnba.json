@@ -2,18 +2,6 @@
   "schedule": [
     {
       "league": "WNBA",
-      "home": "Golden State Valkyries",
-      "away": "Atlanta Dream",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-27T00:00Z",
-      "gameDate": "2026-10-27T00:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "WNBA",
       "home": "Atlanta Dream",
       "away": "Golden State Valkyries",
       "homeScore": null,
@@ -37,5 +25,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-10-26T23:47:38.960Z"
+  "updatedAt": "2026-10-27T02:29:24.452Z"
 }
