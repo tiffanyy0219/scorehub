@@ -3841,39 +3841,6 @@
     },
     {
       "league": "Serie A",
-      "home": "Sassuolo",
-      "away": "Lazio",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-27T17:30Z",
-      "gameDate": "2026-10-27T17:30Z",
-      "winner": null
-    },
-    {
-      "league": "Serie A",
-      "home": "AS Roma",
-      "away": "Cagliari",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-27T19:45Z",
-      "gameDate": "2026-10-27T19:45Z",
-      "winner": null
-    },
-    {
-      "league": "Serie A",
-      "home": "Torino",
-      "away": "Como",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-27T19:45Z",
-      "gameDate": "2026-10-27T19:45Z",
-      "winner": null
-    },
-    {
-      "league": "Serie A",
       "home": "AC Milan",
       "away": "Bologna",
       "homeScore": null,
@@ -6161,5 +6128,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-10-27T23:19:23.874Z"
+  "updatedAt": "2026-10-28T02:29:18.706Z"
 }
