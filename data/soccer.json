@@ -3115,17 +3115,6 @@
     },
     {
       "league": "Bundesliga",
-      "home": "TSG Hoffenheim",
-      "away": "FC Augsburg",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-28T20:00Z",
-      "gameDate": "2026-11-28T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
       "home": "SC Freiburg",
       "away": "RB Leipzig",
       "homeScore": null,
@@ -3133,6 +3122,17 @@
       "status": "scheduled",
       "time": "2026-11-29T14:30Z",
       "gameDate": "2026-11-29T14:30Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "TSG Hoffenheim",
+      "away": "FC Augsburg",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-11-29T16:30Z",
+      "gameDate": "2026-11-29T16:30Z",
       "winner": null
     },
     {
@@ -6073,5 +6073,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-10-29T13:46:15.023Z"
+  "updatedAt": "2026-10-29T19:21:10.498Z"
 }
