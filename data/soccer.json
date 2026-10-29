@@ -3841,61 +3841,6 @@
     },
     {
       "league": "Serie A",
-      "home": "AC Milan",
-      "away": "Bologna",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-28T17:30Z",
-      "gameDate": "2026-10-28T17:30Z",
-      "winner": null
-    },
-    {
-      "league": "Serie A",
-      "home": "Parma",
-      "away": "Udinese",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-28T17:30Z",
-      "gameDate": "2026-10-28T17:30Z",
-      "winner": null
-    },
-    {
-      "league": "Serie A",
-      "home": "Venezia",
-      "away": "Internazionale",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-28T17:30Z",
-      "gameDate": "2026-10-28T17:30Z",
-      "winner": null
-    },
-    {
-      "league": "Serie A",
-      "home": "Genoa",
-      "away": "Juventus",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-28T19:45Z",
-      "gameDate": "2026-10-28T19:45Z",
-      "winner": null
-    },
-    {
-      "league": "Serie A",
-      "home": "Monza",
-      "away": "Napoli",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-28T19:45Z",
-      "gameDate": "2026-10-28T19:45Z",
-      "winner": null
-    },
-    {
-      "league": "Serie A",
       "home": "Frosinone",
       "away": "Lecce",
       "homeScore": null,
@@ -6128,5 +6073,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-10-28T20:57:44.200Z"
+  "updatedAt": "2026-10-29T00:47:03.615Z"
 }
