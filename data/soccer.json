@@ -3841,28 +3841,6 @@
     },
     {
       "league": "Serie A",
-      "home": "Frosinone",
-      "away": "Lecce",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-29T17:30Z",
-      "gameDate": "2026-10-29T17:30Z",
-      "winner": null
-    },
-    {
-      "league": "Serie A",
-      "home": "Fiorentina",
-      "away": "Atalanta",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-10-29T19:45Z",
-      "gameDate": "2026-10-29T19:45Z",
-      "winner": null
-    },
-    {
-      "league": "Serie A",
       "home": "Bologna",
       "away": "Monza",
       "homeScore": null,
@@ -6073,5 +6051,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-10-29T23:28:14.882Z"
+  "updatedAt": "2026-10-30T02:54:36.716Z"
 }
