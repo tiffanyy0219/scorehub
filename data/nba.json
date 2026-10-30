@@ -7567,14 +7567,8 @@
         [
           "Portland Trail Blazers",
           "3",
-          "0",
-          "1.000"
-        ],
-        [
-          "Los Angeles Lakers",
-          "4",
           "1",
-          "0.800"
+          "0.750"
         ],
         [
           "Oklahoma City Thunder",
@@ -7583,13 +7577,19 @@
           "0.800"
         ],
         [
-          "Memphis Grizzlies",
+          "Los Angeles Lakers",
           "4",
+          "1",
+          "0.800"
+        ],
+        [
+          "Houston Rockets",
+          "5",
           "0",
           "1.000"
         ],
         [
-          "Houston Rockets",
+          "Memphis Grizzlies",
           "5",
           "0",
           "1.000"
@@ -7597,5 +7597,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-30T02:51:10.048Z"
+  "updatedAt": "2026-10-30T09:49:24.332Z"
 }
