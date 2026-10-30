@@ -2092,6 +2092,17 @@
     },
     {
       "league": "La Liga",
+      "home": "Rayo Vallecano",
+      "away": "Athletic Club",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-09T19:00Z",
+      "gameDate": "2026-12-09T19:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
       "home": "Atlético Madrid",
       "away": "Valencia",
       "homeScore": null,
@@ -6051,5 +6062,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-10-30T09:52:25.987Z"
+  "updatedAt": "2026-10-30T16:25:38.010Z"
 }
