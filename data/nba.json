@@ -4,12 +4,12 @@
       "league": "NBA",
       "home": "Utah Jazz",
       "away": "Portland Trail Blazers",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 48,
+      "awayScore": 68,
+      "status": "live",
       "time": "2026-10-31T19:00Z",
       "gameDate": "2026-10-31T19:00Z",
-      "liveInfo": null,
+      "liveInfo": "6:12",
       "winner": null
     },
     {
@@ -7573,5 +7573,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-31T17:38:35.068Z"
+  "updatedAt": "2026-10-31T20:41:22.471Z"
 }
