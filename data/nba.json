@@ -4,36 +4,36 @@
       "league": "NBA",
       "home": "Utah Jazz",
       "away": "Portland Trail Blazers",
-      "homeScore": 48,
-      "awayScore": 68,
-      "status": "live",
+      "homeScore": 90,
+      "awayScore": 112,
+      "status": "final",
       "time": "2026-10-31T19:00Z",
       "gameDate": "2026-10-31T19:00Z",
-      "liveInfo": "6:12",
-      "winner": null
+      "liveInfo": null,
+      "winner": "away"
     },
     {
       "league": "NBA",
       "home": "Charlotte Hornets",
       "away": "Philadelphia 76ers",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 75,
+      "awayScore": 71,
+      "status": "live",
       "time": "2026-10-31T22:00Z",
       "gameDate": "2026-10-31T22:00Z",
-      "liveInfo": null,
+      "liveInfo": "3:15",
       "winner": null
     },
     {
       "league": "NBA",
       "home": "New Orleans Pelicans",
       "away": "Atlanta Hawks",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 41,
+      "awayScore": 28,
+      "status": "live",
       "time": "2026-10-31T23:00Z",
       "gameDate": "2026-10-31T23:00Z",
-      "liveInfo": null,
+      "liveInfo": "8:39",
       "winner": null
     },
     {
@@ -7489,8 +7489,8 @@
         [
           "Utah Jazz",
           "1",
-          "4",
-          "0.200"
+          "5",
+          "0.167"
         ],
         [
           "New Orleans Pelicans",
@@ -7529,12 +7529,6 @@
           "0.600"
         ],
         [
-          "Portland Trail Blazers",
-          "3",
-          "1",
-          "0.750"
-        ],
-        [
           "Los Angeles Lakers",
           "4",
           "2",
@@ -7559,6 +7553,12 @@
           "0.800"
         ],
         [
+          "Portland Trail Blazers",
+          "4",
+          "1",
+          "0.800"
+        ],
+        [
           "Houston Rockets",
           "5",
           "1",
@@ -7573,5 +7573,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-31T20:41:22.471Z"
+  "updatedAt": "2026-10-31T23:48:42.931Z"
 }
