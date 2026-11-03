@@ -7356,6 +7356,12 @@
           "0.250"
         ],
         [
+          "Miami Heat",
+          "2",
+          "5",
+          "0.286"
+        ],
+        [
           "Orlando Magic",
           "2",
           "5",
@@ -7366,12 +7372,6 @@
           "3",
           "5",
           "0.375"
-        ],
-        [
-          "Miami Heat",
-          "2",
-          "4",
-          "0.333"
         ],
         [
           "New York Knicks",
@@ -7386,19 +7386,19 @@
           "0.500"
         ],
         [
-          "Toronto Raptors",
-          "3",
-          "3",
-          "0.500"
-        ],
-        [
-          "Cleveland Cavaliers",
+          "Washington Wizards",
           "4",
           "3",
           "0.571"
         ],
         [
-          "Washington Wizards",
+          "Toronto Raptors",
+          "4",
+          "3",
+          "0.571"
+        ],
+        [
+          "Cleveland Cavaliers",
           "4",
           "3",
           "0.571"
@@ -7433,6 +7433,12 @@
       ],
       "rows": [
         [
+          "LA Clippers",
+          "1",
+          "6",
+          "0.143"
+        ],
+        [
           "Utah Jazz",
           "1",
           "6",
@@ -7445,16 +7451,10 @@
           "0.143"
         ],
         [
-          "LA Clippers",
-          "1",
-          "5",
-          "0.167"
-        ],
-        [
           "Phoenix Suns",
           "1",
-          "3",
-          "0.250"
+          "4",
+          "0.200"
         ],
         [
           "New Orleans Pelicans",
@@ -7469,28 +7469,22 @@
           "0.500"
         ],
         [
-          "Golden State Warriors",
-          "4",
-          "3",
-          "0.571"
-        ],
-        [
           "Dallas Mavericks",
           "4",
           "3",
           "0.571"
         ],
         [
-          "Minnesota Timberwolves",
+          "Golden State Warriors",
           "5",
           "3",
           "0.625"
         ],
         [
-          "Los Angeles Lakers",
+          "Minnesota Timberwolves",
           "5",
-          "2",
-          "0.714"
+          "3",
+          "0.625"
         ],
         [
           "Oklahoma City Thunder",
@@ -7511,6 +7505,12 @@
           "0.833"
         ],
         [
+          "Los Angeles Lakers",
+          "6",
+          "2",
+          "0.750"
+        ],
+        [
           "Memphis Grizzlies",
           "6",
           "1",
@@ -7525,5 +7525,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-03T04:48:22.691Z"
+  "updatedAt": "2026-11-03T12:26:33.660Z"
 }
