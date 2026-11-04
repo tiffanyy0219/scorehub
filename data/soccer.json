@@ -706,17 +706,6 @@
     },
     {
       "league": "EPL",
-      "home": "Nottingham Forest",
-      "away": "Everton",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-12-19T15:00Z",
-      "gameDate": "2026-12-19T15:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
       "home": "Liverpool",
       "away": "Tottenham Hotspur",
       "homeScore": null,
@@ -730,6 +719,17 @@
       "league": "EPL",
       "home": "Brighton & Hove Albion",
       "away": "Ipswich Town",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-20T14:00Z",
+      "gameDate": "2026-12-20T14:00Z",
+      "winner": null
+    },
+    {
+      "league": "EPL",
+      "home": "Nottingham Forest",
+      "away": "Everton",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
@@ -6062,5 +6062,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-11-04T06:44:47.731Z"
+  "updatedAt": "2026-11-04T14:57:35.109Z"
 }
