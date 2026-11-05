@@ -3362,19 +3362,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2027-01-09T20:00Z",
-      "gameDate": "2027-01-09T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "Borussia Mönchengladbach",
-      "away": "Bayern Munich",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2027-01-09T20:00Z",
-      "gameDate": "2027-01-09T20:00Z",
+      "time": "2027-01-08T19:30Z",
+      "gameDate": "2027-01-08T19:30Z",
       "winner": null
     },
     {
@@ -3384,8 +3373,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2027-01-09T20:00Z",
-      "gameDate": "2027-01-09T20:00Z",
+      "time": "2027-01-09T14:30Z",
+      "gameDate": "2027-01-09T14:30Z",
       "winner": null
     },
     {
@@ -3395,19 +3384,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2027-01-09T20:00Z",
-      "gameDate": "2027-01-09T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "Hamburg SV",
-      "away": "Bayer Leverkusen",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2027-01-09T20:00Z",
-      "gameDate": "2027-01-09T20:00Z",
+      "time": "2027-01-09T14:30Z",
+      "gameDate": "2027-01-09T14:30Z",
       "winner": null
     },
     {
@@ -3417,8 +3395,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2027-01-09T20:00Z",
-      "gameDate": "2027-01-09T20:00Z",
+      "time": "2027-01-09T14:30Z",
+      "gameDate": "2027-01-09T14:30Z",
       "winner": null
     },
     {
@@ -3428,8 +3406,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2027-01-09T20:00Z",
-      "gameDate": "2027-01-09T20:00Z",
+      "time": "2027-01-09T14:30Z",
+      "gameDate": "2027-01-09T14:30Z",
       "winner": null
     },
     {
@@ -3439,8 +3417,19 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2027-01-09T20:00Z",
-      "gameDate": "2027-01-09T20:00Z",
+      "time": "2027-01-09T14:30Z",
+      "gameDate": "2027-01-09T14:30Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "Borussia Mönchengladbach",
+      "away": "Bayern Munich",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-09T17:30Z",
+      "gameDate": "2027-01-09T17:30Z",
       "winner": null
     },
     {
@@ -3450,63 +3439,19 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2027-01-09T20:00Z",
-      "gameDate": "2027-01-09T20:00Z",
+      "time": "2027-01-10T14:30Z",
+      "gameDate": "2027-01-10T14:30Z",
       "winner": null
     },
     {
       "league": "Bundesliga",
-      "home": "1. FC Union Berlin",
-      "away": "SC Paderborn 07",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2027-01-13T20:00Z",
-      "gameDate": "2027-01-13T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "Bayern Munich",
+      "home": "Hamburg SV",
       "away": "Bayer Leverkusen",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2027-01-13T20:00Z",
-      "gameDate": "2027-01-13T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "FC Augsburg",
-      "away": "Borussia Mönchengladbach",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2027-01-13T20:00Z",
-      "gameDate": "2027-01-13T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "FC Cologne",
-      "away": "Borussia Dortmund",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2027-01-13T20:00Z",
-      "gameDate": "2027-01-13T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "Mainz",
-      "away": "TSG Hoffenheim",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2027-01-13T20:00Z",
-      "gameDate": "2027-01-13T20:00Z",
+      "time": "2027-01-10T16:30Z",
+      "gameDate": "2027-01-10T16:30Z",
       "winner": null
     },
     {
@@ -3516,30 +3461,41 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2027-01-13T20:00Z",
-      "gameDate": "2027-01-13T20:00Z",
+      "time": "2027-01-12T17:30Z",
+      "gameDate": "2027-01-12T17:30Z",
       "winner": null
     },
     {
       "league": "Bundesliga",
-      "home": "SC Freiburg",
-      "away": "Hamburg SV",
+      "home": "FC Augsburg",
+      "away": "Borussia Mönchengladbach",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2027-01-13T20:00Z",
-      "gameDate": "2027-01-13T20:00Z",
+      "time": "2027-01-12T19:30Z",
+      "gameDate": "2027-01-12T19:30Z",
       "winner": null
     },
     {
       "league": "Bundesliga",
-      "home": "Schalke 04",
-      "away": "Werder Bremen",
+      "home": "FC Cologne",
+      "away": "Borussia Dortmund",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2027-01-13T20:00Z",
-      "gameDate": "2027-01-13T20:00Z",
+      "time": "2027-01-12T19:30Z",
+      "gameDate": "2027-01-12T19:30Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "Mainz",
+      "away": "TSG Hoffenheim",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-12T19:30Z",
+      "gameDate": "2027-01-12T19:30Z",
       "winner": null
     },
     {
@@ -3549,19 +3505,63 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2027-01-13T20:00Z",
-      "gameDate": "2027-01-13T20:00Z",
+      "time": "2027-01-13T17:30Z",
+      "gameDate": "2027-01-13T17:30Z",
       "winner": null
     },
     {
       "league": "Bundesliga",
-      "home": "Bayer Leverkusen",
-      "away": "Schalke 04",
+      "home": "1. FC Union Berlin",
+      "away": "SC Paderborn 07",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2027-01-16T20:00Z",
-      "gameDate": "2027-01-16T20:00Z",
+      "time": "2027-01-13T19:30Z",
+      "gameDate": "2027-01-13T19:30Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "Bayern Munich",
+      "away": "Bayer Leverkusen",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-13T19:30Z",
+      "gameDate": "2027-01-13T19:30Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "SC Freiburg",
+      "away": "Hamburg SV",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-13T19:30Z",
+      "gameDate": "2027-01-13T19:30Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "Schalke 04",
+      "away": "Werder Bremen",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-14T19:30Z",
+      "gameDate": "2027-01-14T19:30Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "VfB Stuttgart",
+      "away": "Mainz",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-15T19:30Z",
+      "gameDate": "2027-01-15T19:30Z",
       "winner": null
     },
     {
@@ -3571,8 +3571,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2027-01-16T20:00Z",
-      "gameDate": "2027-01-16T20:00Z",
+      "time": "2027-01-16T14:30Z",
+      "gameDate": "2027-01-16T14:30Z",
       "winner": null
     },
     {
@@ -3582,19 +3582,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2027-01-16T20:00Z",
-      "gameDate": "2027-01-16T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "Eintracht Frankfurt",
-      "away": "Bayern Munich",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2027-01-16T20:00Z",
-      "gameDate": "2027-01-16T20:00Z",
+      "time": "2027-01-16T14:30Z",
+      "gameDate": "2027-01-16T14:30Z",
       "winner": null
     },
     {
@@ -3604,8 +3593,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2027-01-16T20:00Z",
-      "gameDate": "2027-01-16T20:00Z",
+      "time": "2027-01-16T14:30Z",
+      "gameDate": "2027-01-16T14:30Z",
       "winner": null
     },
     {
@@ -3615,8 +3604,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2027-01-16T20:00Z",
-      "gameDate": "2027-01-16T20:00Z",
+      "time": "2027-01-16T14:30Z",
+      "gameDate": "2027-01-16T14:30Z",
       "winner": null
     },
     {
@@ -3626,19 +3615,19 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2027-01-16T20:00Z",
-      "gameDate": "2027-01-16T20:00Z",
+      "time": "2027-01-16T14:30Z",
+      "gameDate": "2027-01-16T14:30Z",
       "winner": null
     },
     {
       "league": "Bundesliga",
-      "home": "VfB Stuttgart",
-      "away": "Mainz",
+      "home": "Eintracht Frankfurt",
+      "away": "Bayern Munich",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2027-01-16T20:00Z",
-      "gameDate": "2027-01-16T20:00Z",
+      "time": "2027-01-16T17:30Z",
+      "gameDate": "2027-01-16T17:30Z",
       "winner": null
     },
     {
@@ -3648,96 +3637,19 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2027-01-16T20:00Z",
-      "gameDate": "2027-01-16T20:00Z",
+      "time": "2027-01-17T14:30Z",
+      "gameDate": "2027-01-17T14:30Z",
       "winner": null
     },
     {
       "league": "Bundesliga",
       "home": "Bayer Leverkusen",
-      "away": "SV Elversberg",
+      "away": "Schalke 04",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2027-01-23T20:00Z",
-      "gameDate": "2027-01-23T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "Borussia Mönchengladbach",
-      "away": "RB Leipzig",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2027-01-23T20:00Z",
-      "gameDate": "2027-01-23T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "Eintracht Frankfurt",
-      "away": "1. FC Union Berlin",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2027-01-23T20:00Z",
-      "gameDate": "2027-01-23T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "Hamburg SV",
-      "away": "Borussia Dortmund",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2027-01-23T20:00Z",
-      "gameDate": "2027-01-23T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "SC Paderborn 07",
-      "away": "Mainz",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2027-01-23T20:00Z",
-      "gameDate": "2027-01-23T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "Schalke 04",
-      "away": "FC Augsburg",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2027-01-23T20:00Z",
-      "gameDate": "2027-01-23T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "TSG Hoffenheim",
-      "away": "FC Cologne",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2027-01-23T20:00Z",
-      "gameDate": "2027-01-23T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "VfB Stuttgart",
-      "away": "Bayern Munich",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2027-01-23T20:00Z",
-      "gameDate": "2027-01-23T20:00Z",
+      "time": "2027-01-17T16:30Z",
+      "gameDate": "2027-01-17T16:30Z",
       "winner": null
     },
     {
@@ -3747,8 +3659,96 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2027-01-23T20:00Z",
-      "gameDate": "2027-01-23T20:00Z",
+      "time": "2027-01-22T19:30Z",
+      "gameDate": "2027-01-22T19:30Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "Borussia Mönchengladbach",
+      "away": "RB Leipzig",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-23T14:30Z",
+      "gameDate": "2027-01-23T14:30Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "SC Paderborn 07",
+      "away": "Mainz",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-23T14:30Z",
+      "gameDate": "2027-01-23T14:30Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "Schalke 04",
+      "away": "FC Augsburg",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-23T14:30Z",
+      "gameDate": "2027-01-23T14:30Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "VfB Stuttgart",
+      "away": "Bayern Munich",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-23T14:30Z",
+      "gameDate": "2027-01-23T14:30Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "Hamburg SV",
+      "away": "Borussia Dortmund",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-23T17:30Z",
+      "gameDate": "2027-01-23T17:30Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "Eintracht Frankfurt",
+      "away": "1. FC Union Berlin",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-24T14:30Z",
+      "gameDate": "2027-01-24T14:30Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "Bayer Leverkusen",
+      "away": "SV Elversberg",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-24T16:30Z",
+      "gameDate": "2027-01-24T16:30Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "TSG Hoffenheim",
+      "away": "FC Cologne",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-01-24T18:30Z",
+      "gameDate": "2027-01-24T18:30Z",
       "winner": null
     },
     {
@@ -6062,5 +6062,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-11-05T16:53:35.267Z"
+  "updatedAt": "2026-11-05T22:32:28.854Z"
 }
