@@ -7404,6 +7404,12 @@
           "0.125"
         ],
         [
+          "Orlando Magic",
+          "2",
+          "6",
+          "0.250"
+        ],
+        [
           "Brooklyn Nets",
           "2",
           "6",
@@ -7416,22 +7422,16 @@
           "0.333"
         ],
         [
-          "Indiana Pacers",
+          "Miami Heat",
           "3",
           "6",
           "0.333"
         ],
         [
-          "Orlando Magic",
-          "2",
-          "5",
-          "0.286"
-        ],
-        [
-          "Miami Heat",
+          "Indiana Pacers",
           "3",
-          "5",
-          "0.375"
+          "6",
+          "0.333"
         ],
         [
           "Toronto Raptors",
@@ -7512,9 +7512,9 @@
         ],
         [
           "Phoenix Suns",
-          "1",
+          "2",
           "5",
-          "0.167"
+          "0.286"
         ],
         [
           "New Orleans Pelicans",
@@ -7536,9 +7536,9 @@
         ],
         [
           "Golden State Warriors",
-          "5",
+          "6",
           "3",
-          "0.625"
+          "0.667"
         ],
         [
           "Minnesota Timberwolves",
@@ -7585,5 +7585,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-06T02:46:52.358Z"
+  "updatedAt": "2026-11-06T09:58:08.602Z"
 }
