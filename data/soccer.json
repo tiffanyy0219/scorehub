@@ -2,17 +2,6 @@
   "schedule": [
     {
       "league": "EPL",
-      "home": "Everton",
-      "away": "Coventry City",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-06T20:00Z",
-      "gameDate": "2026-11-06T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
       "home": "Leeds United",
       "away": "Tottenham Hotspur",
       "homeScore": null,
@@ -1542,17 +1531,6 @@
     },
     {
       "league": "La Liga",
-      "home": "Sevilla",
-      "away": "Alavés",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-06T20:00Z",
-      "gameDate": "2026-11-06T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
       "home": "Málaga",
       "away": "Racing Santander",
       "homeScore": null,
@@ -2785,17 +2763,6 @@
     },
     {
       "league": "Bundesliga",
-      "home": "Hamburg SV",
-      "away": "Borussia Mönchengladbach",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-06T19:30Z",
-      "gameDate": "2026-11-06T19:30Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
       "home": "Borussia Dortmund",
       "away": "SV Elversberg",
       "homeScore": null,
@@ -3870,17 +3837,6 @@
       "status": "scheduled",
       "time": "2027-01-30T20:00Z",
       "gameDate": "2027-01-30T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "Serie A",
-      "home": "Venezia",
-      "away": "Udinese",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-06T19:45Z",
-      "gameDate": "2026-11-06T19:45Z",
       "winner": null
     },
     {
@@ -5194,17 +5150,6 @@
     },
     {
       "league": "Ligue 1",
-      "home": "Toulouse",
-      "away": "Strasbourg",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-06T19:45Z",
-      "gameDate": "2026-11-06T19:45Z",
-      "winner": null
-    },
-    {
-      "league": "Ligue 1",
       "home": "AJ Auxerre",
       "away": "Paris FC",
       "homeScore": null,
@@ -6084,5 +6029,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-11-06T22:20:50.355Z"
+  "updatedAt": "2026-11-07T02:07:00.271Z"
 }
