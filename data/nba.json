@@ -4,12 +4,12 @@
       "league": "NBA",
       "home": "Indiana Pacers",
       "away": "Denver Nuggets",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 28,
+      "awayScore": 43,
+      "status": "live",
       "time": "2026-11-07T22:00Z",
       "gameDate": "2026-11-07T22:00Z",
-      "liveInfo": null,
+      "liveInfo": "8:27",
       "winner": null
     },
     {
@@ -7597,5 +7597,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-07T19:29:33.704Z"
+  "updatedAt": "2026-11-07T22:57:11.782Z"
 }
