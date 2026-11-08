@@ -2,50 +2,6 @@
   "schedule": [
     {
       "league": "EPL",
-      "home": "Leeds United",
-      "away": "Tottenham Hotspur",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-07T12:30Z",
-      "gameDate": "2026-11-07T12:30Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Arsenal",
-      "away": "Hull City",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-07T15:00Z",
-      "gameDate": "2026-11-07T15:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Fulham",
-      "away": "Newcastle United",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-07T15:00Z",
-      "gameDate": "2026-11-07T15:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
-      "home": "Nottingham Forest",
-      "away": "Manchester City",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-07T17:30Z",
-      "gameDate": "2026-11-07T17:30Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
       "home": "Brighton & Hove Albion",
       "away": "Brentford",
       "homeScore": null,
@@ -1531,50 +1487,6 @@
     },
     {
       "league": "La Liga",
-      "home": "Málaga",
-      "away": "Racing Santander",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-07T13:00Z",
-      "gameDate": "2026-11-07T13:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Espanyol",
-      "away": "Deportivo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-07T15:15Z",
-      "gameDate": "2026-11-07T15:15Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Osasuna",
-      "away": "Athletic Club",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-07T17:30Z",
-      "gameDate": "2026-11-07T17:30Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Valencia",
-      "away": "Real Madrid",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-07T20:00Z",
-      "gameDate": "2026-11-07T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
       "home": "Elche",
       "away": "Real Betis",
       "homeScore": null,
@@ -2763,61 +2675,6 @@
     },
     {
       "league": "Bundesliga",
-      "home": "Borussia Dortmund",
-      "away": "SV Elversberg",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-07T14:30Z",
-      "gameDate": "2026-11-07T14:30Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "Mainz",
-      "away": "Bayern Munich",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-07T14:30Z",
-      "gameDate": "2026-11-07T14:30Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "RB Leipzig",
-      "away": "FC Augsburg",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-07T14:30Z",
-      "gameDate": "2026-11-07T14:30Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "SC Paderborn 07",
-      "away": "Eintracht Frankfurt",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-07T14:30Z",
-      "gameDate": "2026-11-07T14:30Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "VfB Stuttgart",
-      "away": "Werder Bremen",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-07T17:30Z",
-      "gameDate": "2026-11-07T17:30Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
       "home": "FC Cologne",
       "away": "Bayer Leverkusen",
       "homeScore": null,
@@ -3837,50 +3694,6 @@
       "status": "scheduled",
       "time": "2027-01-30T20:00Z",
       "gameDate": "2027-01-30T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "Serie A",
-      "home": "Cagliari",
-      "away": "Frosinone",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-07T14:00Z",
-      "gameDate": "2026-11-07T14:00Z",
-      "winner": null
-    },
-    {
-      "league": "Serie A",
-      "home": "Torino",
-      "away": "Lecce",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-07T14:00Z",
-      "gameDate": "2026-11-07T14:00Z",
-      "winner": null
-    },
-    {
-      "league": "Serie A",
-      "home": "Parma",
-      "away": "Bologna",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-07T17:00Z",
-      "gameDate": "2026-11-07T17:00Z",
-      "winner": null
-    },
-    {
-      "league": "Serie A",
-      "home": "AS Roma",
-      "away": "Sassuolo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-07T19:45Z",
-      "gameDate": "2026-11-07T19:45Z",
       "winner": null
     },
     {
@@ -5150,28 +4963,6 @@
     },
     {
       "league": "Ligue 1",
-      "home": "AJ Auxerre",
-      "away": "Paris FC",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-07T18:00Z",
-      "gameDate": "2026-11-07T18:00Z",
-      "winner": null
-    },
-    {
-      "league": "Ligue 1",
-      "home": "Paris Saint-Germain",
-      "away": "Troyes",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-07T20:05Z",
-      "gameDate": "2026-11-07T20:05Z",
-      "winner": null
-    },
-    {
-      "league": "Ligue 1",
       "home": "Stade Rennais",
       "away": "Lille",
       "homeScore": null,
@@ -6029,5 +5820,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-11-07T23:01:33.798Z"
+  "updatedAt": "2026-11-08T02:21:20.764Z"
 }
