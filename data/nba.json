@@ -4,24 +4,24 @@
       "league": "NBA",
       "home": "Chicago Bulls",
       "away": "Philadelphia 76ers",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 121,
+      "awayScore": 127,
+      "status": "final",
       "time": "2026-11-08T20:30Z",
       "gameDate": "2026-11-08T20:30Z",
       "liveInfo": null,
-      "winner": null
+      "winner": "away"
     },
     {
       "league": "NBA",
       "home": "Detroit Pistons",
       "away": "Los Angeles Lakers",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 34,
+      "awayScore": 51,
+      "status": "live",
       "time": "2026-11-08T23:00Z",
       "gameDate": "2026-11-08T23:00Z",
-      "liveInfo": null,
+      "liveInfo": "4:11",
       "winner": null
     },
     {
@@ -7392,16 +7392,16 @@
       ],
       "rows": [
         [
-          "Milwaukee Bucks",
+          "Chicago Bulls",
           "1",
           "8",
           "0.111"
         ],
         [
-          "Chicago Bulls",
+          "Milwaukee Bucks",
           "1",
-          "7",
-          "0.125"
+          "8",
+          "0.111"
         ],
         [
           "Orlando Magic",
@@ -7477,9 +7477,9 @@
         ],
         [
           "Philadelphia 76ers",
-          "8",
+          "9",
           "2",
-          "0.800"
+          "0.818"
         ]
       ]
     },
@@ -7585,5 +7585,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-08T20:27:24.736Z"
+  "updatedAt": "2026-11-08T23:57:29.748Z"
 }
