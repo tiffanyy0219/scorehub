@@ -7476,28 +7476,28 @@
           "0.100"
         ],
         [
+          "Washington Wizards",
+          "4",
+          "9",
+          "0.308"
+        ],
+        [
           "Brooklyn Nets",
           "3",
           "8",
           "0.273"
         ],
         [
+          "Charlotte Hornets",
+          "4",
+          "8",
+          "0.333"
+        ],
+        [
           "Indiana Pacers",
           "4",
           "8",
           "0.333"
-        ],
-        [
-          "Washington Wizards",
-          "4",
-          "8",
-          "0.333"
-        ],
-        [
-          "Charlotte Hornets",
-          "4",
-          "7",
-          "0.364"
         ],
         [
           "Orlando Magic",
@@ -7508,8 +7508,8 @@
         [
           "Toronto Raptors",
           "5",
-          "6",
-          "0.455"
+          "7",
+          "0.417"
         ],
         [
           "Miami Heat",
@@ -7537,15 +7537,15 @@
         ],
         [
           "Detroit Pistons",
-          "7",
+          "8",
           "3",
-          "0.700"
+          "0.727"
         ],
         [
           "Philadelphia 76ers",
-          "9",
+          "10",
           "3",
-          "0.750"
+          "0.769"
         ],
         [
           "Boston Celtics",
@@ -7590,9 +7590,9 @@
         ],
         [
           "Phoenix Suns",
-          "4",
+          "5",
           "6",
-          "0.400"
+          "0.455"
         ],
         [
           "Denver Nuggets",
@@ -7603,8 +7603,8 @@
         [
           "Dallas Mavericks",
           "7",
-          "4",
-          "0.636"
+          "5",
+          "0.583"
         ],
         [
           "Memphis Grizzlies",
@@ -7632,9 +7632,9 @@
         ],
         [
           "Minnesota Timberwolves",
-          "8",
+          "9",
           "3",
-          "0.727"
+          "0.750"
         ],
         [
           "Houston Rockets",
@@ -7657,5 +7657,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-13T00:43:59.753Z"
+  "updatedAt": "2026-11-13T07:24:41.730Z"
 }
