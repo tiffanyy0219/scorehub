@@ -4,12 +4,12 @@
       "league": "NBA",
       "home": "Philadelphia 76ers",
       "away": "Indiana Pacers",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 34,
+      "awayScore": 35,
+      "status": "live",
       "time": "2026-11-15T18:00Z",
       "gameDate": "2026-11-15T18:00Z",
-      "liveInfo": null,
+      "liveInfo": "9:40",
       "winner": null
     },
     {
@@ -7669,5 +7669,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-15T11:53:21.201Z"
+  "updatedAt": "2026-11-15T18:42:15.832Z"
 }
