@@ -4,36 +4,36 @@
       "league": "NBA",
       "home": "Philadelphia 76ers",
       "away": "Indiana Pacers",
-      "homeScore": 34,
-      "awayScore": 35,
-      "status": "live",
+      "homeScore": 131,
+      "awayScore": 124,
+      "status": "final",
       "time": "2026-11-15T18:00Z",
       "gameDate": "2026-11-15T18:00Z",
-      "liveInfo": "9:40",
-      "winner": null
+      "liveInfo": null,
+      "winner": "home"
     },
     {
       "league": "NBA",
       "home": "Phoenix Suns",
       "away": "Los Angeles Lakers",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 92,
+      "awayScore": 109,
+      "status": "live",
       "time": "2026-11-15T21:00Z",
       "gameDate": "2026-11-15T21:00Z",
-      "liveInfo": null,
+      "liveInfo": "9:26",
       "winner": null
     },
     {
       "league": "NBA",
       "home": "LA Clippers",
       "away": "Charlotte Hornets",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 58,
+      "awayScore": 70,
+      "status": "live",
       "time": "2026-11-15T21:30Z",
       "gameDate": "2026-11-15T21:30Z",
-      "liveInfo": null,
+      "liveInfo": "6:00",
       "winner": null
     },
     {
@@ -52,24 +52,24 @@
       "league": "NBA",
       "home": "Boston Celtics",
       "away": "Dallas Mavericks",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "live",
       "time": "2026-11-15T23:00Z",
       "gameDate": "2026-11-15T23:00Z",
-      "liveInfo": null,
+      "liveInfo": "10:29",
       "winner": null
     },
     {
       "league": "NBA",
       "home": "Toronto Raptors",
       "away": "New York Knicks",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "live",
       "time": "2026-11-15T23:00Z",
       "gameDate": "2026-11-15T23:00Z",
-      "liveInfo": null,
+      "liveInfo": "11:56",
       "winner": null
     },
     {
@@ -7500,16 +7500,16 @@
           "0.308"
         ],
         [
+          "Indiana Pacers",
+          "5",
+          "9",
+          "0.357"
+        ],
+        [
           "Charlotte Hornets",
           "4",
           "8",
           "0.333"
-        ],
-        [
-          "Indiana Pacers",
-          "5",
-          "8",
-          "0.385"
         ],
         [
           "Toronto Raptors",
@@ -7554,16 +7554,16 @@
           "0.667"
         ],
         [
-          "Philadelphia 76ers",
-          "10",
-          "3",
-          "0.769"
-        ],
-        [
           "Boston Celtics",
           "10",
           "2",
           "0.833"
+        ],
+        [
+          "Philadelphia 76ers",
+          "11",
+          "3",
+          "0.786"
         ]
       ]
     },
@@ -7669,5 +7669,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-15T18:42:15.832Z"
+  "updatedAt": "2026-11-15T23:12:53.089Z"
 }
