@@ -3961,6 +3961,105 @@
       "winner": null
     },
     {
+      "league": "Bundesliga",
+      "home": "1. FC Union Berlin",
+      "away": "Bayern Munich",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-02-13T20:00Z",
+      "gameDate": "2027-02-13T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "Borussia Dortmund",
+      "away": "VfB Stuttgart",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-02-13T20:00Z",
+      "gameDate": "2027-02-13T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "FC Augsburg",
+      "away": "Werder Bremen",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-02-13T20:00Z",
+      "gameDate": "2027-02-13T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "FC Cologne",
+      "away": "Hamburg SV",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-02-13T20:00Z",
+      "gameDate": "2027-02-13T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "Mainz",
+      "away": "Borussia Mönchengladbach",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-02-13T20:00Z",
+      "gameDate": "2027-02-13T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "RB Leipzig",
+      "away": "Bayer Leverkusen",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-02-13T20:00Z",
+      "gameDate": "2027-02-13T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "SC Freiburg",
+      "away": "Eintracht Frankfurt",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-02-13T20:00Z",
+      "gameDate": "2027-02-13T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "SV Elversberg",
+      "away": "Schalke 04",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-02-13T20:00Z",
+      "gameDate": "2027-02-13T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "Bundesliga",
+      "home": "TSG Hoffenheim",
+      "away": "SC Paderborn 07",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-02-13T20:00Z",
+      "gameDate": "2027-02-13T20:00Z",
+      "winner": null
+    },
+    {
       "league": "Serie A",
       "home": "Como",
       "away": "Cagliari",
@@ -6170,7 +6269,106 @@
       "time": "2027-02-07T19:45Z",
       "gameDate": "2027-02-07T19:45Z",
       "winner": null
+    },
+    {
+      "league": "Ligue 1",
+      "home": "AJ Auxerre",
+      "away": "Strasbourg",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-02-13T20:00Z",
+      "gameDate": "2027-02-13T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "Ligue 1",
+      "home": "Brest",
+      "away": "Stade Rennais",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-02-13T20:00Z",
+      "gameDate": "2027-02-13T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "Ligue 1",
+      "home": "Le Mans",
+      "away": "Paris Saint-Germain",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-02-13T20:00Z",
+      "gameDate": "2027-02-13T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "Ligue 1",
+      "home": "Lille",
+      "away": "Nice",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-02-13T20:00Z",
+      "gameDate": "2027-02-13T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "Ligue 1",
+      "home": "Lorient",
+      "away": "Le Havre AC",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-02-13T20:00Z",
+      "gameDate": "2027-02-13T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "Ligue 1",
+      "home": "Lyon",
+      "away": "Lens",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-02-13T20:00Z",
+      "gameDate": "2027-02-13T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "Ligue 1",
+      "home": "Marseille",
+      "away": "Angers",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-02-13T20:00Z",
+      "gameDate": "2027-02-13T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "Ligue 1",
+      "home": "Paris FC",
+      "away": "Troyes",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-02-13T20:00Z",
+      "gameDate": "2027-02-13T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "Ligue 1",
+      "home": "Toulouse",
+      "away": "AS Monaco",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-02-13T20:00Z",
+      "gameDate": "2027-02-13T20:00Z",
+      "winner": null
     }
   ],
-  "updatedAt": "2026-11-15T23:16:45.649Z"
+  "updatedAt": "2026-11-16T02:56:29.794Z"
 }
