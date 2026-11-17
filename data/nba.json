@@ -7566,9 +7566,9 @@
         ],
         [
           "Phoenix Suns",
-          "5",
+          "6",
           "7",
-          "0.417"
+          "0.462"
         ],
         [
           "Dallas Mavericks",
@@ -7577,16 +7577,16 @@
           "0.500"
         ],
         [
+          "Denver Nuggets",
+          "7",
+          "5",
+          "0.583"
+        ],
+        [
           "Golden State Warriors",
           "8",
           "6",
           "0.571"
-        ],
-        [
-          "Denver Nuggets",
-          "7",
-          "4",
-          "0.636"
         ],
         [
           "Oklahoma City Thunder",
@@ -7633,5 +7633,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-17T03:36:53.854Z"
+  "updatedAt": "2026-11-17T12:28:40.748Z"
 }
