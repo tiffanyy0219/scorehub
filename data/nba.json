@@ -2,150 +2,6 @@
   "schedule": [
     {
       "league": "NBA",
-      "home": "Cleveland Cavaliers",
-      "away": "Memphis Grizzlies",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-19T00:00Z",
-      "gameDate": "2026-11-19T00:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Indiana Pacers",
-      "away": "Houston Rockets",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-19T00:00Z",
-      "gameDate": "2026-11-19T00:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Miami Heat",
-      "away": "Milwaukee Bucks",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-19T00:00Z",
-      "gameDate": "2026-11-19T00:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Orlando Magic",
-      "away": "Philadelphia 76ers",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-19T00:00Z",
-      "gameDate": "2026-11-19T00:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Brooklyn Nets",
-      "away": "Chicago Bulls",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-19T00:30Z",
-      "gameDate": "2026-11-19T00:30Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Toronto Raptors",
-      "away": "Washington Wizards",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-19T00:30Z",
-      "gameDate": "2026-11-19T00:30Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "New Orleans Pelicans",
-      "away": "Detroit Pistons",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-19T01:00Z",
-      "gameDate": "2026-11-19T01:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Oklahoma City Thunder",
-      "away": "Atlanta Hawks",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-19T01:00Z",
-      "gameDate": "2026-11-19T01:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Dallas Mavericks",
-      "away": "Golden State Warriors",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-19T01:00Z",
-      "gameDate": "2026-11-19T01:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Denver Nuggets",
-      "away": "Boston Celtics",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-19T02:30Z",
-      "gameDate": "2026-11-19T02:30Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Los Angeles Lakers",
-      "away": "Utah Jazz",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-19T03:00Z",
-      "gameDate": "2026-11-19T03:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Sacramento Kings",
-      "away": "Phoenix Suns",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-19T03:00Z",
-      "gameDate": "2026-11-19T03:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
       "home": "Memphis Grizzlies",
       "away": "Golden State Warriors",
       "homeScore": null,
@@ -7463,6 +7319,66 @@
       "gameDate": "2027-02-16T02:00Z",
       "liveInfo": null,
       "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Cleveland Cavaliers",
+      "away": "Milwaukee Bucks",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-02-17T00:00Z",
+      "gameDate": "2027-02-17T00:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Atlanta Hawks",
+      "away": "Toronto Raptors",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-02-17T01:00Z",
+      "gameDate": "2027-02-17T01:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Los Angeles Lakers",
+      "away": "Chicago Bulls",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-02-17T03:00Z",
+      "gameDate": "2027-02-17T03:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Portland Trail Blazers",
+      "away": "New Orleans Pelicans",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-02-17T03:00Z",
+      "gameDate": "2027-02-17T03:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "LA Clippers",
+      "away": "Houston Rockets",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-02-17T04:00Z",
+      "gameDate": "2027-02-17T04:00Z",
+      "liveInfo": null,
+      "winner": null
     }
   ],
   "standings": [
@@ -7669,5 +7585,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-18T19:31:57.179Z"
+  "updatedAt": "2026-11-19T01:29:02.797Z"
 }
