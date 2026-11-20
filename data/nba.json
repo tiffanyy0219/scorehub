@@ -998,8 +998,8 @@
     },
     {
       "league": "NBA",
-      "home": "Portland Trail Blazers",
-      "away": "Minnesota Timberwolves",
+      "home": "Golden State Warriors",
+      "away": "Utah Jazz",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
@@ -1010,8 +1010,8 @@
     },
     {
       "league": "NBA",
-      "home": "Golden State Warriors",
-      "away": "Utah Jazz",
+      "home": "Portland Trail Blazers",
+      "away": "Minnesota Timberwolves",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
@@ -7693,5 +7693,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-20T17:03:08.693Z"
+  "updatedAt": "2026-11-20T23:03:34.358Z"
 }
