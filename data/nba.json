@@ -7502,8 +7502,8 @@
         [
           "Milwaukee Bucks",
           "1",
-          "14",
-          "0.067"
+          "15",
+          "0.063"
         ],
         [
           "Brooklyn Nets",
@@ -7554,12 +7554,6 @@
           "0.500"
         ],
         [
-          "New York Knicks",
-          "8",
-          "6",
-          "0.571"
-        ],
-        [
           "Miami Heat",
           "9",
           "6",
@@ -7567,6 +7561,12 @@
         ],
         [
           "Atlanta Hawks",
+          "9",
+          "6",
+          "0.600"
+        ],
+        [
+          "New York Knicks",
           "9",
           "6",
           "0.600"
@@ -7621,8 +7621,14 @@
         [
           "LA Clippers",
           "4",
-          "9",
-          "0.308"
+          "10",
+          "0.286"
+        ],
+        [
+          "Golden State Warriors",
+          "8",
+          "8",
+          "0.500"
         ],
         [
           "Phoenix Suns",
@@ -7632,12 +7638,6 @@
         ],
         [
           "Dallas Mavericks",
-          "8",
-          "7",
-          "0.533"
-        ],
-        [
-          "Golden State Warriors",
           "8",
           "7",
           "0.533"
@@ -7656,21 +7656,15 @@
         ],
         [
           "Portland Trail Blazers",
-          "9",
+          "10",
           "5",
-          "0.643"
+          "0.667"
         ],
         [
           "Minnesota Timberwolves",
           "11",
-          "4",
-          "0.733"
-        ],
-        [
-          "Memphis Grizzlies",
-          "11",
-          "4",
-          "0.733"
+          "5",
+          "0.688"
         ],
         [
           "Houston Rockets",
@@ -7679,10 +7673,16 @@
           "0.750"
         ],
         [
-          "San Antonio Spurs",
+          "Memphis Grizzlies",
           "12",
+          "4",
+          "0.750"
+        ],
+        [
+          "San Antonio Spurs",
+          "13",
           "3",
-          "0.800"
+          "0.813"
         ],
         [
           "Los Angeles Lakers",
@@ -7693,5 +7693,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-20T00:54:59.781Z"
+  "updatedAt": "2026-11-20T08:17:41.250Z"
 }
