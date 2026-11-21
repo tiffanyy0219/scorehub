@@ -1652,17 +1652,6 @@
     },
     {
       "league": "La Liga",
-      "home": "Athletic Club",
-      "away": "Espanyol",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-20T20:00Z",
-      "gameDate": "2026-11-20T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
       "home": "Alavés",
       "away": "Deportivo",
       "homeScore": null,
@@ -2979,17 +2968,6 @@
       "status": "scheduled",
       "time": "2027-02-14T20:00Z",
       "gameDate": "2027-02-14T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
-      "home": "Bayern Munich",
-      "away": "FC Cologne",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-20T19:30Z",
-      "gameDate": "2026-11-20T19:30Z",
       "winner": null
     },
     {
@@ -5601,17 +5579,6 @@
     },
     {
       "league": "Ligue 1",
-      "home": "Troyes",
-      "away": "Le Havre AC",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-20T19:45Z",
-      "gameDate": "2026-11-20T19:45Z",
-      "winner": null
-    },
-    {
-      "league": "Ligue 1",
       "home": "Nice",
       "away": "Paris Saint-Germain",
       "homeScore": null,
@@ -6590,5 +6557,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-11-20T23:07:03.535Z"
+  "updatedAt": "2026-11-21T04:00:27.452Z"
 }

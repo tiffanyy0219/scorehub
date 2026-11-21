@@ -2,114 +2,6 @@
   "schedule": [
     {
       "league": "NBA",
-      "home": "Atlanta Hawks",
-      "away": "Charlotte Hornets",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-21T00:00Z",
-      "gameDate": "2026-11-21T00:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Brooklyn Nets",
-      "away": "Orlando Magic",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-21T00:30Z",
-      "gameDate": "2026-11-21T00:30Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Cleveland Cavaliers",
-      "away": "Indiana Pacers",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-21T00:30Z",
-      "gameDate": "2026-11-21T00:30Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Detroit Pistons",
-      "away": "Toronto Raptors",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-21T00:30Z",
-      "gameDate": "2026-11-21T00:30Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Chicago Bulls",
-      "away": "Washington Wizards",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-21T01:00Z",
-      "gameDate": "2026-11-21T01:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Oklahoma City Thunder",
-      "away": "New Orleans Pelicans",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-21T01:00Z",
-      "gameDate": "2026-11-21T01:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Utah Jazz",
-      "away": "Phoenix Suns",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-21T02:30Z",
-      "gameDate": "2026-11-21T02:30Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Denver Nuggets",
-      "away": "Houston Rockets",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-21T03:00Z",
-      "gameDate": "2026-11-21T03:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Los Angeles Lakers",
-      "away": "Sacramento Kings",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-21T03:00Z",
-      "gameDate": "2026-11-21T03:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
       "home": "Philadelphia 76ers",
       "away": "Milwaukee Bucks",
       "homeScore": null,
@@ -7487,6 +7379,54 @@
       "gameDate": "2027-02-18T03:30Z",
       "liveInfo": null,
       "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Minnesota Timberwolves",
+      "away": "San Antonio Spurs",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-02-19T00:30Z",
+      "gameDate": "2027-02-19T00:30Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Memphis Grizzlies",
+      "away": "Boston Celtics",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-02-19T01:00Z",
+      "gameDate": "2027-02-19T01:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Los Angeles Lakers",
+      "away": "Houston Rockets",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-02-19T03:00Z",
+      "gameDate": "2027-02-19T03:00Z",
+      "liveInfo": null,
+      "winner": null
+    },
+    {
+      "league": "NBA",
+      "home": "Portland Trail Blazers",
+      "away": "Indiana Pacers",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2027-02-19T03:00Z",
+      "gameDate": "2027-02-19T03:00Z",
+      "liveInfo": null,
+      "winner": null
     }
   ],
   "standings": [
@@ -7508,59 +7448,53 @@
         [
           "Brooklyn Nets",
           "3",
-          "11",
-          "0.214"
+          "12",
+          "0.200"
         ],
         [
-          "Washington Wizards",
+          "Charlotte Hornets",
+          "4",
+          "11",
+          "0.267"
+        ],
+        [
+          "Chicago Bulls",
+          "4",
+          "11",
+          "0.267"
+        ],
+        [
+          "Indiana Pacers",
           "5",
           "11",
           "0.313"
         ],
         [
-          "Charlotte Hornets",
-          "4",
-          "10",
-          "0.286"
-        ],
-        [
-          "Chicago Bulls",
-          "4",
-          "10",
-          "0.286"
+          "Washington Wizards",
+          "6",
+          "11",
+          "0.353"
         ],
         [
           "Toronto Raptors",
-          "5",
+          "6",
           "10",
-          "0.333"
-        ],
-        [
-          "Indiana Pacers",
-          "5",
-          "10",
-          "0.333"
+          "0.375"
         ],
         [
           "Orlando Magic",
-          "6",
+          "7",
           "8",
-          "0.429"
+          "0.467"
         ],
         [
           "Cleveland Cavaliers",
+          "9",
           "8",
-          "8",
-          "0.500"
+          "0.529"
         ],
         [
           "Miami Heat",
-          "9",
-          "6",
-          "0.600"
-        ],
-        [
-          "Atlanta Hawks",
           "9",
           "6",
           "0.600"
@@ -7572,10 +7506,16 @@
           "0.600"
         ],
         [
+          "Atlanta Hawks",
+          "10",
+          "6",
+          "0.625"
+        ],
+        [
           "Detroit Pistons",
           "10",
-          "4",
-          "0.714"
+          "5",
+          "0.667"
         ],
         [
           "Boston Celtics",
@@ -7615,8 +7555,8 @@
         [
           "New Orleans Pelicans",
           "5",
-          "11",
-          "0.313"
+          "12",
+          "0.294"
         ],
         [
           "LA Clippers",
@@ -7650,9 +7590,9 @@
         ],
         [
           "Oklahoma City Thunder",
-          "9",
+          "10",
           "6",
-          "0.600"
+          "0.625"
         ],
         [
           "Portland Trail Blazers",
@@ -7693,5 +7633,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-20T23:03:34.358Z"
+  "updatedAt": "2026-11-21T03:56:59.464Z"
 }
