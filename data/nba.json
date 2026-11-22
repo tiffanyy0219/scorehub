@@ -4,13 +4,13 @@
       "league": "NBA",
       "home": "Philadelphia 76ers",
       "away": "Milwaukee Bucks",
-      "homeScore": 87,
-      "awayScore": 75,
-      "status": "live",
+      "homeScore": 132,
+      "awayScore": 129,
+      "status": "final",
       "time": "2026-11-21T18:00Z",
       "gameDate": "2026-11-21T18:00Z",
-      "liveInfo": "3:33",
-      "winner": null
+      "liveInfo": null,
+      "winner": "home"
     },
     {
       "league": "NBA",
@@ -7442,8 +7442,8 @@
         [
           "Milwaukee Bucks",
           "1",
-          "15",
-          "0.063"
+          "16",
+          "0.059"
         ],
         [
           "Brooklyn Nets",
@@ -7525,9 +7525,9 @@
         ],
         [
           "Philadelphia 76ers",
-          "13",
+          "14",
           "3",
-          "0.813"
+          "0.824"
         ]
       ]
     },
@@ -7633,5 +7633,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-21T19:42:27.989Z"
+  "updatedAt": "2026-11-21T23:58:19.884Z"
 }
