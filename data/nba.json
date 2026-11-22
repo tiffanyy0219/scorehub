@@ -2,78 +2,6 @@
   "schedule": [
     {
       "league": "NBA",
-      "home": "Philadelphia 76ers",
-      "away": "Milwaukee Bucks",
-      "homeScore": 132,
-      "awayScore": 129,
-      "status": "final",
-      "time": "2026-11-21T18:00Z",
-      "gameDate": "2026-11-21T18:00Z",
-      "liveInfo": null,
-      "winner": "home"
-    },
-    {
-      "league": "NBA",
-      "home": "New York Knicks",
-      "away": "Portland Trail Blazers",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-22T00:30Z",
-      "gameDate": "2026-11-22T00:30Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Dallas Mavericks",
-      "away": "LA Clippers",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-22T01:00Z",
-      "gameDate": "2026-11-22T01:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Minnesota Timberwolves",
-      "away": "Memphis Grizzlies",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-22T01:00Z",
-      "gameDate": "2026-11-22T01:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "San Antonio Spurs",
-      "away": "New Orleans Pelicans",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-22T01:00Z",
-      "gameDate": "2026-11-22T01:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Sacramento Kings",
-      "away": "Boston Celtics",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-22T03:00Z",
-      "gameDate": "2026-11-22T03:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
       "home": "Atlanta Hawks",
       "away": "Detroit Pistons",
       "homeScore": null,
@@ -7500,13 +7428,13 @@
           "0.600"
         ],
         [
-          "New York Knicks",
-          "9",
+          "Atlanta Hawks",
+          "10",
           "6",
-          "0.600"
+          "0.625"
         ],
         [
-          "Atlanta Hawks",
+          "New York Knicks",
           "10",
           "6",
           "0.625"
@@ -7520,8 +7448,8 @@
         [
           "Boston Celtics",
           "11",
-          "4",
-          "0.733"
+          "5",
+          "0.688"
         ],
         [
           "Philadelphia 76ers",
@@ -7542,9 +7470,9 @@
       "rows": [
         [
           "Sacramento Kings",
-          "1",
+          "2",
           "14",
-          "0.067"
+          "0.125"
         ],
         [
           "Utah Jazz",
@@ -7555,14 +7483,14 @@
         [
           "New Orleans Pelicans",
           "5",
-          "12",
-          "0.294"
+          "13",
+          "0.278"
         ],
         [
           "LA Clippers",
           "4",
-          "10",
-          "0.286"
+          "11",
+          "0.267"
         ],
         [
           "Golden State Warriors",
@@ -7578,9 +7506,9 @@
         ],
         [
           "Dallas Mavericks",
-          "8",
+          "9",
           "7",
-          "0.533"
+          "0.563"
         ],
         [
           "Denver Nuggets",
@@ -7589,22 +7517,22 @@
           "0.643"
         ],
         [
+          "Portland Trail Blazers",
+          "10",
+          "6",
+          "0.625"
+        ],
+        [
           "Oklahoma City Thunder",
           "10",
           "6",
           "0.625"
         ],
         [
-          "Portland Trail Blazers",
-          "10",
-          "5",
-          "0.667"
-        ],
-        [
           "Minnesota Timberwolves",
-          "11",
+          "12",
           "5",
-          "0.688"
+          "0.706"
         ],
         [
           "Houston Rockets",
@@ -7615,14 +7543,14 @@
         [
           "Memphis Grizzlies",
           "12",
-          "4",
-          "0.750"
+          "5",
+          "0.706"
         ],
         [
           "San Antonio Spurs",
-          "13",
+          "14",
           "3",
-          "0.813"
+          "0.824"
         ],
         [
           "Los Angeles Lakers",
@@ -7633,5 +7561,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-21T23:58:19.884Z"
+  "updatedAt": "2026-11-22T06:31:10.196Z"
 }
