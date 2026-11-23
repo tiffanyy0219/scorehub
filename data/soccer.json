@@ -1927,46 +1927,13 @@
     },
     {
       "league": "La Liga",
-      "home": "Atlético Madrid",
-      "away": "Valencia",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-12-13T20:00Z",
-      "gameDate": "2026-12-13T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Deportivo",
-      "away": "Athletic Club",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-12-13T20:00Z",
-      "gameDate": "2026-12-13T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
       "home": "Elche",
       "away": "Sevilla",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-12-13T20:00Z",
-      "gameDate": "2026-12-13T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Espanyol",
-      "away": "Celta Vigo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-12-13T20:00Z",
-      "gameDate": "2026-12-13T20:00Z",
+      "time": "2026-12-11T20:00Z",
+      "gameDate": "2026-12-11T20:00Z",
       "winner": null
     },
     {
@@ -1976,8 +1943,19 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-12-13T20:00Z",
-      "gameDate": "2026-12-13T20:00Z",
+      "time": "2026-12-12T13:00Z",
+      "gameDate": "2026-12-12T13:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Villarreal",
+      "away": "Rayo Vallecano",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-12T15:15Z",
+      "gameDate": "2026-12-12T15:15Z",
       "winner": null
     },
     {
@@ -1987,8 +1965,8 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-12-13T20:00Z",
-      "gameDate": "2026-12-13T20:00Z",
+      "time": "2026-12-12T17:30Z",
+      "gameDate": "2026-12-12T17:30Z",
       "winner": null
     },
     {
@@ -1998,8 +1976,41 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-12-13T20:00Z",
-      "gameDate": "2026-12-13T20:00Z",
+      "time": "2026-12-12T20:00Z",
+      "gameDate": "2026-12-12T20:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Atlético Madrid",
+      "away": "Valencia",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-13T13:00Z",
+      "gameDate": "2026-12-13T13:00Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Deportivo",
+      "away": "Athletic Club",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-13T15:15Z",
+      "gameDate": "2026-12-13T15:15Z",
+      "winner": null
+    },
+    {
+      "league": "La Liga",
+      "home": "Real Sociedad",
+      "away": "Getafe",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "time": "2026-12-13T17:30Z",
+      "gameDate": "2026-12-13T17:30Z",
       "winner": null
     },
     {
@@ -2015,24 +2026,13 @@
     },
     {
       "league": "La Liga",
-      "home": "Real Sociedad",
-      "away": "Getafe",
+      "home": "Espanyol",
+      "away": "Celta Vigo",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "time": "2026-12-13T20:00Z",
-      "gameDate": "2026-12-13T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
-      "home": "Villarreal",
-      "away": "Rayo Vallecano",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-12-13T20:00Z",
-      "gameDate": "2026-12-13T20:00Z",
+      "time": "2026-12-14T20:00Z",
+      "gameDate": "2026-12-14T20:00Z",
       "winner": null
     },
     {
@@ -6403,5 +6403,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-11-23T01:36:59.122Z"
+  "updatedAt": "2026-11-23T09:50:27.256Z"
 }
