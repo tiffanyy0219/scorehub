@@ -2,90 +2,6 @@
   "schedule": [
     {
       "league": "NBA",
-      "home": "Atlanta Hawks",
-      "away": "Detroit Pistons",
-      "homeScore": 22,
-      "awayScore": 18,
-      "status": "live",
-      "time": "2026-11-22T20:30Z",
-      "gameDate": "2026-11-22T20:30Z",
-      "liveInfo": "3:31",
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Miami Heat",
-      "away": "Oklahoma City Thunder",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-22T23:00Z",
-      "gameDate": "2026-11-22T23:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Washington Wizards",
-      "away": "Orlando Magic",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-23T00:00Z",
-      "gameDate": "2026-11-23T00:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Chicago Bulls",
-      "away": "Denver Nuggets",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-23T00:00Z",
-      "gameDate": "2026-11-23T00:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Utah Jazz",
-      "away": "Dallas Mavericks",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-23T00:00Z",
-      "gameDate": "2026-11-23T00:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "New York Knicks",
-      "away": "Indiana Pacers",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-23T01:00Z",
-      "gameDate": "2026-11-23T01:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Golden State Warriors",
-      "away": "Boston Celtics",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-23T01:30Z",
-      "gameDate": "2026-11-23T01:30Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
       "home": "Charlotte Hornets",
       "away": "Memphis Grizzlies",
       "homeScore": null,
@@ -7422,13 +7338,13 @@
           "0.529"
         ],
         [
-          "Miami Heat",
-          "9",
+          "Detroit Pistons",
+          "10",
           "6",
-          "0.600"
+          "0.625"
         ],
         [
-          "Atlanta Hawks",
+          "Miami Heat",
           "10",
           "6",
           "0.625"
@@ -7440,10 +7356,10 @@
           "0.625"
         ],
         [
-          "Detroit Pistons",
-          "10",
-          "5",
-          "0.667"
+          "Atlanta Hawks",
+          "11",
+          "6",
+          "0.647"
         ],
         [
           "Boston Celtics",
@@ -7511,6 +7427,12 @@
           "0.563"
         ],
         [
+          "Oklahoma City Thunder",
+          "10",
+          "7",
+          "0.588"
+        ],
+        [
           "Denver Nuggets",
           "9",
           "5",
@@ -7518,12 +7440,6 @@
         ],
         [
           "Portland Trail Blazers",
-          "10",
-          "6",
-          "0.625"
-        ],
-        [
-          "Oklahoma City Thunder",
           "10",
           "6",
           "0.625"
@@ -7561,5 +7477,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-22T20:58:28.700Z"
+  "updatedAt": "2026-11-23T01:33:30.880Z"
 }
