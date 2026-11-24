@@ -7265,16 +7265,16 @@
       ],
       "rows": [
         [
+          "Utah Jazz",
+          "3",
+          "16",
+          "0.158"
+        ],
+        [
           "Sacramento Kings",
           "2",
           "15",
           "0.118"
-        ],
-        [
-          "Utah Jazz",
-          "3",
-          "15",
-          "0.167"
         ],
         [
           "New Orleans Pelicans",
@@ -7343,13 +7343,13 @@
           "0.722"
         ],
         [
-          "Los Angeles Lakers",
-          "14",
+          "San Antonio Spurs",
+          "15",
           "3",
-          "0.824"
+          "0.833"
         ],
         [
-          "San Antonio Spurs",
+          "Los Angeles Lakers",
           "15",
           "3",
           "0.833"
@@ -7357,5 +7357,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-24T05:36:39.087Z"
+  "updatedAt": "2026-11-24T16:26:30.976Z"
 }
