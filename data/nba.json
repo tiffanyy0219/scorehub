@@ -7158,34 +7158,28 @@
           "0.333"
         ],
         [
+          "Washington Wizards",
+          "7",
+          "12",
+          "0.368"
+        ],
+        [
           "Toronto Raptors",
           "6",
           "11",
           "0.353"
         ],
         [
-          "Washington Wizards",
-          "7",
-          "11",
-          "0.389"
-        ],
-        [
           "Orlando Magic",
           "7",
-          "9",
-          "0.438"
+          "10",
+          "0.412"
         ],
         [
           "Cleveland Cavaliers",
           "9",
           "9",
           "0.500"
-        ],
-        [
-          "Detroit Pistons",
-          "10",
-          "6",
-          "0.625"
         ],
         [
           "Miami Heat",
@@ -7200,7 +7194,7 @@
           "0.647"
         ],
         [
-          "Boston Celtics",
+          "Detroit Pistons",
           "11",
           "6",
           "0.647"
@@ -7210,6 +7204,12 @@
           "11",
           "6",
           "0.647"
+        ],
+        [
+          "Boston Celtics",
+          "12",
+          "6",
+          "0.667"
         ],
         [
           "Philadelphia 76ers",
@@ -7271,16 +7271,16 @@
           "0.556"
         ],
         [
-          "Dallas Mavericks",
-          "10",
-          "7",
-          "0.588"
-        ],
-        [
           "Denver Nuggets",
           "10",
-          "5",
-          "0.667"
+          "6",
+          "0.625"
+        ],
+        [
+          "Dallas Mavericks",
+          "11",
+          "7",
+          "0.611"
         ],
         [
           "Portland Trail Blazers",
@@ -7321,5 +7321,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-25T00:59:59.168Z"
+  "updatedAt": "2026-11-25T09:45:48.677Z"
 }
