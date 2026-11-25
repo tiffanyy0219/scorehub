@@ -2,42 +2,6 @@
   "schedule": [
     {
       "league": "NBA",
-      "home": "Orlando Magic",
-      "away": "Detroit Pistons",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-25T00:00Z",
-      "gameDate": "2026-11-25T00:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Washington Wizards",
-      "away": "Boston Celtics",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-25T01:00Z",
-      "gameDate": "2026-11-25T01:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Denver Nuggets",
-      "away": "Dallas Mavericks",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-25T03:00Z",
-      "gameDate": "2026-11-25T03:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
       "home": "Philadelphia 76ers",
       "away": "Miami Heat",
       "homeScore": null,
@@ -7357,5 +7321,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-24T16:26:30.976Z"
+  "updatedAt": "2026-11-25T00:59:59.168Z"
 }
