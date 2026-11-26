@@ -2,114 +2,6 @@
   "schedule": [
     {
       "league": "NBA",
-      "home": "Philadelphia 76ers",
-      "away": "Miami Heat",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-25T22:00Z",
-      "gameDate": "2026-11-25T22:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Charlotte Hornets",
-      "away": "Chicago Bulls",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-26T00:00Z",
-      "gameDate": "2026-11-26T00:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "New York Knicks",
-      "away": "Cleveland Cavaliers",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-26T00:30Z",
-      "gameDate": "2026-11-26T00:30Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Oklahoma City Thunder",
-      "away": "Minnesota Timberwolves",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-26T00:30Z",
-      "gameDate": "2026-11-26T00:30Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Memphis Grizzlies",
-      "away": "LA Clippers",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-26T01:00Z",
-      "gameDate": "2026-11-26T01:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Milwaukee Bucks",
-      "away": "Brooklyn Nets",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-26T01:00Z",
-      "gameDate": "2026-11-26T01:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Houston Rockets",
-      "away": "Phoenix Suns",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-26T01:30Z",
-      "gameDate": "2026-11-26T01:30Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Golden State Warriors",
-      "away": "Sacramento Kings",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-26T03:00Z",
-      "gameDate": "2026-11-26T03:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
-      "home": "Portland Trail Blazers",
-      "away": "San Antonio Spurs",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-26T03:00Z",
-      "gameDate": "2026-11-26T03:00Z",
-      "liveInfo": null,
-      "winner": null
-    },
-    {
-      "league": "NBA",
       "home": "New York Knicks",
       "away": "Miami Heat",
       "homeScore": null,
@@ -7184,8 +7076,8 @@
         [
           "Miami Heat",
           "10",
-          "6",
-          "0.625"
+          "7",
+          "0.588"
         ],
         [
           "Atlanta Hawks",
@@ -7213,9 +7105,9 @@
         ],
         [
           "Philadelphia 76ers",
-          "14",
+          "15",
           "4",
-          "0.778"
+          "0.789"
         ]
       ]
     },
@@ -7321,5 +7213,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-25T19:37:54.659Z"
+  "updatedAt": "2026-11-26T02:27:26.848Z"
 }
