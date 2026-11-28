@@ -2,17 +2,6 @@
   "schedule": [
     {
       "league": "EPL",
-      "home": "Nottingham Forest",
-      "away": "Chelsea",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-27T20:00Z",
-      "gameDate": "2026-11-27T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "EPL",
       "home": "Leeds United",
       "away": "Coventry City",
       "homeScore": null,
@@ -1652,17 +1641,6 @@
     },
     {
       "league": "La Liga",
-      "home": "Levante",
-      "away": "Racing Santander",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-27T20:00Z",
-      "gameDate": "2026-11-27T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "La Liga",
       "home": "Real Betis",
       "away": "Rayo Vallecano",
       "homeScore": null,
@@ -2983,17 +2961,6 @@
     },
     {
       "league": "Bundesliga",
-      "home": "Werder Bremen",
-      "away": "Borussia Mönchengladbach",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-27T19:30Z",
-      "gameDate": "2026-11-27T19:30Z",
-      "winner": null
-    },
-    {
-      "league": "Bundesliga",
       "home": "FC Cologne",
       "away": "SV Elversberg",
       "homeScore": null,
@@ -4167,17 +4134,6 @@
       "status": "scheduled",
       "time": "2027-02-20T20:00Z",
       "gameDate": "2027-02-20T20:00Z",
-      "winner": null
-    },
-    {
-      "league": "Serie A",
-      "home": "Venezia",
-      "away": "Bologna",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-27T19:45Z",
-      "gameDate": "2026-11-27T19:45Z",
       "winner": null
     },
     {
@@ -5601,17 +5557,6 @@
     },
     {
       "league": "Ligue 1",
-      "home": "Brest",
-      "away": "Paris FC",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "time": "2026-11-27T19:45Z",
-      "gameDate": "2026-11-27T19:45Z",
-      "winner": null
-    },
-    {
-      "league": "Ligue 1",
       "home": "Angers",
       "away": "Lens",
       "homeScore": null,
@@ -6590,5 +6535,5 @@
       "winner": null
     }
   ],
-  "updatedAt": "2026-11-27T21:44:31.274Z"
+  "updatedAt": "2026-11-28T03:38:40.833Z"
 }
